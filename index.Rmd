@@ -1,6 +1,6 @@
 --- 
 title: "Leadership 663"
-author: "Mark Halvorson Colin Madland Scott Macklin"
+author: "Mark Halvorson, Colin Madland, Scott Macklin"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
