@@ -34,11 +34,12 @@ Please note that you are not required to purchase any of the folllowing resource
 5. Campbell, G. (2009). A Personal Cyberinfrastructure. EDUCAUSE Review, 44(5), 58-59. Retrieved from https://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure  
 
 
+```{block, type='caution'}
 
-It will be assumed that you have read, understand, and agree to the information provided at the 'Academic Dishonesty Policy' button below. If you have any questions at all please contact your instructor.
 
 
-[button url="https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0" target="_blank" label="Academic Dishonesty Policy" type="danger" classes="external-link"]_
+It will be assumed that you have read, understand, and agree to the information provided on the ['Academic Dishonesty Policy' page](https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0). If you have any questions at all please contact your instructor.
+```
 
 ## Graduate Level Writing Standards {-}
 
