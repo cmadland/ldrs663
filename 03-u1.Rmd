@@ -185,8 +185,6 @@ When you’re ready to start customizing your blog and putting content in, check
 
 If you are confused about anything it is always good to do an initial Google or YouTube search, or reach out to your learning pod or your instructor.
 
-<span>Photo by <a href="https://unsplash.com/@hostreviews?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Stephen Phillips - Hostreviews.co.uk</a> on <a href="https://unsplash.com/s/photos/wordpress?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
 
 ```{block, type='todo'}
 **Things To Do This Week**  
