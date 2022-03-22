@@ -10,20 +10,11 @@ Each of your draft posts should be 400-500 words.
 
 #### Due at the end of Unit 1 {-}
 
-#### Read and Discuss   {-}
-**Review** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
-**Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  by Heather Kanuka.  
+#### Topic {-}
+ 
+- In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
 
-Then, post a reponse in the *Unit 1 Forum* in Moodle - defending or criticizing Anderson's Interaction Equivalency Theorem. Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
-
-If your birthday is between January 1 and June 30, **defend** Anderson's Interaction Equivalency Theorem.
-
-If your birthday is between July 1 and December 31, **criticize** Anderson's Interaction Equivalency Theorem
-
-Feel free to respond to arguments presented by your colleagues for or against the theorem.
-
-To submit this discussion post, click on the "Unit 1 Forum" link below.
-
+To submit all of your posts for the course, create a new post on your own WordPress blog and use the category `ldrs663`.
 
 
 
@@ -31,11 +22,20 @@ To submit this discussion post, click on the "Unit 1 Forum" link below.
 ### Post 2{-}
 
 #### Due at the end of Unit 2 {-}
-##### Topic {-}
+#### Read and Discuss   {-}
+**Review** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
+**Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  by Heather Kanuka.  
 
-Choose ONE of the Learning Activities in Unit 2 and respond to one or more of the prompts, or follow your own questions and thinking about the topic.
+Then, post a reponse on your blog defending or criticizing Anderson's Interaction Equivalency Theorem. Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
 
-To submit this discussion post, click on the "Unit 2 Forum" link in Moodle.
+If your birthday is between January 1 and June 30, **defend** Anderson's Interaction Equivalency Theorem.
+
+If your birthday is between July 1 and December 31, **criticize** Anderson's Interaction Equivalency Theorem
+
+Feel free to respond to arguments presented by your colleagues for or against the theorem.
+
+To submit this discussion post, create a new post on your own WordPress blog and use the category 'ldrs663'.
+
 
 
 
@@ -44,13 +44,13 @@ To submit this discussion post, click on the "Unit 2 Forum" link in Moodle.
 ### Post 3{-}
 
 #### Due at the end of Unit 3 {-}
-#### Topic {-}
 
-- Copy the text of *Post 1* and *Post 2* from Moodle, and recreate them as posts on your blog. For each post, make sure you include links to 1 or 2 of your colleagues' posts, a 'Featured Image' and the category `ldrs663` or `ldrs463` as appropriate.  
-- Post a link to your blog in the 'Unit 3 Forum' in Moodle.  
-- In a new post, expand on your reflection on the idea of Visitors and Residents in online spaces. What do you notice? What do you wonder?  
+Choose ONE of the Learning Activities in Unit 3 and respond to one or more of the prompts, or follow your own questions and thinking about the topic.
 
-To submit all of your posts for the rest of the course, create a new post on your own WordPress blog and use the category `ldrs663` or `ldrs463`.
+To submit this discussion post, create a new post on your own WordPress blog and use the category 'ldrs663'.
+
+
+
 
 
 ### Post 4{-}
