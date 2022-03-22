@@ -1,11 +1,2 @@
-fig:nice-fig
-tab:nice-tab
-leadership-663
-intro
-literature
-methods
-math-example
-applications
-example-one
-example-two
-final-words
+building-the-web
+wordpress-setup
