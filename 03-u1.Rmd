@@ -51,7 +51,7 @@ The video below explains a process to help you think about where you reside on t
 
 I've shared my VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there.
 
-![Visitor-Resident Diagram](images/u1/vr-diagram-2.png)
+![Visitor-Resident Diagram](assets/u1/vr-diagram-2.png)
 
 It is certainly notable that I am very much a visitor in Moodle! This does not mean that I don't spend much time there, I spend a significant portion of every day working in Moodle, rather, the work that I do there leaves very little trace of my personality. You will (hopefully) see Moodle as much more of a place where you reside. But this foregrounds the question of whether Moodle is actually designed to promote residencies. Certainly the forums allow for users to project their persona into the system, as do a few of the other features, but the system itself is very heavily templated. There are profiles that can be edited, but users are limited to one very tiny image and virtually no opportunity to determine for themselves what they want to share. There is little room for customization, and every time a course ends, every single user must recreate their persona in a new course site (or five).
 
@@ -71,7 +71,7 @@ One of the people I look up to as an educator published a blog post which I beli
 
 ### Learning Activity {-}
 
-```{block, type='reflect'}
+```{block, type='wp'}
 **Visitor and Resident Diagram**  
 
 I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with learners. Do the tools you use fall on the visitor or the resident end of your continuum? What about the learners in your classes?
@@ -161,7 +161,7 @@ Once you have done all the reflections on these 5 steps, you can move forward wi
 
 ### WordPress Resources {-}
 
-![WordPress Dashboard ([Image Credit](https://unsplash.com/photos/sSPzmL7fpWc))](images/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
+![WordPress Dashboard ([Image Credit](https://unsplash.com/photos/sSPzmL7fpWc))](assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
 
 
 
@@ -190,7 +190,7 @@ If you are confused about anything it is always good to do an initial Google or 
 **Things To Do This Week**  
  
 
-✔️  Meet in Zoom [Friday, March 25 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220325T0730&p1=1109)   
+✔️  Meet in Zoom [Friday, March 25 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220325T0730&p1=1109) AND [Friday, April 1 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220401T0730&p1=1109&ah=1&am=30)   
 ✔️  **Create** a Visitor/Resident diagram to visualize your online presence.  
 ✔️  **Register** for a site at [create.twu.ca](https://create.twu.ca). I suggest you start with a 'General TWU site'.  
 ✔️  **Post** your site URL in the 'WordPress URLs' Glossary in Moodle.    

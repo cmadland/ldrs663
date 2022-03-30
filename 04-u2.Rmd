@@ -6,19 +6,17 @@
 #### Things To Do This Week
 
 
--  Meet in Zoom **Thursday Sept. 9 - 11:30 AM PDT**    
-- **Download and review** the syllabus from the *Course Introduction* tab in Moodle.  
-- **Introduce** yourself in the *Unit 1 Forum* in Moodle.  
-- **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.ezproxy.student.twu.ca/science/article/pii/S1096751600000166)  
+-  Meet in Zoom [Friday, April 8 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220408T0730&p1=1109&ah=1&am=30)    
+- **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
 - **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)   
 - **Publish** your arguments for or against the *Interaction Equivalency Theorem* in the Moodle *Unit 1 Forum*.  
-- Please complete these tasks by**Wednesday, Sept. 15 @ 11:00 PM PDT**
+- Please complete these tasks by [**Friday, April 8 @ 11:00 PM PDT**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220408T2300&p1=1109&ah=1&am=30)
 ```
 
 ## Overview{-}
 
-Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this first unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?); [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229)). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed); [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live)). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
+Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this second unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?); [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229)). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed); [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live)). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
 
 ### Topics{-}
 This unit is divided into 3 topics:
@@ -40,23 +38,24 @@ When you have completed this unit you should be able to:
 ### Resources{-}
 Here are the resources you will need to complete this unit:
 
-Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education*, 2, 87-105. doi:10.1016/S1096-7516(00)00016-6 - This article is accessible through the [TWU Library](http://www.twu.ca/library).
+- [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
+- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
+- [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)
 
-Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
+#### Optional Resource {-}
+- Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
 
 
 
-## Introduction to the Community of Inquiry Model{-}
+## Introduction to the Community of Inquiry Model
 
-### Introductions{-}
-Before we get going, please take a few moments to post an introduction to yourself in the 'Introductions' forum in Moodle. Add an image to the top of your post which communicates the idea of 'Community' and a short explanation for your choice.
 
-Before you dive into the content of this first unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in your introduction. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? Take a few moments to read some of your colleagues' posts as well.
+Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and  be prepared share them in our class meeting. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? 
 
 
 ### Social Constructivism{-}
 
-There is a very good chance that the posts you read as part of the previous learning activity included a description of some sort of social interaction. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
+There is a very good chance that your recollection of a memorable learning experience as part of the previous learning activity included a description of some sort of social interaction. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
 
 > I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends. (p. 7)
 
@@ -71,7 +70,7 @@ This process of seeking meaning is an iterative process whereby the learner expe
 
 This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
 
-![Community of Inquiry Model](assets/u1/CoI-Model.jpg)
+![Community of Inquiry Model (Garrison, et al., (2000)](assets/u2/CoI-Model.jpg)
 
 #### Cognitive Presence{-}
 Cognitive presence, possibly the most foundational element, is the
@@ -101,7 +100,12 @@ Teaching presence can be a shared function between members of the community. Gar
 
 
 ### Learning Activity{-}
-Read [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www.sciencedirect.com/science/article/pii/S1096751600000166) (access through the TWU library).
+
+```{block, type='reflect'}
+####  Read, Annotate, and Reflect
+
+
+**Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166) (access through the TWU library).
 
 If you haven't done so previously, sign up for and activate hypothes.is and while you are reading the article, leave some annotations that connect what you are reading to your own experience.
 
@@ -109,16 +113,16 @@ Use the tag 'ldrs663' in any annotations you create so that we can all find each
 
 [Click here for assistance getting set up with hypothes.is.](http://create.twu.ca/help/other-web-tools/hypothesis)
 
-As you read, consider a time where you experienced a learning environment where the three presences described in the CoI were apparent. Consider the following questions and consider writing your responses in a learning journal.
+As you read, consider a time where you experienced a learning environment where the three presences described in the CoI were apparent. Consider the following questions and optionally, write your responses in a new post on your blog.
   - Were all three presences demonstrated?
   - Which of the three were most obvious? Least?
   - Which presence is most important for you?
 
 Note that this is an ungraded activity, but is designed to help prepare you for the assessments in this course.  Throughout the course you are encouraged to take notes in a journal of some sort. Refer to these notes as you complete your assessments.
+```
 
 
-
-## Topic 2: Modes of Interaction{-}
+## Modes of Interaction
 For this next topic we will look at what we mean by 'interaction', a word which is thrown around a lot in educational technology, but...
 
 [Watch](https://youtu.be/G2y8Sx4B2Sk)
@@ -126,7 +130,7 @@ For this next topic we will look at what we mean by 'interaction', a word which 
 Before we get into the the topic of interaction, please take a few minutes to answer the following questions about scenarios that may or may not be considered 'interaction'.
 (Note that you can check your answer right away, and then click the arrow for the next example.)
 
-[h5p id="2"]
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=2" width="576" height="240" frameborder="0" allowfullscreen="allowfullscreen" title="Interaction Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 What do you think? Do you agree with the 'correct' and 'incorrect' responses on the quiz?
 
@@ -138,28 +142,22 @@ Anderson (2003) argues that, despite the lack of clarity around definitions of i
 
 He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1).
 
-![alt-text](assets/u1/Modes-Interaction-Anderson.png "Modes of Interaction from Terry Anderson")
+![Figure 1. Anderson's Modes of Interaction (2003)](assets/u2/Modes-Interaction-Anderson.png "Modes of Interaction from Terry Anderson")
 
-Figure 1. Modes of Interaction from Anderson (2003).
 
 At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
 
 ### Other Models of Interaction{-}
 Kanuka (2011) describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.).
 
-![alt-text](assets/u1/Kanuka-Modes-of-Interaction.png "Kanuka's Model of Interaction")
-
-Figure 2. Modes of Interaction from Kanuka (2011).
+![Figure 2. Kanuka's Model of Interaction (2011)](assets/u2/Kanuka-Modes-of-Interaction.png "Kanuka's Model of Interaction")
 
 In Anderson's model, content is an agent in the process, but in Kanuka's model, content of some sort is assumed to be the foundation of learning environments and that interactions between and among learners and instructors happens in the context of making sense of the content. The content itself does not have agency.
 
 A combination of these two models was described by Madland (2014). Madland's model, shown in figure 3, is a return to Anderson's three-sided model except with the addition of peer interactions, and all interactions between agents occuring in the context of the content that is to be learned. Also added are the three sides of the model representing structured learning activities designed specifically to enhance the educative effects of the interactions.
 
-![alt-text](assets/u1/Modes-of-Interaction-Madland.png "Madland's model of interaction")
+![Figure 3. Madland's Model of Interaction (2014)](assets/u2/Modes-of-Interaction-Madland.png "Madland's model of interaction")
 
-Figure 3. Modes of Interaction from Madland (2014).
-
-> Madland, C. (2014). *Structured student interactions in online distance learning: Exploring the study buddy activity* (Master’s thesis, Athabasca University). Retrieved from [http://hdl.handle.net/10791/47](http://hdl.handle.net/10791/47)
 
 It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous 'Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
 
@@ -170,16 +168,19 @@ There are myriad structures that can be used to ensure that interactions are inc
 
 ### Learning Activity{-}
 
-#### Read{-}
+```{block, type='reflect'}
+#### Read and Reflect
+
+
 Read the following article by Terry Anderson
 - [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)
 
 As you read, consider what interactions you have experiences in online or f2f courses.
+```
 
 
 
-
-## Topic 3: Interaction Equivalency Theorem{-}
+## Interaction Equivalency Theorem
 For our last topic of this unit, we'll explore Anderson's (2003) *Interaction Equivalency Theorem*, stated as
 
 > Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student–teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
@@ -195,12 +196,17 @@ In an asynchronous, text-based environment, students and teachers do not need to
 
 
 
-## Unit 1 Assessment{-}
+## Unit 2 Assessment{-}
 
-Please complete the assignment under 'Post 1' below. This will be your first of five draft posts during the course.
+```{block, type='wp'}
+#### WordPress Post
 
-[Blog Post 1](assessments/#blog)
 
+Please complete the assignment under 'Post 2' below. This will be your first of five draft posts during the course.
+
+[Blog Post 2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
+
+```
 
 ## References{-}
 
