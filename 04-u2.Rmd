@@ -1,7 +1,6 @@
 # Learning in Community
 
 
-
 ```{block, type='todo'}
 #### Things To Do This Week
 
@@ -40,7 +39,7 @@ Here are the resources you will need to complete this unit:
 
 - [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
-- [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)
+- [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf)
 
 ```{block, type='protip'}
 #### ✨ ProTip{-}
@@ -56,7 +55,16 @@ Ok...it would seem that the TWU library has lost access to the database that con
 
 And this whole mess of strategies could be avoided if everyone published under an open license and the research that is created, usually with government funding, was freely available to those who need it.
 
+##### An update on this link...
+✅ I received a response from the author, who generously provided a PDF copy of the article. This is very common.  
+✅ Also, I discovered at the bottom of the page when I viewed the article signed into a different library, that there was an option to get a sharing link, so I copied that link and updated the URL above. This seems to provide a read-only link for people who don't have access through a library or other institution.
+
+![Share this article](assets/u2/share.png)
+
 ```
+
+
+
 
 #### Optional Resource {-}
 - Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
