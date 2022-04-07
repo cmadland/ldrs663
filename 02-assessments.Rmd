@@ -92,13 +92,6 @@ Throughout this unit we have explore the idea of the educational experience. You
 - How can institutions ensure quality and transformational learning outcomes?  
 
 
-
-
-
-
-
-
-
 ### Showcase Post {-}
 
 #### Due at the end of the course {-}
@@ -113,6 +106,20 @@ Please include citations (links) and a reference list at the end of your post.
 
 To submit this discussion post, create a new post on your own WordPress blog and use the categories 'ldrs663' and 'showcase'.
 
+## Small Group Facilitation (10%) {-}
+
+-  Working in a learning pod you will each choose, prepare, and facilitate one 15 to 20 minute long small group discussion that is based on one of the units/topics from LDRS 663. You will record a video of your session (likely in Zoom).  
+-  Following the facilitation, your group will engage in a 10-15 minute debrief about your facilitation. You may choose to structure the debrief following the ***What, So What, Now What? W³*** from the Learning Activity in Unit 3, Topic 6.  
+-  Finally, you will write a 300-500 word critical reflection on your actions as the learning facilitator, including the debrief.  
+
+**Your reflection should be submitted as a post on your blog with the category `ldrs663`.**
+
+In your facilitation session, demonstrate and reflect on the following:
+
+-  First, preparing for the session (as evidenced by your composed materials to support learning in your session).  
+-  Second, creating a supportive environment (referring to participants by name, clarifying expectations, responding in an affirming way to others, and acting in and communicating in a respectful and supportive manner).  
+-  Third, managing the learning process (beginning and ending the session on time, fostering participation by all learners in the group, keeping the learning group on track, facilitating interaction within the learning group, and summarizing learning, calmly and creatively adapting to unexpected events).  
+-  Fourth, fostering learning (showing interest and enthusiasm, spending more time asking than telling, posing open-ended questions, waiting for learners to respond, seeking clarification, activating learners' prior knowledge effectively, using appropriate forms of engagement to stimulate learner involvement).
 
 
 
@@ -157,14 +164,19 @@ If you could ask the course designer clarifying questions about the course, what
 
 ## Grading Rubric for Curriculum Facilitation Analysis {-}
 ### Emerging (0-69%) {-}
+
 -  No/Minimal demonstration of independent thought, insight, and creativity (applies course concepts, raises questions, recognises competing perspectives, and evaluates implications)   
 - No/minimal evidence of having reviewed all readings and a lack of comprehensiveness in responses to questions.
 -  No/Minimal demonstration of ability to communicate ideas in writing and to organize responses clearly, thoroughly, and concisely.  	
-### Developing (70-89%)	 
+
+### Developing (70-89%)	  {-}
+
 - Sufficient demonstration of independent thought, insight, and creativity (applies course concepts, raises questions, recognises competing perspectives, and evaluates implications)
 - Evidence of having reviewed all readings (course related and the curriculum resources being assessed) and a comprehensiveness in responses to questions.
 - Demonstrates ability to communicate ideas in writing and to organize responses clearly, thoroughly, and concisely. 	 	
-### Mastering (90-100%)
+
+### Mastering (90-100%) {-}
+
 - Clearly demonstrates independent thought, insight, and creativity (applies course concepts, raises questions, recognises competing perspectives, and evaluates implications)
 - Presence of examples and evidence of understanding of content create a comprehensive response that is accurate and thorough.
 - Organization and use of language is concise and clearly articulates ideas with no confusion.
