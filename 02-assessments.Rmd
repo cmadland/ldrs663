@@ -1,8 +1,21 @@
 # Assessments {-}
 
+| Assessment Task | Due Date | % of Final Grade |
+| --- | :---: | :---: |
+| Learning Reflection Blogs | Ongoing, weekly | Required but not assessed |
+| Facilitated Curriculum Analysis | April 22 (completed in class) | 10% |
+| Small Group Facilitation | April 29 | 10% |
+| Peer Coaching Session | May 6 | 15% |
+| Showcase Post (choose one of your learning reflection blog posts to expand and elaborate) | May 13 | 25% |
+| Facilitation Resource Project | May 13 | 40% |
+
+## Learning Pods {-}
+
+At the beginning of the course everyone will be placed into small groups called learning pods. these groups, of about four people, will be the place where you will practice learning facilitation and coaching principles and skills that you are learning in this course. The pods will also form the working group for doing a curriculum analysis and developing a facilitated learning resource.
+
 ## Learning Reflection Blogs (25%) {-}
 
-Throughout this course, you will be invited to write five “working” posts about what you are learning in this course. This will start with you posting to a Moodle Discussion forum, and then transition to your blog (to be introduced in Unit 3). You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. At the end of the course you will produce a *Showcase Post*, which will represent your best work. The showcase post will be the only graded post; however, your final grade will also consider how your ideas developed over the process of you writing five working draft posts.
+Throughout this course, you will be invited to write five “working” posts about what you are learning in this course. These posts will be published on your own WordPress blog which you will create in Unit 1 (if you don't already have one). You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. At the end of the course you will produce a *Showcase Post*, which will represent your best work. The showcase post will be the only graded post; however, your final grade will also consider how your ideas developed over the process of you writing five working draft posts.
 
 Each of your draft posts should be 400-500 words.
 
@@ -15,9 +28,6 @@ Each of your draft posts should be 400-500 words.
 - In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
 
 To submit all of your posts for the course, create a new post on your own WordPress blog and use the category `ldrs663`.
-
-
-
 
 ### Post 2{-}
 
@@ -36,11 +46,6 @@ Feel free to respond to arguments presented by your colleagues for or against th
 
 To submit this discussion post, create a new post on your own WordPress blog and use the category 'ldrs663'.
 
-
-
-
-
-
 ### Post 3{-}
 
 #### Due at the end of Unit 3 {-}
@@ -48,10 +53,6 @@ To submit this discussion post, create a new post on your own WordPress blog and
 Choose ONE of the Learning Activities in Unit 3 and respond to one or more of the prompts, or follow your own questions and thinking about the topic.
 
 To submit this discussion post, create a new post on your own WordPress blog and use the category 'ldrs663'.
-
-
-
-
 
 ### Post 4{-}
 
@@ -64,17 +65,7 @@ In your Discussion Post for this unit, you are being asked to select one core co
 - Why is the competency important?    
 - What set of integrated knowledge, skills, aptitudes and attributes help define, in more detail, how to successfully perform the job to be done?    
 
-!! ***To submit this discussion post, click on the "Unit 4 - Discussion Post" dropbox. It can be found by scrolling to the bottom of the page.***
-
-
-
-
-To submit this discussion post, create a new post on your own WordPress blog and use the category 'ldrs663'.
-
-
-
-
-
+To submit this post, create a new post on your own WordPress blog and use the category 'ldrs663'.
 
 ### Post 5 {-}
 
@@ -106,27 +97,11 @@ Please include citations (links) and a reference list at the end of your post.
 
 To submit this discussion post, create a new post on your own WordPress blog and use the categories 'ldrs663' and 'showcase'.
 
-## Small Group Facilitation (10%) {-}
-
--  Working in a learning pod you will each choose, prepare, and facilitate one 15 to 20 minute long small group discussion that is based on one of the units/topics from LDRS 663. You will record a video of your session (likely in Zoom).  
--  Following the facilitation, your group will engage in a 10-15 minute debrief about your facilitation. You may choose to structure the debrief following the ***What, So What, Now What? W³*** from the Learning Activity in Unit 3, Topic 6.  
--  Finally, you will write a 300-500 word critical reflection on your actions as the learning facilitator, including the debrief.  
-
-**Your reflection should be submitted as a post on your blog with the category `ldrs663`.**
-
-In your facilitation session, demonstrate and reflect on the following:
-
--  First, preparing for the session (as evidenced by your composed materials to support learning in your session).  
--  Second, creating a supportive environment (referring to participants by name, clarifying expectations, responding in an affirming way to others, and acting in and communicating in a respectful and supportive manner).  
--  Third, managing the learning process (beginning and ending the session on time, fostering participation by all learners in the group, keeping the learning group on track, facilitating interaction within the learning group, and summarizing learning, calmly and creatively adapting to unexpected events).  
--  Fourth, fostering learning (showing interest and enthusiasm, spending more time asking than telling, posing open-ended questions, waiting for learners to respond, seeking clarification, activating learners' prior knowledge effectively, using appropriate forms of engagement to stimulate learner involvement).
-
-
-
 ## Facilitated Curriculum Analysis (10%) {-}
 
 Working together as a learning pod, examine a curricular resource that is, or could be, used with a facilitated learning approach. Emphasis will be placed on courses in higher education, including a selection of TWU’s library of FAR courses (specifically designed to be delivered in a facilitated learning approach). However, a range of other formats are open for investigation, including (but not limited to) community-based programs, professional certification programs, corporate workshops or training programs, and masterclasses. Your pod will be invited to select a specific course of study and asked to assess the curriculum from a facilitation and coaching perspective.
 
+<!--
 To begin, follow the steps below:
 
 ### Step 1 {-}
@@ -182,8 +157,29 @@ If you could ask the course designer clarifying questions about the course, what
 - Organization and use of language is concise and clearly articulates ideas with no confusion.
 
 
-
 To submit this assignment, scroll to the bottom of the screen on the Unit 5 Tab and select the "Unit 5 - Curriculum Facilitation Analysis Assignment" dropbox.
+-->
+
+## Small Group Facilitation (10%) {-}
+
+-  Working in a learning pod you will each choose, prepare, and facilitate one 15 to 20 minute long small group discussion that is based on one of the units/topics from LDRS 663. You will record a video of your session (likely in Zoom).  
+-  Following the facilitation, your group will engage in a 10-15 minute debrief about your facilitation. You may choose to structure the debrief following the ***What, So What, Now What? W³*** from the Learning Activity in Unit 3, Topic 6.  
+-  Finally, you will write a 300-500 word critical reflection on your actions as the learning facilitator, including the debrief.  
+
+**Your reflection should be submitted as a post on your blog with the category `ldrs663`.**
+
+In your facilitation session, demonstrate and reflect on the following:
+
+-  First, preparing for the session (as evidenced by your composed materials to support learning in your session).  
+-  Second, creating a supportive environment (referring to participants by name, clarifying expectations, responding in an affirming way to others, and acting in and communicating in a respectful and supportive manner).  
+-  Third, managing the learning process (beginning and ending the session on time, fostering participation by all learners in the group, keeping the learning group on track, facilitating interaction within the learning group, and summarizing learning, calmly and creatively adapting to unexpected events).  
+-  Fourth, fostering learning (showing interest and enthusiasm, spending more time asking than telling, posing open-ended questions, waiting for learners to respond, seeking clarification, activating learners' prior knowledge effectively, using appropriate forms of engagement to stimulate learner involvement).
+
+
+## Peer Coaching Session (15%) {-}
+
+Working with another student (in your pod), you will each coach each other through the process of writing your final “showcase” post as part of your learning reflection blog assignment. You will record a video of your session and write critical reflection on your actions as the learning coach.
+
 
 ## Facilitation Resource Project (40%) {-}
 
@@ -197,10 +193,45 @@ Throughout the course, you will have the opportunity to attend learning labs. Du
 > Note: Learning labs are scheduled for Thursdays from 11:30AM - 1:00 PM Vancouver time. [Check your local time](https://www.timeanddate.com/worldclock/converter.html?iso=20210903T200000&p1=256&p2=125&p3=136). Learning labs will be accessed synchronously via the Zoom video conferencing system.
 
 -->
-## Learning Pods {-}
+## Grading Standards and the SOLO Taxonomy {-}
 
-At the beginning of the course everyone will be placed into small groups called learning pods. these groups, of about four people, will be the place where you will practice learning facilitation and coaching principles and skills that you are learning in this course. The pods will also form the working group for doing a curriculum analysis and developing a facilitated learning resource.
+An important reality of higher education is that we need to provide a single number between 0 and 100 to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If we am going to be fair about it, we need to consider where you are starting relative to where you end up, we need to understand your individual context, and we need to be able to determine that number by researching your work.
 
-## Peer Coaching Session (15%) {-}
+***Assessment is research.*** You need to show us evidence that you have met the outcomes of the course in alignment with the parameters of the assignment, and you need to do so in a way that shows you can think clearly, write persuasively, and extend your learning beyond the boundaries of the course.
 
-Working with another student (in your pod), you will each coach each other through the process of writing your final “showcase” post as part of your learning reflection blog assignment. You will record a video of your session and write critical reflection on your actions as the learning coach.
+This is a very tall order.
+
+One thing that you should consider is that our assessment of your work is not an assessment of you as a person. It is an assessment of what you have shown in relation to the outcomes of the course. One way that you can ensure that you are providing reflections and creating work that is of high academic quality is to use the SOLO Taxonomy.
+
+### SOLO Taxonomy {-}
+
+SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to help you (and me) ensure that you are writing at an appropriate level.
+
+![SOLO Taxonomy (adapted from Biggs & Collis, 1982)](assets/SOLO-taxonomy.png)
+
+#### Pre-Structural  {-}
+A pre-structural response completely ***misses the point*** of the assessment.
+
+#### Uni-Structural  {-}
+A uni-strucutral response displays knowledge or ability in ***one dimension of the construct***.
+
+#### Multi-Structural  {-}
+A multi-structural response displays knowledge or ability in ***multiple dimensions of the construct***, but each dimension is ***disconnected*** from the others.
+
+#### Relational  {-}
+A relational response displays knowledge or ability in ***multiple dimensions of the construct, and how they are related to each other***.
+
+#### Extended Abstract  {-}
+An extended abstract response displays knowledge or ability in ***multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs***.
+
+If you are providing responses at a `pre- or uni-structural` level in a university course, you are going to have a bad time. `Multi-structural` responses will lead to grades in the 'C' range. At minimum, your responses should be `unambiguously relational` for a grade in the 'B' range and `extended abstract` for a grade in the 'A' range.
+
+The [TWU Grading Scale](https://www.twu.ca/about/policies-guidelines/university-standard-grading-system), available on the syllabus for this course, describes A-, A, or A+ work as
+
+> **Outstanding, excellent work**; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem-solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower level courses.)
+
+For a grade in the B-, B, or B+ range, here is what you need to do:
+
+> **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability, with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter, both concepts and key issues. Exhibits a serious, responsible engagement with the course content.
+
+We are happy to have a conversation with you if you feel your work has been unfairly assessed and you can provide a justifiable rationale based on the product of your work in relation to the requirements of the assignment and the standards outlined above and in the University Calendar.
