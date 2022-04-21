@@ -178,13 +178,13 @@ The basis of this competency is a personal commitment to demonstrating and maint
 
 ---
 
-#### Cultivating Trust & Safety
+### Cultivating Trust & Safety {-}
 
 Seeks to understand the learner and their unique learning context, demonstrates respect for the learner’s identity, values and perspective, showing empathy and concern for their well-being, acknowledges the learner unique abilities, interests, and feelings, demonstrating openness and vulnerability, and supporting the unique needs of the learner’s personality.
 
 ---
 
-#### Holding Space/Presence
+### Holding Space/Presence {-}
 
 Being focused on the moment and giving attention to what is occurring in your conversation with the learner. Initially, this might feel like simply holding yourself back from talking too much as the coach and giving the learner space (that is, your silence) to reflect and process things. One way to conceptualize this competency as "creating a “space to listen into.” This involves   
 ✅  creating comfortable distance in physical space,  
@@ -192,17 +192,20 @@ Being focused on the moment and giving attention to what is occurring in your co
 ✅ creating a quiet auditory space.   Holding space, or being present, is an essential way the educator as coach can demonstrate to the learner that the learner’s contribution is valued and their learning is important. It’s also important for the coach to hold space for themselves to reflect and process what is happening.
 
 ---
-#### Active Listening
+
+### Active Listening {-}
 
 The intent of these particular skills is to help the coach truly understand the learner and their context, and to help the learner feel like they have been understood and supported. Typical skills include, paying attention, holding judgement, reflecting, clarifying, summarizing, and sharing.
 
 ---
-#### Evoking Awareness
+
+### Evoking Awareness {-}
 
 Asks questions to clarify the learners’ experiences, way of thinking, feelings, values, needs, wants, and beliefs.  Asking questions to help learners explore beyond their current thinking. Invites learners to share more about their present learning experiences. Notices what is working to enhance the learners progress. Challenges learners to increase their awareness and insight. Helps learners identify their potential for growth, internal/external obstacles, and options to move forward. Shares observations, insights, and encouragements to assist the learner in their learning.
 
 ---
-#### Cultivating Growth
+
+### Cultivating Growth {-}
 
 Asks questions that helps learners  
 ✅ surface their interests,  
@@ -230,10 +233,6 @@ After completing the activity above, consider the following questions:
 
 ## Unit 4 Assessment {-}
 
-Please see the details for Post 4
-
-[plugin:content-inject](../assignments/_blog)
-
 
 ```{block, type='wp'}
 #### WordPress Post
@@ -241,10 +240,22 @@ Please see the details for Post 4
 
 Please complete the assignment under 'Post 4' below. This will be your third of five draft posts during the course.
 
-[Blog Post 3](https://ma-lead.github.io/ldrs663/assessments.html#post-)
+[Blog Post 4](https://ma-lead.github.io/ldrs663/assessments.html#post-4)
 
 
 
 In addition, please begin planning your [Peer Coaching Session](https://ma-lead.github.io/ldrs663/assessments.html#peer-coaching-session-15).
 
+```
+```{block, type='todo'}
+#### Things To Do This Week
+
+
+✅ - Meet in Zoom [Friday, April 29 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220429T0730&p1=1109&ah=1&am=30)       
+✅  **Read** and **Reflect** Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).     
+✅ **Read** and **Reflect** [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)  
+✅ **Read** and **Reflect** [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)   
+✅ **Read** and **Reflect** [**Core Competencies**](https://coachfederation.org/core-competencies)  
+✅ **Publish** your [Unit 4 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-4) using the category `ldrs663`.    
+✅ Please complete these items by [Friday, April 29 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220429T0730&p1=1109&ah=1&am=30)  
 ```
