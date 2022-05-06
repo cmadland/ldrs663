@@ -367,7 +367,7 @@ If you are interested in learning more about online models of learning, feel fre
 
 
 👥  Meet in Zoom [Friday, May 6 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Class+Meeting&iso=20220506T0730&p1=1109&ah=1&am=30)      
-📖   **Read** and **Reflect** [**Experience and Education: Chapter 2**](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf).   
+📖 **Read** and **Reflect** [**Experience and Education: Chapter 2**](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf).   
 📖 **Read** and **Reflect** Topic 2 Learning Activity  
 📖 **Read** and **Reflect** Topic 3 Learning Activity  
 📖 **Read** and **Reflect** [**Teaching in a Digital Age (Ch. 1)**](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/)   
