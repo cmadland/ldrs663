@@ -20,11 +20,9 @@ Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this 
 ### Topics{-}
 This unit is divided into 3 topics:
 
-1. Introduction to the Community of Inquiry Model
-
-2. Modes of Interaction
-
-3. Interaction Equivalency Theorem
+1. Introduction to the Community of Inquiry Model  
+2. Modes of Interaction  
+3. Interaction Equivalency Theorem  
 
 
 ### Learning Outcomes{-}
@@ -59,10 +57,10 @@ And this whole mess of strategies could be avoided if everyone published under a
 ✅ I received a response from the author, who generously provided a PDF copy of the article. This is very common.  
 ✅ Also, I discovered at the bottom of the page when I viewed the article signed into a different library, that there was an option to get a sharing link, so I copied that link and updated the URL above. This seems to provide a read-only link for people who don't have access through a library or other institution.
 
-![Share this article](assets/u2/share.png)
 
 ```
 
+![Share this article](assets/u2/share.png)
 
 
 

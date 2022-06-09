@@ -34,7 +34,7 @@ Online resources will be provided in the unit.
 
 ## Topic 1  {-}
 
-![School in Y2K](https://upload.wikimedia.org/wikipedia/commons/0/05/France_in_XXI_Century._School.jpg)
+![School in Y2K](assets/u4/France_in_XXI_Century._School.jpg)
 *This image is in the Public Domain.*
 
 The image you see here was created in the early 20th century in France as a part of a series of images predicting what life would be like in 2000. You can see the full collection [**here**](https://publicdomainreview.org/collections/france-in-the-year-2000-1899-1910/).
@@ -135,7 +135,7 @@ Increasing learners’ awareness of their own internal resistance to new learnin
 
 The secondary theme of coaching for learning is increasing learners’ awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallway (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book *Coaching for Performance*. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
 
-```{block, type='secondary'}
+```{block, type='bonus'}
 
 **Goal Setting.** Helping learners clarify **what** they need and more importantly want to learn? **Why** they need and/or truly want to learn it? And **when** they need to, or genuinely want, to learn it? The coach, here, also helps learners see how their personal goals can align with prescribed learning outcomes.
 
