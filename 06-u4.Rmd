@@ -1,262 +1,245 @@
-# Coaching for Learning
+# Learning in Community
 
-## Overview {-}
 
-An enduring principle of educational practice is learners learn in different ways and at different rates. Effective educators recognize the uniqueness of each individual learner. They understand each learner arrives at a new learning situation with different lived experiences, existing knowledge, cognitive processing strengths and weaknesses, learning preferences, values, and goals. At the same time, effective educators also recognize some aspects of the learning process are common to most, if not all, learners. For instance, most educators believe learning is an ongoing, reflective process. We tend to broadly believe human are constantly taking in new information, integrating it into what we already know, and developing ideas based on this merging of past and present. In the midst of educator’s diverse and sometimes contradictory ideas about learning, there seems to be a great deal of mystery, and countless myths about how the learning process actually works. Unit 4 will introduce some important questions about learning, such as:
+```{block, type='todo'}
+#### Things To Do This Week
 
-❓ How can we as educators ensure our students are truly achieving the outcomes we intend?   
-❓ What practises should educators use in order to create an effective learning environment?   
-❓ What role do learners play in generating and sustaining this environment?   
-❓ How can we maximize the likelihood of transformational learning?
 
-### Topics {-}
+-  Meet in Zoom [Friday, April 8 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220408T0730&p1=1109&ah=1&am=30)    
+- **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
+- **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
+- **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)   
+- **Publish** your arguments for or against the *Interaction Equivalency Theorem* in the Moodle *Unit 1 Forum*.  
+- Please complete these tasks by [**Friday, April 8 @ 11:00 PM PDT**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220408T2300&p1=1109&ah=1&am=30)
+```
 
-This unit is divided into the following topics:
+## Overview{-}
 
-1.	Theories of Learning (or *What do we Really Know About How People Learn*)
-2.	The Practice of Coaching
-3.	Core Coaching Competencies
+Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this second unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?); [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229)). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed); [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live)). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
 
-### Learning Outcomes {-}
+### Topics{-}
+This unit is divided into 3 topics:
 
-When you have completed this unit, you should be able to:
+1. Introduction to the Community of Inquiry Model  
+2. Modes of Interaction  
+3. Interaction Equivalency Theorem  
 
-- Describe theories about how people learn.
-- Explain how to design learning environments to maximize learning.
-- Explain the coaching for learning model.
-- Identify essential coaching for learning competencies.
 
-### Resources {-}
+### Learning Outcomes{-}
+When you have completed this unit you should be able to:
 
-Online resources will be provided in the unit.
+- Analyze the characteristics of the Community of Inquiry model.
+- Evaluate different modes of interaction.
+- Criticize the Interaction Equivalency Theorem.
 
-[Coaching Slide Deck](https://far.twu.ca/ldrs/663-202103/presentations/coaching#/coaching-0)
+### Resources{-}
+Here are the resources you will need to complete this unit:
 
-## Topic 1  {-}
+- [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
+- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
+- [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf)
 
-![School in Y2K](assets/u4/France_in_XXI_Century._School.jpg)
-*This image is in the Public Domain.*
+```{block, type='protip'}
+#### ✨ ProTip{-}
+Ok...it would seem that the TWU library has lost access to the database that contains the Kanuka article above ('Interaction and the online distance classroom...'). Here is how I go about tracking down articles In this case, I've completed all of the checked items and am waiting to hear back from Dr. Kanuka):
 
-The image you see here was created in the early 20th century in France as a part of a series of images predicting what life would be like in 2000. You can see the full collection [**here**](https://publicdomainreview.org/collections/france-in-the-year-2000-1899-1910/).
+✅ I see if I have access through another library. As a PhD candidate at UVic, I have access to their library, and it turns out that this article is in their collection, but that doesn't help you.  
+✅ I use a Firefox extension called 'Unpaywall', which searches for open-access versions of the same article as researchers are often able to post pre-print versions of their article on their own site. In this case, unpaywall just links to the PDF that I have access to through UVic.  
+✅ I contact the [TWU library](https://libguides.twu.ca/help) for assistance, as librarians are among the most helpful people on the planet. In this case, I was provided an open link, but that link looks fishy as it isn't apparently tied to Kanuka's site, but rather an aggregation site. Often, I also request an inter-library loan, in which the TWU library would contact another library (maybe UVic) and request a copy through them.  
+✅ Search [Google Scholar](https://scholar.google.com) as that will often pick up on preprints on the author's website.  
+✅ Search [ResearchGate](https://www.researchgate.net/) for preprints.  
+✅ Contact the author of the paper. They often have permission to share preprints (see above) and are usually happy to share their work, especially with grad students.  
+❌ Here is where we start getting into academic grey areas...so don't do this. It is against publishers policy to use tools like the hashtag #ICanHazPDF on Twitter, where you post the title of the article you are looking for under that hashtag and another researcher might respond by DM'ing you a copy. You shouldn't do this, because it cuts into the ***absurd*** profits of massive multi-national corporations who benefit from the free work of researchers all over the world. This is nothing like walking down a hallway and knocking on your colleague's door to ask if they have a copy of a paper, because that is super illegal too and this is digital...or something.  
 
-As you can see, the artist envisioned a process whereby information was fed into a machine of some sort and just automagically downloaded into student minds. Kind of like this scene from the movie the *Matrix*:
+And this whole mess of strategies could be avoided if everyone published under an open license and the research that is created, usually with government funding, was freely available to those who need it.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6vMO3XmNXe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+##### An update on this link...
+✅ I received a response from the author, who generously provided a PDF copy of the article. This is very common.  
+✅ Also, I discovered at the bottom of the page when I viewed the article signed into a different library, that there was an option to get a sharing link, so I copied that link and updated the URL above. This seems to provide a read-only link for people who don't have access through a library or other institution.
 
-These are both examples of how the modern condition of thought (Unit 2), has shaped our thinking about learning. Many modern era educators viewed people as learning “machines” who could be “programmed” with instructions, just like we program computers. The legacy of this thinking still lingers and the educational model of instructors instructing students through instructions is still prevalent.
 
-In these modern visions, learning is something done *to* students, not something done *by* students. The learner is completely passive in the process. The dreams of grade-schoolers to be able to rest a book on their head and learn by osmosis are just as far-fetched as the prognostications from the early 20th century, from the *Matrix,* and from the claims of many edtech companies today. However, we need to recognize that learning is hard work. Consider Erasmus’s (1965) comment in his dialogue *The Art of Learning*, “For my part, I know no other art of learning than hard work, devotion, and perseverance” (p. 461). This statement remains as true today, as it was in 1529.
+```
 
-Take a few minutes to watch this video from Destin Sandlin, creator of the YouTube channel *Smarter Every Day*. The video has a long introduction, but it is entertaining and sets up the problem of learning very well:
+![Share this article](assets/u2/share.png)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MFzDaBzBlL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Destin talks about some important ideas related to pedagogy (the study of how children learn) that are also applicable to andragogy (the study of how adults learn). One of those ideas is that *knowledge != understanding* (and now you know that the '!' negates the '=' in that statement). A little later in this unit, when we talk about deep and surface approaches to learning, we will come back to this idea.
+
+#### Optional Resource {-}
+- Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
+
+
+
+## Introduction to the Community of Inquiry Model
+
+
+Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and  be prepared share them in our class meeting. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? 
+
+
+### Social Constructivism{-}
+
+There is a very good chance that your recollection of a memorable learning experience as part of the previous learning activity included a description of some sort of social interaction. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
+
+> I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends. (p. 7)
+
+The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
+
+Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see [Driscoll, 2005)](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.1254633&site=eds-live) have written about what has now become known as the educational theory of *social constructivism*, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
+> rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)
+
+This process of seeking meaning is an iterative process whereby the learner experiences some sort of cognitive dissonance, or a disconnect between what they previously knew and some new piece of evidence or experience that disconfirms that knowledge. The learner then seeks to resolve that dissonance by either incorporating the new experience into an older schema, or by disregarding one or the other. Most often, the resulting knowledge is constructed from portions of both the new and old idea.
+
+### Community of Inquiry{-}
+
+This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
+
+![Community of Inquiry Model (Garrison, et al., (2000)](assets/u2/CoI-Model.jpg)
+
+#### Cognitive Presence{-}
+Cognitive presence, possibly the most foundational element, is the
+> extent to which the participants in any particular configuration of a community of inquiry are able to construct meaning through sustained communication (p. 89).
+
+Recall that this cognitive process is at the heart of constructivist learning environments. It seems obvious (be careful when people say that) that this construction of meaning through communication is the entire point of higher education. Your task as a student is to change your own mind, and that is a very tall order as our beliefs about many things are remarkably resilient. The way we engage in this task will have a significant bearing on the outcomes of the task.
+
+If we approach communication with too much confidence in our own views, we can shut out competing ideas to our own detriment, so it is important to bring a cautious intelligence, or, as I once heard a student describe it, epistemic humility. We all know that we are wrong about some things. The trouble is we don't know what we are wrong about and how we have misunderstood.
+
+Cognitive presence in a text-based environment (like an online course) carries with it some affordances, but also some disadvantages. It is a relatively common experience for people to type something in a text message or an email, only to have their intentions grossly misunderstood because there are fewer para-linguistic cues in text compared to verbal face-to-face communication. Recent developments in incorporating emojis have started to change this, but emojis are generally considered to be too informal for 'serious scholarly work' or written professional communication. So, the relatively lean environment of text can lead to significant misunderstandings.
+
+On the other hand, for learners like me who tend toward introversion, the asynchronous nature of text-based learning environments is a huge advantage. I couldn't count the number of times that I have wanted to contribute to an in-class discussion, but needed too much time to formulate a coherent response, and before I knew it, the conversation had moved on. My point was no longer relevant, having been resolved by those in the class who were more extroverted and ready with an answer. A text-based environment, however, gives me *time to think, write, revise, and then post* my response.
+
+#### Social Presence{-}
+Garrison, et.al. describe social presence as
+>the ability of participants in the Community of Inquiry to project their personal characteristics into the community, thereby presenting themselves to the other participants as “real people.” (p. 89)
+
+In any community, and especially the TWU community, the ability to *belong* and to be accepted as a whole and integrated person is critical to people feeling like they *actually do belong*. It is for this reason that many experienced online educators encourage a more colloquial style of writing in online forums or blogs. Strict adherence to APA or other style guides virtually eliminates self-referential language such as personal pronouns. It is hard to project your personal characteristics as a real person when you can only refer to yourself in the third person.
+
+By allowing a more personal style and the projection of self into the community, it is thought that students will build a sense of trust in the community and feel more empowered to participate in the difficult work of changing their minds. Social presence supports cognitive presence by allowing the learning environment to be safe and welcoming.
+
+#### Teaching Presence{-}
+This final element of the CoI model is the design and facilitation of the learning experience
+>to support and enhance social and cognitive presence for the purpose of realizing educational outcomes. (p. 90).
+
+Teaching presence can be a shared function between members of the community. Garrison, et al. point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared. In a connected course like this one, there is a greater emphasis on shared facilitation in a community of learners compared to what might be experienced in a f2f (face to face) course. It is in this shared discourse in a safe environment that allows learners to engage in the difficult cognitive work of learning.
+
+
+### Learning Activity{-}
 
 ```{block, type='reflect'}
-#### Reflect
+####  Read, Annotate, and Reflect
 
-As a way to consolidate your own learning around this concept, take a few minutes to think about a time when you have had knowledge, but not understanding, and how that affected you in some way. You don't have to write anything down, just connect the idea to an experience that you have had.
-```
 
-In the video, Destin also talks about cognitive bias and the tremendously powerful effect that our own biases have on what and how well we learn. The challenge that he faced in learning to ride the backwards brain bike wasn't so much the physical skills involved, but *unlearning* his previous 'ride a bike' algorithm. When he encountered new information that didn't match his previous experience, it was extremely difficult to overcome his previous experience and bias. It took him 8 months of dedicated effort to do it. At the end, he discovered that he hadn't *overcome* his bias, he had only transferred it to a new bias, albeit one that was easier to overcome.
+**Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166) (access through the TWU library).
 
-This process is also true for people learning new ideas. None of us come to a learning context without preconceived ideas regarding the nature of the topic to be studied, and often, those ideas are incorrect. They are misconceptions. Biases. Then, when new information comes along, our brain actively sabotages us by telling us that we already know this and we don't need to listen, while simultaneously convincing us even more of the truth of our misconceptions.
+If you haven't done so previously, sign up for and activate hypothes.is and while you are reading the article, leave some annotations that connect what you are reading to your own experience.
 
-Below is another video, this time from *Veritasium,* in which Derek Muller shows why misconceptions (biases) can be so difficult to overcome:
+Use the tag 'ldrs663' in any annotations you create so that we can all find each other.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eVtCO84MDj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Click here for assistance getting set up with hypothes.is.](http://create.twu.ca/help/other-web-tools/hypothesis)
 
-Despite the difficulty, it is important to note that we *can* overcome these biases and misconceptions. In fact, we can overcome some bizarre inputs, as [researchers have discovered and was briefly reported in The Guardian](https://www.theguardian.com/education/2012/nov/12/improbable-research-seeing-upside-down).
+As you read, consider a time where you experienced a learning environment where the three presences described in the CoI were apparent. Consider the following questions and optionally, write your responses in a new post on your blog.
+  - Were all three presences demonstrated?
+  - Which of the three were most obvious? Least?
+  - Which presence is most important for you?
 
-Here is a slightly less scientifically rigorous portrayal of what happens when our vision is artificially flipped: (The video is 12 minutes, but you don't need to watch it all).
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OJTC_E2Nlgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The point of these experiments, at least for our purposes, is that human brains (and likely other animals as well) demonstrate the characteristic of *plasticity*. The connections in our brain that allow ideas to form and be adjusted can be broken and then reconnected in different configurations.
-
-***This is learning. Learning is hard work.***
-
-One implication of this is that it is naïve for educators to assume that a single exposure to an idea will somehow cause learning. In fact, the opposite is true. It takes repeated exposure, practice, error-correction, and adjustment for learning to become consolidated.
-
-```{block, type='reflect'}
-#### Read and Reflect
-
-Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).
-
-Note: We will not be using this entire book, so don't feel obliged to purchase a copy for yourself.
-Click 'Read Online' As you read, please use hypothes.is to both record your thoughts and connections in the article, but also interact with past annotations. These chapters are already heavily annotated, presumably by other students.
-
-***Questions  to Consider...***
-
-After completing the reading above, consider the following questions:
-
- - *What are the basic types of learning?*
- - *How does the human brain respond to learning?*
-```
-
-```{block, type='reflect'}
-#### Read and Reflect
-
-Below is a resource that summarizes existing research from cognitive science related to how students learn. This research has practical implications for teaching and learning that will be of benefit as we move forward with the content of this unit. Follow the link below:
-
- - [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)
-
-***Questions to Consider...***
-
-After completing the reading above, consider the following questions:
-
- - *How do students understand new ideas?*
- - *How do students learn and retain new information?*
- - *How do students solve problems?*
- - *How does learning transfer to new situations in or outside of the classroom?*
- - *What motivates students to learn?*
- - *What are common misconceptions about how students think and learn?*
+Note that this is an ungraded activity, but is designed to help prepare you for the assessments in this course.  Throughout the course you are encouraged to take notes in a journal of some sort. Refer to these notes as you complete your assessments.
 ```
 
 
+## Modes of Interaction
+For this next topic we will look at what we mean by 'interaction', a word which is thrown around a lot in educational technology, but...
 
-## Topic 2 {-}
+[Watch](https://youtu.be/G2y8Sx4B2Sk)
 
-***What is Coaching?*** Coaching is something that you do to help improve someone in some way. Gallway (1997) defines coaching as “a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person.” His conceptualization of the method is analogous to Michelangelo’s approach to sculpture. Michelangelo believed that “every block of stone has a statue inside it and it’s the task of the sculptor to discover it.” Similarly, Gallway (1997) writes:
+Before we get into the the topic of interaction, please take a few minutes to answer the following questions about scenarios that may or may not be considered 'interaction'.
+(Note that you can check your answer right away, and then click the arrow for the next example.)
 
-> *Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to “farm” the potential they are given to nurture.*
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=2" width="576" height="240" frameborder="0" allowfullscreen="allowfullscreen" title="Interaction Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-***How do Educators Coach Learners for Learning?*** The beginning point of an effective coaching for learning practice as an educator is the coaching relationship. It’s critical, according to Gallway (1997), for coaches to “[create] a safe and challenging environment in which learning can take place.” In the educator’s role as coach, this relationship is a shared learning space where the educator enters the learners’ internal dialogue with their learning experiences. Coaching work involves two aims, 
-- helping each learner become aware of their own potential, and,   
-- helping learners remove any interference in realizing this potential. 
-
-In terms of coaching for learning we know that it is a natural aspect of our nature as human beings to learn. That is, it’s something we simply do naturally. But, one thing that makes learning difficult is that our past learning gradually starts to interfere with our present and future learning.
-
-Increasing learners’ awareness of their own internal resistance to new learning is the primary theme of coaching for learning. Common obstacles to learning, according to Gallway (1997), include the learner’s assumption that they already know what is being taught, the fear of being judged, doubt, and trying too hard to appear learned. In broader terms, Scharmer (2016) has identified the learners’ internal ***voice of judgement*** (VoJ), ***voice of cynicism*** (VoC), and ***voice of fear*** (VoF) as universal factors interfering with learning. The role of effective coaching is to help learners overcome these obstacles by opening their mind, emotions, and will to new possibilities. This work involves coaching learners through the transition of change—that is, 
-- letting go of what was, 
-- moving through the transition, and 
-- embracing a new beginning.  
-
-The secondary theme of coaching for learning is increasing learners’ awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallway (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book *Coaching for Performance*. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
-
-```{block, type='bonus'}
-
-**Goal Setting.** Helping learners clarify **what** they need and more importantly want to learn? **Why** they need and/or truly want to learn it? And **when** they need to, or genuinely want, to learn it? The coach, here, also helps learners see how their personal goals can align with prescribed learning outcomes.
-
-**Reality Checking.** Helping learners identify what they already know? What they can already do? What they have already done? What’s moving them towards their goal? And what’s getting in the way?
-
-**Option Exploring.** Helping learners identify the various options they have to move them toward their goals. Brainstorming what else they can do to achieve their goals? Assessing what are the benefits and weaknesses of the various options that they have identified?
-
-**Will be Doing.** Helping learners choose which options to act on. Determining when to act on an option. Assessing how committed they are to taking action a given option? Committing to acting on an option.
-```
-
-```{block, type='reflect'}
-#### Read and Reflect
-
-Take a few moments to read the article below written by Tim Gallwey. Gallwey works with companies to help them find better ways to implement change. In the article below, he discusses the importance of creating a learning culture - specifically, he discusses why coaches need to understand the learning process and the obstacles a learner experiences:
-
-- [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)
-
-***Questions to Consider...***
-
-After completing the activity above, consider the following questions:
-
-- *How can coaching concepts be applied to helping learners learn?*
-- *What key characteristics define effective coaching for learning?*
-- *How can educators coach learners through the transition of making a change?*
-```
-
-## Topic 3 {-}
-
-Effective coaching is grounded in an emerging set of coaching competencies. These competencies represent a set of integrated knowledge, skills, aptitudes and attributes that coalesce into behaviors that define, in more detail, what is needed to successfully perform the task of helping learners learn. The following are six essential behaviors the developing educator as coach must demonstrate.
+What do you think? Do you agree with the 'correct' and 'incorrect' responses on the quiz?
 
 
-### **Practicing Professional Ethics & Standards** {-}
+### Interaction{-}
+Anderson (2003) argues that, despite the lack of clarity around definitions of interaction, there seems to be a general understanding that interaction of some sort is a requirement for learning. He settles on the definition from Wagner (1994, p.8)
 
-The basis of this competency is a personal commitment to demonstrating and maintaining the highest level of ethical behavior. Emerging professional coaching standards include,   
-✅ making the roles, responsibilities, and rights of everyone involved in the coaching relationship clear,   
-✅  clearly communicating how information will be communicated between everyone involved in the coaching relationship,   
-✅ maintain confidentiality of personal information and communications,   
-✅ having a clear understanding of the conditions where information will not be kept confidential, and   
-✅ be aware of and respond sensitively to potential power or status differences.
+> reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another.
 
----
+He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1).
 
-### Cultivating Trust & Safety {-}
+![Figure 1. Anderson's Modes of Interaction (2003)](assets/u2/Modes-Interaction-Anderson.png "Modes of Interaction from Terry Anderson")
 
-Seeks to understand the learner and their unique learning context, demonstrates respect for the learner’s identity, values and perspective, showing empathy and concern for their well-being, acknowledges the learner unique abilities, interests, and feelings, demonstrating openness and vulnerability, and supporting the unique needs of the learner’s personality.
 
----
+At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
 
-### Holding Space/Presence {-}
+### Other Models of Interaction{-}
+Kanuka (2011) describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.).
 
-Being focused on the moment and giving attention to what is occurring in your conversation with the learner. Initially, this might feel like simply holding yourself back from talking too much as the coach and giving the learner space (that is, your silence) to reflect and process things. One way to conceptualize this competency as "creating a “space to listen into.” This involves   
-✅  creating comfortable distance in physical space,  
-✅ creating a non-judgmental emotional space, and    
-✅ creating a quiet auditory space.   Holding space, or being present, is an essential way the educator as coach can demonstrate to the learner that the learner’s contribution is valued and their learning is important. It’s also important for the coach to hold space for themselves to reflect and process what is happening.
+![Figure 2. Kanuka's Model of Interaction (2011)](assets/u2/Kanuka-Modes-of-Interaction.png "Kanuka's Model of Interaction")
 
----
+In Anderson's model, content is an agent in the process, but in Kanuka's model, content of some sort is assumed to be the foundation of learning environments and that interactions between and among learners and instructors happens in the context of making sense of the content. The content itself does not have agency.
 
-### Active Listening {-}
+A combination of these two models was described by Madland (2014). Madland's model, shown in figure 3, is a return to Anderson's three-sided model except with the addition of peer interactions, and all interactions between agents occuring in the context of the content that is to be learned. Also added are the three sides of the model representing structured learning activities designed specifically to enhance the educative effects of the interactions.
 
-The intent of these particular skills is to help the coach truly understand the learner and their context, and to help the learner feel like they have been understood and supported. Typical skills include, paying attention, holding judgement, reflecting, clarifying, summarizing, and sharing.
+![Figure 3. Madland's Model of Interaction (2014)](assets/u2/Modes-of-Interaction-Madland.png "Madland's model of interaction")
 
----
 
-### Evoking Awareness {-}
+It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous 'Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
 
-Asks questions to clarify the learners’ experiences, way of thinking, feelings, values, needs, wants, and beliefs.  Asking questions to help learners explore beyond their current thinking. Invites learners to share more about their present learning experiences. Notices what is working to enhance the learners progress. Challenges learners to increase their awareness and insight. Helps learners identify their potential for growth, internal/external obstacles, and options to move forward. Shares observations, insights, and encouragements to assist the learner in their learning.
+An alternative practice is to engage groups in a specific structured process of cooperation where everybody must do their work, or else the entire group suffers. An example is to have students work in peer review partners where students submit their assignments to their peer review partner who then provides feedback based on specific questions and categories of comments. When the original students receives their partner's feedback, they may choose how to integrate the suggestions into the final assignment that they submit to their instructor. Each student is then graded on the quality of their finished assignment, the quality of the feedback that they provided, and on the rationale for how they incorporated the peer review into their own work.
 
----
+There are myriad structures that can be used to ensure that interactions are inclined towards producing student learning, and we will introduce you to some of those in unit 5.
 
-### Cultivating Growth {-}
 
-Asks questions that helps learners  
-✅ surface their interests,  
-✅ clarify and prioritize their goals,  
-✅ assess their learning experiences,   
-✅ explore options for continued learning, and  
-✅ design learning plans and commit to achieving their learning goals.  
+### Learning Activity{-}
 
 ```{block, type='reflect'}
 #### Read and Reflect
 
-For this activity, you will be reading through the Core Competencies of the International Coaching Federation. The International Coaching Federation is dedicated to advancing the coaching profession by setting high, ethical standards. Read more below:
 
- - [**Core Competencies**](https://coachfederation.org/core-competencies)
+Read the following article by Terry Anderson
+- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)
 
-***Questions to Consider...***
-
-After completing the activity above, consider the following questions:
-
- - *What general coaching competencies apply to coaching for learning?*
- - *What competencies do you feel are strength areas? What areas do you need to develop?*
- - *How can a coaching approach help you support learner success in an educational setting?*
+As you read, consider what interactions you have experiences in online or f2f courses.
 ```
 
 
-## Unit 4 Assessment {-}
 
+## Interaction Equivalency Theorem
+For our last topic of this unit, we'll explore Anderson's (2003) *Interaction Equivalency Theorem*, stated as
+
+> Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student–teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
+> High levels of more than one of these three modes will likely provide a more satisfying educational experience, though these experiences may not be as cost or time effective as less interactive learning sequences. (p. 4)
+
+At TWU, there has always been a significant emphasis placed on student-teacher interactions. This can be seen in small class sizes and opportunities for students to be involved in faculty-led research projects and travel studies. Distance education, however, has long suffered from a distinct lack of student-teacher and student-student interactions. For many years, distance education was delivered either through the post or through one-way media such as radio or TV, virtually eliminating interactions. This led to a pervasive view that distance education courses and programs were second-rate at best.
+
+However, now that modern communication infrastructure has developed to the point that media-rich, synchronous, two-way communication is almost free, opportunities for distance learning environments to include high levels of student-student and student-teacher interaction are much more feasible.
+
+One problem remains, though, and that is that student-teacher interaction is a scarce commodity. It is costly to hire enough faculty to enable one-on-one or small-group interaction between students and faculty. The distance educator's response to this challenge is to front-load the faculty input (high-level disciplinary expertise or cognitive presence) into the course materials and to de-couple 'interaction' from both time and place.
+
+In an asynchronous, text-based environment, students and teachers do not need to be present in the same place at the same time in order to enjoy rich interactions.
+
+
+
+## Unit 2 Assessment{-}
 
 ```{block, type='wp'}
 #### WordPress Post
 
 
-Please complete the assignment under 'Post 4' below. This will be your fourth of five draft posts during the course.
+Please complete the assignment under 'Post 2' below. This will be your first of five draft posts during the course.
 
-[Blog Post 4](https://ma-lead.github.io/ldrs663/assessments.html#post-4)
-
-
-
-In addition, please begin planning your [Peer Coaching Session](https://ma-lead.github.io/ldrs663/assessments.html#peer-coaching-session-15).
+[Blog Post 2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
 
 ```
-```{block, type='todo'}
-#### Things To Do This Week
 
+## References{-}
 
-✅  Meet in Zoom [Friday, April 29 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220429T0730&p1=1109&ah=1&am=30)       
-✅  **Read** and **Reflect** Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).     
-✅ **Read** and **Reflect** [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)  
-✅ **Read** and **Reflect** [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)   
-✅ **Read** and **Reflect** [**Core Competencies**](https://coachfederation.org/core-competencies)  
-✅ **Publish** your [Unit 4 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-4) using the category `ldrs663`.  
-✅  **Meet** with your Learning Pod to complete the [Small Group Facilitation assignment](https://ma-lead.github.io/ldrs663/assessments.html#small-group-facilitation-10), which is worth 10% of your final grade.  
-✅ Please complete these items by [Friday, April 29 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220429T0730&p1=1109&ah=1&am=30)  
-```
+Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. *International Review of Research in Open and Distance Learning,* 4(2), 1–14.
+
+Dewey, J. (1897). *My pedagogic creed.* In M. S. Dworkin (Ed.), *Dewey on education.* NewYork, NY: Teachers College Press.
+
+Driscoll, M. P. (2005). *Psychology of learning for instruction* (3rd ed.). Boston: Pearson Education.
+
+Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*, 87–105. https://doi.org/10.1016/S1096-7516(00)00016-6
+
+Kanuka, H. (2011). Interaction and the online distance classroom: Do instructional methods effect the quality of interaction? *Journal of Computing in Higher Education,* 23(2), 143–156. https://doi.org/10.1007/s12528-011-9049-4
+
+Madland, C. (2014). *Structured student interactions in online distance learning: Exploring the study buddy activity* (Master’s thesis). Athabasca University. Retrieved from http://hdl.handle.net/10791/47
