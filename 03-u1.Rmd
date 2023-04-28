@@ -1,6 +1,5 @@
 # Building the Web
 
-
 ## Overview {-}
 
 Over the first two weeks, we will introduce you to some background thinking about educational technologies. There are countless companies vying for attention in the edtech field, and they are not all educationally beneficial. In fact, some are outright harmful. We believe that it is important for you to begin to think about how your data are used when you interact with edtech tools and that it is important for you to develop some skills and competencies in building your own domain on the web. With this knowledge, you will be more prepared to spot the nefarious actors and to take control of how you present yourself online.
@@ -11,16 +10,15 @@ Over the first two weeks, we will introduce you to some background thinking abou
 2. Data and Privacy
 3. Subverting surveilance capitalism
 
-
 ## Outcomes {-}
-- you will be able to articulate the importance of data and your privacy rights
-- you will have gained confidence in presenting your whole self online
+
+- you will be able to articulate the importance of data and your privacy rights  
+- you will have gained confidence in presenting your whole self online  
 - you will be able to create and manage a single WordPress blog.
 
-
 ## Resources {-}
-Online resources will be provided.
 
+Online resources will be provided.
 
 ## Visitors and Residents
 
@@ -37,7 +35,6 @@ The essential argument is that *kids these days* have changed in that they have 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but that does not mean that those people are more able to learn technology than older people or that they have an innate ability to do so. Have you ever asked a 1st-year university student to use a spreadsheet to create a budget or a gradebook with embedded formulae? It is more likely than not, that you will encounter a distinct lack of skill in completing this task.
-
 
 I'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a *visitor* in some web spaces and a *resident* in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
 
@@ -67,8 +64,6 @@ One of the people I look up to as an educator published a blog post which I beli
 <a class="embedly-card" data-card-controls="0" href="https://www.seanmichaelmorris.com/technology-is-not-pedagogy/">Technology is not Pedagogy</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-
-
 ### Learning Activity {-}
 
 ```{block, type='wp'}
@@ -85,7 +80,6 @@ I hope this activity will help you think about how the tools we use shape and so
 
 ## FIPPA, Privacy, and Consent Resources
 
-
 It is second nature to most to take selfies and share them on Instagram, Snapchat, etc., but once you move into the role of an educator in either a public or private context, you must adhere to the laws set out by the [B.C. Office of Information and Privacy Commissioner](https://www.oipc.bc.ca/). Their office has put together guidelines for both public bodies and private bodies. TWU, as a private body is not held to the same standard as public bodies, but we should strive to meet the same standard. The guidelines for public bodies to better understand what the rules are is linked below and how to get consent is detailed on page 4 of the [BC Cloud Computing Guidelines (PDF)](https://esquimalt.public.sd61.bc.ca/wp-content/uploads/sites/34/2013/09/OIPC-Cloud-Computing-Guidelines-for-Public-Bodies.pdf) and you can review the [Freedom of Information and Protection of Privacy Act here.](http://www.bclaws.ca/Recon/document/ID/freeside/96165_00). [TWU also has a privacy policy, available here.](https://www.twu.ca/about/university-privacy-policy)
 
 Each public body will have their own process (which may range from not allowing  tools to pressure to integrate networked learning tools from outside of Canada), so it is important to understand your own setting and the law. You may find some administrators or staff breaking these rules or not aware of them. It is important for you to enter your field and uphold the law, regardless of the culture you enter. This does not mean that you do not engage online or outside of Canada. It means that if/when you do so, that you understand the steps, which are not much more complex than the consent you would get normally for going “on the Internet,” as is described in most settings, but you must name the date consent is effective and, if applicable, the date it expires. It is important that you work with your school district on the consent process. You can see an example of how K-12 school districts are addressing access to cloud tools outside of Canada [here (Coquitlam)](http://www.sd43.bc.ca/Resources/DigitalCitizenship/Pages/CloudTools.aspx) and [here](https://www.sd61.bc.ca/programs/digital-learning/sd61-gafe/privacy-and-personal-information/) plus [here (Victoria)](https://techforlearning.sd61.bc.ca/privacy/consent-process/). You must also name each tool individually. It cannot be “blogging.” You must name WordPress.com or Blogger, etc. If you use Flipgrid, you must name Flipgrid. Consent must also be informed, so effort must be taken to ensure that those signing consent understand the implications – that their data may leave Canada, how it may be harvested, and to know about the U.S. Patriot Act. One archived resource by the Canadian Treasury Board provides significant detailed information about the [Patriot Act here](https://www.tbs-sct.gc.ca/pubs_pol/gospubs/TBM_128/usapa/faq-eng.asp). It is helpful to also review [section 4(b) of the B.C. Digital Literacy Framework which is applicable K12 contexts](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf) but helpful for others.
@@ -101,6 +95,7 @@ Additional resources can be found here:
 ### FIPPA, Privacy, and Consent Competencies {-}
 
 Learners should ensure that they:  
+
 - Are aware of the OIPC, FIPPA, and the Cloud Computing Guidelines and follow them  
 - Understand what constitutes personal information  
 - Understand that privacy online is a personal choice and must be respected  
@@ -132,7 +127,7 @@ With that decision made, proceed to step 3.
 
 ### Decide if you would like your blog to be hosted outside of Canada or inside of Canada. {-}
 
-We strongly recommend that you create a blog at create.twu.ca which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. We also have created a template for you there, which will make getting started easier. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., http://yourname.ca or http://westcoastteacher.ca) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting).
+We strongly recommend that you create a blog at create.twu.ca which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. We also have created a template for you there, which will make getting started easier. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., <http://yourname.ca> or <http://westcoastteacher.ca>) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting).
 
 Be sure you review the resources under the privacy tutorial on this site or talk to your instructor about the implications of your options. You should also review the resources at the BC Office of the Information and Privacy Commissioner along with the Cloud Computing Guidelines, which outline how to get consent.
 
@@ -147,6 +142,7 @@ You can set an entire blog to be private or simply selected posts can be set to 
 
 If you choose to make your blog private, we will not be able to syndicate your posts to the course site. You will still be able to participate in the course, but please contact your instructor if you choose to make your site only visible to registered users of the network or your site.
 ```
+
 And last, but not least…
 
 ### Finally, you have to think about where you and your content will end up. {-}
@@ -162,8 +158,6 @@ Once you have done all the reflections on these 5 steps, you can move forward wi
 ### WordPress Resources {-}
 
 ![WordPress Dashboard ([Image Credit](https://unsplash.com/photos/sSPzmL7fpWc))](assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
-
-
 
 We are here to help you create your site, so do not hesitate to ask for technical support. To get started on creating your site we suggest the following steps:
 
@@ -182,9 +176,7 @@ When you’re ready to start customizing your blog and putting content in, check
 ✔️  [Learn WordPress website by WordPress](https://learn.wordpress.com/)  
 ✔️  [Digital Tattoo Project at UBC](http://digitaltattoo.ubc.ca/) – learn digital literacy skills. Check out the menu sections and [consider looking at the publish section.](http://digitaltattoo.ubc.ca/publish/)
 
-
 If you are confused about anything it is always good to do an initial Google or YouTube search, or reach out to your learning pod or your instructor.
-
 
 ```{block, type='todo'}
 **Things To Do This Week**  
@@ -197,7 +189,7 @@ If you are confused about anything it is always good to do an initial Google or 
 ✔️  Please complete these items by ***Friday April 1***  
 
 ```
+
 ### Unit 1 Assessment
 
 [Please see the details for Post 1](https://ma-lead.github.io/ldrs663/assessments)
-
