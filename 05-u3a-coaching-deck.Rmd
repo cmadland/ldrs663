@@ -1,9 +1,3 @@
----
-title: "Coaching Notes"
-author: Mark Halvorson
-output: slidy_presentation
----
-
 # Coaching Notes {-}
 
 

@@ -1,9 +1,3 @@
----
-title: "Facilitation Notes"
-author: Mark Halvorson
-output: slidy_presentation
----
-
 # Facilitation Notes {-}
 
 #### Facilitating Group Learning {-}
