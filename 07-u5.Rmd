@@ -332,6 +332,7 @@ After taking some time to consider the picture, along with completing the readin
 ## Unit 5 Assessment {-}
 
 
+<!--
 ```{block, type='todo'}
 #### Things To Do This Week
 
@@ -350,3 +351,5 @@ After taking some time to consider the picture, along with completing the readin
 ✅ It is also critical to begin working on your major project for the course, the [Facilitation Resource Project](https://ma-lead.github.io/ldrs663/assessments.html#facilitation-resource-project-40). We will talk about this in class on April 29.   
 
 ```
+
+-->

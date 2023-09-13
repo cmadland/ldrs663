@@ -1,5 +1,6 @@
 # Learning Facilitation
 
+<!--
 ```{block, type='todo'}
 #### Things To Do This Week
 
@@ -14,6 +15,9 @@
 ✅  Please complete these items by [Friday, April 22 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220422T0730&p1=1109&ah=1&am=30)  
 ```
 
+-->
+
+<!--
 ```{block, type='protip'}
 #### ✨ NOTE{-}
 
@@ -22,6 +26,7 @@ Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/a
 Also, you should be planning your [*Curriculum analysis*](https://ma-lead.github.io/ldrs663/assessments.html#facilitated-curriculum-analysis-10) assignment with your learning pod.
 
 ```
+-->
 
 ### Overview {-}
 

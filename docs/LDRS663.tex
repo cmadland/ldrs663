@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -133,16 +136,16 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
-  pdftitle={Leadership 663},
-  pdfauthor={Mark Halvorson, Colin Madland, Scott Macklin},
+  pdftitle={Coaching Notes},
+  pdfauthor={Mark Halvorson},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
-\title{Leadership 663}
-\author{Mark Halvorson, Colin Madland, Scott Macklin}
-\date{2023-04-27}
+\title{Coaching Notes}
+\author{Mark Halvorson}
+\date{2023-09-12}
 
 \begin{document}
 \maketitle
@@ -244,7 +247,7 @@ For students in 663, graduate level writing standards following APA 7 are expect
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2308}}
   >{\centering\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3846}}
   >{\centering\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3846}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Assessment Task
 \end{minipage} & \begin{minipage}[b]{\linewidth}\centering
@@ -252,15 +255,16 @@ Due Date
 \end{minipage} & \begin{minipage}[b]{\linewidth}\centering
 \% of Final Grade
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Learning Reflection Blogs & Ongoing, weekly & Required but not assessed \\
 Facilitated Curriculum Analysis & Feb 12 & 10\% \\
 Small Group Facilitation & Feb 19 & 10\% \\
 Peer Coaching Session & Feb 26 & 15\% \\
 Showcase Post (choose one of your learning reflection blog posts to expand and elaborate) & Mar 15 & 25\% \\
 Facilitation Resource Project & Mar 15 & 40\% \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{learning-reflection-blogs-25}{%
@@ -522,344 +526,375 @@ For a grade in the B-, B, or B+ range, here is what you need to do:
 
 We are happy to have a conversation with you if you feel your work has been unfairly assessed and you can provide a justifiable rationale based on the product of your work in relation to the requirements of the assignment and the standards outlined above and in the University Calendar.
 
-\hypertarget{building-the-web}{%
-\chapter{Building the Web}\label{building-the-web}}
+\hypertarget{learning-in-community}{%
+\chapter{Learning in Community}\label{learning-in-community}}
 
 \hypertarget{overview}{%
 \section*{Overview}\label{overview}}
 \addcontentsline{toc}{section}{Overview}
 
-Over the first two weeks, we will introduce you to some background thinking about educational technologies. There are countless companies vying for attention in the edtech field, and they are not all educationally beneficial. In fact, some are outright harmful. We believe that it is important for you to begin to think about how your data are used when you interact with edtech tools and that it is important for you to develop some skills and competencies in building your own domain on the web. With this knowledge, you will be more prepared to spot the nefarious actors and to take control of how you present yourself online.
+Welcome to LDRS 663 - \emph{Coaching for Transformational Blended Learning}! In this second unit, we will begin by considering the nature of learning communities through the lens of a model called the \emph{Community of Inquiry (CoI)} (\href{https://www.sciencedirect.com/science/article/pii/S1096751600000166?}{Garrison et al., 2000}; \href{http://www.aupress.ca/index.php/books/120229}{Vaughan et al., 2013}). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process (\href{https://en.wikisource.org/wiki/My_Pedagogic_Creed}{Dewey, 1897}; \href{https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=cat05965a\&AN=alc.191437\&site=eds-live}{Vygotsky, 1978}). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
 
 \hypertarget{topics}{%
-\section*{Topics}\label{topics}}
-\addcontentsline{toc}{section}{Topics}
+\subsection*{Topics}\label{topics}}
+\addcontentsline{toc}{subsection}{Topics}
+
+This unit is divided into 3 topics:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Situating yourself online
+  Introduction to the Community of Inquiry Model\\
 \item
-  Data and Privacy
+  Modes of Interaction\\
 \item
-  Subverting surveilance capitalism
+  Interaction Equivalency Theorem
 \end{enumerate}
 
-\hypertarget{outcomes}{%
-\section*{Outcomes}\label{outcomes}}
-\addcontentsline{toc}{section}{Outcomes}
+\hypertarget{learning-outcomes}{%
+\subsection*{Learning Outcomes}\label{learning-outcomes}}
+\addcontentsline{toc}{subsection}{Learning Outcomes}
+
+When you have completed this unit you should be able to:
 
 \begin{itemize}
 \tightlist
 \item
-  you will be able to articulate the importance of data and your privacy rights\\
+  Analyze the characteristics of the Community of Inquiry model.
 \item
-  you will have gained confidence in presenting your whole self online\\
+  Evaluate different modes of interaction.
 \item
-  you will be able to create and manage a single WordPress blog.
+  Criticize the Interaction Equivalency Theorem.
 \end{itemize}
 
 \hypertarget{resources-1}{%
-\section*{Resources}\label{resources-1}}
-\addcontentsline{toc}{section}{Resources}
+\subsection*{Resources}\label{resources-1}}
+\addcontentsline{toc}{subsection}{Resources}
 
-Online resources will be provided.
+Here are the resources you will need to complete this unit:
 
-\hypertarget{visitors-and-residents}{%
-\section{Visitors and Residents}\label{visitors-and-residents}}
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical inquiry in a text-based environment: Computer conferencing in higher education}\\
+\item
+  \href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting the mix right again: An updated and theoretical rationale for interaction}\\
+\item
+  \href{https://rdcu.be/cKSGf}{Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?}
+\end{itemize}
 
-It is likely that you have encountered and may believe that there is a distinction between digital `natives' and `immigrants'.
+\begin{protip}
+\hypertarget{protip}{%
+\paragraph*{✨ ProTip}\label{protip}}
+\addcontentsline{toc}{paragraph}{✨ ProTip}
 
-\begin{caution}
-\textbf{Note}\\
-\href{https://marcprensky.com/}{Marc Prensky}, who proposed this idea,
-is the one who thought it would be a good idea to refer to people as
-`natives'. We recognize that this term should not be used to talk about
-people.
-\end{caution}
+Ok\ldots it would seem that the TWU library has lost access to the
+database that contains the Kanuka article above (`Interaction and the
+online distance classroom\ldots{}'). Here is how I go about tracking
+down articles In this case, I've completed all of the checked items and
+am waiting to hear back from Dr.~Kanuka):
 
-The essential argument is that \emph{kids these days} have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those of us whose formative years pre-date the advent of the internet are forever at a disadvantage compared to the \emph{kids}. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
+✅ I see if I have access through another library. As a PhD candidate at
+UVic, I have access to their library, and it turns out that this article
+is in their collection, but that doesn't help you.\\
+✅ I use a Firefox extension called `Unpaywall', which searches for
+open-access versions of the same article as researchers are often able
+to post pre-print versions of their article on their own site. In this
+case, unpaywall just links to the PDF that I have access to through
+UVic.\\
+✅ I contact the \href{https://libguides.twu.ca/help}{TWU library} for
+assistance, as librarians are among the most helpful people on the
+planet. In this case, I was provided an open link, but that link looks
+fishy as it isn't apparently tied to Kanuka's site, but rather an
+aggregation site. Often, I also request an inter-library loan, in which
+the TWU library would contact another library (maybe UVic) and request a
+copy through them.\\
+✅ Search \href{https://scholar.google.com}{Google Scholar} as that will
+often pick up on preprints on the author's website.\\
+✅ Search \href{https://www.researchgate.net/}{ResearchGate} for
+preprints.\\
+✅ Contact the author of the paper. They often have permission to share
+preprints (see above) and are usually happy to share their work,
+especially with grad students.\\
+❌ Here is where we start getting into academic grey areas\ldots so
+don't do this. It is against publishers policy to use tools like the
+hashtag \#ICanHazPDF on Twitter, where you post the title of the article
+you are looking for under that hashtag and another researcher might
+respond by DM'ing you a copy. You shouldn't do this, because it cuts
+into the \textbf{\emph{absurd}} profits of massive multi-national
+corporations who benefit from the free work of researchers all over the
+world. This is nothing like walking down a hallway and knocking on your
+colleague's door to ask if they have a copy of a paper, because that is
+super illegal too and this is digital\ldots or something.
 
-Digital native
+And this whole mess of strategies could be avoided if everyone published
+under an open license and the research that is created, usually with
+government funding, was freely available to those who need it.
 
-Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but that does not mean that those people are more able to learn technology than older people or that they have an innate ability to do so. Have you ever asked a 1st-year university student to use a spreadsheet to create a budget or a gradebook with embedded formulae? It is more likely than not, that you will encounter a distinct lack of skill in completing this task.
+\hypertarget{an-update-on-this-link}{%
+\subparagraph{An update on this
+link\ldots{}}\label{an-update-on-this-link}}
 
-I'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a \emph{visitor} in some web spaces and a \emph{resident} in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
-
-Alternately, there are places and spaces on the web, where \emph{you} reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or Twitter, or maybe it's a listserv you subscribed to back in the 90s, or your blog, or someone else's blog or social site. The important distinction is that these are places where you connect with other people; where you are socially \emph{present}.
-
-At the same time, if we can imagine the visitor \textless--\textgreater{} resident continuum on a horizontal axis, there is also a personal \textless--\textgreater{} professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
-
-The video below explains a process to help you think about where you reside on the web (7 mins).
-
-\href{https://www.youtube.com/watch?v=sPOG3iThmRI}{Link to YouTube}
-
-I've shared my VR Diagram below\ldots keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there.
+✅ I received a response from the author, who generously provided a PDF
+copy of the article. This is very common.\\
+✅ Also, I discovered at the bottom of the page when I viewed the
+article signed into a different library, that there was an option to get
+a sharing link, so I copied that link and updated the URL above. This
+seems to provide a read-only link for people who don't have access
+through a library or other institution.
+\end{protip}
 
 \begin{figure}
 \centering
-\includegraphics{assets/u1/vr-diagram-2.png}
-\caption{Visitor-Resident Diagram}
+\includegraphics{assets/u2/share.png}
+\caption{Share this article}
 \end{figure}
 
-It is certainly notable that I am very much a visitor in Moodle! This does not mean that I don't spend much time there, I spend a significant portion of every day working in Moodle, rather, the work that I do there leaves very little trace of my personality. You will (hopefully) see Moodle as much more of a place where you reside. But this foregrounds the question of whether Moodle is actually designed to promote residencies. Certainly the forums allow for users to project their persona into the system, as do a few of the other features, but the system itself is very heavily templated. There are profiles that can be edited, but users are limited to one very tiny image and virtually no opportunity to determine for themselves what they want to share. There is little room for customization, and every time a course ends, every single user must recreate their persona in a new course site (or five).
+\hypertarget{optional-resource}{%
+\subsubsection*{Optional Resource}\label{optional-resource}}
+\addcontentsline{toc}{subsubsection}{Optional Resource}
 
-For many, or most, of you, Moodle is a perfectly reasonable place to reside and you are able to make learners feel at home there. We encourage that. And just like our physical homes, the quality of the community that lives there isn't determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions.
+\begin{itemize}
+\tightlist
+\item
+  Vaughan, N., Cleveland-Innes, M., \& Garrison, D. (2013). \emph{Teaching in blended learning environments: Creating and sustaining communities of inquiry.} Athabasca: AU Press. - This book is available for free at \href{http://www.aupress.ca/index.php/books/120229}{AUPress}.
+\end{itemize}
 
-If you don't already, I encourage you to subscribe to this excellent podcast called \emph{Teaching in Higher Ed} by \href{https://twitter.com/bonni208}{Bonni Stachowiak}, or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
+\hypertarget{introduction-to-the-community-of-inquiry-model}{%
+\section{Introduction to the Community of Inquiry Model}\label{introduction-to-the-community-of-inquiry-model}}
 
-Digital Visitors and Residents, with David White - Teaching in Higher Ed
+Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of \emph{what} you learned, but profound because of the fact that you still remember \emph{that} you learned something and \emph{how} you learned it. Pick one or two of those experiences and be prepared share them in our class meeting. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it?
 
-One of the people I look up to as an educator published a blog post which I believe provides a fitting summary of this particular unit.
+\hypertarget{social-constructivism}{%
+\subsection*{Social Constructivism}\label{social-constructivism}}
+\addcontentsline{toc}{subsection}{Social Constructivism}
 
-Technology is not Pedagogy
+There is a very good chance that your recollection of a memorable learning experience as part of the previous learning activity included a description of some sort of social interaction. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise \emph{My Pedagogic Creed} he writes:
+
+\begin{quote}
+I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends. (p.~7)
+\end{quote}
+
+The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
+
+Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see \href{https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=cat05965a\&AN=alc.1254633\&site=eds-live}{Driscoll, 2005)} have written about what has now become known as the educational theory of \emph{social constructivism}, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
+\textgreater{} rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)
+
+This process of seeking meaning is an iterative process whereby the learner experiences some sort of cognitive dissonance, or a disconnect between what they previously knew and some new piece of evidence or experience that disconfirms that knowledge. The learner then seeks to resolve that dissonance by either incorporating the new experience into an older schema, or by disregarding one or the other. Most often, the resulting knowledge is constructed from portions of both the new and old idea.
+
+\hypertarget{community-of-inquiry}{%
+\subsection*{Community of Inquiry}\label{community-of-inquiry}}
+\addcontentsline{toc}{subsection}{Community of Inquiry}
+
+This brings us to the idea of a `Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article ``Critical Inquiry in a text-based environment''. Garrison, et al.~theorize that there are three critical components, or ``presences'' that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
+
+\begin{figure}
+\centering
+\includegraphics{assets/u2/CoI-Model.jpg}
+\caption{Community of Inquiry Model (Garrison, et al., (2000)}
+\end{figure}
+
+\hypertarget{cognitive-presence}{%
+\subsubsection*{Cognitive Presence}\label{cognitive-presence}}
+\addcontentsline{toc}{subsubsection}{Cognitive Presence}
+
+Cognitive presence, possibly the most foundational element, is the
+\textgreater{} extent to which the participants in any particular configuration of a community of inquiry are able to construct meaning through sustained communication (p.~89).
+
+Recall that this cognitive process is at the heart of constructivist learning environments. It seems obvious (be careful when people say that) that this construction of meaning through communication is the entire point of higher education. Your task as a student is to change your own mind, and that is a very tall order as our beliefs about many things are remarkably resilient. The way we engage in this task will have a significant bearing on the outcomes of the task.
+
+If we approach communication with too much confidence in our own views, we can shut out competing ideas to our own detriment, so it is important to bring a cautious intelligence, or, as I once heard a student describe it, epistemic humility. We all know that we are wrong about some things. The trouble is we don't know what we are wrong about and how we have misunderstood.
+
+Cognitive presence in a text-based environment (like an online course) carries with it some affordances, but also some disadvantages. It is a relatively common experience for people to type something in a text message or an email, only to have their intentions grossly misunderstood because there are fewer para-linguistic cues in text compared to verbal face-to-face communication. Recent developments in incorporating emojis have started to change this, but emojis are generally considered to be too informal for `serious scholarly work' or written professional communication. So, the relatively lean environment of text can lead to significant misunderstandings.
+
+On the other hand, for learners like me who tend toward introversion, the asynchronous nature of text-based learning environments is a huge advantage. I couldn't count the number of times that I have wanted to contribute to an in-class discussion, but needed too much time to formulate a coherent response, and before I knew it, the conversation had moved on. My point was no longer relevant, having been resolved by those in the class who were more extroverted and ready with an answer. A text-based environment, however, gives me \emph{time to think, write, revise, and then post} my response.
+
+\hypertarget{social-presence}{%
+\subsubsection*{Social Presence}\label{social-presence}}
+\addcontentsline{toc}{subsubsection}{Social Presence}
+
+Garrison, et.al. describe social presence as
+\textgreater the ability of participants in the Community of Inquiry to project their personal characteristics into the community, thereby presenting themselves to the other participants as ``real people.'' (p.~89)
+
+In any community, and especially the TWU community, the ability to \emph{belong} and to be accepted as a whole and integrated person is critical to people feeling like they \emph{actually do belong}. It is for this reason that many experienced online educators encourage a more colloquial style of writing in online forums or blogs. Strict adherence to APA or other style guides virtually eliminates self-referential language such as personal pronouns. It is hard to project your personal characteristics as a real person when you can only refer to yourself in the third person.
+
+By allowing a more personal style and the projection of self into the community, it is thought that students will build a sense of trust in the community and feel more empowered to participate in the difficult work of changing their minds. Social presence supports cognitive presence by allowing the learning environment to be safe and welcoming.
+
+\hypertarget{teaching-presence}{%
+\subsubsection*{Teaching Presence}\label{teaching-presence}}
+\addcontentsline{toc}{subsubsection}{Teaching Presence}
+
+This final element of the CoI model is the design and facilitation of the learning experience
+\textgreater to support and enhance social and cognitive presence for the purpose of realizing educational outcomes. (p.~90).
+
+Teaching presence can be a shared function between members of the community. Garrison, et al.~point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared. In a connected course like this one, there is a greater emphasis on shared facilitation in a community of learners compared to what might be experienced in a f2f (face to face) course. It is in this shared discourse in a safe environment that allows learners to engage in the difficult cognitive work of learning.
 
 \hypertarget{learning-activity}{%
 \subsection*{Learning Activity}\label{learning-activity}}
 \addcontentsline{toc}{subsection}{Learning Activity}
 
-\begin{wp}
-\textbf{Visitor and Resident Diagram}
+\begin{reflect}
+\hypertarget{read-annotate-and-reflect}{%
+\paragraph{Read, Annotate, and
+Reflect}\label{read-annotate-and-reflect}}
 
-I hope this activity will help you think about how the tools we use
-shape and sometimes determine the nature of our interactions with
-learners. Do the tools you use fall on the visitor or the resident end
-of your continuum? What about the learners in your classes?
+\textbf{Read}
+\href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical
+inquiry in a text-based environment: Computer conferencing in higher
+education} (access through the TWU library).
 
-✔️ \textbf{Read}
-\href{https://firstmonday.org/ojs/index.php/fm/article/view/3171}{Visitors
-and Residents: A new typology for online engagement}\\
-✔️ Complete your own \textbf{\emph{Visitor/Resident}} map and share and
-discuss it with your Learning Pod. You can use the
-\href{https://experimental.worldcat.org/vandrmapping/editMap}{tool that
-is provided here (DON'T forget to screenshot it, or you'll lose it!)},
-or use a different tool like \href{https://canva.com}{Canva.com}.\\
-✔️ Share your Visitor-Resident Diagram in a new post on your WordPress
-blog. Include a short reflection on what your diagram tells you about
-your web presence. Feel free to interact with others' diagrams!
-\end{wp}
+If you haven't done so previously, sign up for and activate hypothes.is
+and while you are reading the article, leave some annotations that
+connect what you are reading to your own experience.
 
-\hypertarget{fippa-privacy-and-consent-resources}{%
-\section{FIPPA, Privacy, and Consent Resources}\label{fippa-privacy-and-consent-resources}}
+Use the tag `ldrs663' in any annotations you create so that we can all
+find each other.
 
-It is second nature to most to take selfies and share them on Instagram, Snapchat, etc., but once you move into the role of an educator in either a public or private context, you must adhere to the laws set out by the \href{https://www.oipc.bc.ca/}{B.C. Office of Information and Privacy Commissioner}. Their office has put together guidelines for both public bodies and private bodies. TWU, as a private body is not held to the same standard as public bodies, but we should strive to meet the same standard. The guidelines for public bodies to better understand what the rules are is linked below and how to get consent is detailed on page 4 of the \href{https://esquimalt.public.sd61.bc.ca/wp-content/uploads/sites/34/2013/09/OIPC-Cloud-Computing-Guidelines-for-Public-Bodies.pdf}{BC Cloud Computing Guidelines (PDF)} and you can review the \href{http://www.bclaws.ca/Recon/document/ID/freeside/96165_00}{Freedom of Information and Protection of Privacy Act here.}. \href{https://www.twu.ca/about/university-privacy-policy}{TWU also has a privacy policy, available here.}
+\href{http://create.twu.ca/help/other-web-tools/hypothesis}{Click here
+for assistance getting set up with hypothes.is.}
 
-Each public body will have their own process (which may range from not allowing tools to pressure to integrate networked learning tools from outside of Canada), so it is important to understand your own setting and the law. You may find some administrators or staff breaking these rules or not aware of them. It is important for you to enter your field and uphold the law, regardless of the culture you enter. This does not mean that you do not engage online or outside of Canada. It means that if/when you do so, that you understand the steps, which are not much more complex than the consent you would get normally for going ``on the Internet,'' as is described in most settings, but you must name the date consent is effective and, if applicable, the date it expires. It is important that you work with your school district on the consent process. You can see an example of how K-12 school districts are addressing access to cloud tools outside of Canada \href{http://www.sd43.bc.ca/Resources/DigitalCitizenship/Pages/CloudTools.aspx}{here (Coquitlam)} and \href{https://www.sd61.bc.ca/programs/digital-learning/sd61-gafe/privacy-and-personal-information/}{here} plus \href{https://techforlearning.sd61.bc.ca/privacy/consent-process/}{here (Victoria)}. You must also name each tool individually. It cannot be ``blogging.'' You must name WordPress.com or Blogger, etc. If you use Flipgrid, you must name Flipgrid. Consent must also be informed, so effort must be taken to ensure that those signing consent understand the implications -- that their data may leave Canada, how it may be harvested, and to know about the U.S. Patriot Act. One archived resource by the Canadian Treasury Board provides significant detailed information about the \href{https://www.tbs-sct.gc.ca/pubs_pol/gospubs/TBM_128/usapa/faq-eng.asp}{Patriot Act here}. It is helpful to also review \href{https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf}{section 4(b) of the B.C. Digital Literacy Framework which is applicable K12 contexts} but helpful for others.
+As you read, consider a time where you experienced a learning
+environment where the three presences described in the CoI were
+apparent. Consider the following questions and optionally, write your
+responses in a new post on your blog. - Were all three presences
+demonstrated? - Which of the three were most obvious? Least? - Which
+presence is most important for you?
 
-Additional resources can be found here:
+Note that this is an ungraded activity, but is designed to help prepare
+you for the assessments in this course. Throughout the course you are
+encouraged to take notes in a journal of some sort. Refer to these notes
+as you complete your assessments.
+\end{reflect}
 
-\href{https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance}{Privacy, Ethics \& Security in Digital Spaces Developing Awareness of Privacy}
+\hypertarget{modes-of-interaction}{%
+\section{Modes of Interaction}\label{modes-of-interaction}}
 
-\href{https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness}{Information Security Awareness} by the BC Government
+For this next topic we will look at what we mean by `interaction', a word which is thrown around a lot in educational technology, but\ldots{}
 
-\href{http://mediasmarts.ca/}{MediaSmarts: Canada's Centre for Digital and Media Literacy}
+\href{https://youtu.be/G2y8Sx4B2Sk}{Watch}
 
-\hypertarget{fippa-privacy-and-consent-competencies}{%
-\subsection*{FIPPA, Privacy, and Consent Competencies}\label{fippa-privacy-and-consent-competencies}}
-\addcontentsline{toc}{subsection}{FIPPA, Privacy, and Consent Competencies}
+Before we get into the the topic of interaction, please take a few minutes to answer the following questions about scenarios that may or may not be considered `interaction'.
+(Note that you can check your answer right away, and then click the arrow for the next example.)
 
-Learners should ensure that they:
+What do you think? Do you agree with the `correct' and `incorrect' responses on the quiz?
 
-\begin{itemize}
-\tightlist
-\item
-  Are aware of the OIPC, FIPPA, and the Cloud Computing Guidelines and follow them\\
-\item
-  Understand what constitutes personal information\\
-\item
-  Understand that privacy online is a personal choice and must be respected\\
-\item
-  Understand that when you assume an ``educator'' hat, you have a duty for those under your care, their parents and families, and your colleagues with regard to their privacy and protection of personal information\\
-\item
-  Are aware that the Canadian federal government states that the chances are remote that the US Patriot Act will access personal information of Canadians, but recognizes that it is our responsibility to protect privacy preferences and to ensure that consent obtained is informed consent. Some families may be involved with restraining orders and need to be private for their safety, but the reasons for privacy may be preference. Either way, it is not our business as to the reasons for privacy preferences, but it is our responsibility to uphold preferences.\\
-\item
-  Understand how media moves through networks into US cloud-based services (e.g., back-ups on iTunes, syncing with Dropbox, messages with personal information is sent on Gmail, Google Docs, blog RSS subscriptions, etc.)\\
-\item
-  Understand that these acts do not prohibit participation in networked tools outside of Canada and many public bodies are in need of staff and leaders who model networked literacy and positive citizenship online for their community\\
-\item
-  Understand what appropriate consent looks like for public bodies and is aware of what alternative steps are to support learners when consent is not obtained.
-\end{itemize}
+\hypertarget{interaction}{%
+\subsection*{Interaction}\label{interaction}}
+\addcontentsline{toc}{subsection}{Interaction}
 
-\hypertarget{wordpress-and-privacy}{%
-\section{WordPress and Privacy}\label{wordpress-and-privacy}}
+Anderson (2003) argues that, despite the lack of clarity around definitions of interaction, there seems to be a general understanding that interaction of some sort is a requirement for learning. He settles on the definition from Wagner (1994, p.8)
 
-Now that you have thought about privacy in our digital world, it is time for you to make some decisions about how you would like to `be' online.
+\begin{quote}
+reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another.
+\end{quote}
 
-You are invited to document your learning in WordPress. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
-
-Please review all 5 steps below to decide on your approach.
-
-\hypertarget{decide-if-you-are-comfortable-posting-your-work-online.}{%
-\subsection*{Decide if you are comfortable posting your work online.}\label{decide-if-you-are-comfortable-posting-your-work-online.}}
-\addcontentsline{toc}{subsection}{Decide if you are comfortable posting your work online.}
-
-If not, you can document your learning offline (with technology) by changing the privacy settings on your blog or using Word documents and offline video. We would ask learners to consider using an online blogging tool with no identification/using a pseudonym, so as to develop network literacy, which is important in supporting learners, who are growing up in networked environments, but the preferences of learners will be respected and supported.
-
-If you are comfortable being online, then proceed to step 2.
-
-\hypertarget{would-you-like-to-use-your-real-name-or-use-a-pseudonym}{%
-\subsection*{Would you like to use your real name or use a pseudonym?}\label{would-you-like-to-use-your-real-name-or-use-a-pseudonym}}
-\addcontentsline{toc}{subsection}{Would you like to use your real name or use a pseudonym?}
-
-You can claim your name online and own your presence by using your full name. With increasing catfishing and identity theft online, it can be helpful to have a presence that may compete with any fake profiles of you that are out there or to have a more dominant presence so posts or pictures of you by others may get drowned out. That said, you may wish to create an identity without your personal information (e.g., West coast teacher). The choice is yours.
-
-With that decision made, proceed to step 3.
-
-\hypertarget{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}{%
-\subsection*{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}\label{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}}
-\addcontentsline{toc}{subsection}{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}
-
-We strongly recommend that you create a blog at create.twu.ca which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. We also have created a template for you there, which will make getting started easier. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., \url{http://yourname.ca} or \url{http://westcoastteacher.ca}) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting).
-
-Be sure you review the resources under the privacy tutorial on this site or talk to your instructor about the implications of your options. You should also review the resources at the BC Office of the Information and Privacy Commissioner along with the Cloud Computing Guidelines, which outline how to get consent.
-
-With that decision made, proceed to step 4.
-
-\hypertarget{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}{%
-\subsection*{You also have to decide if you want to make your blog public or private.}\label{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}}
-\addcontentsline{toc}{subsection}{You also have to decide if you want to make your blog public or private.}
-
-You can set an entire blog to be private or simply selected posts can be set to private. You can set a password or invite people to gain access. We have provided instructions for adjusting your privacy settings on the tutorial page for opened.ca.
-
-\begin{protip}
-\textbf{✨ ProTip}
-
-If you choose to make your blog private, we will not be able to
-syndicate your posts to the course site. You will still be able to
-participate in the course, but please contact your instructor if you
-choose to make your site only visible to registered users of the network
-or your site.
-\end{protip}
-
-And last, but not least\ldots{}
-
-\hypertarget{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}{%
-\subsection*{Finally, you have to think about where you and your content will end up.}\label{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}}
-\addcontentsline{toc}{subsection}{Finally, you have to think about where you and your content will end up.}
-
-The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn't and we'll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per page four of the BC OIPC Cloud Computing Guidelines linked here.
-
-\hypertarget{creating-a-blog}{%
-\subsection*{Creating a Blog}\label{creating-a-blog}}
-\addcontentsline{toc}{subsection}{Creating a Blog}
-
-Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Please visit\href{https://create.twu.ca}{create.twu.ca}, click the blue `Log in' link and follow the instructions. Once you are done there, you can return here to continue with the next section to get your site set up.
-
-\hypertarget{wordpress-setup}{%
-\section{WordPress Setup}\label{wordpress-setup}}
-
-\hypertarget{wordpress-resources}{%
-\subsection*{WordPress Resources}\label{wordpress-resources}}
-\addcontentsline{toc}{subsection}{WordPress Resources}
+He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1).
 
 \begin{figure}
 \centering
-\includegraphics{assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg}
-\caption{WordPress Dashboard (\href{https://unsplash.com/photos/sSPzmL7fpWc}{Image Credit})}
+\includegraphics{assets/u2/Modes-Interaction-Anderson.png}
+\caption{Figure 1. Anderson's Modes of Interaction (2003)}
 \end{figure}
 
-We are here to help you create your site, so do not hesitate to ask for technical support. To get started on creating your site we suggest the following steps:
+At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
 
-✔️ Log in if you have not already logged in; get familiar with the \href{http://sites.uci.edu/docs/start/dashboard/}{administration interface} and click \href{https://www.youtube.com/watch?v=-b569fs2t-Y}{here for more information on it}. The administration interface is also where the Dashboard in WordPress is located and \href{https://codex.wordpress.org/Dashboard_Screen}{you can get more info about it here.}\\
-✔️ Remember: When you are in the site administration area of your site, you can get tips on what you are doing by clicking the ``Help'' menu on the top-right corner.\\
-✔️ Review your settings, start by changing your Site Title under \texttt{Settings\textgreater{}General}. You need to hit the ``Save'' button to save your changes. \href{https://codex.wordpress.org/Settings_General_Screen}{More information about General Settings here.}\\
-✔️ \href{http://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/}{Add a new post}{]}. You can pick one of the existing categories by checking a box on the sidebar of the authoring interface. \href{http://www.wpbeginner.com/glossary/category/}{You can manage your categories here.} You will need to hit the blue ``Publish'' button on the right hand side before your post appears. \href{https://en.support.wordpress.com/pages/page-visibility/}{Information on managing the privacy settings on individual posts is here.}\\
-✔️ Edit your about me page by introducing yourself and sharing a little about yourself.\\
-✔️ You are welcome to change the images and upload your own. \href{https://www.youtube.com/watch?v=GtMOAaMFaPs}{Here is information about using images from Google.}
+\hypertarget{other-models-of-interaction}{%
+\subsection*{Other Models of Interaction}\label{other-models-of-interaction}}
+\addcontentsline{toc}{subsection}{Other Models of Interaction}
 
-\hypertarget{wordpress-tutorials}{%
-\section{WordPress Tutorials}\label{wordpress-tutorials}}
+Kanuka (2011) describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.).
 
-When you're ready to start customizing your blog and putting content in, check out some tutorials available to you:
+\begin{figure}
+\centering
+\includegraphics{assets/u2/Kanuka-Modes-of-Interaction.png}
+\caption{Figure 2. Kanuka's Model of Interaction (2011)}
+\end{figure}
 
-✔️ \href{http://www.wpbeginner.com/start-here/}{Beginner's guide for WordPress by WPBeginner}\\
-✔️ \href{https://learn.wordpress.com/}{Learn WordPress website by WordPress}\\
-✔️ \href{http://digitaltattoo.ubc.ca/}{Digital Tattoo Project at UBC} -- learn digital literacy skills. Check out the menu sections and \href{http://digitaltattoo.ubc.ca/publish/}{consider looking at the publish section.}
+In Anderson's model, content is an agent in the process, but in Kanuka's model, content of some sort is assumed to be the foundation of learning environments and that interactions between and among learners and instructors happens in the context of making sense of the content. The content itself does not have agency.
 
-If you are confused about anything it is always good to do an initial Google or YouTube search, or reach out to your learning pod or your instructor.
+A combination of these two models was described by Madland (2014). Madland's model, shown in figure 3, is a return to Anderson's three-sided model except with the addition of peer interactions, and all interactions between agents occuring in the context of the content that is to be learned. Also added are the three sides of the model representing structured learning activities designed specifically to enhance the educative effects of the interactions.
 
-\begin{todo}
-\textbf{Things To Do This Week}
+\begin{figure}
+\centering
+\includegraphics{assets/u2/Modes-of-Interaction-Madland.png}
+\caption{Figure 3. Madland's Model of Interaction (2014)}
+\end{figure}
 
-✔️ Meet in Zoom
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20220325T0730\&p1=1109}{Friday,
-March 25 - 7:30 AM PDT (Click to check your local time)} AND
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20220401T0730\&p1=1109\&ah=1\&am=30}{Friday,
-April 1 - 7:30 AM PDT (Click to check your local time)}\\
-✔️ \textbf{Create} a Visitor/Resident diagram to visualize your online
-presence.\\
-✔️ \textbf{Register} for a site at
-\href{https://create.twu.ca}{create.twu.ca}. I suggest you start with a
-`General TWU site'.\\
-✔️ \textbf{Post} your site URL in the `WordPress URLs' Glossary in
-Moodle.\\
-✔️ Please complete these items by \textbf{\emph{Friday April 1}}
-\end{todo}
+It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous `Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
 
-\hypertarget{unit-1-assessment}{%
-\subsection{Unit 1 Assessment}\label{unit-1-assessment}}
+An alternative practice is to engage groups in a specific structured process of cooperation where everybody must do their work, or else the entire group suffers. An example is to have students work in peer review partners where students submit their assignments to their peer review partner who then provides feedback based on specific questions and categories of comments. When the original students receives their partner's feedback, they may choose how to integrate the suggestions into the final assignment that they submit to their instructor. Each student is then graded on the quality of their finished assignment, the quality of the feedback that they provided, and on the rationale for how they incorporated the peer review into their own work.
 
-\href{https://ma-lead.github.io/ldrs663/assessments}{Please see the details for Post 1}
+There are myriad structures that can be used to ensure that interactions are inclined towards producing student learning, and we will introduce you to some of those in unit 5.
+
+\hypertarget{learning-activity-1}{%
+\subsection*{Learning Activity}\label{learning-activity-1}}
+\addcontentsline{toc}{subsection}{Learning Activity}
+
+\begin{reflect}
+\hypertarget{read-and-reflect}{%
+\paragraph{Read and Reflect}\label{read-and-reflect}}
+
+Read the following article by Terry Anderson -
+\href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting
+the mix right again: An updated and theoretical rationale for
+interaction}
+
+As you read, consider what interactions you have experiences in online
+or f2f courses.
+\end{reflect}
+
+\hypertarget{interaction-equivalency-theorem}{%
+\section{Interaction Equivalency Theorem}\label{interaction-equivalency-theorem}}
+
+For our last topic of this unit, we'll explore Anderson's (2003) \emph{Interaction Equivalency Theorem}, stated as
+
+\begin{quote}
+Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student--teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
+High levels of more than one of these three modes will likely provide a more satisfying educational experience, though these experiences may not be as cost or time effective as less interactive learning sequences. (p.~4)
+\end{quote}
+
+At TWU, there has always been a significant emphasis placed on student-teacher interactions. This can be seen in small class sizes and opportunities for students to be involved in faculty-led research projects and travel studies. Distance education, however, has long suffered from a distinct lack of student-teacher and student-student interactions. For many years, distance education was delivered either through the post or through one-way media such as radio or TV, virtually eliminating interactions. This led to a pervasive view that distance education courses and programs were second-rate at best.
+
+However, now that modern communication infrastructure has developed to the point that media-rich, synchronous, two-way communication is almost free, opportunities for distance learning environments to include high levels of student-student and student-teacher interaction are much more feasible.
+
+One problem remains, though, and that is that student-teacher interaction is a scarce commodity. It is costly to hire enough faculty to enable one-on-one or small-group interaction between students and faculty. The distance educator's response to this challenge is to front-load the faculty input (high-level disciplinary expertise or cognitive presence) into the course materials and to de-couple `interaction' from both time and place.
+
+In an asynchronous, text-based environment, students and teachers do not need to be present in the same place at the same time in order to enjoy rich interactions.
+
+\hypertarget{unit-2-assessment}{%
+\section*{Unit 2 Assessment}\label{unit-2-assessment}}
+\addcontentsline{toc}{section}{Unit 2 Assessment}
+
+\begin{wp}
+\hypertarget{wordpress-post}{%
+\paragraph{WordPress Post}\label{wordpress-post}}
+
+Please complete the assignment under `Post 2' below. This will be your
+first of five draft posts during the course.
+
+\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-2}{Blog
+Post 2}
+\end{wp}
+
+\hypertarget{references}{%
+\section*{References}\label{references}}
+\addcontentsline{toc}{section}{References}
+
+Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. \emph{International Review of Research in Open and Distance Learning,} 4(2), 1--14.
+
+Dewey, J. (1897). \emph{My pedagogic creed.} In M. S. Dworkin (Ed.), \emph{Dewey on education.} NewYork, NY: Teachers College Press.
+
+Driscoll, M. P. (2005). \emph{Psychology of learning for instruction} (3rd ed.). Boston: Pearson Education.
+
+Garrison, D. R., Anderson, T., \& Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. \emph{The Internet and Higher Education, 2}, 87--105. \url{https://doi.org/10.1016/S1096-7516(00)00016-6}
+
+Kanuka, H. (2011). Interaction and the online distance classroom: Do instructional methods effect the quality of interaction? \emph{Journal of Computing in Higher Education,} 23(2), 143--156. \url{https://doi.org/10.1007/s12528-011-9049-4}
+
+Madland, C. (2014). \emph{Structured student interactions in online distance learning: Exploring the study buddy activity} (Master's thesis). Athabasca University. Retrieved from \url{http://hdl.handle.net/10791/47}
 
 \hypertarget{learning-facilitation}{%
 \chapter{Learning Facilitation}\label{learning-facilitation}}
-
-\begin{todo}
-\hypertarget{things-to-do-this-week}{%
-\paragraph{Things To Do This Week}\label{things-to-do-this-week}}
-
-\begin{itemize}
-\tightlist
-\item
-  Meet in Zoom
-  \href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting\&iso=20220422T0730\&p1=1109\&ah=1\&am=30}{Friday,
-  April 22 - 7:30 AM PDT}\\
-\item
-  \textbf{Read}
-  \href{https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/}{\textbf{Facilitating
-  Learning and Change in Groups}}\\
-\item
-  \textbf{Read}
-  \href{https://infed.org/mobi/what-is-a-group/}{\textbf{What is a
-  Group?}}\\
-\item
-  \textbf{Read}
-  \href{https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management}{\textbf{Comfort
-  Zone to Performance Management}}\\
-\item
-  \textbf{Read}
-  \href{https://www.iaf-world.org/site/professional/core-competencies}{\textbf{Core
-  Competencies}}\\
-\item
-  \textbf{Watch}
-  \href{https://player.vimeo.com/video/364868276}{Liberating
-  Structures}\\
-\item
-  \textbf{Visit}
-  \href{http://www.liberatingstructures.com/9-what-so-what-now-what-w/}{\textbf{What,
-  So What, Now What? W³}}\\
-  ✅ Please complete these items by
-  \href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting\&iso=20220422T0730\&p1=1109\&ah=1\&am=30}{Friday,
-  April 22 - 7:30 AM PDT}
-\end{itemize}
-\end{todo}
-
-\begin{protip}
-\hypertarget{note}{%
-\paragraph*{✨ NOTE}\label{note}}
-\addcontentsline{toc}{paragraph}{✨ NOTE}
-
-Your \href{https://far.twu.ca/ldrs/663-202109/assignments}{\textbf{Small
-Group Facilitation Session}} is due \textbf{\emph{Friday, May 6}}.
-Please begin scheduling your facilitation sessions with your groups this
-week so you have enough time to complete the sessions and your
-reflections.
-
-Also, you should be planning your
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#facilitated-curriculum-analysis-10}{\emph{Curriculum
-analysis}} assignment with your learning pod.
-\end{protip}
 
 \hypertarget{overview-1}{%
 \subsection*{Overview}\label{overview-1}}
@@ -890,8 +925,8 @@ This unit is divided into the following topics:
   Strategies for Learning Facilitation
 \end{enumerate}
 
-\hypertarget{learning-outcomes}{%
-\subsection*{Learning Outcomes}\label{learning-outcomes}}
+\hypertarget{learning-outcomes-1}{%
+\subsection*{Learning Outcomes}\label{learning-outcomes-1}}
 \addcontentsline{toc}{subsection}{Learning Outcomes}
 
 When you have completed this unit, you should be able to:
@@ -1125,20 +1160,21 @@ to employ variations in their approach.}}
 \begin{longtable}[]{@{}
   >{\centering\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6250}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3750}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\centering
 Development Phase
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Facilitation Approach
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Forming (Unwilling and unable) & Clear goals, \textbf{directions}, fairness, firmness. \emph{(Why? Overcoming denial of the new reality.)} \\
 Storming (Willing and unable) & As above, plus \textbf{encouraging participation}, calmness, recognition of concerns. \emph{(Why? Overcoming defence of the old reality.)} \\
 Norming (Unwilling and able) & Encouraging, \textbf{confidence building}, clear goals, holding accountable) \emph{(Why? Helping discard the old reality.)} \\
 Performing (Willing and able) & Clear goal setting, monitoring, sptrategic preparation, seeking innovative approaches, \textbf{empowering team members}. \emph{(Why? Helping make new adaptations.)} \\
 Reforming (Disengaging) & \textbf{Establishing new goals}, solving confusion, managing risks. \emph{(Why? Challenging the new comfort zone.)} \\
-\bottomrule()
 \end{longtable}
 
 \begin{reflect}
@@ -1280,6 +1316,140 @@ Before you move on to the next unit, you may want to check to make sure that you
 ✅ Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.\\
 ✅ Identify and explain core competencies for facilitating learning.
 
+\hypertarget{facilitation-notes}{%
+\chapter*{Facilitation Notes}\label{facilitation-notes}}
+\addcontentsline{toc}{chapter}{Facilitation Notes}
+
+\hypertarget{facilitating-group-learning}{%
+\subsubsection*{Facilitating Group Learning}\label{facilitating-group-learning}}
+\addcontentsline{toc}{subsubsection}{Facilitating Group Learning}
+
+\hypertarget{facilitation-session}{%
+\subsubsection*{Facilitation Session}\label{facilitation-session}}
+\addcontentsline{toc}{subsubsection}{Facilitation Session}
+
+Working in small groups you will facilitate a short 10-15 min learning activity. In your learning pods each select a topic from LDRS 663 and guide your group through a review discussion of that topic. After your learning activity follow-up with a short What, So What, Now What? W3 review of your facilitation sessions to give each other feedback about your facilitation. You will record a video of your session and critically reflect on your actions as the learning facilitator.
+
+Your reflection should be submitted as 1-2-page document.
+
+\hypertarget{two-similar-but-different-teaching-presence-roles}{%
+\subsubsection*{Two Similar, but Different ``Teaching Presence'' Roles}\label{two-similar-but-different-teaching-presence-roles}}
+\addcontentsline{toc}{subsubsection}{Two Similar, but Different ``Teaching Presence'' Roles}
+
+• Facilitator: Guiding the coordination of a group's collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.
+• Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.
+
+\hypertarget{facilitation-competencies}{%
+\subsubsection*{Facilitation Competencies}\label{facilitation-competencies}}
+\addcontentsline{toc}{subsubsection}{Facilitation Competencies}
+
+• Create cooperative working relationships with the group
+• Determining group needs and designing group sessions
+• Managing group processes
+• Selecting appropriate group learning methods and learning processes
+• Preparing time and space to support group learning
+• Creating and sustaining a supportive and participatory group learning environment
+• Demonstrating effective communication
+• Insuring inclusiveness
+• Managing conflict
+• Encouraging creativity
+• Guiding group to consensus and desired learning outcome
+
+\hypertarget{facilitation-process}{%
+\subsubsection*{Facilitation Process}\label{facilitation-process}}
+\addcontentsline{toc}{subsubsection}{Facilitation Process}
+
+\begin{figure}
+\centering
+\includegraphics{assets/presentations/facilitation/fac-process.drawio.png}
+\caption{Facilitation Process}
+\end{figure}
+
+\hypertarget{act-one}{%
+\paragraph*{ACT ONE}\label{act-one}}
+\addcontentsline{toc}{paragraph}{ACT ONE}
+
+\begin{itemize}
+\tightlist
+\item
+  Orient the group
+\item
+  Set the stage
+\item
+  Develop themes
+\end{itemize}
+
+\hypertarget{act-two}{%
+\paragraph*{ACT TWO}\label{act-two}}
+\addcontentsline{toc}{paragraph}{ACT TWO}
+
+\begin{itemize}
+\tightlist
+\item
+  Examine
+\item
+  Explore
+\item
+  Problem-solve
+\end{itemize}
+
+\hypertarget{act-three}{%
+\paragraph*{ACT THREE}\label{act-three}}
+\addcontentsline{toc}{paragraph}{ACT THREE}
+
+\begin{itemize}
+\tightlist
+\item
+  Plan
+\item
+  Decide
+\item
+  Conclude
+\end{itemize}
+
+\hypertarget{facilitating-the-process-of-prescribed-learning}{%
+\subsubsection*{Facilitating the Process of Prescribed Learning}\label{facilitating-the-process-of-prescribed-learning}}
+\addcontentsline{toc}{subsubsection}{Facilitating the Process of Prescribed Learning}
+
+\[\text{Current Status}\Longrightarrow \Longrightarrow \Longrightarrow \Longrightarrow \text{Specific Goal}\]
+
+\hypertarget{facilitating-the-process-of-inquiry-rich-learning}{%
+\subsubsection*{Facilitating the Process of Inquiry-rich Learning}\label{facilitating-the-process-of-inquiry-rich-learning}}
+\addcontentsline{toc}{subsubsection}{Facilitating the Process of Inquiry-rich Learning}
+
+\[\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\looparrowright\Updownarrow\rightrightarrows\text{Fuzzy Goal}\]
+
+\hypertarget{managing-group-dynamics}{%
+\subsubsection*{Managing Group Dynamics}\label{managing-group-dynamics}}
+\addcontentsline{toc}{subsubsection}{Managing Group Dynamics}
+
+\hypertarget{cohesion-factors-that-cultivate-predictable-trust}{%
+\subsubsection*{Cohesion Factors that Cultivate (Predictable) Trust}\label{cohesion-factors-that-cultivate-predictable-trust}}
+\addcontentsline{toc}{subsubsection}{Cohesion Factors that Cultivate (Predictable) Trust}
+
+• Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.
+• Stability. The longer a group stays together, the more cohesive it becomes.
+• Size. Smaller groups tend to have higher cohesion.
+• Support. Coaching and encouragement to support other members strengthens the group's identity.
+• Satisfaction. How pleased group members are with each other's performance, behaviour, and conformity to group norms increases cohesion.
+
+\hypertarget{social-loafing}{%
+\subsubsection*{Social Loafing}\label{social-loafing}}
+\addcontentsline{toc}{subsubsection}{Social Loafing}
+
+• There is a tendency of individuals to put in less effort when working in a group context.
+• As group size grows, this effect becomes larger.
+
+\hypertarget{how-do-learning-groups-develop-over-time}{%
+\subsubsection*{How do learning groups develop over time?}\label{how-do-learning-groups-develop-over-time}}
+\addcontentsline{toc}{subsubsection}{How do learning groups develop over time?}
+
+\begin{figure}
+\centering
+\includegraphics{assets/presentations/facilitation/tuckman.drawio.png}
+\caption{Tuckman's Stages of Group Performance}
+\end{figure}
+
 \hypertarget{coaching-for-learning}{%
 \chapter{Coaching for Learning}\label{coaching-for-learning}}
 
@@ -1311,8 +1481,8 @@ This unit is divided into the following topics:
   Core Coaching Competencies
 \end{enumerate}
 
-\hypertarget{learning-outcomes-1}{%
-\subsection*{Learning Outcomes}\label{learning-outcomes-1}}
+\hypertarget{learning-outcomes-2}{%
+\subsection*{Learning Outcomes}\label{learning-outcomes-2}}
 \addcontentsline{toc}{subsection}{Learning Outcomes}
 
 When you have completed this unit, you should be able to:
@@ -1460,8 +1630,14 @@ After completing the reading above, consider the following questions:
 \end{quote}
 
 \textbf{\emph{How do Educators Coach Learners for Learning?}} The beginning point of an effective coaching for learning practice as an educator is the coaching relationship. It's critical, according to Gallway (1997), for coaches to ``{[}create{]} a safe and challenging environment in which learning can take place.'' In the educator's role as coach, this relationship is a shared learning space where the educator enters the learners' internal dialogue with their learning experiences. Coaching work involves two aims,
-- helping each learner become aware of their own potential, and,\\
-- helping learners remove any interference in realizing this potential.
+
+\begin{itemize}
+\tightlist
+\item
+  helping each learner become aware of their own potential, and,\\
+\item
+  helping learners remove any interference in realizing this potential.
+\end{itemize}
 
 In terms of coaching for learning we know that it is a natural aspect of our nature as human beings to learn. That is, it's something we simply do naturally. But, one thing that makes learning difficult is that our past learning gradually starts to interfere with our present and future learning.
 
@@ -1676,407 +1852,883 @@ grade.\\
 April 29 - 7:30 AM PDT}
 \end{todo}
 
-\hypertarget{learning-in-community}{%
-\chapter{Learning in Community}\label{learning-in-community}}
+\hypertarget{coaching-notes}{%
+\chapter*{Coaching Notes}\label{coaching-notes}}
+\addcontentsline{toc}{chapter}{Coaching Notes}
 
-\begin{todo}
-\hypertarget{things-to-do-this-week}{%
-\paragraph{Things To Do This Week}\label{things-to-do-this-week}}
+\hypertarget{peer-coaching-practice-session}{%
+\subsubsection*{Peer Coaching Practice Session}\label{peer-coaching-practice-session}}
+\addcontentsline{toc}{subsubsection}{Peer Coaching Practice Session}
 
 \begin{itemize}
 \tightlist
 \item
-  Meet in Zoom
-  \href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20220408T0730\&p1=1109\&ah=1\&am=30}{Friday,
-  April 8 - 7:30 AM PDT (Click to check your local time)}\\
+  Working with another student, use the G.R.O.W. model to coach each other through the process of planning for a particular learning activity within this course (such as, your facilitation resource project).
 \item
-  \textbf{Read}
-  \href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical
-  inquiry in a text-based environment: Computer conferencing in higher
-  education}\\
-\item
-  \textbf{Read}
-  \href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting
-  the mix right again: An updated and theoretical rationale for
-  interaction}\\
-\item
-  \textbf{Read}
-  \href{https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4}{Interaction
-  and the online distance classroom: Do instructional methods effect the
-  quality of interaction?}\\
-\item
-  \textbf{Publish} your arguments for or against the \emph{Interaction
-  Equivalency Theorem} in the Moodle \emph{Unit 1 Forum}.\\
-\item
-  Please complete these tasks by
-  \href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20220408T2300\&p1=1109\&ah=1\&am=30}{\textbf{Friday,
-  April 8 @ 11:00 PM PDT}}
+  There are two outcomes to assessment:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    you will produce a Zoom recording of your coaching session, and
+  \item
+    you will write a 1-2 page reflection on your actions coaching your peer's learning.
+  \end{itemize}
 \end{itemize}
-\end{todo}
 
-\hypertarget{overview-3}{%
-\section*{Overview}\label{overview-3}}
-\addcontentsline{toc}{section}{Overview}
+\hypertarget{what-is-coaching}{%
+\subsubsection*{\texorpdfstring{What is \textbf{coaching}?}{What is coaching?}}\label{what-is-coaching}}
+\addcontentsline{toc}{subsubsection}{What is \textbf{coaching}?}
 
-Welcome to LDRS 663 - \emph{Coaching for Transformational Blended Learning}! In this second unit, we will begin by considering the nature of learning communities through the lens of a model called the \emph{Community of Inquiry (CoI)} (\href{https://www.sciencedirect.com/science/article/pii/S1096751600000166?}{Garrison et al., 2000}; \href{http://www.aupress.ca/index.php/books/120229}{Vaughan et al., 2013}). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process (\href{https://en.wikisource.org/wiki/My_Pedagogic_Creed}{Dewey, 1897}; \href{https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=cat05965a\&AN=alc.191437\&site=eds-live}{Vygotsky, 1978}). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
+\begin{quote}
+Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. \textasciitilde Gallwey, 1997
+\end{quote}
 
-\hypertarget{topics-3}{%
-\subsection*{Topics}\label{topics-3}}
-\addcontentsline{toc}{subsection}{Topics}
+\hypertarget{michaelangelos-principle}{%
+\subsubsection*{Michaelangelo's Principle}\label{michaelangelos-principle}}
+\addcontentsline{toc}{subsubsection}{Michaelangelo's Principle}
 
-This unit is divided into 3 topics:
+\begin{quote}
+Every block of stone has a statue inside it and it is the task of the sculptor to discover it.''
+\end{quote}
+
+\includegraphics{assets/presentations/coaching/mike.jpg}
+
+\hypertarget{developing-learning-capability}{%
+\subsubsection*{Developing Learning Capability}\label{developing-learning-capability}}
+\addcontentsline{toc}{subsubsection}{Developing Learning Capability}
+
+\begin{itemize}
+\tightlist
+\item
+  Learning, coaching, and building a learning culture are critical to the multi-access education model.
+\item
+  Growing learners' learning capability is equivalent to increasing an institution's teaching presence.
+\item
+  We don't really need to learn how to learn; we need to remove our resistance to learning and coaching.
+\end{itemize}
+
+\hypertarget{aims-of-coaching-for-learning}{%
+\subsubsection*{Aims of coaching for Learning}\label{aims-of-coaching-for-learning}}
+\addcontentsline{toc}{subsubsection}{Aims of coaching for Learning}
+
+\begin{itemize}
+\tightlist
+\item
+  Increase capacity for learning performance:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    by actualizing potential;
+  \item
+    or, by decreasing interference;
+  \item
+    or, by a combination of both.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{learning-performance-potential---interference}{%
+\subsubsection*{Learning Performance = Potential - Interference}\label{learning-performance-potential---interference}}
+\addcontentsline{toc}{subsubsection}{Learning Performance = Potential - Interference}
+
+\textasciitilde Gallwey, 1997
+
+\hypertarget{core-coaching-competencies}{%
+\subsubsection*{Core Coaching Competencies}\label{core-coaching-competencies}}
+\addcontentsline{toc}{subsubsection}{Core Coaching Competencies}
+
+\begin{itemize}
+\tightlist
+\item
+  Practicing Professional Ethics \& Standards
+\item
+  Cultivating Trust \& Safety
+\item
+  Holding Space/ Presence
+\item
+  Active Listening
+\item
+  Asking Questions
+\item
+  Creating Awareness
+\item
+  Setting (SMART) Goals
+\item
+  Designing Action Plans
+\item
+  Checking for Results
+\end{itemize}
+
+\hypertarget{listening}{%
+\subsubsection*{Listening}\label{listening}}
+\addcontentsline{toc}{subsubsection}{Listening}
+
+The reality is that
+
+\begin{quote}
+``to {[}truly{]} listen is very hard, because it asks of us so much interior stability that we no longer need to prove ourselves by speeches, arguments, statements or declarations. True listeners no longer have an inner need to make their presence known. They are free to receive, welcome, to accept''.
+\textasciitilde Henri Nouwen
+\end{quote}
+
+\hypertarget{levels-of-listening}{%
+\subsubsection*{Levels of Listening}\label{levels-of-listening}}
+\addcontentsline{toc}{subsubsection}{Levels of Listening}
+
+\begin{itemize}
+\tightlist
+\item
+  Avoidance Listening = \textbf{Listening Over}
+\item
+  Defensive Listening = \textbf{Listening At}
+\item
+  Problem-Solving Listening = \textbf{Listening To}
+\item
+  Listening to Learn = \textbf{Listening Into}
+  \textasciitilde Goulston \& Ullmen (2013)
+\end{itemize}
+
+\begin{reflect}
+Why is ``listening into'' the inner world of the learner's lived-experience so difficult?
+\end{reflect}
+
+\hypertarget{reason-we-listen-autobiographically}{%
+\subsubsection*{Reason: We listen autobiographically}\label{reason-we-listen-autobiographically}}
+\addcontentsline{toc}{subsubsection}{Reason: We listen autobiographically}
+
+\begin{itemize}
+\item
+  We listen with the intent to reply, not to understand what the other person is trying to say.
+\item
+  We listen to our own self-talk as we prepare what we are going to say, ask, etc.
+\item
+  We filter everything we hear through our life experiences, our own frame of reference.
+\item
+  We check what we hear against our own autobiography and see how it measures up.
+\item
+  We decide what the other person means before he/
+  she finishes communicating, saying things like:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``I know just how you feel.''
+  \item
+    ``I felt the same way.''
+  \item
+    ``I had that same thing happen to me.''
+  \item
+    ``Let me tell you what I did in a similar situation.''
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{other-common-barriers-to-effective-listening}{%
+\subsubsection*{Other Common Barriers to Effective Listening}\label{other-common-barriers-to-effective-listening}}
+\addcontentsline{toc}{subsubsection}{Other Common Barriers to Effective Listening}
+
+\begin{itemize}
+\tightlist
+\item
+  We see silence as agreement
+\item
+  We feel the pressure of time (we don't have time)
+\item
+  We are impatient/disinterested
+\item
+  We lack of know-how
+\item
+  We simply don't pay close attention
+\end{itemize}
+
+\hypertarget{we-need-to-learn-to-listen-into-learners-worlds-consciously}{%
+\subsubsection*{We Need to Learn to ``Listen Into'' Learner's Worlds Consciously}\label{we-need-to-learn-to-listen-into-learners-worlds-consciously}}
+\addcontentsline{toc}{subsubsection}{We Need to Learn to ``Listen Into'' Learner's Worlds Consciously}
+
+\hypertarget{julian-treasure-2011-provides-us-with-critical-insights-into-how-we-can-listen-consciously.}{%
+\subsubsection*{Julian Treasure (2011) provides us with critical insights into how we can listen consciously.}\label{julian-treasure-2011-provides-us-with-critical-insights-into-how-we-can-listen-consciously.}}
+\addcontentsline{toc}{subsubsection}{Julian Treasure (2011) provides us with critical insights into how we can listen consciously.}
+
+\begin{figure}
+\centering
+\includegraphics{assets/presentations/coaching/ted.jpg}
+\caption{alt-text}
+\end{figure}
+
+\hypertarget{how-can-we-listen-consciously-to-our-learners-inner-worlds-to-truly-understand-them}{%
+\subsubsection*{How can we listen consciously to our learners' inner world's to truly understand them?}\label{how-can-we-listen-consciously-to-our-learners-inner-worlds-to-truly-understand-them}}
+\addcontentsline{toc}{subsubsection}{How can we listen consciously to our learners' inner world's to truly understand them?}
+
+\hypertarget{our-listening-positions-need-to-match-the-situation}{%
+\subsubsection*{Our Listening Positions Need to Match the Situation}\label{our-listening-positions-need-to-match-the-situation}}
+\addcontentsline{toc}{subsubsection}{Our Listening Positions Need to Match the Situation}
+
+\begin{itemize}
+\tightlist
+\item
+  Active vs.~Passive
+\item
+  Reductive vs.~Expansive
+\item
+  Critical vs.~Empathetic
+\end{itemize}
+
+\hypertarget{coaching-for-learning-requires-active-listening}{%
+\subsubsection*{Coaching for learning requires Active Listening}\label{coaching-for-learning-requires-active-listening}}
+\addcontentsline{toc}{subsubsection}{Coaching for learning requires Active Listening}
+
+\begin{figure}
+\centering
+\includegraphics{assets/presentations/coaching/active.png}
+\caption{alt-text}
+\end{figure}
+
+\hypertarget{pay-attention}{%
+\subsubsection*{Pay Attention}\label{pay-attention}}
+\addcontentsline{toc}{subsubsection}{Pay Attention}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Introduction to the Community of Inquiry Model\\
+  Be present; focus on the moment
 \item
-  Modes of Interaction\\
+  Observe body language; your own and the learner's.
 \item
-  Interaction Equivalency Theorem
+  Pre-empt distractions.
 \end{enumerate}
 
-\hypertarget{learning-outcomes-2}{%
-\subsection*{Learning Outcomes}\label{learning-outcomes-2}}
-\addcontentsline{toc}{subsection}{Learning Outcomes}
+\hypertarget{hold-judgement}{%
+\subsubsection*{Hold Judgement}\label{hold-judgement}}
+\addcontentsline{toc}{subsubsection}{Hold Judgement}
 
-When you have completed this unit you should be able to:
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Practice empathy; seeking to make the learner ``feel'' felt and heard.
+\item
+  Try to understand learner's ``lens''.
+\item
+  Be patient.
+\end{enumerate}
+
+\begin{quote}
+Silence is a source of great strength.
+\textasciitilde Lao Tzu
+\end{quote}
+
+\hypertarget{reflect}{%
+\subsubsection*{Reflect}\label{reflect}}
+\addcontentsline{toc}{subsubsection}{Reflect}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Paraphrase (``What I am hearing is\ldots{}'')
+\item
+  Name emotions you observe
+\item
+  Be a ``mirror''
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{assets/presentations/coaching/plutchik.jpg}
+\caption{alt-text}
+\end{figure}
+
+\hypertarget{clarify}{%
+\subsubsection*{Clarify}\label{clarify}}
+\addcontentsline{toc}{subsubsection}{Clarify}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Use open-ended questions (``What might you do next?).
+\item
+  Use clarifying questions (``Let me see, if I'm clear?'').
+\item
+  Use probing questions (``What tactics have you tried?'').
+\end{enumerate}
+
+\hypertarget{summarize}{%
+\subsubsection*{Summarize}\label{summarize}}
+\addcontentsline{toc}{subsubsection}{Summarize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Use ``So'' periodically (``So, what I have heard so far\ldots{}'').
+\item
+  Use ``So'' at the end (So, let me summarize what I have heard\ldots'').
+\item
+  Ask the other person to summarize.
+\end{enumerate}
+
+\hypertarget{share}{%
+\subsubsection*{Share}\label{share}}
+\addcontentsline{toc}{subsubsection}{Share}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Be an active participant in the conversation.
+\item
+  Share thoughts, feelings, and experiences to deepen and/or check for understanding.
+\item
+  Ask the learner about your impact on him or her.
+\end{enumerate}
+
+\hypertarget{g.r.o.w.-coaching-model}{%
+\subsubsection*{G.R.O.W. Coaching Model}\label{g.r.o.w.-coaching-model}}
+\addcontentsline{toc}{subsubsection}{G.R.O.W. Coaching Model}
+
+\hypertarget{goal-setting}{%
+\subsubsection*{Goal Setting}\label{goal-setting}}
+\addcontentsline{toc}{subsubsection}{Goal Setting}
 
 \begin{itemize}
 \tightlist
 \item
-  Analyze the characteristics of the Community of Inquiry model.
+  Setting short and long term learning goals.
 \item
-  Evaluate different modes of interaction.
+  Key questions to ask:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What can you do with my time that is important?
+  \item
+    What learning outcome do you want?
+  \item
+    How much time do you need to achieve that outcome?
+  \item
+    How does what you am doing now help you achieve the longer term learning outcomes I really want?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{make-your-goals-s.m.a.r.t.}{%
+\subsubsection*{Make Your Goals S.M.A.R.T.}\label{make-your-goals-s.m.a.r.t.}}
+\addcontentsline{toc}{subsubsection}{Make Your Goals S.M.A.R.T.}
+
+\hypertarget{specific}{%
+\paragraph*{Specific}\label{specific}}
+\addcontentsline{toc}{paragraph}{Specific}
+
+\begin{itemize}
+\tightlist
 \item
-  Criticize the Interaction Equivalency Theorem.
+  Your goal should be clear and specific.
+\item
+  Ask yourself:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What do I want to accomplish in this course?
+  \item
+    Why is this learning goal important to you?
+  \item
+    What is involved in achieving this goal?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{measurable}{%
+\paragraph*{Measurable}\label{measurable}}
+\addcontentsline{toc}{paragraph}{Measurable}
+
+\begin{itemize}
+\tightlist
+\item
+  You should be able to track your progress.
+\item
+  Ask yourself:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How much time is involved?
+  \item
+    How will you know when it is accomplished?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{attainable}{%
+\paragraph*{Attainable}\label{attainable}}
+\addcontentsline{toc}{paragraph}{Attainable}
+
+\begin{itemize}
+\tightlist
+\item
+  Your goal should be realistic and achievable.
+\item
+  Ask yourself:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    How can you accomplish this goal?
+  \item
+    Do you have the resources to achieve it?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{relevant}{%
+\paragraph*{Relevant}\label{relevant}}
+\addcontentsline{toc}{paragraph}{Relevant}
+
+\begin{itemize}
+\tightlist
+\item
+  Your goal should matter and align with your other
+  goals.
+\item
+  Ask yourself:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Is the goal worthwhile?
+  \item
+    Is the time right?
+  \item
+    Does it help you achieve what you ultimately want?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{time-bound}{%
+\paragraph*{Time-bound}\label{time-bound}}
+\addcontentsline{toc}{paragraph}{Time-bound}
+
+\begin{itemize}
+\tightlist
+\item
+  Your goal should have a deadline to focus on.
+\item
+  Ask yourself:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When?
+  \item
+    What can I do now?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{reality-checking}{%
+\subsubsection*{Reality Checking}\label{reality-checking}}
+\addcontentsline{toc}{subsubsection}{Reality Checking}
+
+\begin{itemize}
+\tightlist
+\item
+  Understanding where you really are relative to what
+  you really want.
+\item
+  Key questions to ask:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What is really going on?
+  \item
+    What have you done/tried?
+  \item
+    Have you noticed any patterns?
+  \item
+    How do you know this is accurate?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{identifying-obstacles-to-achieving-goals}{%
+\subsubsection*{Identifying Obstacles to Achieving Goals}\label{identifying-obstacles-to-achieving-goals}}
+\addcontentsline{toc}{subsubsection}{Identifying Obstacles to Achieving Goals}
+
+\begin{itemize}
+\tightlist
+\item
+  Critical to identify if there's more than one obstacle.
+\item
+  Key questions to ask:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What is preventing you from achieving your goals?
+  \item
+    What else is preventing you?
+  \item
+    What do you have to change about yourself to achieve your goals?
+  \item
+    What is preventing you from changing?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{common-obstacles-to-learning-goals}{%
+\subsubsection*{Common Obstacles to Learning Goals}\label{common-obstacles-to-learning-goals}}
+\addcontentsline{toc}{subsubsection}{Common Obstacles to Learning Goals}
+
+\begin{itemize}
+\tightlist
+\item
+  Assumption that ``I already know''
+\item
+  Assumption that learning means remediation
+\item
+  Fear of being judged
+\item
+  Doubt
+\item
+  Trying too hard to learn and to appear learned
+  \textasciitilde Gallwey, 1997
+\end{itemize}
+
+\hypertarget{option-exploration}{%
+\subsubsection*{Option Exploration}\label{option-exploration}}
+\addcontentsline{toc}{subsubsection}{Option Exploration}
+
+\begin{itemize}
+\tightlist
+\item
+  Key questions to ask:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What alternatives do you have?
+  \item
+    Who can support you?
+  \item
+    What are the pros and cons of that option?
+  \item
+    What is the preferred option you want to act on?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{reframing-questions}{%
+\subsubsection*{Reframing Questions}\label{reframing-questions}}
+\addcontentsline{toc}{subsubsection}{Reframing Questions}
+
+\begin{itemize}
+\tightlist
+\item
+  What are you not seeing?
+\item
+  What is a better position to take?
+\item
+  Is this problem the root problem or a symptom of it?
+\item
+  Why is this problem problematic?
+\end{itemize}
+
+\hypertarget{the-way-forward}{%
+\subsubsection*{The Way Forward}\label{the-way-forward}}
+\addcontentsline{toc}{subsubsection}{The Way Forward}
+
+\begin{itemize}
+\tightlist
+\item
+  Key questions to ask:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    What commitments am I going to make?
+  \item
+    What are my next steps?
+  \item
+    In what timeframe?
+  \item
+    What do I think might get in the way?
+  \item
+    How will I track my progress?
+  \item
+    What support do I need? How will I get it?
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{creating-action-strategies}{%
+\subsubsection*{Creating Action Strategies}\label{creating-action-strategies}}
+\addcontentsline{toc}{subsubsection}{Creating Action Strategies}
+
+\begin{itemize}
+\tightlist
+\item
+  Set SMART Goal(s) (the job to be done)
+\item
+  Breakdown the Work (into a list of tasks)
+\item
+  Define the Critical Path (the order of tasks)
+\item
+  Schedule the Work (when you do what)
+\end{itemize}
+
+\hypertarget{building-the-web}{%
+\chapter{Building the Web}\label{building-the-web}}
+
+\hypertarget{overview-3}{%
+\section*{Overview}\label{overview-3}}
+\addcontentsline{toc}{section}{Overview}
+
+This week, we will introduce you to some background thinking about educational technologies. There are countless companies vying for attention in the edtech field, and they are not all educationally beneficial. In fact, some are outright harmful. We believe that it is important for you to begin to think about how your data are used when you interact with edtech tools and that it is important for you to develop some skills and competencies in building your own domain on the web. With this knowledge, you will be more prepared to spot the nefarious actors and to take control of how you present yourself online.
+
+\hypertarget{topics-3}{%
+\section*{Topics}\label{topics-3}}
+\addcontentsline{toc}{section}{Topics}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Situating yourself online
+\item
+  Data and Privacy
+\item
+  Subverting surveilance capitalism
+\end{enumerate}
+
+\hypertarget{outcomes}{%
+\section*{Outcomes}\label{outcomes}}
+\addcontentsline{toc}{section}{Outcomes}
+
+\begin{itemize}
+\tightlist
+\item
+  you will be able to articulate the importance of data and your privacy rights\\
+\item
+  you will have gained confidence in presenting your whole self online\\
+\item
+  you will be able to create and manage a single WordPress blog.
 \end{itemize}
 
 \hypertarget{resources-4}{%
-\subsection*{Resources}\label{resources-4}}
-\addcontentsline{toc}{subsection}{Resources}
+\section*{Resources}\label{resources-4}}
+\addcontentsline{toc}{section}{Resources}
 
-Here are the resources you will need to complete this unit:
+Online resources will be provided.
 
-\begin{itemize}
-\tightlist
-\item
-  \href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical inquiry in a text-based environment: Computer conferencing in higher education}\\
-\item
-  \href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting the mix right again: An updated and theoretical rationale for interaction}\\
-\item
-  \href{https://rdcu.be/cKSGf}{Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?}
-\end{itemize}
+\hypertarget{visitors-and-residents}{%
+\section{Visitors and Residents}\label{visitors-and-residents}}
 
-\begin{protip}
-\hypertarget{protip}{%
-\paragraph*{✨ ProTip}\label{protip}}
-\addcontentsline{toc}{paragraph}{✨ ProTip}
+It is likely that you have encountered and may believe that there is a distinction between digital `natives' and `immigrants'.
 
-Ok\ldots it would seem that the TWU library has lost access to the
-database that contains the Kanuka article above (`Interaction and the
-online distance classroom\ldots{}'). Here is how I go about tracking
-down articles In this case, I've completed all of the checked items and
-am waiting to hear back from Dr.~Kanuka):
+\begin{caution}
+\textbf{Note}\\
+\href{https://marcprensky.com/}{Marc Prensky}, who proposed this idea,
+is the one who thought it would be a good idea to refer to people as
+`natives'. We recognize that this term should not be used to talk about
+people.
+\end{caution}
 
-✅ I see if I have access through another library. As a PhD candidate at
-UVic, I have access to their library, and it turns out that this article
-is in their collection, but that doesn't help you.\\
-✅ I use a Firefox extension called `Unpaywall', which searches for
-open-access versions of the same article as researchers are often able
-to post pre-print versions of their article on their own site. In this
-case, unpaywall just links to the PDF that I have access to through
-UVic.\\
-✅ I contact the \href{https://libguides.twu.ca/help}{TWU library} for
-assistance, as librarians are among the most helpful people on the
-planet. In this case, I was provided an open link, but that link looks
-fishy as it isn't apparently tied to Kanuka's site, but rather an
-aggregation site. Often, I also request an inter-library loan, in which
-the TWU library would contact another library (maybe UVic) and request a
-copy through them.\\
-✅ Search \href{https://scholar.google.com}{Google Scholar} as that will
-often pick up on preprints on the author's website.\\
-✅ Search \href{https://www.researchgate.net/}{ResearchGate} for
-preprints.\\
-✅ Contact the author of the paper. They often have permission to share
-preprints (see above) and are usually happy to share their work,
-especially with grad students.\\
-❌ Here is where we start getting into academic grey areas\ldots so
-don't do this. It is against publishers policy to use tools like the
-hashtag \#ICanHazPDF on Twitter, where you post the title of the article
-you are looking for under that hashtag and another researcher might
-respond by DM'ing you a copy. You shouldn't do this, because it cuts
-into the \textbf{\emph{absurd}} profits of massive multi-national
-corporations who benefit from the free work of researchers all over the
-world. This is nothing like walking down a hallway and knocking on your
-colleague's door to ask if they have a copy of a paper, because that is
-super illegal too and this is digital\ldots or something.
+The essential argument is that \emph{kids these days} have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those of us whose formative years pre-date the advent of the internet are forever at a disadvantage compared to the \emph{kids}. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
 
-And this whole mess of strategies could be avoided if everyone published
-under an open license and the research that is created, usually with
-government funding, was freely available to those who need it.
+Digital native
 
-\hypertarget{an-update-on-this-link}{%
-\subparagraph{An update on this
-link\ldots{}}\label{an-update-on-this-link}}
+Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but that does not mean that those people are more able to learn technology than older people or that they have an innate ability to do so. Have you ever asked a 1st-year university student to use a spreadsheet to create a budget or a gradebook with embedded formulae? It is more likely than not, that you will encounter a distinct lack of skill in completing this task.
 
-✅ I received a response from the author, who generously provided a PDF
-copy of the article. This is very common.\\
-✅ Also, I discovered at the bottom of the page when I viewed the
-article signed into a different library, that there was an option to get
-a sharing link, so I copied that link and updated the URL above. This
-seems to provide a read-only link for people who don't have access
-through a library or other institution.
-\end{protip}
+I'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a \emph{visitor} in some web spaces and a \emph{resident} in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
+
+Alternately, there are places and spaces on the web, where \emph{you} reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or Twitter, or maybe it's a listserv you subscribed to back in the 90s, or your blog, or someone else's blog or social site. The important distinction is that these are places where you connect with other people; where you are socially \emph{present}.
+
+At the same time, if we can imagine the visitor \textless--\textgreater{} resident continuum on a horizontal axis, there is also a personal \textless--\textgreater{} professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
+
+The video below explains a process to help you think about where you reside on the web (7 mins).
+
+\href{https://www.youtube.com/watch?v=sPOG3iThmRI}{Link to YouTube}
+
+I've shared my VR Diagram below\ldots keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there.
 
 \begin{figure}
 \centering
-\includegraphics{assets/u2/share.png}
-\caption{Share this article}
+\includegraphics{assets/u1/vr-diagram-2.png}
+\caption{Visitor-Resident Diagram}
 \end{figure}
 
-\hypertarget{optional-resource}{%
-\subsubsection*{Optional Resource}\label{optional-resource}}
-\addcontentsline{toc}{subsubsection}{Optional Resource}
+It is certainly notable that I am very much a visitor in Moodle! This does not mean that I don't spend much time there, I spend a significant portion of every day working in Moodle, rather, the work that I do there leaves very little trace of my personality. You will (hopefully) see Moodle as much more of a place where you reside. But this foregrounds the question of whether Moodle is actually designed to promote residencies. Certainly the forums allow for users to project their persona into the system, as do a few of the other features, but the system itself is very heavily templated. There are profiles that can be edited, but users are limited to one very tiny image and virtually no opportunity to determine for themselves what they want to share. There is little room for customization, and every time a course ends, every single user must recreate their persona in a new course site (or five).
 
-\begin{itemize}
-\tightlist
-\item
-  Vaughan, N., Cleveland-Innes, M., \& Garrison, D. (2013). \emph{Teaching in blended learning environments: Creating and sustaining communities of inquiry.} Athabasca: AU Press. - This book is available for free at \href{http://www.aupress.ca/index.php/books/120229}{AUPress}.
-\end{itemize}
+For many, or most, of you, Moodle is a perfectly reasonable place to reside and you are able to make learners feel at home there. We encourage that. And just like our physical homes, the quality of the community that lives there isn't determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions.
 
-\hypertarget{introduction-to-the-community-of-inquiry-model}{%
-\section{Introduction to the Community of Inquiry Model}\label{introduction-to-the-community-of-inquiry-model}}
+If you don't already, I encourage you to subscribe to this excellent podcast called \emph{Teaching in Higher Ed} by \href{https://twitter.com/bonni208}{Bonni Stachowiak}, or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
 
-Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of \emph{what} you learned, but profound because of the fact that you still remember \emph{that} you learned something and \emph{how} you learned it. Pick one or two of those experiences and be prepared share them in our class meeting. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it?
+Digital Visitors and Residents, with David White - Teaching in Higher Ed
 
-\hypertarget{social-constructivism}{%
-\subsection*{Social Constructivism}\label{social-constructivism}}
-\addcontentsline{toc}{subsection}{Social Constructivism}
+One of the people I look up to as an educator published a blog post which I believe provides a fitting summary of this particular unit.
 
-There is a very good chance that your recollection of a memorable learning experience as part of the previous learning activity included a description of some sort of social interaction. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise \emph{My Pedagogic Creed} he writes:
-
-\begin{quote}
-I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends. (p.~7)
-\end{quote}
-
-The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
-
-Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see \href{https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=cat05965a\&AN=alc.1254633\&site=eds-live}{Driscoll, 2005)} have written about what has now become known as the educational theory of \emph{social constructivism}, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
-\textgreater{} rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)
-
-This process of seeking meaning is an iterative process whereby the learner experiences some sort of cognitive dissonance, or a disconnect between what they previously knew and some new piece of evidence or experience that disconfirms that knowledge. The learner then seeks to resolve that dissonance by either incorporating the new experience into an older schema, or by disregarding one or the other. Most often, the resulting knowledge is constructed from portions of both the new and old idea.
-
-\hypertarget{community-of-inquiry}{%
-\subsection*{Community of Inquiry}\label{community-of-inquiry}}
-\addcontentsline{toc}{subsection}{Community of Inquiry}
-
-This brings us to the idea of a `Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article ``Critical Inquiry in a text-based environment''. Garrison, et al.~theorize that there are three critical components, or ``presences'' that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
-
-\begin{figure}
-\centering
-\includegraphics{assets/u2/CoI-Model.jpg}
-\caption{Community of Inquiry Model (Garrison, et al., (2000)}
-\end{figure}
-
-\hypertarget{cognitive-presence}{%
-\subsubsection*{Cognitive Presence}\label{cognitive-presence}}
-\addcontentsline{toc}{subsubsection}{Cognitive Presence}
-
-Cognitive presence, possibly the most foundational element, is the
-\textgreater{} extent to which the participants in any particular configuration of a community of inquiry are able to construct meaning through sustained communication (p.~89).
-
-Recall that this cognitive process is at the heart of constructivist learning environments. It seems obvious (be careful when people say that) that this construction of meaning through communication is the entire point of higher education. Your task as a student is to change your own mind, and that is a very tall order as our beliefs about many things are remarkably resilient. The way we engage in this task will have a significant bearing on the outcomes of the task.
-
-If we approach communication with too much confidence in our own views, we can shut out competing ideas to our own detriment, so it is important to bring a cautious intelligence, or, as I once heard a student describe it, epistemic humility. We all know that we are wrong about some things. The trouble is we don't know what we are wrong about and how we have misunderstood.
-
-Cognitive presence in a text-based environment (like an online course) carries with it some affordances, but also some disadvantages. It is a relatively common experience for people to type something in a text message or an email, only to have their intentions grossly misunderstood because there are fewer para-linguistic cues in text compared to verbal face-to-face communication. Recent developments in incorporating emojis have started to change this, but emojis are generally considered to be too informal for `serious scholarly work' or written professional communication. So, the relatively lean environment of text can lead to significant misunderstandings.
-
-On the other hand, for learners like me who tend toward introversion, the asynchronous nature of text-based learning environments is a huge advantage. I couldn't count the number of times that I have wanted to contribute to an in-class discussion, but needed too much time to formulate a coherent response, and before I knew it, the conversation had moved on. My point was no longer relevant, having been resolved by those in the class who were more extroverted and ready with an answer. A text-based environment, however, gives me \emph{time to think, write, revise, and then post} my response.
-
-\hypertarget{social-presence}{%
-\subsubsection*{Social Presence}\label{social-presence}}
-\addcontentsline{toc}{subsubsection}{Social Presence}
-
-Garrison, et.al. describe social presence as
-\textgreater the ability of participants in the Community of Inquiry to project their personal characteristics into the community, thereby presenting themselves to the other participants as ``real people.'' (p.~89)
-
-In any community, and especially the TWU community, the ability to \emph{belong} and to be accepted as a whole and integrated person is critical to people feeling like they \emph{actually do belong}. It is for this reason that many experienced online educators encourage a more colloquial style of writing in online forums or blogs. Strict adherence to APA or other style guides virtually eliminates self-referential language such as personal pronouns. It is hard to project your personal characteristics as a real person when you can only refer to yourself in the third person.
-
-By allowing a more personal style and the projection of self into the community, it is thought that students will build a sense of trust in the community and feel more empowered to participate in the difficult work of changing their minds. Social presence supports cognitive presence by allowing the learning environment to be safe and welcoming.
-
-\hypertarget{teaching-presence}{%
-\subsubsection*{Teaching Presence}\label{teaching-presence}}
-\addcontentsline{toc}{subsubsection}{Teaching Presence}
-
-This final element of the CoI model is the design and facilitation of the learning experience
-\textgreater to support and enhance social and cognitive presence for the purpose of realizing educational outcomes. (p.~90).
-
-Teaching presence can be a shared function between members of the community. Garrison, et al.~point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared. In a connected course like this one, there is a greater emphasis on shared facilitation in a community of learners compared to what might be experienced in a f2f (face to face) course. It is in this shared discourse in a safe environment that allows learners to engage in the difficult cognitive work of learning.
-
-\hypertarget{learning-activity-1}{%
-\subsection*{Learning Activity}\label{learning-activity-1}}
-\addcontentsline{toc}{subsection}{Learning Activity}
-
-\begin{reflect}
-\hypertarget{read-annotate-and-reflect}{%
-\paragraph{Read, Annotate, and
-Reflect}\label{read-annotate-and-reflect}}
-
-\textbf{Read}
-\href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical
-inquiry in a text-based environment: Computer conferencing in higher
-education} (access through the TWU library).
-
-If you haven't done so previously, sign up for and activate hypothes.is
-and while you are reading the article, leave some annotations that
-connect what you are reading to your own experience.
-
-Use the tag `ldrs663' in any annotations you create so that we can all
-find each other.
-
-\href{http://create.twu.ca/help/other-web-tools/hypothesis}{Click here
-for assistance getting set up with hypothes.is.}
-
-As you read, consider a time where you experienced a learning
-environment where the three presences described in the CoI were
-apparent. Consider the following questions and optionally, write your
-responses in a new post on your blog. - Were all three presences
-demonstrated? - Which of the three were most obvious? Least? - Which
-presence is most important for you?
-
-Note that this is an ungraded activity, but is designed to help prepare
-you for the assessments in this course. Throughout the course you are
-encouraged to take notes in a journal of some sort. Refer to these notes
-as you complete your assessments.
-\end{reflect}
-
-\hypertarget{modes-of-interaction}{%
-\section{Modes of Interaction}\label{modes-of-interaction}}
-
-For this next topic we will look at what we mean by `interaction', a word which is thrown around a lot in educational technology, but\ldots{}
-
-\href{https://youtu.be/G2y8Sx4B2Sk}{Watch}
-
-Before we get into the the topic of interaction, please take a few minutes to answer the following questions about scenarios that may or may not be considered `interaction'.
-(Note that you can check your answer right away, and then click the arrow for the next example.)
-
-What do you think? Do you agree with the `correct' and `incorrect' responses on the quiz?
-
-\hypertarget{interaction}{%
-\subsection*{Interaction}\label{interaction}}
-\addcontentsline{toc}{subsection}{Interaction}
-
-Anderson (2003) argues that, despite the lack of clarity around definitions of interaction, there seems to be a general understanding that interaction of some sort is a requirement for learning. He settles on the definition from Wagner (1994, p.8)
-
-\begin{quote}
-reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another.
-\end{quote}
-
-He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1).
-
-\begin{figure}
-\centering
-\includegraphics{assets/u2/Modes-Interaction-Anderson.png}
-\caption{Figure 1. Anderson's Modes of Interaction (2003)}
-\end{figure}
-
-At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
-
-\hypertarget{other-models-of-interaction}{%
-\subsection*{Other Models of Interaction}\label{other-models-of-interaction}}
-\addcontentsline{toc}{subsection}{Other Models of Interaction}
-
-Kanuka (2011) describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.).
-
-\begin{figure}
-\centering
-\includegraphics{assets/u2/Kanuka-Modes-of-Interaction.png}
-\caption{Figure 2. Kanuka's Model of Interaction (2011)}
-\end{figure}
-
-In Anderson's model, content is an agent in the process, but in Kanuka's model, content of some sort is assumed to be the foundation of learning environments and that interactions between and among learners and instructors happens in the context of making sense of the content. The content itself does not have agency.
-
-A combination of these two models was described by Madland (2014). Madland's model, shown in figure 3, is a return to Anderson's three-sided model except with the addition of peer interactions, and all interactions between agents occuring in the context of the content that is to be learned. Also added are the three sides of the model representing structured learning activities designed specifically to enhance the educative effects of the interactions.
-
-\begin{figure}
-\centering
-\includegraphics{assets/u2/Modes-of-Interaction-Madland.png}
-\caption{Figure 3. Madland's Model of Interaction (2014)}
-\end{figure}
-
-It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous `Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
-
-An alternative practice is to engage groups in a specific structured process of cooperation where everybody must do their work, or else the entire group suffers. An example is to have students work in peer review partners where students submit their assignments to their peer review partner who then provides feedback based on specific questions and categories of comments. When the original students receives their partner's feedback, they may choose how to integrate the suggestions into the final assignment that they submit to their instructor. Each student is then graded on the quality of their finished assignment, the quality of the feedback that they provided, and on the rationale for how they incorporated the peer review into their own work.
-
-There are myriad structures that can be used to ensure that interactions are inclined towards producing student learning, and we will introduce you to some of those in unit 5.
+Technology is not Pedagogy
 
 \hypertarget{learning-activity-2}{%
 \subsection*{Learning Activity}\label{learning-activity-2}}
 \addcontentsline{toc}{subsection}{Learning Activity}
 
-\begin{reflect}
-\hypertarget{read-and-reflect}{%
-\paragraph{Read and Reflect}\label{read-and-reflect}}
-
-Read the following article by Terry Anderson -
-\href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting
-the mix right again: An updated and theoretical rationale for
-interaction}
-
-As you read, consider what interactions you have experiences in online
-or f2f courses.
-\end{reflect}
-
-\hypertarget{interaction-equivalency-theorem}{%
-\section{Interaction Equivalency Theorem}\label{interaction-equivalency-theorem}}
-
-For our last topic of this unit, we'll explore Anderson's (2003) \emph{Interaction Equivalency Theorem}, stated as
-
-\begin{quote}
-Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student--teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
-High levels of more than one of these three modes will likely provide a more satisfying educational experience, though these experiences may not be as cost or time effective as less interactive learning sequences. (p.~4)
-\end{quote}
-
-At TWU, there has always been a significant emphasis placed on student-teacher interactions. This can be seen in small class sizes and opportunities for students to be involved in faculty-led research projects and travel studies. Distance education, however, has long suffered from a distinct lack of student-teacher and student-student interactions. For many years, distance education was delivered either through the post or through one-way media such as radio or TV, virtually eliminating interactions. This led to a pervasive view that distance education courses and programs were second-rate at best.
-
-However, now that modern communication infrastructure has developed to the point that media-rich, synchronous, two-way communication is almost free, opportunities for distance learning environments to include high levels of student-student and student-teacher interaction are much more feasible.
-
-One problem remains, though, and that is that student-teacher interaction is a scarce commodity. It is costly to hire enough faculty to enable one-on-one or small-group interaction between students and faculty. The distance educator's response to this challenge is to front-load the faculty input (high-level disciplinary expertise or cognitive presence) into the course materials and to de-couple `interaction' from both time and place.
-
-In an asynchronous, text-based environment, students and teachers do not need to be present in the same place at the same time in order to enjoy rich interactions.
-
-\hypertarget{unit-2-assessment}{%
-\section*{Unit 2 Assessment}\label{unit-2-assessment}}
-\addcontentsline{toc}{section}{Unit 2 Assessment}
-
 \begin{wp}
-\hypertarget{wordpress-post}{%
-\paragraph{WordPress Post}\label{wordpress-post}}
+\textbf{Visitor and Resident Diagram}
 
-Please complete the assignment under `Post 2' below. This will be your
-first of five draft posts during the course.
+I hope this activity will help you think about how the tools we use
+shape and sometimes determine the nature of our interactions with
+learners. Do the tools you use fall on the visitor or the resident end
+of your continuum? What about the learners in your classes?
 
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-2}{Blog
-Post 2}
+✔️ \textbf{Read}
+\href{https://firstmonday.org/ojs/index.php/fm/article/view/3171}{Visitors
+and Residents: A new typology for online engagement}\\
+✔️ Complete your own \textbf{\emph{Visitor/Resident}} map and share and
+discuss it with your Learning Pod. You can use the
+\href{https://experimental.worldcat.org/vandrmapping/editMap}{tool that
+is provided here (DON'T forget to screenshot it, or you'll lose it!)},
+or use a different tool like \href{https://canva.com}{Canva.com}.\\
+✔️ Share your Visitor-Resident Diagram in a new post on your WordPress
+blog. Include a short reflection on what your diagram tells you about
+your web presence. Feel free to interact with others' diagrams!
 \end{wp}
 
-\hypertarget{references}{%
-\section*{References}\label{references}}
-\addcontentsline{toc}{section}{References}
+\hypertarget{fippa-privacy-and-consent-resources}{%
+\section{FIPPA, Privacy, and Consent Resources}\label{fippa-privacy-and-consent-resources}}
 
-Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. \emph{International Review of Research in Open and Distance Learning,} 4(2), 1--14.
+It is second nature to most to take selfies and share them on Instagram, Snapchat, etc., but once you move into the role of an educator in either a public or private context, you must adhere to the laws set out by the \href{https://www.oipc.bc.ca/}{B.C. Office of Information and Privacy Commissioner}. Their office has put together guidelines for both public bodies and private bodies. TWU, as a private body is not held to the same standard as public bodies, but we should strive to meet the same standard. The guidelines for public bodies to better understand what the rules are is linked below and how to get consent is detailed on page 4 of the \href{https://esquimalt.public.sd61.bc.ca/wp-content/uploads/sites/34/2013/09/OIPC-Cloud-Computing-Guidelines-for-Public-Bodies.pdf}{BC Cloud Computing Guidelines (PDF)} and you can review the \href{http://www.bclaws.ca/Recon/document/ID/freeside/96165_00}{Freedom of Information and Protection of Privacy Act here.}. \href{https://www.twu.ca/about/university-privacy-policy}{TWU also has a privacy policy, available here.}
 
-Dewey, J. (1897). \emph{My pedagogic creed.} In M. S. Dworkin (Ed.), \emph{Dewey on education.} NewYork, NY: Teachers College Press.
+Each public body will have their own process (which may range from not allowing tools to pressure to integrate networked learning tools from outside of Canada), so it is important to understand your own setting and the law. You may find some administrators or staff breaking these rules or not aware of them. It is important for you to enter your field and uphold the law, regardless of the culture you enter. This does not mean that you do not engage online or outside of Canada. It means that if/when you do so, that you understand the steps, which are not much more complex than the consent you would get normally for going ``on the Internet,'' as is described in most settings, but you must name the date consent is effective and, if applicable, the date it expires. It is important that you work with your school district on the consent process. You can see an example of how K-12 school districts are addressing access to cloud tools outside of Canada \href{http://www.sd43.bc.ca/Resources/DigitalCitizenship/Pages/CloudTools.aspx}{here (Coquitlam)} and \href{https://www.sd61.bc.ca/programs/digital-learning/sd61-gafe/privacy-and-personal-information/}{here} plus \href{https://techforlearning.sd61.bc.ca/privacy/consent-process/}{here (Victoria)}. You must also name each tool individually. It cannot be ``blogging.'' You must name WordPress.com or Blogger, etc. If you use Flipgrid, you must name Flipgrid. Consent must also be informed, so effort must be taken to ensure that those signing consent understand the implications -- that their data may leave Canada, how it may be harvested, and to know about the U.S. Patriot Act. One archived resource by the Canadian Treasury Board provides significant detailed information about the \href{https://www.tbs-sct.gc.ca/pubs_pol/gospubs/TBM_128/usapa/faq-eng.asp}{Patriot Act here}. It is helpful to also review \href{https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf}{section 4(b) of the B.C. Digital Literacy Framework which is applicable K12 contexts} but helpful for others.
 
-Driscoll, M. P. (2005). \emph{Psychology of learning for instruction} (3rd ed.). Boston: Pearson Education.
+Additional resources can be found here:
 
-Garrison, D. R., Anderson, T., \& Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. \emph{The Internet and Higher Education, 2}, 87--105. \url{https://doi.org/10.1016/S1096-7516(00)00016-6}
+\href{https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance}{Privacy, Ethics \& Security in Digital Spaces Developing Awareness of Privacy}
 
-Kanuka, H. (2011). Interaction and the online distance classroom: Do instructional methods effect the quality of interaction? \emph{Journal of Computing in Higher Education,} 23(2), 143--156. \url{https://doi.org/10.1007/s12528-011-9049-4}
+\href{https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness}{Information Security Awareness} by the BC Government
 
-Madland, C. (2014). \emph{Structured student interactions in online distance learning: Exploring the study buddy activity} (Master's thesis). Athabasca University. Retrieved from \url{http://hdl.handle.net/10791/47}
+\href{http://mediasmarts.ca/}{MediaSmarts: Canada's Centre for Digital and Media Literacy}
+
+\hypertarget{fippa-privacy-and-consent-competencies}{%
+\subsection*{FIPPA, Privacy, and Consent Competencies}\label{fippa-privacy-and-consent-competencies}}
+\addcontentsline{toc}{subsection}{FIPPA, Privacy, and Consent Competencies}
+
+Learners should ensure that they:
+
+\begin{itemize}
+\tightlist
+\item
+  Are aware of the OIPC, FIPPA, and the Cloud Computing Guidelines and follow them\\
+\item
+  Understand what constitutes personal information\\
+\item
+  Understand that privacy online is a personal choice and must be respected\\
+\item
+  Understand that when you assume an ``educator'' hat, you have a duty for those under your care, their parents and families, and your colleagues with regard to their privacy and protection of personal information\\
+\item
+  Are aware that the Canadian federal government states that the chances are remote that the US Patriot Act will access personal information of Canadians, but recognizes that it is our responsibility to protect privacy preferences and to ensure that consent obtained is informed consent. Some families may be involved with restraining orders and need to be private for their safety, but the reasons for privacy may be preference. Either way, it is not our business as to the reasons for privacy preferences, but it is our responsibility to uphold preferences.\\
+\item
+  Understand how media moves through networks into US cloud-based services (e.g., back-ups on iTunes, syncing with Dropbox, messages with personal information is sent on Gmail, Google Docs, blog RSS subscriptions, etc.)\\
+\item
+  Understand that these acts do not prohibit participation in networked tools outside of Canada and many public bodies are in need of staff and leaders who model networked literacy and positive citizenship online for their community\\
+\item
+  Understand what appropriate consent looks like for public bodies and is aware of what alternative steps are to support learners when consent is not obtained.
+\end{itemize}
+
+\hypertarget{wordpress-and-privacy}{%
+\section{WordPress and Privacy}\label{wordpress-and-privacy}}
+
+Now that you have thought about privacy in our digital world, it is time for you to make some decisions about how you would like to `be' online.
+
+You are invited to document your learning in WordPress. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
+
+Please review all 5 steps below to decide on your approach.
+
+\hypertarget{decide-if-you-are-comfortable-posting-your-work-online.}{%
+\subsection*{Decide if you are comfortable posting your work online.}\label{decide-if-you-are-comfortable-posting-your-work-online.}}
+\addcontentsline{toc}{subsection}{Decide if you are comfortable posting your work online.}
+
+If not, you can document your learning offline (with technology) by changing the privacy settings on your blog or using Word documents and offline video. We would ask learners to consider using an online blogging tool with no identification/using a pseudonym, so as to develop network literacy, which is important in supporting learners, who are growing up in networked environments, but the preferences of learners will be respected and supported.
+
+If you are comfortable being online, then proceed to step 2.
+
+\hypertarget{would-you-like-to-use-your-real-name-or-use-a-pseudonym}{%
+\subsection*{Would you like to use your real name or use a pseudonym?}\label{would-you-like-to-use-your-real-name-or-use-a-pseudonym}}
+\addcontentsline{toc}{subsection}{Would you like to use your real name or use a pseudonym?}
+
+You can claim your name online and own your presence by using your full name. With increasing catfishing and identity theft online, it can be helpful to have a presence that may compete with any fake profiles of you that are out there or to have a more dominant presence so posts or pictures of you by others may get drowned out. That said, you may wish to create an identity without your personal information (e.g., West coast teacher). The choice is yours.
+
+With that decision made, proceed to step 3.
+
+\hypertarget{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}{%
+\subsection*{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}\label{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}}
+\addcontentsline{toc}{subsection}{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}
+
+We strongly recommend that you create a blog at create.twu.ca which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. We also have created a template for you there, which will make getting started easier. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., \url{http://yourname.ca} or \url{http://westcoastteacher.ca}) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting).
+
+Be sure you review the resources under the privacy tutorial on this site or talk to your instructor about the implications of your options. You should also review the resources at the BC Office of the Information and Privacy Commissioner along with the Cloud Computing Guidelines, which outline how to get consent.
+
+With that decision made, proceed to step 4.
+
+\hypertarget{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}{%
+\subsection*{You also have to decide if you want to make your blog public or private.}\label{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}}
+\addcontentsline{toc}{subsection}{You also have to decide if you want to make your blog public or private.}
+
+You can set an entire blog to be private or simply selected posts can be set to private. You can set a password or invite people to gain access. We have provided instructions for adjusting your privacy settings on the tutorial page for opened.ca.
+
+\begin{protip}
+\textbf{✨ ProTip}
+
+If you choose to make your blog private, we will not be able to
+syndicate your posts to the course site. You will still be able to
+participate in the course, but please contact your instructor if you
+choose to make your site only visible to registered users of the network
+or your site.
+\end{protip}
+
+And last, but not least\ldots{}
+
+\hypertarget{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}{%
+\subsection*{Finally, you have to think about where you and your content will end up.}\label{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}}
+\addcontentsline{toc}{subsection}{Finally, you have to think about where you and your content will end up.}
+
+The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn't and we'll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per page four of the BC OIPC Cloud Computing Guidelines linked here.
+
+\hypertarget{creating-a-blog}{%
+\subsection*{Creating a Blog}\label{creating-a-blog}}
+\addcontentsline{toc}{subsection}{Creating a Blog}
+
+Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Please visit\href{https://create.twu.ca}{create.twu.ca}, click the blue `Log in' link and follow the instructions. Once you are done there, you can return here to continue with the next section to get your site set up.
+
+\hypertarget{wordpress-setup}{%
+\section{WordPress Setup}\label{wordpress-setup}}
+
+\hypertarget{wordpress-resources}{%
+\subsection*{WordPress Resources}\label{wordpress-resources}}
+\addcontentsline{toc}{subsection}{WordPress Resources}
+
+\begin{figure}
+\centering
+\includegraphics{assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg}
+\caption{WordPress Dashboard (\href{https://unsplash.com/photos/sSPzmL7fpWc}{Image Credit})}
+\end{figure}
+
+We are here to help you create your site, so do not hesitate to ask for technical support. To get started on creating your site we suggest the following steps:
+
+✔️ Log in if you have not already logged in; get familiar with the \href{http://sites.uci.edu/docs/start/dashboard/}{administration interface} and click \href{https://www.youtube.com/watch?v=-b569fs2t-Y}{here for more information on it}. The administration interface is also where the Dashboard in WordPress is located and \href{https://codex.wordpress.org/Dashboard_Screen}{you can get more info about it here.}\\
+✔️ Remember: When you are in the site administration area of your site, you can get tips on what you are doing by clicking the ``Help'' menu on the top-right corner.\\
+✔️ Review your settings, start by changing your Site Title under \texttt{Settings\textgreater{}General}. You need to hit the ``Save'' button to save your changes. \href{https://codex.wordpress.org/Settings_General_Screen}{More information about General Settings here.}\\
+✔️ \href{http://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/}{Add a new post}{]}. You can pick one of the existing categories by checking a box on the sidebar of the authoring interface. \href{http://www.wpbeginner.com/glossary/category/}{You can manage your categories here.} You will need to hit the blue ``Publish'' button on the right hand side before your post appears. \href{https://en.support.wordpress.com/pages/page-visibility/}{Information on managing the privacy settings on individual posts is here.}\\
+✔️ Edit your about me page by introducing yourself and sharing a little about yourself.\\
+✔️ You are welcome to change the images and upload your own. \href{https://www.youtube.com/watch?v=GtMOAaMFaPs}{Here is information about using images from Google.}
+
+\hypertarget{wordpress-tutorials}{%
+\section{WordPress Tutorials}\label{wordpress-tutorials}}
+
+When you're ready to start customizing your blog and putting content in, check out some tutorials available to you:
+
+✔️ \href{http://www.wpbeginner.com/start-here/}{Beginner's guide for WordPress by WPBeginner}\\
+✔️ \href{https://learn.wordpress.com/}{Learn WordPress website by WordPress}\\
+✔️ \href{http://digitaltattoo.ubc.ca/}{Digital Tattoo Project at UBC} -- learn digital literacy skills. Check out the menu sections and \href{http://digitaltattoo.ubc.ca/publish/}{consider looking at the publish section.}
+
+If you are confused about anything it is always good to do an initial Google or YouTube search, or reach out to your learning pod or your instructor.
+
+\hypertarget{unit-1-assessment}{%
+\subsection{Unit 1 Assessment}\label{unit-1-assessment}}
+
+\href{https://ma-lead.github.io/ldrs663/assessments}{Please see the details for Post 1}
 
 \hypertarget{educational-experience-in-a-multi-access-world}{%
 \chapter{Educational Experience in a Multi-Access World}\label{educational-experience-in-a-multi-access-world}}
@@ -2559,72 +3211,12 @@ the reading above, consider the following questions:
 \section*{Unit 5 Assessment}\label{unit-5-assessment}}
 \addcontentsline{toc}{section}{Unit 5 Assessment}
 
-\begin{todo}
-\hypertarget{things-to-do-this-week}{%
-\paragraph{Things To Do This Week}\label{things-to-do-this-week}}
-
-👥 Meet in Zoom
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Class+Meeting\&iso=20220506T0730\&p1=1109\&ah=1\&am=30}{Friday,
-May 6 - 7:30 AM PDT}\\
-📖 \textbf{Read} and \textbf{Reflect}
-\href{http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf}{\textbf{Experience
-and Education: Chapter 2}}.\\
-📖 \textbf{Read} and \textbf{Reflect} Topic 2 Learning Activity\\
-📖 \textbf{Read} and \textbf{Reflect} Topic 3 Learning Activity\\
-📖 \textbf{Read} and \textbf{Reflect}
-\href{https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/}{\textbf{Teaching
-in a Digital Age (Ch. 1)}}\\
-📷 \textbf{Look,} \textbf{Read,} and \textbf{Reflect}
-\href{https://jolt.merlot.org/vol9no2/irvine_0613.htm}{\textbf{Realigning
-Higher Education for the 21st-Century Learner through Multi-Access
-Learning}}\\
-📖 \textbf{Read} and \textbf{Reflect}
-\href{https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-10-modes-of-delivery/}{\textbf{Teaching
-in a Digital Age (Ch. 10)}}\\
-⌨️ \textbf{Publish} your
-\href{https://far.twu.ca/ldrs/663202109/assignments}{Unit 5 Post} using
-the category \texttt{ldrs663}.\\
-👥 \textbf{Complete} your
-\href{https://far.twu.ca/ldrs/663202109/assignments}{Peer Coaching
-Session} by
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Class+Meeting\&iso=20220506T0730\&p1=1109\&ah=1\&am=30}{Friday,
-May 6 - 7:30 AM PDT}\\
-✅ Please complete these items by
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Class+Meeting\&iso=20220506T0730\&p1=1109\&ah=1\&am=30}{Friday,
-May 6 - 7:30 AM PDT}
-
-✅ It is also critical to begin working on your major project for the
-course, the
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#facilitation-resource-project-40}{Facilitation
-Resource Project}. We will talk about this in class on April 29.
-\end{todo}
-
 \hypertarget{concluding-the-course}{%
 \chapter{Concluding the Course}\label{concluding-the-course}}
 
 Congratulations! We have taken a bit of a whirlwind tour through the main ideas of \emph{facilitating learning experiences} and \emph{coaching learners through challenges}. These two competencies form the backbone of the model of teaching and learning in the TWU GLOBAL FAR Centres and similar programs, and they are also highly transferable skills for anyone who is in a role that involves the acquisition of new cognitive skills.
 
 These two related competencies are not `new' educational ideas, but are based in a long history of educational research showing the power of social constructivist pedagogies to transform thinking within a critical community of inquiry.
-
-\begin{todo}
-\hypertarget{things-to-do-this-week}{%
-\paragraph{Things To Do This Week}\label{things-to-do-this-week}}
-
-👥 Meet in Zoom
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20220506T2359\&p1=256\&ah=1\&am=30\&p1=1109}{Friday
-May 13 - End of the Day}\\
-⌨️ \textbf{Publish} your
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#showcase-post}{Showcase
-Post} using the category \texttt{ldrs663} AND the category
-\texttt{Showcase}. Due
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20220506T2359\&p1=256\&ah=1\&am=30\&p1=1109}{Friday
-May 13 - End of the Day}\\
-👥 \textbf{Complete} your
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#facilitation-resource-project-40}{Facilitation
-Resource Project} Due
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20220506T2359\&p1=256\&ah=1\&am=30\&p1=1109}{Friday
-May 13 - End of the Day}
-\end{todo}
 
   \bibliography{book.bib}
 
