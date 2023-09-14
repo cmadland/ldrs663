@@ -95,9 +95,11 @@ The reality is that
 ~Goulston & Ullmen (2013)
 
 
+
 ```{block2, type='reflect'}
 
 Why is “listening into” the inner world of the learner’s lived-experience so difficult? 
+
 
 ```
 

@@ -73,62 +73,86 @@
 \makeatother
 
 \usepackage{tcolorbox}
+\tcbuselibrary{breakable}
 
-
-\newtcolorbox{protip}{
+\newtcolorbox{blackbox}{
   colback=black,
   coltext=white,
   colframe=black,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{bonus}{
   colback=blue!15,
   colframe=blue!15,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{reflect}{
   colback=green!5,
   colframe=green!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{assessment}{
   colback=blue!5,
   colframe=blue!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
+  
 \newtcolorbox{progress}{
   colback=purple!10,
   colframe=purple!10,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{video}{
   colback=yellow!5,
   colframe=yellow!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{caution}{
   colback=red!5,
   colframe=red!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
 \newtcolorbox{feedback}{
   colback=black!5,
   colframe=black!5,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
-\newtcolorbox{todo}{
-  colback=black!5,
-  colframe=black!5,
+  arc=4pt,
+  breakable
+  }
+  \newtcolorbox{blank}{
+  colback=white,
+  colframe=black,
   coltext=black!80,
   boxsep=5pt,
-  arc=4pt}
+  arc=4pt,
+  breakable
+  }
+
+  \usepackage{mdframed}
+  \newenvironment{blockhead}
+  {\begin{mdframed}[backgroundcolor=gray!10]}
+  {\end{mdframed}}
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -139,13 +163,13 @@
 \urlstyle{same}
 \hypersetup{
   pdftitle={Leadership 663},
-  pdfauthor={Mark Halvorson, Colin Madland, Scott Macklin},
+  pdfauthor={Contributors: Mark Halvorson, Colin Madland, Scott Macklin},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
 \title{Leadership 663}
-\author{Mark Halvorson, Colin Madland, Scott Macklin}
-\date{2023-09-13}
+\author{Contributors: Mark Halvorson, Colin Madland, Scott Macklin}
+\date{2023-09-14}
 
 \begin{document}
 \maketitle
@@ -226,11 +250,7 @@ Please note that you are not required to purchase any of the folllowing resource
 \end{enumerate}
 
 \begin{caution}
-It will be assumed that you have read, understand, and agree to the
-information provided on the
-\href{https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0}{`Academic
-Dishonesty Policy' page}. If you have any questions at all please
-contact your instructor.
+It will be assumed that you have read, understand, and agree to the information provided on the \href{https://www.twu.ca/student-handbook/university-policies/academic-misconduct/procedures-dealing-acts-academic-0}{`Academic Dishonesty Policy' page}. If you have any questions at all please contact your instructor.
 \end{caution}
 
 \hypertarget{graduate-level-writing-standards}{%
@@ -243,33 +263,24 @@ For students in 663, graduate level writing standards following APA 7 are expect
 \chapter*{Assessments}\label{assessments}}
 \addcontentsline{toc}{chapter}{Assessments}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2308}}
-  >{\centering\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3846}}
-  >{\centering\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3846}}@{}}
+\begin{longtable}[]{@{}lc@{}}
 \toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-Assessment Task
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-Due Date
-\end{minipage} & \begin{minipage}[b]{\linewidth}\centering
-\% of Final Grade
-\end{minipage} \\
+Assessment Task & Due Date \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-Learning Reflection Blogs & Ongoing, weekly & Required but not assessed \\
-Facilitated Curriculum Analysis & Feb 12 & 10\% \\
-Small Group Facilitation & Feb 19 & 10\% \\
-Peer Coaching Session & Feb 26 & 15\% \\
-Showcase Post (choose one of your learning reflection blog posts to expand and elaborate) & Mar 15 & 25\% \\
-Facilitation Resource Project & Mar 15 & 40\% \\
+Learning Reflection Blogs & Ongoing \\
+Facilitated Curriculum Analysis & Sept 23 \\
+Small Group Facilitation & Sept 30 \\
+Peer Coaching Session & Oct 14 \\
+Showcase Post & Nov 4 \\
+Facilitation Resource Project & Nov 8 \\
 \end{longtable}
 
-\hypertarget{learning-reflection-blogs-25}{%
-\section*{Learning Reflection Blogs (25\%)}\label{learning-reflection-blogs-25}}
-\addcontentsline{toc}{section}{Learning Reflection Blogs (25\%)}
+\hypertarget{learning-reflection-blogs}{%
+\section*{Learning Reflection Blogs}\label{learning-reflection-blogs}}
+\addcontentsline{toc}{section}{Learning Reflection Blogs}
 
 Throughout this course, you will be invited to write four ``working'' posts about what you are learning in this course. You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. At the end of the course you will produce a ``showcase'' post, which will represent your best work. The showcase post will be the only graded post; however, your final grade will also consider how your ideas developed over the process of you writing four working draft posts.
 Each of your draft posts should be 400-500 words.
@@ -286,27 +297,7 @@ Each of your draft posts should be 400-500 words.
 \subsubsection*{Topic}\label{topic}}
 \addcontentsline{toc}{subsubsection}{Topic}
 
-\begin{itemize}
-\tightlist
-\item
-  In a new post, \href{https://ma-lead.github.io/ldrs663/building-the-web.html\#learning-activity}{complete the Visitors and Residents in online spaces Learning Activity}. What do you notice about your map? What do you wonder?
-\end{itemize}
-
-To submit all of your posts for the course, create a new post on your own WordPress blog and use the category \texttt{ldrs663}.
-
-\hypertarget{post-2}{%
-\subsection*{Post 2}\label{post-2}}
-\addcontentsline{toc}{subsection}{Post 2}
-
-\hypertarget{due-at-the-end-of-unit-2}{%
-\subsubsection*{Due at the end of Unit 2}\label{due-at-the-end-of-unit-2}}
-\addcontentsline{toc}{subsubsection}{Due at the end of Unit 2}
-
-\hypertarget{read-and-discuss}{%
-\subsubsection*{Read and Discuss}\label{read-and-discuss}}
-\addcontentsline{toc}{subsubsection}{Read and Discuss}
-
-\textbf{Review} \href{https://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting the mix right again: An updated and theoretical rationale for interaction} by Terry Anderson.\\
+\textbf{Read} \href{https://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting the mix right again: An updated and theoretical rationale for interaction} by Terry Anderson.\\
 \textbf{Read} \href{https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4}{Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?} by Heather Kanuka.
 
 Then, post a reponse on your blog defending or criticizing Anderson's Interaction Equivalency Theorem. Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
@@ -317,75 +308,7 @@ If your birthday is between July 1 and December 31, \textbf{criticize} Anderson'
 
 Feel free to respond to arguments presented by your colleagues for or against the theorem.
 
-To submit this discussion post, create a new post on your own WordPress blog and use the category `ldrs663'.
-
-\hypertarget{post-3}{%
-\subsection*{Post 3}\label{post-3}}
-\addcontentsline{toc}{subsection}{Post 3}
-
-\hypertarget{due-at-the-end-of-unit-3}{%
-\subsubsection*{Due at the end of Unit 3}\label{due-at-the-end-of-unit-3}}
-\addcontentsline{toc}{subsubsection}{Due at the end of Unit 3}
-
-Choose ONE of the Learning Activities in Unit 3 and respond to one or more of the prompts, or follow your own questions and thinking about the topic.
-
-To submit this discussion post, create a new post on your own WordPress blog and use the category `ldrs663'.
-
-\hypertarget{post-4}{%
-\subsection*{Post 4}\label{post-4}}
-\addcontentsline{toc}{subsection}{Post 4}
-
-\hypertarget{due-at-the-end-of-unit-5}{%
-\subsubsection*{Due at the end of Unit 5}\label{due-at-the-end-of-unit-5}}
-\addcontentsline{toc}{subsubsection}{Due at the end of Unit 5}
-
-\hypertarget{topic-1}{%
-\subsubsection*{Topic}\label{topic-1}}
-\addcontentsline{toc}{subsubsection}{Topic}
-
-In your Discussion Post for this unit, you are being asked to select one core coaching competencies identified in this unit and reflect on how you might apply it in an educational setting. You can use the following questions to guide your writing:
-
-\begin{itemize}
-\tightlist
-\item
-  How would you define the coaching competency?\\
-\item
-  Why is the competency important?\\
-\item
-  What set of integrated knowledge, skills, aptitudes and attributes help define, in more detail, how to successfully perform the job to be done?
-\end{itemize}
-
-To submit this post, create a new post on your own WordPress blog and use the category `ldrs663'.
-
-\hypertarget{optional-post-topic}{%
-\subsection*{OPTIONAL Post Topic}\label{optional-post-topic}}
-\addcontentsline{toc}{subsection}{OPTIONAL Post Topic}
-
-\hypertarget{based-on-unit-5}{%
-\subsubsection*{Based on Unit 5}\label{based-on-unit-5}}
-\addcontentsline{toc}{subsubsection}{Based on Unit 5}
-
-\hypertarget{topic-2}{%
-\paragraph*{Topic}\label{topic-2}}
-\addcontentsline{toc}{paragraph}{Topic}
-
-Throughout this unit we have explore the idea of the educational experience. Your task for the Unit 5 Blog Post, is to reflect on recent trends in higher, and other forms, of adult education in terms of the multitude of new ways institutions are offering access educational experiences. You can use the following questions to guide your writing:
-
-\begin{itemize}
-\tightlist
-\item
-  How can educational institutions give learners more control over their learning experiences?\\
-\item
-  What benefits and challenges does learner-centred access to education introduce?\\
-\item
-  Is the recent move towards multi-access education shifting the site of education back to an emphasis on study and away from the focus on instruction that dominated the modern era?\\
-\item
-  How might this shift change the educator's role and responsibilities?\\
-\item
-  How might this shift change the learner's role and responsibilities change?\\
-\item
-  How can institutions ensure quality and transformational learning outcomes?
-\end{itemize}
+To submit all of your posts for the course, create a new post on your own WordPress blog and use the category \texttt{ldrs663}.
 
 \hypertarget{showcase-post}{%
 \subsection*{Showcase Post}\label{showcase-post}}
@@ -395,35 +318,32 @@ Throughout this unit we have explore the idea of the educational experience. You
 \subsubsection*{Due at the end of the course}\label{due-at-the-end-of-the-course}}
 \addcontentsline{toc}{subsubsection}{Due at the end of the course}
 
-\hypertarget{topic-3}{%
-\paragraph*{Topic}\label{topic-3}}
+\hypertarget{topic-1}{%
+\paragraph*{Topic}\label{topic-1}}
 \addcontentsline{toc}{paragraph}{Topic}
 
-Choose one of the previous 5 posts that you would like to showcase as your best work. Take some time to polish and expand your post (aim for 600-700 words). Ways to expand your post might include:
-- finding more published research about the topic to integrate into your post;\\
-- writing about how your views have changed on the topic during the course;
-- writing a counter-argument refuting your previous post.
+Create a new post on your blog in which you outline how you have met each of the 8 learning outcomes in the course. Include links to your previous posts, other learners' posts, resources you have found in the course or on your own, your reflections on the assignments. Make sure you make connections between your work in the course, what you have learned, and how your learning will impact your future work and who you hope to become (personally, professionally, or both).
 
-Please include citations (links) and a reference list at the end of your post.
+This post should be polished and professional with proper APA citations (linked) and a reference list (don't worry about hanging indents!).
 
 To submit this discussion post, create a new post on your own WordPress blog and use the categories `ldrs663' and `showcase'.
 
-\hypertarget{facilitated-curriculum-analysis-10}{%
-\section*{Facilitated Curriculum Analysis (10\%)}\label{facilitated-curriculum-analysis-10}}
-\addcontentsline{toc}{section}{Facilitated Curriculum Analysis (10\%)}
+\hypertarget{facilitated-curriculum-analysis}{%
+\section*{Facilitated Curriculum Analysis}\label{facilitated-curriculum-analysis}}
+\addcontentsline{toc}{section}{Facilitated Curriculum Analysis}
 
 Working together as a learning pod, examine a curricular resource that is, or could be, used with a facilitated learning approach. Emphasis will be placed on courses in higher education, including a selection of TWU's library of FAR courses (specifically designed to be delivered in a facilitated learning approach). However, a range of other formats are open for investigation, including (but not limited to) community-based programs, professional certification programs, corporate workshops or training programs, and masterclasses. Your pod will be invited to select a specific course of study and asked to assess the curriculum from a facilitation and coaching perspective.
 
-\hypertarget{small-group-facilitation-10}{%
-\section*{Small Group Facilitation (10\%)}\label{small-group-facilitation-10}}
-\addcontentsline{toc}{section}{Small Group Facilitation (10\%)}
+\hypertarget{small-group-facilitation}{%
+\section*{Small Group Facilitation}\label{small-group-facilitation}}
+\addcontentsline{toc}{section}{Small Group Facilitation}
 
 \begin{itemize}
 \tightlist
 \item
   Working in a learning pod you will each choose, prepare, and facilitate one 15 to 20 minute long small group discussion that is based on one of the units/topics from LDRS 663. You will record a video of your session (likely in Zoom).\\
 \item
-  Following the facilitation, your group will engage in a 10-15 minute debrief about your facilitation. You may choose to structure the debrief following the \textbf{\emph{What, So What, Now What? W³}} from the Learning Activity in Unit 3, Topic 6.\\
+  Following the facilitation, your group will engage in a 10-15 minute debrief about your facilitation. You may choose to structure the debrief following the \textbf{\emph{What, So What, Now What? W³}} from Liberating Structures.\\
 \item
   Finally, you will write a 300-500 word critical reflection on your actions as the learning facilitator, including the debrief.
 \end{itemize}
@@ -444,15 +364,15 @@ In your facilitation session, demonstrate and reflect on the following:
   Fourth, fostering learning (showing interest and enthusiasm, spending more time asking than telling, posing open-ended questions, waiting for learners to respond, seeking clarification, activating learners' prior knowledge effectively, using appropriate forms of engagement to stimulate learner involvement).
 \end{itemize}
 
-\hypertarget{peer-coaching-session-15}{%
-\section*{Peer Coaching Session (15\%)}\label{peer-coaching-session-15}}
-\addcontentsline{toc}{section}{Peer Coaching Session (15\%)}
+\hypertarget{peer-coaching-session}{%
+\section*{Peer Coaching Session}\label{peer-coaching-session}}
+\addcontentsline{toc}{section}{Peer Coaching Session}
 
 Working with another student (in your pod), you will each coach each other through the process of writing your final ``showcase'' post as part of your learning reflection blog assignment. You will record a video of your session and write critical reflection on your actions as the learning coach.
 
-\hypertarget{facilitation-resource-project-40}{%
-\section*{Facilitation Resource Project (40\%)}\label{facilitation-resource-project-40}}
-\addcontentsline{toc}{section}{Facilitation Resource Project (40\%)}
+\hypertarget{facilitation-resource-project}{%
+\section*{Facilitation Resource Project}\label{facilitation-resource-project}}
+\addcontentsline{toc}{section}{Facilitation Resource Project}
 
 Working as a learning pod, you will create a guide to serve as a resource for you and others to facilitate a particular course of study. We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of coaching and facilitation in real-world settings. As you may be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking and learning processes that will lead to them discovering what they need to know from the expertly prepared course materials in order to help solve their questions.
 
@@ -460,7 +380,7 @@ Working as a learning pod, you will create a guide to serve as a resource for yo
 \section*{Grading Standards and the SOLO Taxonomy}\label{grading-standards-and-the-solo-taxonomy}}
 \addcontentsline{toc}{section}{Grading Standards and the SOLO Taxonomy}
 
-An important reality of higher education is that we need to provide a single number between 0 and 100 to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If we am going to be fair about it, we need to consider where you are starting relative to where you end up, we need to understand your individual context, and we need to be able to determine that number by researching your work.
+An important reality of higher education is that we need to provide a single number between 0 and 100 to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If we are going to be fair about it, we need to consider where you are starting relative to where you end up, we need to understand your individual context, and we need to be able to determine that number by researching your work.
 
 \textbf{\emph{Assessment is research.}} You need to show us evidence that you have met the outcomes of the course in alignment with the parameters of the assignment, and you need to do so in a way that shows you can think clearly, write persuasively, and extend your learning beyond the boundaries of the course.
 
@@ -510,7 +430,7 @@ A relational response displays knowledge or ability in \textbf{\emph{multiple di
 
 An extended abstract response displays knowledge or ability in \textbf{\emph{multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs}}.
 
-If you are providing responses at a \texttt{pre-\ or\ uni-structural} level in a university course, you are going to have a bad time. \texttt{Multi-structural} responses will lead to grades in the `C' range. At minimum, your responses should be \texttt{unambiguously\ relational} for a grade in the `B' range and \texttt{extended\ abstract} for a grade in the `A' range.
+If you are providing responses at a \texttt{pre-\ or\ uni-structural} level in a graduate course, you are going to have a bad time. \texttt{Multi-structural} responses will lead to grades in the `C' range. At minimum, your responses should be \texttt{unambiguously\ relational} for a grade in the `B' range and \texttt{extended\ abstract} for a grade in the `A' range.
 
 The \href{https://www.twu.ca/about/policies-guidelines/university-standard-grading-system}{TWU Grading Scale}, available on the syllabus for this course, describes A-, A, or A+ work as
 
@@ -528,6 +448,30 @@ We are happy to have a conversation with you if you feel your work has been unfa
 
 \hypertarget{learning-in-community}{%
 \chapter{Learning in Community}\label{learning-in-community}}
+
+\begin{feedback}
+{Things To Do This Week}
+
+You will be directed when to complete the following tasks.
+
+\begin{itemize}
+\tightlist
+\item
+  Meet in Zoom \href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting\&iso=20230913T10\&p1=256\&ah=1}{{Wednesday, September 13 - 10:00 AM PDT }(Click to check your local time)} ✅
+\item
+  Create a blog site \href{https://create.twu.ca}{on the TWU WordPress Network}. \href{https://ma-lead.github.io/ldrs663/wordpress}{Click here for instructions.}\\
+\item
+  \textbf{Read} \href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical inquiry in a text-based environment: Computer conferencing in higher education}\\
+\item
+  \textbf{Read} \href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting the mix right again: An updated and theoretical rationale for interaction}\\
+\item
+  \textbf{Read} \href{https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4}{Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?}\\
+\item
+  \textbf{Publish} your arguments for or against the \emph{Interaction Equivalency Theorem} on your blog..\\
+\item
+  Please complete these tasks by {Saturday, September 16} before your regular bedtime. The reason for this short week is that we want to start our weeks on Mondays. Don't worry too much if you don't get this one done right on time.
+\end{itemize}
+\end{feedback}
 
 \hypertarget{overview}{%
 \section*{Overview}\label{overview}}
@@ -584,66 +528,26 @@ Here are the resources you will need to complete this unit:
   \href{https://rdcu.be/cKSGf}{Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?}
 \end{itemize}
 
-\begin{protip}
-\hypertarget{protip}{%
-\paragraph*{✨ ProTip}\label{protip}}
-\addcontentsline{toc}{paragraph}{✨ ProTip}
+\begin{blank}
+{✨ ProTip}
 
-Ok\ldots it would seem that the TWU library has lost access to the
-database that contains the Kanuka article above (`Interaction and the
-online distance classroom\ldots{}'). Here is how I go about tracking
-down articles In this case, I've completed all of the checked items and
-am waiting to hear back from Dr.~Kanuka):
+Ok\ldots it would seem that the TWU library has lost access to the database that contains the Kanuka article above (`Interaction and the online distance classroom\ldots{}'). Here is how I go about tracking down articles In this case, I've completed all of the checked items and am waiting to hear back from Dr.~Kanuka):
 
-✅ I see if I have access through another library. As a PhD candidate at
-UVic, I have access to their library, and it turns out that this article
-is in their collection, but that doesn't help you.\\
-✅ I use a Firefox extension called `Unpaywall', which searches for
-open-access versions of the same article as researchers are often able
-to post pre-print versions of their article on their own site. In this
-case, unpaywall just links to the PDF that I have access to through
-UVic.\\
-✅ I contact the \href{https://libguides.twu.ca/help}{TWU library} for
-assistance, as librarians are among the most helpful people on the
-planet. In this case, I was provided an open link, but that link looks
-fishy as it isn't apparently tied to Kanuka's site, but rather an
-aggregation site. Often, I also request an inter-library loan, in which
-the TWU library would contact another library (maybe UVic) and request a
-copy through them.\\
-✅ Search \href{https://scholar.google.com}{Google Scholar} as that will
-often pick up on preprints on the author's website.\\
-✅ Search \href{https://www.researchgate.net/}{ResearchGate} for
-preprints.\\
-✅ Contact the author of the paper. They often have permission to share
-preprints (see above) and are usually happy to share their work,
-especially with grad students.\\
-❌ Here is where we start getting into academic grey areas\ldots so
-don't do this. It is against publishers policy to use tools like the
-hashtag \#ICanHazPDF on Twitter, where you post the title of the article
-you are looking for under that hashtag and another researcher might
-respond by DM'ing you a copy. You shouldn't do this, because it cuts
-into the \textbf{\emph{absurd}} profits of massive multi-national
-corporations who benefit from the free work of researchers all over the
-world. This is nothing like walking down a hallway and knocking on your
-colleague's door to ask if they have a copy of a paper, because that is
-super illegal too and this is digital\ldots or something.
+✅ I see if I have access through another library. As a PhD candidate at UVic, I have access to their library, and it turns out that this article is in their collection, but that doesn't help you.\\
+✅ I use a Firefox extension called `Unpaywall', which searches for open-access versions of the same article as researchers are often able to post pre-print versions of their article on their own site. In this case, unpaywall just links to the PDF that I have access to through UVic.\\
+✅ I contact the \href{https://libguides.twu.ca/help}{TWU library} for assistance, as librarians are among the most helpful people on the planet. In this case, I was provided an open link, but that link looks fishy as it isn't apparently tied to Kanuka's site, but rather an aggregation site. Often, I also request an inter-library loan, in which the TWU library would contact another library (maybe UVic) and request a copy through them.\\
+✅ Search \href{https://scholar.google.com}{Google Scholar} as that will often pick up on preprints on the author's website.\\
+✅ Search \href{https://www.researchgate.net/}{ResearchGate} for preprints.\\
+✅ Contact the author of the paper. They often have permission to share preprints (see above) and are usually happy to share their work, especially with grad students.\\
+❌ Here is where we start getting into academic grey areas\ldots so don't do this. It is against publishers policy to use tools like the hashtag \#ICanHazPDF on Twitter, where you post the title of the article you are looking for under that hashtag and another researcher might respond by DM'ing you a copy. You shouldn't do this, because it cuts into the \textbf{\emph{absurd}} profits of massive multi-national corporations who benefit from the free work of researchers all over the world. This is nothing like walking down a hallway and knocking on your colleague's door to ask if they have a copy of a paper, because that is super illegal too and this is digital\ldots or something.
 
-And this whole mess of strategies could be avoided if everyone published
-under an open license and the research that is created, usually with
-government funding, was freely available to those who need it.
+And this whole mess of strategies could be avoided if everyone published under an open license and the research that is created, usually with government funding, was freely available to those who need it.
 
-\hypertarget{an-update-on-this-link}{%
-\subparagraph{An update on this
-link\ldots{}}\label{an-update-on-this-link}}
+{An update on this link\ldots{}}
 
-✅ I received a response from the author, who generously provided a PDF
-copy of the article. This is very common.\\
-✅ Also, I discovered at the bottom of the page when I viewed the
-article signed into a different library, that there was an option to get
-a sharing link, so I copied that link and updated the URL above. This
-seems to provide a read-only link for people who don't have access
-through a library or other institution.
-\end{protip}
+✅ I received a response from the author, who generously provided a PDF copy of the article. This is very common.\\
+✅ Also, I discovered at the bottom of the page when I viewed the article signed into a different library, that there was an option to get a sharing link, so I copied that link and updated the URL above. This seems to provide a read-only link for people who don't have access through a library or other institution.
+\end{blank}
 
 \begin{figure}
 \centering
@@ -735,36 +639,22 @@ Teaching presence can be a shared function between members of the community. Gar
 \addcontentsline{toc}{subsection}{Learning Activity}
 
 \begin{reflect}
-\hypertarget{read-annotate-and-reflect}{%
-\paragraph{Read, Annotate, and
-Reflect}\label{read-annotate-and-reflect}}
+{Read, Annotate, and Reflect}
 
-\textbf{Read}
-\href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical
-inquiry in a text-based environment: Computer conferencing in higher
-education} (access through the TWU library).
+\textbf{Read} \href{https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166}{Critical inquiry in a text-based environment: Computer conferencing in higher education} (access through the TWU library).
 
-If you haven't done so previously, sign up for and activate hypothes.is
-and while you are reading the article, leave some annotations that
-connect what you are reading to your own experience.
+If you haven't done so previously, sign up for and activate hypothes.is and while you are reading the article, leave some annotations that connect what you are reading to your own experience.
 
-Use the tag `ldrs663' in any annotations you create so that we can all
-find each other.
+Use the tag `ldrs663' in any annotations you create so that we can all find each other.
 
-\href{http://create.twu.ca/help/other-web-tools/hypothesis}{Click here
-for assistance getting set up with hypothes.is.}
+\href{http://create.twu.ca/help/other-web-tools/hypothesis}{Click here for assistance getting set up with hypothes.is.}
 
-As you read, consider a time where you experienced a learning
-environment where the three presences described in the CoI were
-apparent. Consider the following questions and optionally, write your
-responses in a new post on your blog. - Were all three presences
-demonstrated? - Which of the three were most obvious? Least? - Which
-presence is most important for you?
+As you read, consider a time where you experienced a learning environment where the three presences described in the CoI were apparent. Consider the following questions and optionally, write your responses in a new post on your blog.
+- Were all three presences demonstrated?
+- Which of the three were most obvious? Least?
+- Which presence is most important for you?
 
-Note that this is an ungraded activity, but is designed to help prepare
-you for the assessments in this course. Throughout the course you are
-encouraged to take notes in a journal of some sort. Refer to these notes
-as you complete your assessments.
+Note that this is an ungraded activity, but is designed to help prepare you for the assessments in this course. Throughout the course you are encouraged to take notes in a journal of some sort. Refer to these notes as you complete your assessments.
 \end{reflect}
 
 \hypertarget{modes-of-interaction}{%
@@ -832,16 +722,10 @@ There are myriad structures that can be used to ensure that interactions are inc
 \addcontentsline{toc}{subsection}{Learning Activity}
 
 \begin{reflect}
-\hypertarget{read-and-reflect}{%
-\paragraph{Read and Reflect}\label{read-and-reflect}}
+Read the following article by Terry Anderson
+- \href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting the mix right again: An updated and theoretical rationale for interaction}
 
-Read the following article by Terry Anderson -
-\href{http://www.irrodl.org/index.php/irrodl/article/view/149/230}{Getting
-the mix right again: An updated and theoretical rationale for
-interaction}
-
-As you read, consider what interactions you have experiences in online
-or f2f courses.
+As you read, consider what interactions you have experiences in online or f2f courses.
 \end{reflect}
 
 \hypertarget{interaction-equivalency-theorem}{%
@@ -867,14 +751,11 @@ In an asynchronous, text-based environment, students and teachers do not need to
 \addcontentsline{toc}{section}{Unit 2 Assessment}
 
 \begin{wp}
-\hypertarget{wordpress-post}{%
-\paragraph{WordPress Post}\label{wordpress-post}}
+{WordPress Post}
 
-Please complete the assignment under `Post 2' below. This will be your
-first of five draft posts during the course.
+Please complete the assignment under `Post 1' below. This will be your first of five draft posts during the course.
 
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-2}{Blog
-Post 2}
+\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-1}{Blog Post 1}
 \end{wp}
 
 \hypertarget{references}{%
@@ -985,13 +866,12 @@ A metaphor that has been used to describe one such supportive mechanism is \emph
 The task of facilitating learning with the ZPD in mind assumes that you, as the facilitator, know what knowledge and skills your students are starting with. It is likely that the competencies your students display fall along a bell curve. While most students will be learning within a similar ZPD, there will be outliers at both ends of the curve. One strategy can be to pair students whose skills and knowledge are below the curve with those above the curve. In doing this, students who are above the curve, who may not be challenged with the content or skill, have to engage in greater levels of cognitive complexity in order to concisely explain to their peer and help them to meet the objective. For example, Madland and Richards (2016) describes a cooperative peer review activity, where the authors asked a group of learners how they thought cooperative learning activities supported learning. In this study, the learners' responses indicated that the two most important factors were \emph{social cohesion} and \emph{developmentally appropriate challenges,} indicating that learners recognized the importance of the ZPD in learning.
 
 \begin{reflect}
-\hypertarget{learning-activity}{%
-\paragraph{Learning Activity}\label{learning-activity}}
+\hypertarget{learning-activity-2}{%
+\subsubsection{Learning Activity}\label{learning-activity-2}}
 
 \textbf{\emph{Questions to Consider}}\\
 After reading the topic above, consider the following question:\\
-- How does the idea of the zone of proximal development help you support
-learning?
+- How does the idea of the zone of proximal development help you support learning?
 \end{reflect}
 
 \hypertarget{cooperative-learning}{%
@@ -1050,17 +930,15 @@ Finally, the group must be able to monitor their process with the goal of improv
 \end{figure}
 
 \begin{reflect}
-\hypertarget{learning-activity}{%
-\paragraph*{Learning Activity}\label{learning-activity}}
-\addcontentsline{toc}{paragraph}{Learning Activity}
+\hypertarget{learning-activity-3}{%
+\subsubsection*{Learning Activity}\label{learning-activity-3}}
+\addcontentsline{toc}{subsubsection}{Learning Activity}
 
 \textbf{\emph{Questions to Consider}}\\
-After reading through the content in Topic 2, please consider the
-following questions:\\
+After reading through the content in Topic 2, please consider the following questions:\\
 - How can coaching concepts be applied to helping learners learn?\\
 - What key characteristics define effective coaching for learning?\\
-- How can educators coach learners through the transition of making a
-change?
+- How can educators coach learners through the transition of making a change?
 \end{reflect}
 
 \hypertarget{facilitating-transformational-learning-in-group-environments}{%
@@ -1083,26 +961,22 @@ As such, you will need to start thinking about \emph{how} to facilitate your stu
 The work of facilitating the learning process within a group setting begins with an effective plan. Smith (2009) proposes a simple model: EFFECT. This model reminds the facilitator to think about the learning \textbf{environment,} the \textbf{focus} (or purpose) of the session, \textbf{feelings} the session is likely to evoke, \textbf{experiences} learners will explore, \textbf{changes} learners will make as a result of the session, and the \textbf{timings} allocated for all the learning experiences and activities. Next, it's important for the facilitator to plan out the structure of each learning session, which like a story, should have beginnings, middles, and endings. Each stage has a particular task. The beginning encourages learners to explore, the middle engages learners with the subject, and the ending enables learners to move on in their personal learning journey. Drawing upon Evans' (2007) guidelines for helping conversations, Smith (2009) advises facilitators to think about ``the exploration as the first quarter of the session; engaging with the subject and developing understanding as the middle half; and enabling action and development as the final quarter.''
 
 \begin{reflect}
-\hypertarget{learning-activity}{%
-\paragraph*{Learning Activity}\label{learning-activity}}
-\addcontentsline{toc}{paragraph}{Learning Activity}
+\hypertarget{learning-activity-4}{%
+\subsubsection*{Learning Activity}\label{learning-activity-4}}
+\addcontentsline{toc}{subsubsection}{Learning Activity}
 
 Read the following article:
 
-\href{https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/}{\textbf{Facilitating
-Learning and Change in Groups}}
+\href{https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/}{\textbf{Facilitating Learning and Change in Groups}}
 
 \emph{Questions to Consider}\\
 After completing the reading above, consider the following questions:\\
 - According to Roger Schwarz what is a facilitator's main task?\\
-- According to Carl Rogers what are the core conditions for facilitating
-learning?\\
+- According to Carl Rogers what are the core conditions for facilitating learning?\\
 - What are the three foci of the facilitator role?\\
 - What are the core values informing facilitation?\\
-- How can the EFFECT model help you to plan a facilitated learning
-session?\\
-- How does a facilitator effectively structure a facilitated learning
-session?
+- How can the EFFECT model help you to plan a facilitated learning session?\\
+- How does a facilitator effectively structure a facilitated learning session?
 \end{reflect}
 
 \hypertarget{navigating-group-dynamics}{%
@@ -1144,14 +1018,13 @@ It is important for facilitators to understand that groups change over time. One
 
 \textbf{Adjourning:} At some point the group ends.
 
-\begin{protip}
+\begin{blank}
 \hypertarget{protip}{%
-\paragraph*{✨ ProTip}\label{protip}}
-\addcontentsline{toc}{paragraph}{✨ ProTip}
+\subsubsection*{✨ ProTip}\label{protip}}
+\addcontentsline{toc}{subsubsection}{✨ ProTip}
 
-\textbf{\emph{Each stage of group development requires the facilitator
-to employ variations in their approach.}}
-\end{protip}
+\textbf{\emph{Each stage of group development requires the facilitator to employ variations in their approach.}}
+\end{blank}
 
 \hypertarget{transforming-me-to-we}{%
 \subsubsection*{Transforming (Me to We)}\label{transforming-me-to-we}}
@@ -1178,40 +1051,35 @@ Reforming (Disengaging) & \textbf{Establishing new goals}, solving confusion, ma
 \end{longtable}
 
 \begin{reflect}
-\hypertarget{learning-activity}{%
-\paragraph*{Learning Activity}\label{learning-activity}}
-\addcontentsline{toc}{paragraph}{Learning Activity}
+\hypertarget{learning-activity-5}{%
+\subsubsection*{Learning Activity}\label{learning-activity-5}}
+\addcontentsline{toc}{subsubsection}{Learning Activity}
 
 Take a moment to read the following article:
 
-\href{https://infed.org/mobi/what-is-a-group/}{\textbf{What is a
-Group?}}
+\href{https://infed.org/mobi/what-is-a-group/}{\textbf{What is a Group?}}
 
 \emph{Questions to Consider}\\
 After reading the article above, consider the following questions:\\
-- What are some of the key benefits and dangers of learning in group
-settings?\\
+- What are some of the key benefits and dangers of learning in group settings?\\
 - What are some key dimensions of groups?\\
 - What are the stages of group development?
 \end{reflect}
 
 \begin{reflect}
-\hypertarget{learning-activity}{%
-\paragraph*{Learning Activity}\label{learning-activity}}
-\addcontentsline{toc}{paragraph}{Learning Activity}
+\hypertarget{learning-activity-6}{%
+\subsubsection*{Learning Activity}\label{learning-activity-6}}
+\addcontentsline{toc}{subsubsection}{Learning Activity}
 
 Take a moment to read the following article:
 
-\href{https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management}{\textbf{Comfort
-Zone to Performance Management}}
+\href{https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management}{\textbf{Comfort Zone to Performance Management}}
 
 \emph{Questions to Consider}\\
 After completing the reading above, consider the following questions:\\
 - How is White's Optimal Performance Zone similar Vygotsky's ZPD?\\
-- How does White's model help a facilitator determine how to adjust
-their facilitation strategies?\\
-- What insight does White's model provide about how to sustain learning
-performance?
+- How does White's model help a facilitator determine how to adjust their facilitation strategies?\\
+- What insight does White's model provide about how to sustain learning performance?
 \end{reflect}
 
 \hypertarget{core-facilitation-competencies}{%
@@ -1242,22 +1110,18 @@ The professionalization of learning facilitation within educational settings is 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \begin{reflect}
-\hypertarget{learning-activity}{%
-\paragraph{Learning Activity}\label{learning-activity}}
+\hypertarget{learning-activity-7}{%
+\subsubsection{Learning Activity}\label{learning-activity-7}}
 
 Take some time to read the following article:
 
-\href{https://www.iaf-world.org/site/professional/core-competencies}{\textbf{Core
-Competencies}}
+\href{https://www.iaf-world.org/site/professional/core-competencies}{\textbf{Core Competencies}}
 
 \textbf{\emph{Questions to Consider}}\\
 After completing the reading above, consider the following questions:\\
-- What general facilitation competencies apply to facilitating
-learning?\\
-- What competencies do you feel are strength areas? What areas do you
-need to develop?\\
-- How can facilitation skills help you support learner success in an
-educational setting?
+- What general facilitation competencies apply to facilitating learning?\\
+- What competencies do you feel are strength areas? What areas do you need to develop?\\
+- How can facilitation skills help you support learner success in an educational setting?
 \end{reflect}
 
 \hypertarget{facilitation-strategies}{%
@@ -1272,20 +1136,16 @@ Strategies for facilitating learning are as numerous and varied as the educators
 It can often be challenging to devise new ways of interacting in F2F learning environments, but there are many resources available to facilitators both online and in print. One of those resources is a book and website called \emph{Liberating Structures} which describes a set of 33 structured activities that you can use in your learning labs to generate conversation without resorting to the same old tired `brainstorm.'
 
 \begin{reflect}
-\hypertarget{learning-activity}{%
-\paragraph{Learning Activity}\label{learning-activity}}
+\hypertarget{learning-activity-8}{%
+\subsubsection{Learning Activity}\label{learning-activity-8}}
 
-Watch the video below for a quick introduction to \emph{Liberating
-Structures:}
+Watch the video below for a quick introduction to \emph{Liberating Structures:}
 
-Next, visit the \emph{Liberating Structures} website and take a look at
-the following activity:
+Next, visit the \emph{Liberating Structures} website and take a look at the following activity:
 
-\href{http://www.liberatingstructures.com/9-what-so-what-now-what-w/}{\textbf{What,
-So What, Now What? W³}}
+\href{http://www.liberatingstructures.com/9-what-so-what-now-what-w/}{\textbf{What, So What, Now What? W³}}
 
-Now, consider how could you use this Liberating Structure to guide a
-group discussion that would help learners learn a Unit?
+Now, consider how could you use this Liberating Structure to guide a group discussion that would help learners learn a Unit?
 \end{reflect}
 
 \hypertarget{unit-3-assessment}{%
@@ -1294,13 +1154,11 @@ group discussion that would help learners learn a Unit?
 
 \begin{wp}
 \hypertarget{wordpress-post}{%
-\paragraph{WordPress Post}\label{wordpress-post}}
+\subsubsection{WordPress Post}\label{wordpress-post}}
 
-Please complete the assignment under `Post 3' below. This will be your
-third of five draft posts during the course.
+Please complete the assignment under `Post 3' below. This will be your third of five draft posts during the course.
 
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-3}{Blog
-Post 3}
+\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-3}{Blog Post 3}
 \end{wp}
 
 \hypertarget{checking-your-learning}{%
@@ -1336,24 +1194,43 @@ Your reflection should be submitted as 1-2-page document.
 \subsubsection*{Two Similar, but Different ``Teaching Presence'' Roles}\label{two-similar-but-different-teaching-presence-roles}}
 \addcontentsline{toc}{subsubsection}{Two Similar, but Different ``Teaching Presence'' Roles}
 
-• Facilitator: Guiding the coordination of a group's collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.
-• Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.
+\begin{itemize}
+\tightlist
+\item
+  Facilitator: Guiding the coordination of a group's collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.
+\item
+  Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.
+\end{itemize}
 
 \hypertarget{facilitation-competencies}{%
 \subsubsection*{Facilitation Competencies}\label{facilitation-competencies}}
 \addcontentsline{toc}{subsubsection}{Facilitation Competencies}
 
-• Create cooperative working relationships with the group
-• Determining group needs and designing group sessions
-• Managing group processes
-• Selecting appropriate group learning methods and learning processes
-• Preparing time and space to support group learning
-• Creating and sustaining a supportive and participatory group learning environment
-• Demonstrating effective communication
-• Insuring inclusiveness
-• Managing conflict
-• Encouraging creativity
-• Guiding group to consensus and desired learning outcome
+\begin{itemize}
+\tightlist
+\item
+  Create cooperative working relationships with the group
+\item
+  Determining group needs and designing group sessions
+\item
+  Managing group processes
+\item
+  Selecting appropriate group learning methods and learning processes
+\item
+  Preparing time and space to support group learning
+\item
+  Creating and sustaining a supportive and participatory group learning environment
+\item
+  Demonstrating effective communication
+\item
+  Insuring inclusiveness
+\item
+  Managing conflict
+\item
+  Encouraging creativity
+\item
+  Guiding group to consensus and desired learning outcome
+\end{itemize}
 
 \hypertarget{facilitation-process}{%
 \subsubsection*{Facilitation Process}\label{facilitation-process}}
@@ -1427,18 +1304,31 @@ Your reflection should be submitted as 1-2-page document.
 \subsubsection*{Cohesion Factors that Cultivate (Predictable) Trust}\label{cohesion-factors-that-cultivate-predictable-trust}}
 \addcontentsline{toc}{subsubsection}{Cohesion Factors that Cultivate (Predictable) Trust}
 
-• Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.
-• Stability. The longer a group stays together, the more cohesive it becomes.
-• Size. Smaller groups tend to have higher cohesion.
-• Support. Coaching and encouragement to support other members strengthens the group's identity.
-• Satisfaction. How pleased group members are with each other's performance, behaviour, and conformity to group norms increases cohesion.
+\begin{itemize}
+\tightlist
+\item
+  Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.
+\item
+  Stability. The longer a group stays together, the more cohesive it becomes.
+\item
+  Size. Smaller groups tend to have higher cohesion.
+\item
+  Support. Coaching and encouragement to support other members strengthens the group's identity.
+\item
+  Satisfaction. How pleased group members are with each other's performance, behaviour, and conformity to group norms increases cohesion.
+\end{itemize}
 
 \hypertarget{social-loafing}{%
 \subsubsection*{Social Loafing}\label{social-loafing}}
 \addcontentsline{toc}{subsubsection}{Social Loafing}
 
-• There is a tendency of individuals to put in less effort when working in a group context.
-• As group size grows, this effect becomes larger.
+\begin{itemize}
+\tightlist
+\item
+  There is a tendency of individuals to put in less effort when working in a group context.
+\item
+  As group size grows, this effect becomes larger.
+\end{itemize}
 
 \hypertarget{how-do-learning-groups-develop-over-time}{%
 \subsubsection*{How do learning groups develop over time?}\label{how-do-learning-groups-develop-over-time}}
@@ -1449,6 +1339,24 @@ Your reflection should be submitted as 1-2-page document.
 \includegraphics{assets/presentations/facilitation/tuckman.drawio.png}
 \caption{Tuckman's Stages of Group Performance}
 \end{figure}
+
+\begin{itemize}
+\tightlist
+\item
+  Forming: Learning group members get to know one another, exchange personal information, and establish new relationships.
+\item
+  Storming: Learning group members open up to each other and confront each other's ideas and perspectives.
+\item
+  Norming: Learning group members achieve a consensus about goals, definition of roles, and clear coordination of effort.
+\item
+  Performing: The learning group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external supervision.
+\item
+  Adjourning: admittedly a strained rhyme, but the idea, which is not in Tuckman's original model, is that the group will eventually disband, and it is important to finish well, gather data on the process, and carry forward lessons learned.
+\end{itemize}
+
+\begin{reflect}
+\textbf{\emph{The life of learning groups is dynamic and cyclical.}}
+\end{reflect}
 
 \hypertarget{coaching-for-learning}{%
 \chapter{Coaching for Learning}\label{coaching-for-learning}}
@@ -1528,13 +1436,10 @@ Destin talks about some important ideas related to pedagogy (the study of how ch
 
 \begin{reflect}
 \hypertarget{reflect}{%
-\paragraph{Reflect}\label{reflect}}
+\subsubsection*{Reflect}\label{reflect}}
+\addcontentsline{toc}{subsubsection}{Reflect}
 
-As a way to consolidate your own learning around this concept, take a
-few minutes to think about a time when you have had knowledge, but not
-understanding, and how that affected you in some way. You don't have to
-write anything down, just connect the idea to an experience that you
-have had.
+As a way to consolidate your own learning around this concept, take a few minutes to think about a time when you have had knowledge, but not understanding, and how that affected you in some way. You don't have to write anything down, just connect the idea to an experience that you have had.
 \end{reflect}
 
 In the video, Destin also talks about cognitive bias and the tremendously powerful effect that our own biases have on what and how well we learn. The challenge that he faced in learning to ride the backwards brain bike wasn't so much the physical skills involved, but \emph{unlearning} his previous `ride a bike' algorithm. When he encountered new information that didn't match his previous experience, it was extremely difficult to overcome his previous experience and bias. It took him 8 months of dedicated effort to do it. At the end, he discovered that he hadn't \emph{overcome} his bias, he had only transferred it to a new bias, albeit one that was easier to overcome.
@@ -1555,17 +1460,12 @@ One implication of this is that it is naïve for educators to assume that a sing
 
 \begin{reflect}
 \hypertarget{read-and-reflect}{%
-\paragraph{Read and Reflect}\label{read-and-reflect}}
+\subsubsection{Read and Reflect}\label{read-and-reflect}}
 
-Read Chapters 1-3 of How people learn II: Learners, Context and
-Cultures, \href{https://www.nap.edu/catalog/24783}{available for free
-download here}.
+Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, \href{https://www.nap.edu/catalog/24783}{available for free download here}.
 
-Note: We will not be using this entire book, so don't feel obliged to
-purchase a copy for yourself. Click `Read Online' As you read, please
-use hypothes.is to both record your thoughts and connections in the
-article, but also interact with past annotations. These chapters are
-already heavily annotated, presumably by other students.
+Note: We will not be using this entire book, so don't feel obliged to purchase a copy for yourself.
+Click `Read Online' As you read, please use hypothes.is to both record your thoughts and connections in the article, but also interact with past annotations. These chapters are already heavily annotated, presumably by other students.
 
 \textbf{\emph{Questions to Consider\ldots{}}}
 
@@ -1581,19 +1481,15 @@ After completing the reading above, consider the following questions:
 \end{reflect}
 
 \begin{reflect}
-\hypertarget{read-and-reflect}{%
-\paragraph{Read and Reflect}\label{read-and-reflect}}
+\hypertarget{read-and-reflect-1}{%
+\subsubsection{Read and Reflect}\label{read-and-reflect-1}}
 
-Below is a resource that summarizes existing research from cognitive
-science related to how students learn. This research has practical
-implications for teaching and learning that will be of benefit as we
-move forward with the content of this unit. Follow the link below:
+Below is a resource that summarizes existing research from cognitive science related to how students learn. This research has practical implications for teaching and learning that will be of benefit as we move forward with the content of this unit. Follow the link below:
 
 \begin{itemize}
 \tightlist
 \item
-  \href{https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf}{\textbf{The
-  Science of Learning}}
+  \href{https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf}{\textbf{The Science of Learning}}
 \end{itemize}
 
 \textbf{\emph{Questions to Consider\ldots{}}}
@@ -1609,18 +1505,16 @@ After completing the reading above, consider the following questions:
 \item
   \emph{How do students solve problems?}
 \item
-  \emph{How does learning transfer to new situations in or outside of
-  the classroom?}
+  \emph{How does learning transfer to new situations in or outside of the classroom?}
 \item
   \emph{What motivates students to learn?}
 \item
-  \emph{What are common misconceptions about how students think and
-  learn?}
+  \emph{What are common misconceptions about how students think and learn?}
 \end{itemize}
 \end{reflect}
 
-\hypertarget{topic-2-1}{%
-\section*{Topic 2}\label{topic-2-1}}
+\hypertarget{topic-2}{%
+\section*{Topic 2}\label{topic-2}}
 \addcontentsline{toc}{section}{Topic 2}
 
 \textbf{\emph{What is Coaching?}} Coaching is something that you do to help improve someone in some way. Gallway (1997) defines coaching as ``a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person.'' His conceptualization of the method is analogous to Michelangelo's approach to sculpture. Michelangelo believed that ``every block of stone has a statue inside it and it's the task of the sculptor to discover it.'' Similarly, Gallway (1997) writes:
@@ -1649,41 +1543,25 @@ Increasing learners' awareness of their own internal resistance to new learning 
 The secondary theme of coaching for learning is increasing learners' awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallway (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book \emph{Coaching for Performance}. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
 
 \begin{bonus}
-\textbf{Goal Setting.} Helping learners clarify \textbf{what} they need
-and more importantly want to learn? \textbf{Why} they need and/or truly
-want to learn it? And \textbf{when} they need to, or genuinely want, to
-learn it? The coach, here, also helps learners see how their personal
-goals can align with prescribed learning outcomes.
+\textbf{Goal Setting.} Helping learners clarify \textbf{what} they need and more importantly want to learn? \textbf{Why} they need and/or truly want to learn it? And \textbf{when} they need to, or genuinely want, to learn it? The coach, here, also helps learners see how their personal goals can align with prescribed learning outcomes.
 
-\textbf{Reality Checking.} Helping learners identify what they already
-know? What they can already do? What they have already done? What's
-moving them towards their goal? And what's getting in the way?
+\textbf{Reality Checking.} Helping learners identify what they already know? What they can already do? What they have already done? What's moving them towards their goal? And what's getting in the way?
 
-\textbf{Option Exploring.} Helping learners identify the various options
-they have to move them toward their goals. Brainstorming what else they
-can do to achieve their goals? Assessing what are the benefits and
-weaknesses of the various options that they have identified?
+\textbf{Option Exploring.} Helping learners identify the various options they have to move them toward their goals. Brainstorming what else they can do to achieve their goals? Assessing what are the benefits and weaknesses of the various options that they have identified?
 
-\textbf{Will be Doing.} Helping learners choose which options to act on.
-Determining when to act on an option. Assessing how committed they are
-to taking action a given option? Committing to acting on an option.
+\textbf{Will be Doing.} Helping learners choose which options to act on. Determining when to act on an option. Assessing how committed they are to taking action a given option? Committing to acting on an option.
 \end{bonus}
 
 \begin{reflect}
-\hypertarget{read-and-reflect}{%
-\paragraph{Read and Reflect}\label{read-and-reflect}}
+\hypertarget{read-and-reflect-2}{%
+\subsubsection{Read and Reflect}\label{read-and-reflect-2}}
 
-Take a few moments to read the article below written by Tim Gallwey.
-Gallwey works with companies to help them find better ways to implement
-change. In the article below, he discusses the importance of creating a
-learning culture - specifically, he discusses why coaches need to
-understand the learning process and the obstacles a learner experiences:
+Take a few moments to read the article below written by Tim Gallwey. Gallwey works with companies to help them find better ways to implement change. In the article below, he discusses the importance of creating a learning culture - specifically, he discusses why coaches need to understand the learning process and the obstacles a learner experiences:
 
 \begin{itemize}
 \tightlist
 \item
-  \href{https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/}{\textbf{The
-  Inner Game of Work}}
+  \href{https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/}{\textbf{The Inner Game of Work}}
 \end{itemize}
 
 \textbf{\emph{Questions to Consider\ldots{}}}
@@ -1695,16 +1573,14 @@ After completing the activity above, consider the following questions:
 \item
   \emph{How can coaching concepts be applied to helping learners learn?}
 \item
-  \emph{What key characteristics define effective coaching for
-  learning?}
+  \emph{What key characteristics define effective coaching for learning?}
 \item
-  \emph{How can educators coach learners through the transition of
-  making a change?}
+  \emph{How can educators coach learners through the transition of making a change?}
 \end{itemize}
 \end{reflect}
 
-\hypertarget{topic-3-1}{%
-\section*{Topic 3}\label{topic-3-1}}
+\hypertarget{topic-3}{%
+\section*{Topic 3}\label{topic-3}}
 \addcontentsline{toc}{section}{Topic 3}
 
 Effective coaching is grounded in an emerging set of coaching competencies. These competencies represent a set of integrated knowledge, skills, aptitudes and attributes that coalesce into behaviors that define, in more detail, what is needed to successfully perform the task of helping learners learn. The following are six essential behaviors the developing educator as coach must demonstrate.
@@ -1769,19 +1645,15 @@ Asks questions that helps learners\\
 ✅ design learning plans and commit to achieving their learning goals.
 
 \begin{reflect}
-\hypertarget{read-and-reflect}{%
-\paragraph{Read and Reflect}\label{read-and-reflect}}
+\hypertarget{read-and-reflect-3}{%
+\subsubsection{Read and Reflect}\label{read-and-reflect-3}}
 
-For this activity, you will be reading through the Core Competencies of
-the International Coaching Federation. The International Coaching
-Federation is dedicated to advancing the coaching profession by setting
-high, ethical standards. Read more below:
+For this activity, you will be reading through the Core Competencies of the International Coaching Federation. The International Coaching Federation is dedicated to advancing the coaching profession by setting high, ethical standards. Read more below:
 
 \begin{itemize}
 \tightlist
 \item
-  \href{https://coachfederation.org/core-competencies}{\textbf{Core
-  Competencies}}
+  \href{https://coachfederation.org/core-competencies}{\textbf{Core Competencies}}
 \end{itemize}
 
 \textbf{\emph{Questions to Consider\ldots{}}}
@@ -1791,14 +1663,11 @@ After completing the activity above, consider the following questions:
 \begin{itemize}
 \tightlist
 \item
-  \emph{What general coaching competencies apply to coaching for
-  learning?}
+  \emph{What general coaching competencies apply to coaching for learning?}
 \item
-  \emph{What competencies do you feel are strength areas? What areas do
-  you need to develop?}
+  \emph{What competencies do you feel are strength areas? What areas do you need to develop?}
 \item
-  \emph{How can a coaching approach help you support learner success in
-  an educational setting?}
+  \emph{How can a coaching approach help you support learner success in an educational setting?}
 \end{itemize}
 \end{reflect}
 
@@ -1807,50 +1676,29 @@ After completing the activity above, consider the following questions:
 \addcontentsline{toc}{section}{Unit 4 Assessment}
 
 \begin{wp}
-\hypertarget{wordpress-post}{%
-\paragraph{WordPress Post}\label{wordpress-post}}
+\hypertarget{wordpress-post-1}{%
+\subsubsection{WordPress Post}\label{wordpress-post-1}}
 
-Please complete the assignment under `Post 4' below. This will be your
-fourth of five draft posts during the course.
+Please complete the assignment under `Post 4' below. This will be your fourth of five draft posts during the course.
 
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-4}{Blog
-Post 4}
+\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-4}{Blog Post 4}
 
-In addition, please begin planning your
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#peer-coaching-session-15}{Peer
-Coaching Session}.
+In addition, please begin planning your \href{https://ma-lead.github.io/ldrs663/assessments.html\#peer-coaching-session-15}{Peer Coaching Session}.
 \end{wp}
-\begin{todo}
-\hypertarget{things-to-do-this-week}{%
-\paragraph{Things To Do This Week}\label{things-to-do-this-week}}
 
-✅ Meet in Zoom
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting\&iso=20220429T0730\&p1=1109\&ah=1\&am=30}{Friday,
-April 29 - 7:30 AM PDT}\\
-✅ \textbf{Read} and \textbf{Reflect} Chapters 1-3 of How people learn
-II: Learners, Context and Cultures,
-\href{https://www.nap.edu/catalog/24783}{available for free download
-here}.\\
-✅ \textbf{Read} and \textbf{Reflect}
-\href{https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf}{\textbf{The
-Science of Learning}}\\
-✅ \textbf{Read} and \textbf{Reflect}
-\href{https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/}{\textbf{The
-Inner Game of Work}}\\
-✅ \textbf{Read} and \textbf{Reflect}
-\href{https://coachfederation.org/core-competencies}{\textbf{Core
-Competencies}}\\
-✅ \textbf{Publish} your
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-4}{Unit 4
-Post} using the category \texttt{ldrs663}.\\
-✅ \textbf{Meet} with your Learning Pod to complete the
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#small-group-facilitation-10}{Small
-Group Facilitation assignment}, which is worth 10\% of your final
-grade.\\
-✅ Please complete these items by
-\href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting\&iso=20220429T0730\&p1=1109\&ah=1\&am=30}{Friday,
-April 29 - 7:30 AM PDT}
-\end{todo}
+\begin{feedback}
+\hypertarget{things-to-do-this-week}{%
+\subsubsection{Things To Do This Week}\label{things-to-do-this-week}}
+
+✅ Meet in Zoom \href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting\&iso=20220429T0730\&p1=1109\&ah=1\&am=30}{Friday, April 29 - 7:30 AM PDT}\\
+✅ \textbf{Read} and \textbf{Reflect} Chapters 1-3 of How people learn II: Learners, Context and Cultures, \href{https://www.nap.edu/catalog/24783}{available for free download here}.\\
+✅ \textbf{Read} and \textbf{Reflect} \href{https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf}{\textbf{The Science of Learning}}\\
+✅ \textbf{Read} and \textbf{Reflect} \href{https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/}{\textbf{The Inner Game of Work}}\\
+✅ \textbf{Read} and \textbf{Reflect} \href{https://coachfederation.org/core-competencies}{\textbf{Core Competencies}}\\
+✅ \textbf{Publish} your \href{https://ma-lead.github.io/ldrs663/assessments.html\#post-4}{Unit 4 Post} using the category \texttt{ldrs663}.\\
+✅ \textbf{Meet} with your Learning Pod to complete the \href{https://ma-lead.github.io/ldrs663/assessments.html\#small-group-facilitation-10}{Small Group Facilitation assignment}, which is worth 10\% of your final grade.\\
+✅ Please complete these items by \href{https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting\&iso=20220429T0730\&p1=1109\&ah=1\&am=30}{Friday, April 29 - 7:30 AM PDT}
+\end{feedback}
 
 \hypertarget{coaching-notes}{%
 \chapter*{Coaching Notes}\label{coaching-notes}}
@@ -2117,8 +1965,8 @@ Silence is a source of great strength.
 \textasciitilde Lao Tzu
 \end{quote}
 
-\hypertarget{reflect}{%
-\subsubsection*{Reflect}\label{reflect}}
+\hypertarget{reflect-1}{%
+\subsubsection*{Reflect}\label{reflect-1}}
 \addcontentsline{toc}{subsubsection}{Reflect}
 
 \begin{enumerate}
@@ -2519,10 +2367,7 @@ It is likely that you have encountered and may believe that there is a distincti
 
 \begin{caution}
 \textbf{Note}\\
-\href{https://marcprensky.com/}{Marc Prensky}, who proposed this idea,
-is the one who thought it would be a good idea to refer to people as
-`natives'. We recognize that this term should not be used to talk about
-people.
+\href{https://marcprensky.com/}{Marc Prensky}, who proposed this idea, is the one who thought it would be a good idea to refer to people as `natives'. We recognize that this term should not be used to talk about people.
 \end{caution}
 
 The essential argument is that \emph{kids these days} have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those of us whose formative years pre-date the advent of the internet are forever at a disadvantage compared to the \emph{kids}. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
@@ -2561,29 +2406,18 @@ One of the people I look up to as an educator published a blog post which I beli
 
 Technology is not Pedagogy
 
-\hypertarget{learning-activity-2}{%
-\subsection*{Learning Activity}\label{learning-activity-2}}
+\hypertarget{learning-activity-9}{%
+\subsection*{Learning Activity}\label{learning-activity-9}}
 \addcontentsline{toc}{subsection}{Learning Activity}
 
 \begin{wp}
 \textbf{Visitor and Resident Diagram}
 
-I hope this activity will help you think about how the tools we use
-shape and sometimes determine the nature of our interactions with
-learners. Do the tools you use fall on the visitor or the resident end
-of your continuum? What about the learners in your classes?
+I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with learners. Do the tools you use fall on the visitor or the resident end of your continuum? What about the learners in your classes?
 
-✔️ \textbf{Read}
-\href{https://firstmonday.org/ojs/index.php/fm/article/view/3171}{Visitors
-and Residents: A new typology for online engagement}\\
-✔️ Complete your own \textbf{\emph{Visitor/Resident}} map and share and
-discuss it with your Learning Pod. You can use the
-\href{https://experimental.worldcat.org/vandrmapping/editMap}{tool that
-is provided here (DON'T forget to screenshot it, or you'll lose it!)},
-or use a different tool like \href{https://canva.com}{Canva.com}.\\
-✔️ Share your Visitor-Resident Diagram in a new post on your WordPress
-blog. Include a short reflection on what your diagram tells you about
-your web presence. Feel free to interact with others' diagrams!
+✔️ \textbf{Read} \href{https://firstmonday.org/ojs/index.php/fm/article/view/3171}{Visitors and Residents: A new typology for online engagement}\\
+✔️ Complete your own \textbf{\emph{Visitor/Resident}} map and share and discuss it with your Learning Pod. You can use the \href{https://experimental.worldcat.org/vandrmapping/editMap}{tool that is provided here (DON'T forget to screenshot it, or you'll lose it!)}, or use a different tool like \href{https://canva.com}{Canva.com}.\\
+✔️ Share your Visitor-Resident Diagram in a new post on your WordPress blog. Include a short reflection on what your diagram tells you about your web presence. Feel free to interact with others' diagrams!
 \end{wp}
 
 \hypertarget{fippa-privacy-and-consent-resources}{%
@@ -2626,104 +2460,6 @@ Learners should ensure that they:
 \item
   Understand what appropriate consent looks like for public bodies and is aware of what alternative steps are to support learners when consent is not obtained.
 \end{itemize}
-
-\hypertarget{wordpress-and-privacy}{%
-\section{WordPress and Privacy}\label{wordpress-and-privacy}}
-
-Now that you have thought about privacy in our digital world, it is time for you to make some decisions about how you would like to `be' online.
-
-You are invited to document your learning in WordPress. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
-
-Please review all 5 steps below to decide on your approach.
-
-\hypertarget{decide-if-you-are-comfortable-posting-your-work-online.}{%
-\subsection*{Decide if you are comfortable posting your work online.}\label{decide-if-you-are-comfortable-posting-your-work-online.}}
-\addcontentsline{toc}{subsection}{Decide if you are comfortable posting your work online.}
-
-If not, you can document your learning offline (with technology) by changing the privacy settings on your blog or using Word documents and offline video. We would ask learners to consider using an online blogging tool with no identification/using a pseudonym, so as to develop network literacy, which is important in supporting learners, who are growing up in networked environments, but the preferences of learners will be respected and supported.
-
-If you are comfortable being online, then proceed to step 2.
-
-\hypertarget{would-you-like-to-use-your-real-name-or-use-a-pseudonym}{%
-\subsection*{Would you like to use your real name or use a pseudonym?}\label{would-you-like-to-use-your-real-name-or-use-a-pseudonym}}
-\addcontentsline{toc}{subsection}{Would you like to use your real name or use a pseudonym?}
-
-You can claim your name online and own your presence by using your full name. With increasing catfishing and identity theft online, it can be helpful to have a presence that may compete with any fake profiles of you that are out there or to have a more dominant presence so posts or pictures of you by others may get drowned out. That said, you may wish to create an identity without your personal information (e.g., West coast teacher). The choice is yours.
-
-With that decision made, proceed to step 3.
-
-\hypertarget{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}{%
-\subsection*{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}\label{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}}
-\addcontentsline{toc}{subsection}{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}
-
-We strongly recommend that you create a blog at create.twu.ca which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. We also have created a template for you there, which will make getting started easier. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., \url{http://yourname.ca} or \url{http://westcoastteacher.ca}) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting).
-
-Be sure you review the resources under the privacy tutorial on this site or talk to your instructor about the implications of your options. You should also review the resources at the BC Office of the Information and Privacy Commissioner along with the Cloud Computing Guidelines, which outline how to get consent.
-
-With that decision made, proceed to step 4.
-
-\hypertarget{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}{%
-\subsection*{You also have to decide if you want to make your blog public or private.}\label{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}}
-\addcontentsline{toc}{subsection}{You also have to decide if you want to make your blog public or private.}
-
-You can set an entire blog to be private or simply selected posts can be set to private. You can set a password or invite people to gain access. We have provided instructions for adjusting your privacy settings on the tutorial page for opened.ca.
-
-\begin{protip}
-\textbf{✨ ProTip}
-
-If you choose to make your blog private, we will not be able to
-syndicate your posts to the course site. You will still be able to
-participate in the course, but please contact your instructor if you
-choose to make your site only visible to registered users of the network
-or your site.
-\end{protip}
-
-And last, but not least\ldots{}
-
-\hypertarget{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}{%
-\subsection*{Finally, you have to think about where you and your content will end up.}\label{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}}
-\addcontentsline{toc}{subsection}{Finally, you have to think about where you and your content will end up.}
-
-The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn't and we'll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per page four of the BC OIPC Cloud Computing Guidelines linked here.
-
-\hypertarget{creating-a-blog}{%
-\subsection*{Creating a Blog}\label{creating-a-blog}}
-\addcontentsline{toc}{subsection}{Creating a Blog}
-
-Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Please visit\href{https://create.twu.ca}{create.twu.ca}, click the blue `Log in' link and follow the instructions. Once you are done there, you can return here to continue with the next section to get your site set up.
-
-\hypertarget{wordpress-setup}{%
-\section{WordPress Setup}\label{wordpress-setup}}
-
-\hypertarget{wordpress-resources}{%
-\subsection*{WordPress Resources}\label{wordpress-resources}}
-\addcontentsline{toc}{subsection}{WordPress Resources}
-
-\begin{figure}
-\centering
-\includegraphics{assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg}
-\caption{WordPress Dashboard (\href{https://unsplash.com/photos/sSPzmL7fpWc}{Image Credit})}
-\end{figure}
-
-We are here to help you create your site, so do not hesitate to ask for technical support. To get started on creating your site we suggest the following steps:
-
-✔️ Log in if you have not already logged in; get familiar with the \href{http://sites.uci.edu/docs/start/dashboard/}{administration interface} and click \href{https://www.youtube.com/watch?v=-b569fs2t-Y}{here for more information on it}. The administration interface is also where the Dashboard in WordPress is located and \href{https://codex.wordpress.org/Dashboard_Screen}{you can get more info about it here.}\\
-✔️ Remember: When you are in the site administration area of your site, you can get tips on what you are doing by clicking the ``Help'' menu on the top-right corner.\\
-✔️ Review your settings, start by changing your Site Title under \texttt{Settings\textgreater{}General}. You need to hit the ``Save'' button to save your changes. \href{https://codex.wordpress.org/Settings_General_Screen}{More information about General Settings here.}\\
-✔️ \href{http://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/}{Add a new post}{]}. You can pick one of the existing categories by checking a box on the sidebar of the authoring interface. \href{http://www.wpbeginner.com/glossary/category/}{You can manage your categories here.} You will need to hit the blue ``Publish'' button on the right hand side before your post appears. \href{https://en.support.wordpress.com/pages/page-visibility/}{Information on managing the privacy settings on individual posts is here.}\\
-✔️ Edit your about me page by introducing yourself and sharing a little about yourself.\\
-✔️ You are welcome to change the images and upload your own. \href{https://www.youtube.com/watch?v=GtMOAaMFaPs}{Here is information about using images from Google.}
-
-\hypertarget{wordpress-tutorials}{%
-\section{WordPress Tutorials}\label{wordpress-tutorials}}
-
-When you're ready to start customizing your blog and putting content in, check out some tutorials available to you:
-
-✔️ \href{http://www.wpbeginner.com/start-here/}{Beginner's guide for WordPress by WPBeginner}\\
-✔️ \href{https://learn.wordpress.com/}{Learn WordPress website by WordPress}\\
-✔️ \href{http://digitaltattoo.ubc.ca/}{Digital Tattoo Project at UBC} -- learn digital literacy skills. Check out the menu sections and \href{http://digitaltattoo.ubc.ca/publish/}{consider looking at the publish section.}
-
-If you are confused about anything it is always good to do an initial Google or YouTube search, or reach out to your learning pod or your instructor.
 
 \hypertarget{unit-1-assessment}{%
 \subsection{Unit 1 Assessment}\label{unit-1-assessment}}
@@ -2798,17 +2534,14 @@ His point, here, is that the studying of texts is also an ``experiential learnin
 
 According to Dewey's theory of education and experience, one's learning experience arises from the interaction of two essential principles---continuity and interaction. Continuity refers to his idea that each experience one has will influence, in some way, one's future experiences. Building on continuity, interaction expresses the relationship between one's past experience and present learning situation.
 
-\begin{protip}
+\begin{blank}
 \hypertarget{continuity-of-experience-in-deweys-1938-words}{%
-\paragraph{✨ Continuity of experience, in Dewey's (1938)
-words,}\label{continuity-of-experience-in-deweys-1938-words}}
+\subsubsection{✨ Continuity of experience, in Dewey's (1938) words,}\label{continuity-of-experience-in-deweys-1938-words}}
 
 \begin{quote}
-\emph{``means that every experience both takes up something from those
-which have gone before and modifies in some way the quality of those
-which come after''}(p.~35).
+\emph{``means that every experience both takes up something from those which have gone before and modifies in some way the quality of those which come after''}(p.~35).
 \end{quote}
-\end{protip}
+\end{blank}
 
 Put different, every experience that a learner enacts or undergoes modifies that learner, and this modification (whether the learner likes it or not) affects the nature, quality and direction of the learner's subsequent experiences. In this way, then, we may come to speak of a person growing, developing, or transforming not merely physically, but intellectually, morally, and so forth. This idea of growth expressed within the principle of continuity also suggests direction, ends, or outcome.
 
@@ -2828,47 +2561,37 @@ Dewey describes the mechanics of the interplay of continuity and interaction as 
 
 The course designer has crafted a course of study and associated active learning experiences in the facilitator's guide. The course designer's intent is to lead the student, with the help of your facilitation, through a continuity of interactions leading to positive growth in the learner, as defined by the learning outcomes. As facilitator your role is to help learners navigate this pathway of learning experiences and ensure the intended continuity of learning experiences and the intended learner interactions between the learners and these experiences is achieved.
 
-\begin{protip}
+\begin{blank}
 \hypertarget{in-sum-deweys-theory-suggests-three-critical-practices-for-facilitating-learning}{%
-\paragraph{✨ In sum, Dewey's theory suggests three critical practices
-for facilitating
-learning:}\label{in-sum-deweys-theory-suggests-three-critical-practices-for-facilitating-learning}}
+\subsubsection{✨ In sum, Dewey's theory suggests three critical practices for facilitating learning:}\label{in-sum-deweys-theory-suggests-three-critical-practices-for-facilitating-learning}}
 
 \begin{itemize}
 \tightlist
 \item
-  the need to intentionally link new learning experiences with past ones
-  in a logical and progressive way\\
+  the need to intentionally link new learning experiences with past ones in a logical and progressive way\\
 \item
   the need to identify what the learner already knows\\
 \item
-  helping the learner make their learning meaningful (not merely as
-  preparation for the future, but in the present)
+  helping the learner make their learning meaningful (not merely as preparation for the future, but in the present)
 \end{itemize}
-\end{protip}
+\end{blank}
 
 Every learner and group of learners is unique, each bringing different prior experiences to each new learning situation you will facilitate. So, part of your role is to help learners navigate gaps in continuity and make judgements about what active learning experiences are best suited to helping learners grow.
 
 \begin{reflect}
-\hypertarget{read-and-reflect}{%
-\paragraph{Read and Reflect}\label{read-and-reflect}}
+\hypertarget{read-and-reflect-4}{%
+\subsubsection{Read and Reflect}\label{read-and-reflect-4}}
 
-The first Learning Activity for Unit 5 will focus on the work of John
-Dewey in his writing \emph{Experience and Education.} While the link
-below will take you to the entire text (\emph{which you are more then
-welcome to read!}), the focus for this section will be on Chapter 2
-titled: \textbf{\emph{The Need of a Theory of Experience.}}
+The first Learning Activity for Unit 5 will focus on the work of John Dewey in his writing \emph{Experience and Education.} While the link below will take you to the entire text (\emph{which you are more then welcome to read!}), the focus for this section will be on Chapter 2 titled: \textbf{\emph{The Need of a Theory of Experience.}}
 
 \begin{itemize}
 \tightlist
 \item
-  \href{http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf}{\textbf{Experience
-  and Education: Chapter 2}}
+  \href{http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf}{\textbf{Experience and Education: Chapter 2}}
 \end{itemize}
 
 \hypertarget{questions-to-consider}{%
-\paragraph{\texorpdfstring{\textbf{\emph{Questions to
-Consider\ldots{}}}}{Questions to Consider\ldots{}}}\label{questions-to-consider}}
+\subsubsection{\texorpdfstring{\textbf{\emph{Questions to Consider\ldots{}}}}{Questions to Consider\ldots{}}}\label{questions-to-consider}}
 
 After completing the reading above, consider the following questions:
 
@@ -2877,11 +2600,9 @@ After completing the reading above, consider the following questions:
 \item
   \textbf{\emph{What is a learning experience?}}\\
 \item
-  \textbf{\emph{What two principles does Dewey identify that shape our
-  learning experiences?}}\\
+  \textbf{\emph{What two principles does Dewey identify that shape our learning experiences?}}\\
 \item
-  \textbf{\emph{How might you apply Dewey's model to facilitating a
-  learning experience for others?}}
+  \textbf{\emph{How might you apply Dewey's model to facilitating a learning experience for others?}}
 \end{itemize}
 \end{reflect}
 
@@ -2944,9 +2665,9 @@ As Lyotard illustrates, ``instead of trying to analyse complex phenomena in term
 As educators today, we have inherited a mix of classical, modern, and now post-modern ideas about education, knowledge, teaching, and learning. In short, educators, including adult educators, draw upon a diverse plurality of ideas about their practice. Moreover, learners, including adult learners have been shaped by different educational approaches. These thinking frameworks lie beneath all our discussions.
 
 \begin{reflect}
-\hypertarget{questions-to-consider}{%
-\paragraph*{Questions to consider\ldots{}}\label{questions-to-consider}}
-\addcontentsline{toc}{paragraph}{Questions to consider\ldots{}}
+\hypertarget{questions-to-consider-1}{%
+\subsubsection*{Questions to consider\ldots{}}\label{questions-to-consider-1}}
+\addcontentsline{toc}{subsubsection}{Questions to consider\ldots{}}
 
 After completing the reading above, consider the following questions:
 
@@ -2955,12 +2676,9 @@ After completing the reading above, consider the following questions:
 \item
   \textbf{\emph{What makes a learning experience educational?}}\\
 \item
-  \textbf{\emph{What conception of knowledge (pre-modern, modern, or
-  post-modern) characterizes Dewey's conception of experiential
-  knowledge outlined in Experience and Education, Ch. 2?}}\\
+  \textbf{\emph{What conception of knowledge (pre-modern, modern, or post-modern) characterizes Dewey's conception of experiential knowledge outlined in Experience and Education, Ch. 2?}}\\
 \item
-  \textbf{\emph{Why is it important for educators to understand how they
-  conceptualize knowledge?}}
+  \textbf{\emph{Why is it important for educators to understand how they conceptualize knowledge?}}
 \end{itemize}
 \end{reflect}
 
@@ -3017,20 +2735,18 @@ As educators coaching students for transformational learning our overarching aim
 Bound by a space and a time, study is a particularity, not a generality. Study is embodied in individual lives, it is a place and situation ``saturated by meaning, with culture and history as these are personified in specific people with whom we live as neighbors, fellow citizens, and humanity'' (Pinar, 2015, p.~192). The act of study as defined by McClintock and Pinar is not something, which is limited to a formal program of study. Rather, McClintock and Pinar remind us all of culture, and nature, can be educational. Going back to antiquity, Hutchins (1968, p.~133) notes that ``education was not a segregated activity,'' but rather as was the situation in Greece, ``the Athenian was educated by culture, by paideia'' (p.~33). The critical insight to emerge, here, is that ``study is the site of education'' (Pinar, 2006, p.~112). The nature of study is a very personal, often difficult, potentially joyous, dialogue of self-transformation. As educators, our ultimate role is to help others in their personal acts of study and self-transformation.
 
 \begin{reflect}
-\hypertarget{questions-to-consider}{%
-\paragraph*{Questions to Consider\ldots{}}\label{questions-to-consider}}
-\addcontentsline{toc}{paragraph}{Questions to Consider\ldots{}}
+\hypertarget{questions-to-consider-2}{%
+\subsubsection*{Questions to Consider\ldots{}}\label{questions-to-consider-2}}
+\addcontentsline{toc}{subsubsection}{Questions to Consider\ldots{}}
 
 After completing the reading above, consider the following questions:
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{\emph{How would you describe your own experiences of
-  transformational learning?}}
+  \textbf{\emph{How would you describe your own experiences of transformational learning?}}
 \item
-  \textbf{\emph{What is transformational learning and how does it relate
-  to the act of study?}}
+  \textbf{\emph{What is transformational learning and how does it relate to the act of study?}}
 \end{itemize}
 \end{reflect}
 
@@ -3087,24 +2803,19 @@ The learning design and its associated documents that we create as educators con
 Online learning, blended learning, flipped classroom, face-to-face, hybrid course, multi-access\ldots{} you may have heard some of these terms tossed around, especially recently with the shifting focus to online. Before we unpack and examine these modalities of learning, consider how learning in Higher Education has changed. \emph{What are the shifts that have happened in the last 20, 10, 5 years? How has technology shaped the way teachers teach and the way students learn?}
 
 \begin{reflect}
-\hypertarget{read-and-reflect}{%
-\paragraph*{Read and Reflect}\label{read-and-reflect}}
-\addcontentsline{toc}{paragraph}{Read and Reflect}
+\hypertarget{read-and-reflect-5}{%
+\subsubsection*{Read and Reflect}\label{read-and-reflect-5}}
+\addcontentsline{toc}{subsubsection}{Read and Reflect}
 
-After taking a moment to consider the questions above, read Chapter 1 of
-our core text, \emph{Teaching in a Digital Age} by Tony Bates. It can be
-found by clicking on the following link:
+After taking a moment to consider the questions above, read Chapter 1 of our core text, \emph{Teaching in a Digital Age} by Tony Bates. It can be found by clicking on the following link:
 
 \textbf{\emph{Note:}} \emph{Particularly focus on sections 1.6-1.8.}
 
-\href{https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/}{Teaching
-in a Digital Age}
+\href{https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/}{Teaching in a Digital Age}
 
-\hypertarget{questions-to-consider}{%
-\paragraph*{\texorpdfstring{\textbf{\emph{Questions to
-Consider\ldots{}}}}{Questions to Consider\ldots{}}}\label{questions-to-consider}}
-\addcontentsline{toc}{paragraph}{\textbf{\emph{Questions to
-Consider\ldots{}}}}
+\hypertarget{questions-to-consider-3}{%
+\subsubsection*{\texorpdfstring{\textbf{\emph{Questions to Consider\ldots{}}}}{Questions to Consider\ldots{}}}\label{questions-to-consider-3}}
+\addcontentsline{toc}{subsubsection}{\textbf{\emph{Questions to Consider\ldots{}}}}
 
 After completing the reading above, consider the following questions:
 
@@ -3167,37 +2878,30 @@ The outermost tier of the model is for open participation from non-credit learne
 
 \begin{reflect}
 \hypertarget{look-read-and-reflect}{%
-\paragraph*{Look, Read, and Reflect}\label{look-read-and-reflect}}
-\addcontentsline{toc}{paragraph}{Look, Read, and Reflect}
+\subsubsection*{Look, Read, and Reflect}\label{look-read-and-reflect}}
+\addcontentsline{toc}{subsubsection}{Look, Read, and Reflect}
 
-This Learning Activity begins by asking you to take a close look and
-consider the picture below this block.
+This Learning Activity begins by asking you to take a close look and consider the picture below this block.
 
 \hypertarget{read}{%
-\paragraph{Read}\label{read}}
+\subsubsection{Read}\label{read}}
 
-\href{https://jolt.merlot.org/vol9no2/irvine_0613.htm}{Realigning Higher
-Education for the 21st-Century Learner through Multi-Access Learning}
+\href{https://jolt.merlot.org/vol9no2/irvine_0613.htm}{Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning}
 
-\hypertarget{questions-to-consider}{%
-\paragraph*{\texorpdfstring{\textbf{\emph{Questions to
-Consider\ldots{}}}}{Questions to Consider\ldots{}}}\label{questions-to-consider}}
-\addcontentsline{toc}{paragraph}{\textbf{\emph{Questions to
-Consider\ldots{}}}}
+\hypertarget{questions-to-consider-4}{%
+\subsubsection*{\texorpdfstring{\textbf{\emph{Questions to Consider\ldots{}}}}{Questions to Consider\ldots{}}}\label{questions-to-consider-4}}
+\addcontentsline{toc}{subsubsection}{\textbf{\emph{Questions to Consider\ldots{}}}}
 
-After taking some time to consider the picture, along with completing
-the reading above, consider the following questions:
+After taking some time to consider the picture, along with completing the reading above, consider the following questions:
 
 \begin{itemize}
 \tightlist
 \item
-  \textbf{\emph{What ideas surround multi-access learning, according to
-  the image?}}
+  \textbf{\emph{What ideas surround multi-access learning, according to the image?}}
 \item
   \textbf{\emph{What is your definition of multi-access learning?}}
 \item
-  \textbf{\emph{If you were asked to provide multi-access learning for
-  your course, what initial questions would you have?}}
+  \textbf{\emph{If you were asked to provide multi-access learning for your course, what initial questions would you have?}}
 \end{itemize}
 \end{reflect}
 
@@ -3217,6 +2921,91 @@ the reading above, consider the following questions:
 Congratulations! We have taken a bit of a whirlwind tour through the main ideas of \emph{facilitating learning experiences} and \emph{coaching learners through challenges}. These two competencies form the backbone of the model of teaching and learning in the TWU GLOBAL FAR Centres and similar programs, and they are also highly transferable skills for anyone who is in a role that involves the acquisition of new cognitive skills.
 
 These two related competencies are not `new' educational ideas, but are based in a long history of educational research showing the power of social constructivist pedagogies to transform thinking within a critical community of inquiry.
+
+\hypertarget{wordpress-setup}{%
+\chapter*{WordPress Setup}\label{wordpress-setup}}
+\addcontentsline{toc}{chapter}{WordPress Setup}
+
+You are invited to document your learning in WordPress. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
+
+Please review all 5 steps below to decide on your approach.
+
+\hypertarget{decide-if-you-are-comfortable-posting-your-work-online.}{%
+\subsection*{Decide if you are comfortable posting your work online.}\label{decide-if-you-are-comfortable-posting-your-work-online.}}
+\addcontentsline{toc}{subsection}{Decide if you are comfortable posting your work online.}
+
+If not, you can document your learning offline (with technology) by changing the privacy settings on your blog or using other offline tools. We would ask learners to consider using an online blogging tool with no identification/using a pseudonym, so as to develop network literacy, which is important in supporting learners, who are growing up in networked environments, but the preferences of learners will be respected and supported.
+
+If you are comfortable being online, then proceed to step 2.
+
+\hypertarget{would-you-like-to-use-your-real-name-or-use-a-pseudonym}{%
+\subsection*{Would you like to use your real name or use a pseudonym?}\label{would-you-like-to-use-your-real-name-or-use-a-pseudonym}}
+\addcontentsline{toc}{subsection}{Would you like to use your real name or use a pseudonym?}
+
+You can claim your name online and own your presence by using your full name. With increasing catfishing and identity theft online, it can be helpful to have a presence that may compete with any fake profiles of you that are out there or to have a more dominant presence so posts or pictures of you by others may get drowned out. That said, you may wish to create an identity without your personal information (e.g., West coast teacher). The choice is yours.
+
+With that decision made, proceed to step 3.
+
+\hypertarget{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}{%
+\subsection*{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}\label{decide-if-you-would-like-your-blog-to-be-hosted-outside-of-canada-or-inside-of-canada.}}
+\addcontentsline{toc}{subsection}{Decide if you would like your blog to be hosted outside of Canada or inside of Canada.}
+
+We strongly recommend that you create a blog at \href{https://create.twu.ca}{create.twu.ca} which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., \url{http://yourname.ca} or \url{http://westcoastteacher.ca}) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Reclaim Hosting), while others host within Canada (e.g., Canadian Web Hosting).
+
+With that decision made, proceed to step 4.
+
+\hypertarget{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}{%
+\subsection*{You also have to decide if you want to make your blog public or private.}\label{you-also-have-to-decide-if-you-want-to-make-your-blog-public-or-private.}}
+\addcontentsline{toc}{subsection}{You also have to decide if you want to make your blog public or private.}
+
+You can set an entire blog to be private or simply selected posts can be set to private. You can set a password or invite people to gain access. We have provided instructions for adjusting your privacy settings on the tutorial page for opened.ca.
+
+And last, but not least\ldots{}
+
+\hypertarget{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}{%
+\subsection*{Finally, you have to think about where you and your content will end up.}\label{finally-you-have-to-think-about-where-you-and-your-content-will-end-up.}}
+\addcontentsline{toc}{subsection}{Finally, you have to think about where you and your content will end up.}
+
+The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn't and we'll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per page four of the BC OIPC Cloud Computing Guidelines linked here.
+
+\hypertarget{creating-a-blog}{%
+\subsection*{Creating a Blog}\label{creating-a-blog}}
+\addcontentsline{toc}{subsection}{Creating a Blog}
+
+Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Please visit\href{https://create.twu.ca}{create.twu.ca}, click the green `Get Started' link and follow the instructions. Once you are done there, you can return here to continue with the next section to get your site set up.
+
+\hypertarget{wordpress-setup-1}{%
+\section{WordPress Setup}\label{wordpress-setup-1}}
+
+\hypertarget{wordpress-resources}{%
+\subsection*{WordPress Resources}\label{wordpress-resources}}
+\addcontentsline{toc}{subsection}{WordPress Resources}
+
+\begin{figure}
+\centering
+\includegraphics{assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg}
+\caption{WordPress Dashboard (\href{https://unsplash.com/photos/sSPzmL7fpWc}{Image Credit})}
+\end{figure}
+
+We are here to help you create your site, so do not hesitate to ask for technical support. To get started on creating your site we suggest the following steps:
+
+✔️ Log in if you have not already logged in; get familiar with the \href{http://sites.uci.edu/docs/start/dashboard/}{administration interface} and click \href{https://www.youtube.com/watch?v=-b569fs2t-Y}{here for more information on it}. The administration interface is also where the Dashboard in WordPress is located and \href{https://codex.wordpress.org/Dashboard_Screen}{you can get more info about it here.}\\
+✔️ Remember: When you are in the site administration area of your site, you can get tips on what you are doing by clicking the ``Help'' menu on the top-right corner.\\
+✔️ Review your settings, start by changing your Site Title under \texttt{Settings\textgreater{}General}. You need to hit the ``Save'' button to save your changes. \href{https://codex.wordpress.org/Settings_General_Screen}{More information about General Settings here.}\\
+✔️ \href{http://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/}{Add a new post}{]}. You can pick one of the existing categories by checking a box on the sidebar of the authoring interface. \href{http://www.wpbeginner.com/glossary/category/}{You can manage your categories here.} You will need to hit the blue ``Publish'' button on the right hand side before your post appears. \href{https://en.support.wordpress.com/pages/page-visibility/}{Information on managing the privacy settings on individual posts is here.}\\
+✔️ Edit your about me page by introducing yourself and sharing a little about yourself.\\
+✔️ You are welcome to change the images and upload your own. \href{https://www.youtube.com/watch?v=GtMOAaMFaPs}{Here is information about using images from Google.}
+
+\hypertarget{wordpress-tutorials}{%
+\section{WordPress Tutorials}\label{wordpress-tutorials}}
+
+When you're ready to start customizing your blog and putting content in, check out some tutorials available to you:
+
+✔️ \href{http://www.wpbeginner.com/start-here/}{Beginner's guide for WordPress by WPBeginner}\\
+✔️ \href{https://learn.wordpress.com/}{Learn WordPress website by WordPress}\\
+✔️ \href{http://digitaltattoo.ubc.ca/}{Digital Tattoo Project at UBC} -- learn digital literacy skills. Check out the menu sections and \href{http://digitaltattoo.ubc.ca/publish/}{consider looking at the publish section.}
+
+If you are confused about anything it is always good to do an initial Google or YouTube search, or reach out to your learning pod or your instructor.
 
   \bibliography{book.bib}
 

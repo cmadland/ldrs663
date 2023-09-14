@@ -50,10 +50,12 @@ His point, here, is that the studying of texts is also an “experiential learni
 
 According to Dewey’s theory of education and experience, one’s learning experience arises from the interaction of two essential principles—continuity and interaction.  Continuity refers to his idea that each experience one has will influence, in some way, one’s future experiences. Building on continuity, interaction expresses the relationship between one’s past experience and present learning situation.
 
-```{block, type='protip'}
+
+```{block2, type='blank'}
 #### ✨ Continuity of experience, in Dewey’s (1938) words, 
 
 > *“means that every experience both takes up something from those which have gone before and modifies in some way the quality of those which come after”*(p. 35).
+
 ```
 
 Put different, every experience that a learner enacts or undergoes modifies that learner, and this modification (whether the learner likes it or not) affects the nature, quality and direction of the learner’s subsequent experiences. In this way, then, we may come to speak of a person growing, developing, or transforming not merely physically, but intellectually, morally, and so forth. This idea of growth expressed within the principle of continuity also suggests direction, ends, or outcome.
@@ -72,18 +74,21 @@ Dewey describes the mechanics of the interplay of continuity and interaction as 
 
 The course designer has crafted a course of study and associated active learning experiences in the facilitator’s guide. The course designer’s intent is to lead the student, with the help of your facilitation, through a continuity of interactions leading to positive growth in the learner, as defined by the learning outcomes. As facilitator your role is to help learners navigate this pathway of learning experiences and ensure the intended continuity of learning experiences and the intended learner interactions between the learners and these experiences is achieved.
 
-```{block, type='protip'}
+
+```{block2, type='blank'}
 #### ✨ In sum, Dewey’s theory suggests three critical practices for facilitating learning:
 
 - the need to intentionally link new learning experiences with past ones in a logical and progressive way  
 - the need to identify what the learner already knows  
 - helping the learner make their learning meaningful (not merely as preparation for the future, but in the present)  
+
 ```
 
 Every learner and group of learners is unique, each bringing different prior experiences to each new learning situation you will facilitate. So, part of your role is to help learners navigate gaps in continuity and make judgements about what active learning experiences are best suited to helping learners grow.
 
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Read and Reflect
 
 The first Learning Activity for Unit 5 will focus on the work of John Dewey in his writing *Experience and Education.* While the link below will take you to the entire text (*which you are more then welcome to read!*), the focus for this section will be on Chapter 2 titled: ***The Need of a Theory of Experience.***
@@ -97,6 +102,7 @@ After completing the reading above, consider the following questions:
  - ***What is a learning experience?***  
  - ***What two principles does Dewey identify that shape our learning experiences?***  
  - ***How might you apply Dewey’s model to facilitating a learning experience for others?***  
+
 ```
 
 
@@ -147,7 +153,8 @@ The “what” and “how” questions of education take us a step closer to und
 
 <br>
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Questions to consider... {-}
 
 After completing the reading above, consider the following questions:
@@ -155,6 +162,7 @@ After completing the reading above, consider the following questions:
  - ***What makes a learning experience educational?***  
  - ***What conception of knowledge (pre-modern, modern, or post-modern) characterizes Dewey’s conception of experiential knowledge outlined in Experience and Education, Ch. 2?***  
  - ***Why is it important for educators to understand how they conceptualize knowledge?***  
+
 ```
 
 ## Topic 3: Study as the Site of Education {-}
@@ -195,13 +203,15 @@ As educators coaching students for transformational learning our overarching aim
 
 Bound by a space and a time, study is a particularity, not a generality. Study is embodied in individual lives, it is a place and situation “saturated by meaning, with culture and history as these are personified in specific people with whom we live as neighbors, fellow citizens, and humanity” (Pinar, 2015, p. 192). The act of study as defined by McClintock and Pinar is not something, which is limited to a formal program of study. Rather, McClintock and Pinar remind us all of culture, and nature, can be educational. Going back to antiquity, Hutchins (1968, p. 133) notes that “education was not a segregated activity,” but rather as was the situation in Greece, “the Athenian was educated by culture, by paideia” (p. 33). The critical insight to emerge, here, is that “study is the site of education” (Pinar, 2006, p. 112). The nature of study is a very personal, often difficult, potentially joyous, dialogue of self-transformation. As educators, our ultimate role is to help others in their personal acts of study and self-transformation.
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Questions to Consider... {-}
 
 After completing the reading above, consider the following questions:
 
 - ***How would you describe your own experiences of transformational learning?***
 - ***What is transformational learning and how does it relate to the act of study?***
+
 
 ```
 
@@ -246,7 +256,8 @@ The learning design and its associated documents that we create as educators con
 
 Online learning, blended learning, flipped classroom, face-to-face, hybrid course, multi-access... you may have heard some of these terms tossed around, especially recently with the shifting focus to online. Before we unpack and examine these modalities of learning, consider how learning in Higher Education has changed. *What are the shifts that have happened in the last 20, 10, 5 years? How has technology shaped the way teachers teach and the way students learn?*
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Read and Reflect {-}
 
 After taking a moment to consider the questions above, read Chapter 1 of our core text, *Teaching in a Digital Age* by Tony Bates. It can be found by clicking on the following link:
@@ -261,6 +272,7 @@ After completing the reading above, consider the following questions:
 
  - ***What changes have you seen in Online Learning?***  
  - ***What changes to you foresee in the next few years?***  
+
 ```
 
 
@@ -307,7 +319,8 @@ With the uncertainty brought on by COVID-19, multi-access learning has great pot
 
 ## Learning Activities {-}
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Look, Read, and Reflect {-}
 
 This Learning Activity begins by asking you to take a close look and consider the picture below this block.
@@ -324,6 +337,7 @@ After taking some time to consider the picture, along with completing the readin
  - ***What ideas surround multi-access learning, according to the image?***
  - ***What is your definition of multi-access learning?***
  - ***If you were asked to provide multi-access learning for your course, what initial questions would you have?***
+
 ```
 
 ![Beyond Blended Visual notes by giuliaforsythe on Twitter](assets/U5/U5LAImage.jpg)
@@ -333,7 +347,8 @@ After taking some time to consider the picture, along with completing the readin
 
 
 <!--
-```{block, type='todo'}
+
+```{block2, type='feedback'}
 #### Things To Do This Week
 
 
@@ -349,6 +364,7 @@ After taking some time to consider the picture, along with completing the readin
 ✅  Please complete these items by [Friday, May 6 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Class+Meeting&iso=20220506T0730&p1=1109&ah=1&am=30)
 
 ✅ It is also critical to begin working on your major project for the course, the [Facilitation Resource Project](https://ma-lead.github.io/ldrs663/assessments.html#facilitation-resource-project-40). We will talk about this in class on April 29.   
+
 
 ```
 

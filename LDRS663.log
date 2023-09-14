@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  13 SEP 2023 09:26
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  14 SEP 2023 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -575,39 +575,158 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box71
 \tcb@out=\write4
 \tcb@record@out=\write5
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip64
-\bibsep=\skip65
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count314
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
-Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '4.42'
+(/usr/local/texlive/2021/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdfcol Info: Interface disabled because of missing PDF mode of pdfTeX.
+)
+Package pdfcol Info: pdfTeX's color stacks are not available.
+\tcb@testbox=\box72
+\tcb@totalupperbox=\box73
+\tcb@totallowerbox=\box74
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+(/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\c@abspage=\count314
+Package zref Info: New property: abspage on input line 66.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip64
+\c@mdf@globalstyle@cnt=\count315
+\mdf@skipabove@length=\skip65
+\mdf@skipbelow@length=\skip66
+\mdf@leftmargin@length=\skip67
+\mdf@rightmargin@length=\skip68
+\mdf@innerleftmargin@length=\skip69
+\mdf@innerrightmargin@length=\skip70
+\mdf@innertopmargin@length=\skip71
+\mdf@innerbottommargin@length=\skip72
+\mdf@splittopskip@length=\skip73
+\mdf@splitbottomskip@length=\skip74
+\mdf@outermargin@length=\skip75
+\mdf@innermargin@length=\skip76
+\mdf@linewidth@length=\skip77
+\mdf@innerlinewidth@length=\skip78
+\mdf@middlelinewidth@length=\skip79
+\mdf@outerlinewidth@length=\skip80
+\mdf@roundcorner@length=\skip81
+\mdf@footenotedistance@length=\skip82
+\mdf@userdefinedwidth@length=\skip83
+\mdf@needspace@length=\skip84
+\mdf@frametitleaboveskip@length=\skip85
+\mdf@frametitlebelowskip@length=\skip86
+\mdf@frametitlerulewidth@length=\skip87
+\mdf@frametitleleftmargin@length=\skip88
+\mdf@frametitlerightmargin@length=\skip89
+\mdf@shadowsize@length=\skip90
+\mdf@extratopheight@length=\skip91
+\mdf@subtitleabovelinewidth@length=\skip92
+\mdf@subtitlebelowlinewidth@length=\skip93
+\mdf@subtitleaboveskip@length=\skip94
+\mdf@subtitlebelowskip@length=\skip95
+\mdf@subtitleinneraboveskip@length=\skip96
+\mdf@subtitleinnerbelowskip@length=\skip97
+\mdf@subsubtitleabovelinewidth@length=\skip98
+\mdf@subsubtitlebelowlinewidth@length=\skip99
+\mdf@subsubtitleaboveskip@length=\skip100
+\mdf@subsubtitlebelowskip@length=\skip101
+\mdf@subsubtitleinneraboveskip@length=\skip102
+\mdf@subsubtitleinnerbelowskip@length=\skip103
+(/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box75
+\mdf@footnotebox=\box76
+\mdf@splitbox@one=\box77
+\mdf@splitbox@two=\box78
+\mdf@splitbox@save=\box79
+\mdfsplitboxwidth=\skip104
+\mdfsplitboxtotalwidth=\skip105
+\mdfsplitboxheight=\skip106
+\mdfsplitboxdepth=\skip107
+\mdfsplitboxtotalheight=\skip108
+\mdfframetitleboxwidth=\skip109
+\mdfframetitleboxtotalwidth=\skip110
+\mdfframetitleboxheight=\skip111
+\mdfframetitleboxdepth=\skip112
+\mdfframetitleboxtotalheight=\skip113
+\mdffootnoteboxwidth=\skip114
+\mdffootnoteboxtotalwidth=\skip115
+\mdffootnoteboxheight=\skip116
+\mdffootnoteboxdepth=\skip117
+\mdffootnoteboxtotalheight=\skip118
+\mdftotallinewidth=\skip119
+\mdfboundingboxwidth=\skip120
+\mdfboundingboxtotalwidth=\skip121
+\mdfboundingboxheight=\skip122
+\mdfboundingboxdepth=\skip123
+\mdfboundingboxtotalheight=\skip124
+\mdf@freevspace@length=\skip125
+\mdf@horizontalwidthofbox@length=\skip126
+\mdf@verticalmarginwhole@length=\skip127
+\mdf@horizontalspaceofbox=\skip128
+\mdfsubtitleheight=\skip129
+\mdfsubsubtitleheight=\skip130
+\c@mdfcountframes=\count316
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count317
+\c@mdf@env@i=\count318
+\c@mdf@env@ii=\count319
+\c@mdf@zref@counter=\count320
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip131
+\bibsep=\skip132
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count321
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen268
-\Hy@linkcounter=\count315
-\Hy@pagecounter=\count316
+\Hy@linkcounter=\count322
+\Hy@pagecounter=\count323
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 )
@@ -616,10 +735,8 @@ File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
 nguages
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count317
+\Hy@SavedSpaceFactor=\count324
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
 )
@@ -631,7 +748,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count318
+\c@Hy@tempcnt=\count325
 (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -644,7 +761,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count319
+\Fld@menulength=\count326
 \Field@Width=\dimen270
 \Fld@charsize=\dimen271
 Package hyperref Info: Hyper figures OFF on input line 6075.
@@ -656,14 +773,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6100.
 Package hyperref Info: PDF/A mode OFF on input line 6105.
 LaTeX Info: Redefining \ref on input line 6145.
 LaTeX Info: Redefining \pageref on input line 6149.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
-)
-\Hy@abspage=\count320
-\c@Item=\count321
-\c@Hfootnote=\count322
+\Hy@abspage=\count327
+\c@Item=\count328
+\c@Hfootnote=\count329
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
@@ -672,11 +784,11 @@ File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box72
-\c@Hy@AnnotLevel=\count323
-\HyField@AnnotCount=\count324
-\Fld@listcount=\count325
-\c@bookmark@seq@number=\count326
+\pdfm@box=\box80
+\c@Hy@AnnotLevel=\count330
+\HyField@AnnotCount=\count331
+\Fld@listcount=\count332
+\c@bookmark@seq@number=\count333
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -691,113 +803,49 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip66
+\Hy@SectionHShift=\skip133
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
-\BKM@id=\count327
+\BKM@id=\count334
 )) (/usr/local/texlive/2021/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2020/12/30 v 0.09a modify URL breaks
-) (./LDRS663.aux
-
-LaTeX Warning: Label `learning-activity' multiply defined.
-
-
-LaTeX Warning: Label `learning-activity' multiply defined.
-
-
-LaTeX Warning: Label `learning-activity' multiply defined.
-
-
-LaTeX Warning: Label `protip' multiply defined.
-
-
-LaTeX Warning: Label `learning-activity' multiply defined.
-
-
-LaTeX Warning: Label `learning-activity' multiply defined.
-
-
-LaTeX Warning: Label `learning-activity' multiply defined.
-
-
-LaTeX Warning: Label `learning-activity' multiply defined.
-
-
-LaTeX Warning: Label `wordpress-post' multiply defined.
-
-
-LaTeX Warning: Label `read-and-reflect' multiply defined.
-
-
-LaTeX Warning: Label `read-and-reflect' multiply defined.
-
-
-LaTeX Warning: Label `read-and-reflect' multiply defined.
-
-
-LaTeX Warning: Label `read-and-reflect' multiply defined.
-
-
-LaTeX Warning: Label `wordpress-post' multiply defined.
-
-
-LaTeX Warning: Label `reflect' multiply defined.
-
-
-LaTeX Warning: Label `read-and-reflect' multiply defined.
-
-
-LaTeX Warning: Label `questions-to-consider' multiply defined.
-
-
-LaTeX Warning: Label `questions-to-consider' multiply defined.
-
-
-LaTeX Warning: Label `read-and-reflect' multiply defined.
-
-
-LaTeX Warning: Label `questions-to-consider' multiply defined.
-
-
-LaTeX Warning: Label `questions-to-consider' multiply defined.
-
-)
+) (./LDRS663.aux)
 \openout1 = `LDRS663.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 150.
-LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 150.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 150.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 150.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 150.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 150.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 150.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 174.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 150.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 174.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -826,7 +874,7 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 150.
+(Font)              scaled to size 10.0pt on input line 174.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -865,18 +913,18 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 150.
+(Font)              scaled to size 10.0pt on input line 174.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 150.
+(Font)              `operators' in the math version `normal' on input line 174.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 150.
+ line 174.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 150.
+(Font)              `operators' in the math version `bold' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 150.
+t line 174.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -963,15 +1011,15 @@ t=math;language=dflt;"
 (fontspec)             \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 150.
+(Font)              `symbols' in the math version `normal' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 150.
+t line 174.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 150.
+(Font)              `symbols' in the math version `bold' on input line 174.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 150.
+t line 174.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -1041,17 +1089,17 @@ pt=math;language=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-50.
+74.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 150.
+t line 174.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 150
+(Font)              `largesymbols' in the math version `bold' on input line 174
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 150.
-LaTeX Info: Redefining \microtypecontext on input line 150.
+t line 174.
+LaTeX Info: Redefining \microtypecontext on input line 174.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -1062,7 +1110,7 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 150.
+Package hyperref Info: Link coloring OFF on input line 174.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1072,42 +1120,42 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count328
+\c@section@level=\count335
 )
-LaTeX Info: Redefining \ref on input line 150.
-LaTeX Info: Redefining \pageref on input line 150.
-LaTeX Info: Redefining \nameref on input line 150.
+LaTeX Info: Redefining \ref on input line 174.
+LaTeX Info: Redefining \pageref on input line 174.
+LaTeX Info: Redefining \nameref on input line 174.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 152.
+(Font)              scaled to size 12.0pt on input line 176.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 152.
+(Font)              scaled to size 8.0pt on input line 176.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 152.
+(Font)              scaled to size 6.0pt on input line 176.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-52.
+76.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.0011pt on input line 152.
+(Font)              scaled to size 12.0011pt on input line 176.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00073pt on input line 152.
+(Font)              scaled to size 8.00073pt on input line 176.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 152.
+(Font)              scaled to size 6.00055pt on input line 176.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 152.
+(Font)              scaled to size 11.99872pt on input line 176.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 152.
+(Font)              scaled to size 7.99915pt on input line 176.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 152.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 152
+(Font)              scaled to size 5.99936pt on input line 176.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 176
 .
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 152
+LaTeX Font Info:    Trying to load font information for U+msb on input line 176
 .
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1144,124 +1192,125 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 ] [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 192--194
+Underfull \hbox (badness 1484) in paragraph at lines 216--218
 []\TU/lmr/m/n/10 demonstrate the ability to model metacognitive strategies for 
 self-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--219
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 221--223
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
 
  []
 
 [8] [9
 
-] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 351--353
+]
+Underfull \hbox (badness 10000) in paragraph at lines 344--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--355
+Underfull \vbox (badness 1728) has occurred while \output is active []
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--379
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--381
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--383
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 383--385
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 385--387
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 424--426
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--428
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 346--348
 
  []
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 431.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 351.
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--440
+Underfull \hbox (badness 10000) in paragraph at lines 358--360
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--442
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
 
  []
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 442--444
 
- []
+Underfull \vbox (badness 2913) has occurred while \output is active []
 
-[13]
+[11]
 File: assets/SOLO-taxonomy.png Graphic file (type bmp)
 <assets/SOLO-taxonomy.png>
-[14]
-Underfull \hbox (badness 1033) in paragraph at lines 518--519
+[12]
+Underfull \hbox (badness 1033) in paragraph at lines 438--439
 \TU/lmr/m/n/10 ulous concern for documented evidence, and obvious capacity
  []
 
-[15] [16]
+[13] [14]
 Chapter 1.
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 548--550
+Underfull \hbox (badness 10000) in paragraph at lines 462--464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--552
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
 
  []
 
-[17
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--472
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[15
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 580--582
+Underfull \hbox (badness 10000) in paragraph at lines 492--494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--584
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
 
  []
 
-Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--528
+
+ []
+
+Missing character: There is no ✨ (U+2728) in font [lmroman10-regular]:mapping=t
+ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
@@ -1280,67 +1329,54 @@ Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
-
+[16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[18]
-Overfull \vbox (11.32631pt too high) has occurred while \output is active []
-
-[19]
+[17]
 File: assets/u2/share.png Graphic file (type bmp)
 <assets/u2/share.png>
-[20]
+[18]
 File: assets/u2/CoI-Model.jpg Graphic file (type bmp)
 <assets/u2/CoI-Model.jpg>
-[21] [22] [23] [24]
+[19] [20]
+Underfull \vbox (badness 5970) has occurred while \output is active []
+
+[21] [22]
 File: assets/u2/Modes-Interaction-Anderson.png Graphic file (type bmp)
 <assets/u2/Modes-Interaction-Anderson.png>
-
-Underfull \vbox (badness 4242) has occurred while \output is active []
-
-[25]
+[23]
 File: assets/u2/Kanuka-Modes-of-Interaction.png Graphic file (type bmp)
 <assets/u2/Kanuka-Modes-of-Interaction.png>
 File: assets/u2/Modes-of-Interaction-Madland.png Graphic file (type bmp)
 <assets/u2/Modes-of-Interaction-Madland.png>
-[26] [27] [28]
+[24] [25] [26]
 Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[29] [30]
+[27] [28]
 Chapter 2.
-[31
+[29
 
-] [32]
+] [30]
 File: assets/u3/ZPD_Image.png Graphic file (type bmp)
 <assets/u3/ZPD_Image.png>
-[33]
+[31]
 File: assets/u3/U5_T2_Image.jpg Graphic file (type bmp)
 <assets/u3/U5_T2_Image.jpg>
-
-Underfull \vbox (badness 1210) has occurred while \output is active []
-
-[34] [35]
+[32] [33]
 File: assets/u3/Image3.png Graphic file (type bmp)
 <assets/u3/Image3.png>
-[36]
+[34]
 Overfull \hbox (69.29456pt too wide) has occurred while \output is active
 \TU/lmr/m/sl/10 2.3.  FACILITATING TRANSFORMATIONAL LEARNING IN GROUP ENVIRONME
-NTS \TU/lmr/m/n/10 37
+NTS \TU/lmr/m/n/10 35
  []
 
-[37] [38]
+[35] [36] [37]
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
-[39]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[40]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[41]
+[38] [39] [40]
 Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[42]
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
@@ -1353,17 +1389,17 @@ Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[43] [44
+[41] [42
 
-]
+] [43]
 File: assets/presentations/facilitation/fac-process.drawio.png Graphic file (ty
 pe bmp)
 <assets/presentations/facilitation/fac-process.drawio.png>
-[45] [46]
+[44]
 File: assets/presentations/facilitation/tuckman.drawio.png Graphic file (type b
 mp)
 <assets/presentations/facilitation/tuckman.drawio.png>
-[47] [48
+[45] [46
 
 ]
 Chapter 3.
@@ -1375,54 +1411,56 @@ Missing character: There is no ❓ (U+2753) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ❓ (U+2753) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[49]
+[47]
 File: assets/u4/France_in_XXI_Century._School.jpg Graphic file (type bmp)
 <assets/u4/France_in_XXI_Century._School.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1514--1516
+Underfull \hbox (badness 10000) in paragraph at lines 1422--1424
 []
  []
 
-[50] [51]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 1637--1639
+[48] [49] [50]
+Underfull \hbox (badness 10000) in paragraph at lines 1531--1533
 
  []
 
-[53]
-Underfull \vbox (badness 2293) has occurred while \output is active []
+[51]
 
+Package tcolorbox Warning: Discard zero height first box part due to break prob
+lems (possible loss of zero height content) on input line 1580.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[52]
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[53]
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
 [54]
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[55]
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[56]
 Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
@@ -1441,43 +1479,43 @@ Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[57] [58
-
-]
+[55] [56]
 File: assets/presentations/coaching/mike.jpg Graphic file (type bmp)
 <assets/presentations/coaching/mike.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[59]
+[57
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[60] [61]
+[58] [59]
 File: assets/presentations/coaching/ted.jpg Graphic file (type bmp)
 <assets/presentations/coaching/ted.jpg>
 File: assets/presentations/coaching/active.png Graphic file (type bmp)
 <assets/presentations/coaching/active.png>
-[62]
+[60]
 File: assets/presentations/coaching/plutchik.jpg Graphic file (type bmp)
 <assets/presentations/coaching/plutchik.jpg>
-[63] [64] [65] [66] [67] [68]
+[61] [62] [63] [64] [65] [66]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2502--2504
+Underfull \hbox (badness 10000) in paragraph at lines 2350--2352
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2504--2506
+Underfull \hbox (badness 10000) in paragraph at lines 2352--2354
 
  []
 
-[69
+[67
 
-] [70]
+] [68]
 File: assets/u1/vr-diagram-2.png Graphic file (type bmp)
 <assets/u1/vr-diagram-2.png>
-[71]
+[69]
 Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
@@ -1492,112 +1530,56 @@ Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 2447--2449
+
+ []
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 2449--2451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2451--2453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2453--2455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2455--2457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2457--2459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2459--2461
+
+ []
+
 [72]
-Underfull \hbox (badness 10000) in paragraph at lines 2613--2615
+Chapter 5.
+[73
 
+]
+Overfull \hbox (19.22452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 74 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
+-ACCESS WORLD
  []
-
-[73]
-Underfull \hbox (badness 10000) in paragraph at lines 2615--2617
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2617--2619
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2619--2621
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2621--2623
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2623--2625
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2625--2627
-
- []
-
-
-Underfull \vbox (badness 3158) has occurred while \output is active []
 
 [74]
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 [75]
-File: assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg Gra
-phic file (type bmp)
-<assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg>
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-Overfull \hbox (6.61201pt too wide) in paragraph at lines 2710--2716
-\TU/lmr/m/n/10 ✔️ Review your settings, start by changing your Site Title under
- \TU/lmtt/m/n/10 Settings>General\TU/lmr/m/n/10 .
- []
-
-[76]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[77]
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[78]
-Chapter 5.
-[79
-
-]
-Overfull \hbox (19.22452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 80 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
--ACCESS WORLD
- []
-
-[80]
-Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
-text;!
-[81]
-Underfull \hbox (badness 1748) in paragraph at lines 2825--2826
+Underfull \hbox (badness 1748) in paragraph at lines 2558--2559
 []\TU/lmr/m/n/10 Taken together Dewey describes the interplay of his two princi
 ples of
  []
@@ -1605,28 +1587,56 @@ ples of
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2840--2843
+Underfull \hbox (badness 10000) in paragraph at lines 2571--2573
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2843--2845
+Underfull \hbox (badness 10000) in paragraph at lines 2573--2575
 
  []
 
 
+Overfull \hbox (19.22452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 76 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
+-ACCESS WORLD
+ []
+
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 2601--2603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2603--2605
+
+ []
+
+[77]
+Overfull \hbox (19.22452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 78 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
+-ACCESS WORLD
+ []
+
+[78] [79]
+Overfull \hbox (19.22452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 80 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
+-ACCESS WORLD
+ []
+
+[80] [81]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 82 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
 [82]
-Underfull \hbox (badness 10000) in paragraph at lines 2878--2880
+Underfull \hbox (badness 10000) in paragraph at lines 2677--2679
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2881--2883
+Underfull \hbox (badness 10000) in paragraph at lines 2679--2681
 
  []
 
@@ -1648,89 +1658,95 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 -ACCESS WORLD
  []
 
-[88]
-Underfull \hbox (badness 10000) in paragraph at lines 2956--2958
+[88] [89]
+Underfull \hbox (badness 10000) in paragraph at lines 2825--2827
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2960--2962
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[89]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 90 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
 [90] [91]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 92 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
-[92] [93]
+[92]
+File: assets/U5/U5LAImage.jpg Graphic file (type bmp)
+<assets/U5/U5LAImage.jpg>
+[93]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 94 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
-[94] [95]
-Underfull \hbox (badness 10000) in paragraph at lines 3114--3116
-
- []
-
-
-Underfull \vbox (badness 5077) has occurred while \output is active []
-
-
-Overfull \hbox (19.22452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 96 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
--ACCESS WORLD
- []
-
-[96] [97]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (19.22452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 98 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
--ACCESS WORLD
- []
-
-[98]
-File: assets/U5/U5LAImage.jpg Graphic file (type bmp)
-<assets/U5/U5LAImage.jpg>
-[99]
-Overfull \hbox (24.22452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 100 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULT
-I-ACCESS WORLD
- []
-
-[100
+[94
 
 ]
 Chapter 6.
+[95] [96
+
+] [97]
+File: assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg Gra
+phic file (type bmp)
+<assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg>
+[98]
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Overfull \hbox (6.61201pt too wide) in paragraph at lines 2992--2998
+\TU/lmr/m/n/10 ✔️ Review your settings, start by changing your Site Title under
+ \TU/lmtt/m/n/10 Settings>General\TU/lmr/m/n/10 .
+ []
+
+[99]
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
 No file LDRS663.bbl.
-[101] (./LDRS663.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[100] (./LDRS663.aux) ) 
 Here is how much of TeX's memory you used:
- 27428 strings out of 476919
- 530410 string characters out of 5821841
- 991464 words of memory out of 5000000
- 46926 multiletter control sequences out of 15000+600000
+ 28513 strings out of 476919
+ 554073 string characters out of 5821841
+ 1028921 words of memory out of 5000000
+ 47985 multiletter control sequences out of 15000+600000
  409921 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,7n,122p,2137b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,7n,122p,2137b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LDRS663.pdf (101 pages).
+Output written on LDRS663.pdf (100 pages).

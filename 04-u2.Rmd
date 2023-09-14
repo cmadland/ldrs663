@@ -1,7 +1,8 @@
 # Learning Facilitation
 
 <!--
-```{block, type='todo'}
+
+```{block2, type='feedback'}
 #### Things To Do This Week
 
 
@@ -13,17 +14,20 @@
 - **Watch** [Liberating Structures](https://player.vimeo.com/video/364868276)  
 - **Visit** [**What, So What, Now What? W³**](http://www.liberatingstructures.com/9-what-so-what-now-what-w/)  
 ✅  Please complete these items by [Friday, April 22 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220422T0730&p1=1109&ah=1&am=30)  
+
 ```
 
 -->
 
 <!--
-```{block, type='protip'}
+
+```{block2, type='blank'}
 #### ✨ NOTE{-}
 
 Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) is due ***Friday, May 6***. Please begin scheduling your facilitation sessions with your groups this week so you have enough time to complete the sessions and your reflections.
 
 Also, you should be planning your [*Curriculum analysis*](https://ma-lead.github.io/ldrs663/assessments.html#facilitated-curriculum-analysis-10) assignment with your learning pod.
+
 
 ```
 -->
@@ -78,11 +82,13 @@ A metaphor that has been used to describe one such supportive mechanism is *scaf
 
 The task of facilitating learning with the ZPD in mind assumes that you, as the facilitator, know what knowledge and skills your students are starting with. It is likely that the competencies your students display fall along a bell curve. While most students will be learning within a similar ZPD, there will be outliers at both ends of the curve. One strategy can be to pair students whose skills and knowledge are below the curve with those above the curve. In doing this, students who are above the curve, who may not be challenged with the content or skill, have to engage in greater levels of cognitive complexity in order to concisely explain to their peer and help them to meet the objective. For example, Madland and Richards (2016) describes a cooperative peer review activity, where the authors asked a group of learners how they thought cooperative learning activities supported learning. In this study, the learners’ responses indicated that the two most important factors were *social cohesion* and *developmentally appropriate challenges,* indicating that learners recognized the importance of the ZPD in learning.
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Learning Activity
 ***Questions to Consider***  
 After reading the topic above, consider the following question:  
 - How does the idea of the zone of proximal development help you support learning?
+
 ```
 
 
@@ -120,7 +126,8 @@ Finally, the group must be able to monitor their process with the goal of improv
 
 ![Cooperative Learning (Slavin, 2011)](assets/u3/Image3.png)
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Learning Activity {-}
 
 ***Questions to Consider***  
@@ -128,6 +135,7 @@ After reading through the content in Topic 2, please consider the following ques
 -  How can coaching concepts be applied to helping learners learn?  
 -  What key characteristics define effective coaching for learning?  
 -  How can educators coach learners through the transition of making a change?
+
 
 ```
 
@@ -149,7 +157,8 @@ As such, you will need to start thinking about *how* to facilitate your students
 The work of facilitating the learning process within a group setting begins with an effective plan. Smith (2009) proposes a simple model: EFFECT. This model reminds the facilitator to think about the learning **environment,** the **focus** (or purpose) of the session, **feelings** the session is likely to evoke, **experiences** learners will explore, **changes** learners will make as a result of the session, and the **timings** allocated for all the learning experiences and activities. Next, it’s important for the facilitator to plan out the structure of each learning session, which like a story, should have beginnings, middles, and endings. Each stage has a particular task. The beginning encourages learners to explore, the middle engages learners with the subject, and the ending enables learners to move on in their personal learning journey. Drawing upon Evans’ (2007) guidelines for helping conversations, Smith (2009) advises facilitators to think about “the exploration as the first quarter of the session; engaging with the subject and developing understanding as the middle half; and enabling action and development as the final quarter.”
 
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Learning Activity {-}
 
 Read the following article:
@@ -164,6 +173,7 @@ After completing the reading above, consider the following questions:
 -  What are the core values informing facilitation?  
 -  How can the EFFECT model help you to plan a facilitated learning session?  
 -  How does a facilitator effectively structure a facilitated learning session?  
+
 
 ```
 
@@ -204,10 +214,12 @@ It is important for facilitators to understand that groups change over time. One
 
 **Adjourning:** At some point the group ends.
 
-```{block, type='protip'}
+
+```{block2, type='blank'}
 #### ✨ ProTip{-}
 
 ***Each stage of group development requires the facilitator to employ variations in their approach.***
+
 
 ```
 
@@ -221,7 +233,8 @@ It is important for facilitators to understand that groups change over time. One
 | Reforming <br>(Disengaging) | **Establishing new goals**, solving confusion, managing risks. <br> *(Why? Challenging the new comfort zone.)* |
 
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Learning Activity{-}
 
 Take a moment to read the following article:
@@ -233,9 +246,11 @@ After reading the article above, consider the following questions:
 -  What are some of the key benefits and dangers of learning in group settings?  
 -  What are some key dimensions of groups?  
 -  What are the stages of group development?  
+
 ```
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Learning Activity{-}
 
 Take a moment to read the following article:
@@ -247,6 +262,7 @@ After completing the reading above, consider the following questions:
 -  How is White’s Optimal Performance Zone similar Vygotsky’s ZPD?  
 -  How does White’s model help a facilitator determine how to adjust their facilitation strategies?  
 -  What insight does White’s model provide about how to sustain learning performance?  
+
 ```
 
 ## Core Facilitation Competencies 
@@ -266,7 +282,8 @@ The professionalization of learning facilitation within educational settings is 
 ---
 
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Learning Activity
 
 Take some time to read the following article:
@@ -278,6 +295,7 @@ After completing the reading above, consider the following questions:
 -  What general facilitation competencies apply to facilitating learning?  
 -  What competencies do you feel are strength areas? What areas do you need to develop?  
 -  How can facilitation skills help you support learner success in an educational setting?  
+
 ```
 
 ## Facilitation Strategies
@@ -290,7 +308,8 @@ Strategies for facilitating learning are as numerous and varied as the educators
 It can often be challenging to devise new ways of interacting in F2F learning environments, but there are many resources available to facilitators both online and in print. One of those resources is a book and website called *Liberating Structures* which describes a set of 33 structured activities that you can use in your learning labs to generate conversation without resorting to the same old tired 'brainstorm.'
 
 
-```{block, type='reflect'}
+
+```{block2, type='reflect'}
 #### Learning Activity
 
 
@@ -305,18 +324,21 @@ Next, visit the *Liberating Structures* website and take a look at the following
 
 Now, consider how could you use this Liberating Structure to guide a group discussion that would help learners learn a Unit?  
 
+
 ```
 
 
 ## Unit 3 Assessment {-}
 
-```{block, type='wp'}
+
+```{block2, type='wp'}
 #### WordPress Post
 
 
 Please complete the assignment under 'Post 3' below. This will be your third of five draft posts during the course.
 
 [Blog Post 3](https://ma-lead.github.io/ldrs663/assessments.html#post-3)
+
 
 ```
 

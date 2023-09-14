@@ -1,19 +1,24 @@
 # Learning in Community
 
-<!--
-
-```{block, type='todo'}
-#### Things To Do This Week
 
 
--  Meet in Zoom [Friday, April 8 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220408T0730&p1=1109&ah=1&am=30)    
+
+```{block2, type='feedback'}
+<span class="blockhead">Things To Do This Week</span>
+
+You will be directed when to complete the following tasks.
+
+-  Meet in Zoom [<span class='badge-blue'>Wednesday, September 13 - 10:00 AM PDT </span>(Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230913T10&p1=256&ah=1)  ✅ 
+- Create a blog site [on the TWU WordPress Network](https://create.twu.ca). [Click here for instructions.](https://ma-lead.github.io/ldrs663/wordpress)   
 - **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
 - **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)   
-- **Publish** your arguments for or against the *Interaction Equivalency Theorem* in the Moodle *Unit 1 Forum*.  
-- Please complete these tasks by [**Friday, April 8 @ 11:00 PM PDT**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220408T2300&p1=1109&ah=1&am=30)
+- **Publish** your arguments for or against the *Interaction Equivalency Theorem* on your blog..  
+- Please complete these tasks by <span class='badge-blue'>Saturday, September 16</span> before your regular bedtime. The reason for this short week is that we want to start our weeks on Mondays. Don't worry too much if you don't get this one done right on time.
+
+
 ```
--->
+
 
 ## Overview{-}
 
@@ -41,8 +46,10 @@ Here are the resources you will need to complete this unit:
 - [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
 - [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf)
 
-```{block, type='protip'}
-#### ✨ ProTip{-}
+
+```{block2, type='blank'}
+<span class="blockhead">✨ ProTip</span>
+
 Ok...it would seem that the TWU library has lost access to the database that contains the Kanuka article above ('Interaction and the online distance classroom...'). Here is how I go about tracking down articles In this case, I've completed all of the checked items and am waiting to hear back from Dr. Kanuka):
 
 ✅ I see if I have access through another library. As a PhD candidate at UVic, I have access to their library, and it turns out that this article is in their collection, but that doesn't help you.  
@@ -55,9 +62,11 @@ Ok...it would seem that the TWU library has lost access to the database that con
 
 And this whole mess of strategies could be avoided if everyone published under an open license and the research that is created, usually with government funding, was freely available to those who need it.
 
-##### An update on this link...
+<span class="blockhead">An update on this link...</span>
+
 ✅ I received a response from the author, who generously provided a PDF copy of the article. This is very common.  
 ✅ Also, I discovered at the bottom of the page when I viewed the article signed into a different library, that there was an option to get a sharing link, so I copied that link and updated the URL above. This seems to provide a read-only link for people who don't have access through a library or other institution.
+
 
 
 ```
@@ -125,8 +134,10 @@ Teaching presence can be a shared function between members of the community. Gar
 
 ### Learning Activity{-}
 
-```{block, type='reflect'}
-####  Read, Annotate, and Reflect
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Read, Annotate, and Reflect</span>
 
 
 **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166) (access through the TWU library).
@@ -143,6 +154,7 @@ As you read, consider a time where you experienced a learning environment where 
   - Which presence is most important for you?
 
 Note that this is an ungraded activity, but is designed to help prepare you for the assessments in this course.  Throughout the course you are encouraged to take notes in a journal of some sort. Refer to these notes as you complete your assessments.
+
 ```
 
 
@@ -192,14 +204,16 @@ There are myriad structures that can be used to ensure that interactions are inc
 
 ### Learning Activity{-}
 
-```{block, type='reflect'}
-#### Read and Reflect
+
+```{block2, type='reflect'}
+
 
 
 Read the following article by Terry Anderson
 - [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)
 
 As you read, consider what interactions you have experiences in online or f2f courses.
+
 ```
 
 
@@ -222,13 +236,15 @@ In an asynchronous, text-based environment, students and teachers do not need to
 
 ## Unit 2 Assessment{-}
 
-```{block, type='wp'}
-#### WordPress Post
+
+```{block2, type='wp'}
+<span class="blockhead">WordPress Post</span>
 
 
-Please complete the assignment under 'Post 2' below. This will be your first of five draft posts during the course.
+Please complete the assignment under 'Post 1' below. This will be your first of five draft posts during the course.
 
-[Blog Post 2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
+[Blog Post 1](https://ma-lead.github.io/ldrs663/assessments.html#post-1)
+
 
 ```
 

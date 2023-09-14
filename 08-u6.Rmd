@@ -5,12 +5,14 @@ Congratulations! We have taken a bit of a whirlwind tour through the main ideas 
 These two related competencies are not 'new' educational ideas, but are based in a long history of educational research showing the power of social constructivist pedagogies to transform thinking within a critical community of inquiry.
 
 <!--
-```{block, type='todo'}
+
+```{block2, type='feedback'}
 #### Things To Do This Week
 
 👥 Meet in Zoom [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)    
 ⌨️ **Publish** your [Showcase Post](https://ma-lead.github.io/ldrs663/assessments.html#showcase-post) using the category `ldrs663` AND the category `Showcase`. Due [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)   
 👥 **Complete** your [Facilitation Resource Project](https://ma-lead.github.io/ldrs663/assessments.html#facilitation-resource-project-40)   Due [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)  
+
 ```
 
 -->

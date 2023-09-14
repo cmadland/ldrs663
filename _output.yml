@@ -11,7 +11,7 @@ bookdown::gitbook:
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
-    in_header: preamble.tex
+    in_header: https://twuonline.github.io/course-materials/bookdown_preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes

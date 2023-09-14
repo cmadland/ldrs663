@@ -1,21 +1,31 @@
 # Assessments {-}
 
-| Assessment Task | Due Date | % of Final Grade |
+| Assessment Task | Due Date | 
+| --- | :---: |
+| Learning Reflection Blogs | Ongoing |
+| Facilitated Curriculum Analysis | Sept 23 | 
+| Small Group Facilitation | Sept 30 |
+| Peer Coaching Session | Oct 14 | 
+| Showcase Post  | Nov 4| 
+| Facilitation Resource Project | Nov 8 | 
+
+<!--
+| Assessment Task | Due Date | Approximate weight |
 | --- | :---: | :---: |
 | Learning Reflection Blogs | Ongoing, weekly | Required but not assessed |
-| Facilitated Curriculum Analysis | Feb 12 | 10% |
-| Small Group Facilitation | Feb 19 | 10% |
-| Peer Coaching Session | Feb 26| 15% |
-| Showcase Post (choose one of your learning reflection blog posts to expand and elaborate) | Mar 15| 25% |
-| Facilitation Resource Project | Mar 15 | 40% |
-
+| Facilitated Curriculum Analysis | Sept 23 | 10% |
+| Small Group Facilitation | Sept 30 | 10% |
+| Peer Coaching Session | Oct 14 | 15% |
+| Showcase Post (choose one of your learning reflection blog posts to expand and elaborate) | Nov 4| 25% |
+| Facilitation Resource Project | Nov 8 | 40% |
+-->
 <!--
 ## Learning Pods {-}
 
 At the beginning of the course everyone will be placed into small groups called learning pods. these groups, of about four people, will be the place where you will practice learning facilitation and coaching principles and skills that you are learning in this course. The pods will also form the working group for doing a curriculum analysis and developing a facilitated learning resource.
 -->
 
-## Learning Reflection Blogs (25%) {-}
+## Learning Reflection Blogs  {-}
 
 <!--
 
@@ -31,15 +41,7 @@ Each of your draft posts should be 400-500 words.
 
 #### Topic {-}
  
-- In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
-
-To submit all of your posts for the course, create a new post on your own WordPress blog and use the category `ldrs663`.
-
-### Post 2{-}
-
-#### Due at the end of Unit 2 {-}
-#### Read and Discuss   {-}
-**Review** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
+**Read** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
 **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  by Heather Kanuka.  
 
 Then, post a reponse on your blog defending or criticizing Anderson's Interaction Equivalency Theorem. Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
@@ -50,7 +52,15 @@ If your birthday is between July 1 and December 31, **criticize** Anderson's Int
 
 Feel free to respond to arguments presented by your colleagues for or against the theorem.
 
-To submit this discussion post, create a new post on your own WordPress blog and use the category 'ldrs663'.
+To submit all of your posts for the course, create a new post on your own WordPress blog and use the category `ldrs663`.
+
+<!--
+### Post 2{-}
+
+#### Due at the end of Unit 2 {-}
+
+- In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
+
 
 ### Post 3{-}
 
@@ -88,22 +98,28 @@ Throughout this unit we have explore the idea of the educational experience. You
 - How might this shift change the learner’s role and responsibilities change?  
 - How can institutions ensure quality and transformational learning outcomes?  
 
+-->
 
 ### Showcase Post {-}
 
 #### Due at the end of the course {-}
 ##### Topic {-}
 
+Create a new post on your blog in which you outline how you have met each of the 8 learning outcomes in the course. Include links to your previous posts, other learners' posts, resources you have found in the course or on your own, your reflections on the assignments. Make sure you make connections between your work in the course, what you have learned, and how your learning will impact your future work and who you hope to become  (personally, professionally, or both).
+
+This post should be polished and professional with proper APA citations (linked) and a reference list (don't worry about hanging indents!).
+
+To submit this discussion post, create a new post on your own WordPress blog and use the categories 'ldrs663' and 'showcase'.
+
+<!--
 Choose one of the previous 5 posts that you would like to showcase as your best work. Take some time to polish and expand your post (aim for 600-700 words). Ways to expand your post might include:
 - finding more published research about the topic to integrate into your post;   
 - writing about how your views have changed on the topic during the course;
 - writing a counter-argument refuting your previous post.
+-->
 
-Please include citations (links) and a reference list at the end of your post.
 
-To submit this discussion post, create a new post on your own WordPress blog and use the categories 'ldrs663' and 'showcase'.
-
-## Facilitated Curriculum Analysis (10%) {-}
+## Facilitated Curriculum Analysis  {-}
 
 Working together as a learning pod, examine a curricular resource that is, or could be, used with a facilitated learning approach. Emphasis will be placed on courses in higher education, including a selection of TWU’s library of FAR courses (specifically designed to be delivered in a facilitated learning approach). However, a range of other formats are open for investigation, including (but not limited to) community-based programs, professional certification programs, corporate workshops or training programs, and masterclasses. Your pod will be invited to select a specific course of study and asked to assess the curriculum from a facilitation and coaching perspective.
 
@@ -166,10 +182,10 @@ If you could ask the course designer clarifying questions about the course, what
 To submit this assignment, scroll to the bottom of the screen on the Unit 5 Tab and select the "Unit 5 - Curriculum Facilitation Analysis Assignment" dropbox.
 -->
 
-## Small Group Facilitation (10%) {-}
+## Small Group Facilitation  {-}
 
 -  Working in a learning pod you will each choose, prepare, and facilitate one 15 to 20 minute long small group discussion that is based on one of the units/topics from LDRS 663. You will record a video of your session (likely in Zoom).  
--  Following the facilitation, your group will engage in a 10-15 minute debrief about your facilitation. You may choose to structure the debrief following the ***What, So What, Now What? W³*** from the Learning Activity in Unit 3, Topic 6.  
+-  Following the facilitation, your group will engage in a 10-15 minute debrief about your facilitation. You may choose to structure the debrief following the ***What, So What, Now What? W³*** from Liberating Structures.  
 -  Finally, you will write a 300-500 word critical reflection on your actions as the learning facilitator, including the debrief.  
 
 **Your reflection should be submitted as a post on your blog with the category `ldrs663`.**
@@ -182,12 +198,12 @@ In your facilitation session, demonstrate and reflect on the following:
 -  Fourth, fostering learning (showing interest and enthusiasm, spending more time asking than telling, posing open-ended questions, waiting for learners to respond, seeking clarification, activating learners' prior knowledge effectively, using appropriate forms of engagement to stimulate learner involvement).
 
 
-## Peer Coaching Session (15%) {-}
+## Peer Coaching Session  {-}
 
 Working with another student (in your pod), you will each coach each other through the process of writing your final “showcase” post as part of your learning reflection blog assignment. You will record a video of your session and write critical reflection on your actions as the learning coach.
 
 
-## Facilitation Resource Project (40%) {-}
+## Facilitation Resource Project  {-}
 
 Working as a learning pod, you will create a guide to serve as a resource for you and others to facilitate a particular course of study. We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of coaching and facilitation in real-world settings.  As you may be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking and learning processes that will lead to them discovering what they need to know from the expertly prepared course materials in order to help solve their questions.
 
@@ -201,7 +217,7 @@ Throughout the course, you will have the opportunity to attend learning labs. Du
 -->
 ## Grading Standards and the SOLO Taxonomy {-}
 
-An important reality of higher education is that we need to provide a single number between 0 and 100 to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If we am going to be fair about it, we need to consider where you are starting relative to where you end up, we need to understand your individual context, and we need to be able to determine that number by researching your work.
+An important reality of higher education is that we need to provide a single number between 0 and 100 to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If we are going to be fair about it, we need to consider where you are starting relative to where you end up, we need to understand your individual context, and we need to be able to determine that number by researching your work.
 
 ***Assessment is research.*** You need to show us evidence that you have met the outcomes of the course in alignment with the parameters of the assignment, and you need to do so in a way that shows you can think clearly, write persuasively, and extend your learning beyond the boundaries of the course.
 
@@ -230,7 +246,7 @@ A relational response displays knowledge or ability in ***multiple dimensions of
 #### Extended Abstract  {-}
 An extended abstract response displays knowledge or ability in ***multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs***.
 
-If you are providing responses at a `pre- or uni-structural` level in a university course, you are going to have a bad time. `Multi-structural` responses will lead to grades in the 'C' range. At minimum, your responses should be `unambiguously relational` for a grade in the 'B' range and `extended abstract` for a grade in the 'A' range.
+If you are providing responses at a `pre- or uni-structural` level in a graduate course, you are going to have a bad time. `Multi-structural` responses will lead to grades in the 'C' range. At minimum, your responses should be `unambiguously relational` for a grade in the 'B' range and `extended abstract` for a grade in the 'A' range.
 
 The [TWU Grading Scale](https://www.twu.ca/about/policies-guidelines/university-standard-grading-system), available on the syllabus for this course, describes A-, A, or A+ work as
 

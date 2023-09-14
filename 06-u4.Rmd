@@ -24,9 +24,11 @@ Online resources will be provided.
 
 It is likely that you have encountered and may believe that there is a distinction between digital 'natives' and 'immigrants'.
 
-```{block, type='caution'}
+
+```{block2, type='caution'}
  **Note**  
 [Marc Prensky](https://marcprensky.com/), who proposed this idea, is the one who thought it would be a good idea to refer to people as 'natives'. We recognize that this term should not be used to talk about people.
+
 ```
 
 The essential argument is that *kids these days* have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those of us whose formative years pre-date the advent of the internet are forever at a disadvantage compared to the *kids*. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
@@ -66,7 +68,8 @@ One of the people I look up to as an educator published a blog post which I beli
 
 ### Learning Activity {-}
 
-```{block, type='wp'}
+
+```{block2, type='wp'}
 **Visitor and Resident Diagram**  
 
 I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with learners. Do the tools you use fall on the visitor or the resident end of your continuum? What about the learners in your classes?
@@ -75,6 +78,7 @@ I hope this activity will help you think about how the tools we use shape and so
 ✔️ **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
 ✔️ Complete your own ***Visitor/Resident*** map and share and discuss it with your Learning Pod. You can use the [tool that is provided here (DON'T forget to screenshot it, or you'll lose it!)](https://experimental.worldcat.org/vandrmapping/editMap), or use a different tool like [Canva.com](https://canva.com).  
 ✔️ Share your Visitor-Resident Diagram in a new post on your WordPress blog. Include a short reflection on what your diagram tells you about your web presence. Feel free to interact with others' diagrams!  
+
 
 ```
 
@@ -105,81 +109,11 @@ Learners should ensure that they:
 - Understand that these acts do not prohibit participation in networked tools outside of Canada and many public bodies are in need of staff and leaders who model networked literacy and positive citizenship online for their community  
 - Understand what appropriate consent looks like for public bodies and is aware of what alternative steps are to support learners when consent is not obtained.  
 
-## WordPress and Privacy
 
-Now that you have thought about privacy in our digital world, it is time for you to make some decisions about how you would like to 'be' online.
-
-You are invited to document your learning in WordPress. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
-
-Please review all 5 steps below to decide on your approach.
-
-### Decide if you are comfortable posting your work online. {-}
-
-If not, you can document your learning offline (with technology) by changing the privacy settings on your blog or using Word documents and offline video. We would ask learners to consider using an online blogging tool with no identification/using a pseudonym, so as to develop network literacy, which is important in supporting learners, who are growing up in networked environments, but the preferences of learners will be respected and supported.
-
-If you are comfortable being online, then proceed to step 2.
-
-### Would you like to use your real name or use a pseudonym? {-}
-
-You can claim your name online and own your presence by using your full name. With increasing catfishing and identity theft online, it can be helpful to have a presence that may compete with any fake profiles of you that are out there or to have a more dominant presence so posts or pictures of you by others may get drowned out. That said, you may wish to create an identity without your personal information (e.g., West coast teacher). The choice is yours.
-
-With that decision made, proceed to step 3.
-
-### Decide if you would like your blog to be hosted outside of Canada or inside of Canada. {-}
-
-We strongly recommend that you create a blog at create.twu.ca which is built specifically for students and faculty at TWU, is hosted within Canada, and is completely free for you to use. We also have created a template for you there, which will make getting started easier. You will not lose access to your site at create.twu.ca after you finish at TWU, but you are free to export it and publish it on your own space and on your own domain (e.g., <http://yourname.ca> or <http://westcoastteacher.ca>) with a web hosting company for a reasonable annual fee. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting).
-
-Be sure you review the resources under the privacy tutorial on this site or talk to your instructor about the implications of your options. You should also review the resources at the BC Office of the Information and Privacy Commissioner along with the Cloud Computing Guidelines, which outline how to get consent.
-
-With that decision made, proceed to step 4.
-
-### You also have to decide if you want to make your blog public or private. {-}
-
-You can set an entire blog to be private or simply selected posts can be set to private. You can set a password or invite people to gain access. We have provided instructions for adjusting your privacy settings on the tutorial page for opened.ca.
-
-```{block, type='protip'}
-**✨ ProTip**
-
-If you choose to make your blog private, we will not be able to syndicate your posts to the course site. You will still be able to participate in the course, but please contact your instructor if you choose to make your site only visible to registered users of the network or your site.
-```
-
-And last, but not least…
-
-### Finally, you have to think about where you and your content will end up. {-}
-
-The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn’t and we’ll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per page four of the BC OIPC Cloud Computing Guidelines linked here.
-
-### Creating a Blog {-}
-
-Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Please visit[create.twu.ca](https://create.twu.ca), click the blue 'Log in' link and follow the instructions. Once you are done there, you can return here to continue with the next section to get your site set up.
-
-## WordPress Setup
-
-### WordPress Resources {-}
-
-![WordPress Dashboard ([Image Credit](https://unsplash.com/photos/sSPzmL7fpWc))](assets/u1/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg)
-
-We are here to help you create your site, so do not hesitate to ask for technical support. To get started on creating your site we suggest the following steps:
-
-✔️  Log in if you have not already logged in; get familiar with the [administration interface](http://sites.uci.edu/docs/start/dashboard/) and click [here for more information on it](https://www.youtube.com/watch?v=-b569fs2t-Y). The administration interface is also where the Dashboard in WordPress is located and [you can get more info about it here.](https://codex.wordpress.org/Dashboard_Screen)  
-✔️  Remember: When you are in the site administration area of your site, you can get tips on what you are doing by clicking the “Help” menu on the top-right corner.  
-✔️  Review your settings, start by changing your Site Title under `Settings>General`. You need to hit the “Save” button to save your changes. [More information about General Settings here.](https://codex.wordpress.org/Settings_General_Screen)  
-✔️  [Add a new post](http://www.wpbeginner.com/beginners-guide/how-to-add-a-new-post-in-wordpress-and-utilize-all-the-features/)]. You can pick one of the existing categories by checking a box on the sidebar of the authoring interface. [You can manage your categories here.](http://www.wpbeginner.com/glossary/category/) You will need to hit the blue “Publish” button on the right hand side before your post appears. [Information on managing the privacy settings on individual posts is here.](https://en.support.wordpress.com/pages/page-visibility/)  
-✔️  Edit your about me page by introducing yourself and sharing a little about yourself.  
-✔️  You are welcome to change the images and upload your own. [Here is information about using images from Google.](https://www.youtube.com/watch?v=GtMOAaMFaPs)
-
-## WordPress Tutorials
-
-When you’re ready to start customizing your blog and putting content in, check out some tutorials available to you:
-
-✔️  [Beginner’s guide for WordPress by WPBeginner](http://www.wpbeginner.com/start-here/)  
-✔️  [Learn WordPress website by WordPress](https://learn.wordpress.com/)  
-✔️  [Digital Tattoo Project at UBC](http://digitaltattoo.ubc.ca/) – learn digital literacy skills. Check out the menu sections and [consider looking at the publish section.](http://digitaltattoo.ubc.ca/publish/)
-
-If you are confused about anything it is always good to do an initial Google or YouTube search, or reach out to your learning pod or your instructor.
 
 <!--
-```{block, type='todo'}
+
+```{block2, type='feedback'}
 **Things To Do This Week**  
  
 
@@ -188,6 +122,7 @@ If you are confused about anything it is always good to do an initial Google or 
 ✔️  **Register** for a site at [create.twu.ca](https://create.twu.ca). I suggest you start with a 'General TWU site'.  
 ✔️  **Post** your site URL in the 'WordPress URLs' Glossary in Moodle.    
 ✔️  Please complete these items by ***Friday April 1***  
+
 
 ```
 -->
