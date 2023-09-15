@@ -86,3 +86,45 @@ $$\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\loopar
 ***The life of learning groups is dynamic and cyclical.***
 
 ```
+
+![Tuckman and Jensen's Stages of Group Performance](assets/presentations/facilitation/tuckman-jensen.drawio.png)
+
+#### TPR Life-cycle Model (White, 2009) {-}
+
+| Tuckman Model | TPR Model |
+|  ---  |  ---  |
+|Forming|    Transforming   |
+|  Storming     |   -    |
+|    Norming   |    -   |
+|   Performing    |  Performing     |
+|    Adjourning   |  Reforming     |
+
+
+|  Developmental Phase  (White, 2009)   |  Coaching and Facilitation Guidelines     |
+|  :---:  |  ---  |
+|  **Transforming** (Me to We)     |       |
+|    *Forming* <br> (Unwilling/unable)   |  Clear goals, **directions**, fairness, firmness <br> (Why: overcoming denial of the new reality)     |
+|  *Storming* <br> (Willing/unable)     |   As above, plus **encouraging participation**, calmness, recognition of concerns <br> (Why: overcoming defence of the old reality)    |
+|  *Norming* <br> (Unwilling/able)     |  Encouraging, **confidence building**, clear goals, holding accountable <br> (Why: helping discard the old reality)     |
+|   **Performing** <br> (Willing/able)    |  Clear goal setting, monitoring, strategic preparation, seeking innovative approaches, **empowering team members** <br> (Why: helping make new adaptations)     |
+|  **Reforming** <br> (Disengaging)     |  **Establishing new goals**, solving confusion, managing risks <br> (Why: challenging the new comfort zone)     |
+
+#### Learning Group Experience Punctuated Equilibrium {-}
+
+![Learning Group Experience Punctuated Equilibrium](assets/presentations/facilitation/pe.drawio.png)
+
+#### Managing the group learning process {-}
+
+Working with Creative Tension in Teams
+
+1. be clear about the results the team wants to create (vision as important as group dynamics reality);
+2. understand the underlying structural dynamics that influence the team's ability to create;
+3. work on changing those underlying structures in order to bring the current reality in line with the desired outcome.
+
+#### Zone of Proximal Development {-}
+
+![Zone of Proximal Development](assets/presentations/facilitation/zpd.drawio.png)
+
+![Zone of Proximal Development](assets/presentations/facilitation/zpd2.drawio.png)
+
+#### Scaffolding {-}
