@@ -234,14 +234,14 @@ In an asynchronous, text-based environment, students and teachers do not need to
 
 
 
-## Unit 2 Assessment{-}
+## Unit 1 Assessment{-}
 
 
 ```{block2, type='wp'}
 <span class="blockhead">WordPress Post</span>
 
 
-Please complete the assignment under 'Post 1' below. This will be your first of five draft posts during the course.
+Please complete the assignment under 'Post 1' below. This will be your first of ~~five~~ four draft posts during the course.
 
 [Blog Post 1](https://ma-lead.github.io/ldrs663/assessments.html#post-1)
 
