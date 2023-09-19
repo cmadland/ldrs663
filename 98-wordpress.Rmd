@@ -1,4 +1,4 @@
-# WordPress Setup {-}
+# WordPress {-}
 
 You are invited to document your learning in WordPress. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
 

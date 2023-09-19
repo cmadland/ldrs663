@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  19 SEP 2023 10:29
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  19 SEP 2023 12:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1764,8 +1764,8 @@ No file LDRS663.bbl.
 [106] (./LDRS663.aux) ) 
 Here is how much of TeX's memory you used:
  28719 strings out of 476919
- 557615 string characters out of 5821841
- 1033114 words of memory out of 5000000
+ 557607 string characters out of 5821841
+ 1033108 words of memory out of 5000000
  48182 multiletter control sequences out of 15000+600000
  410234 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

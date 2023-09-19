@@ -31,5 +31,5 @@ read-and-reflect-4
 questions-to-consider
 read
 concluding-the-course
-wordpress-setup-1
+wordpress-setup
 wordpress-tutorials
