@@ -59,7 +59,12 @@
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-\usepackage{soul}
+\ifLuaTeX
+  \usepackage{luacolor}
+  \usepackage[soul]{lua-ul}
+\else
+  \usepackage{soul}
+\fi
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -170,7 +175,7 @@
 
 \title{Leadership 663}
 \author{Contributors: Mark Halvorson, Colin Madland, Scott Macklin}
-\date{2023-09-16}
+\date{2023-09-19}
 
 \begin{document}
 \maketitle
@@ -310,6 +315,20 @@ If your birthday is between July 1 and December 31, \textbf{criticize} Anderson'
 Feel free to respond to arguments presented by your colleagues for or against the theorem.
 
 To submit all of your posts for the course, create a new post on your own WordPress blog and use the category \texttt{ldrs663}.
+
+\hypertarget{post-2}{%
+\subsection*{Post 2}\label{post-2}}
+\addcontentsline{toc}{subsection}{Post 2}
+
+\hypertarget{due-at-the-end-of-unit-2}{%
+\subsubsection*{Due at the end of Unit 2}\label{due-at-the-end-of-unit-2}}
+\addcontentsline{toc}{subsubsection}{Due at the end of Unit 2}
+
+Scan through the \href{https://ma-lead.github.io/ldrs663/feeds}{feed of posts from previous cohorts of this course} and read through a few posts about Anderson's \emph{Interaction Equivalency Theorem}. Then revisit your own post from Unit 1 in this cohort and, in a new post, provide a review of your Unit 1 post. Evaluate your post using the SOLO Taxonomy found on the bottom of this page. In your review, make sure you link to more than one post from a previous cohort.
+
+Once you have completed this task using one of your own posts, repeat the process for one of your colleagues' posts, preferrably, someone who took the opposite view from you (if you defended Anderson's theorem, then evaluate the post of someone who ctiticised it).
+
+To submit this post, create a new post on your own WordPress blog and use the category `ldrs663'.
 
 \hypertarget{showcase-post}{%
 \subsection*{Showcase Post}\label{showcase-post}}
@@ -1157,9 +1176,9 @@ Now, consider how could you use this Liberating Structure to guide a group discu
 \hypertarget{wordpress-post}{%
 \subsubsection{WordPress Post}\label{wordpress-post}}
 
-Please complete the assignment under `Post 3' below. This will be your third of five draft posts during the course.
+Please complete the assignment under `Post 2' below. This will be your third of five draft posts during the course.
 
-\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-3}{Blog Post 3}
+\href{https://ma-lead.github.io/ldrs663/assessments.html\#post-2}{Blog Post 2}
 \end{wp}
 
 \hypertarget{checking-your-learning}{%
@@ -3014,6 +3033,14 @@ After taking some time to consider the picture, along with completing the readin
 Congratulations! We have taken a bit of a whirlwind tour through the main ideas of \emph{facilitating learning experiences} and \emph{coaching learners through challenges}. These two competencies form the backbone of the model of teaching and learning in the TWU GLOBAL FAR Centres and similar programs, and they are also highly transferable skills for anyone who is in a role that involves the acquisition of new cognitive skills.
 
 These two related competencies are not `new' educational ideas, but are based in a long history of educational research showing the power of social constructivist pedagogies to transform thinking within a critical community of inquiry.
+
+\hypertarget{past-blog-feeds}{%
+\chapter*{Past Blog Feeds}\label{past-blog-feeds}}
+\addcontentsline{toc}{chapter}{Past Blog Feeds}
+
+Here is a list of posts from previous cohorts of this course. Keep in mind that we have changed the order of units several times over the years, so the post numbers and unit numbers will not likely align with the current cohort.
+
+The purpose of providing these links is to allow you to see and evaluate the level of writing and reflection required during this course. You are welcome and encouraged to cite these posts by including the URL of the post on its own line in one of your posts.
 
 \hypertarget{wordpress-setup}{%
 \chapter*{WordPress Setup}\label{wordpress-setup}}

@@ -335,9 +335,9 @@ Now, consider how could you use this Liberating Structure to guide a group discu
 #### WordPress Post
 
 
-Please complete the assignment under 'Post 3' below. This will be your third of five draft posts during the course.
+Please complete the assignment under 'Post 2' below. This will be your third of five draft posts during the course.
 
-[Blog Post 3](https://ma-lead.github.io/ldrs663/assessments.html#post-3)
+[Blog Post 2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
 
 
 ```
