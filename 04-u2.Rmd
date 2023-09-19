@@ -1,32 +1,33 @@
 # Learning Facilitation
 
-<!--
+
 
 ```{block2, type='feedback'}
-#### Things To Do This Week
+<span class="blockhead">Things To Do This Week - actually, 2 weeks!</span>
 
 
-- Meet in Zoom [Friday, April 22 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220422T0730&p1=1109&ah=1&am=30)  
+- Meet in Zoom <span class='badge-blue'>[Wednesday, September 20, 10:30 am PDT]</span>(https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230920T1030&p1=256&ah=1)  
+- Meet in Zoom <span class='badge-blue'>[Wednesday, September 27, 10:30 am PDT]</span>(https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230927T1030&p1=256&ah=1)  
+- If you haven't already, sign up for a Learning Pod. Link is in Moodle.
 - **Read** [**Facilitating Learning and Change in Groups**](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/)  
 - **Read** [**What is a Group?**](https://infed.org/mobi/what-is-a-group/)  
 - **Read** [**Comfort Zone to Performance Management**](https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management)  
 - **Read** [**Core Competencies**](https://www.iaf-world.org/site/professional/core-competencies)  
 - **Watch** [Liberating Structures](https://player.vimeo.com/video/364868276)  
 - **Visit** [**What, So What, Now What? W³**](http://www.liberatingstructures.com/9-what-so-what-now-what-w/)  
-✅  Please complete these items by [Friday, April 22 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220422T0730&p1=1109&ah=1&am=30)  
+- **Publish** [Post #2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
+✅  Please complete these items by <span class='badge-blue'>Saturday, September 30 - by sundown</span>
 
 ```
 
--->
+
 
 <!--
 
 ```{block2, type='blank'}
 #### ✨ NOTE{-}
 
-Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) is due ***Friday, May 6***. Please begin scheduling your facilitation sessions with your groups this week so you have enough time to complete the sessions and your reflections.
-
-Also, you should be planning your [*Curriculum analysis*](https://ma-lead.github.io/ldrs663/assessments.html#facilitated-curriculum-analysis-10) assignment with your learning pod.
+Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) is due [<span class='badge-blue'>***Saturday, September 30***</span>. Please begin scheduling your facilitation sessions with your groups this week so you have enough time to complete the sessions and your reflections.
 
 
 ```
