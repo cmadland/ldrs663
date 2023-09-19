@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  19 SEP 2023 14:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  19 SEP 2023 15:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1360,16 +1360,6 @@ ex-text;!
 [27] [28]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 806--808
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 808--810
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 812--814
 
  []
@@ -1401,17 +1391,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 822--824
 
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
+text;!
 [29
 
-] [30]
+] [30] [31]
 File: assets/u3/ZPD_Image.png Graphic file (type bmp)
 <assets/u3/ZPD_Image.png>
-[31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 [32]
 File: assets/u3/U5_T2_Image.jpg Graphic file (type bmp)
 <assets/u3/U5_T2_Image.jpg>
@@ -1481,19 +1467,19 @@ ex-text;!
 File: assets/u4/France_in_XXI_Century._School.jpg Graphic file (type bmp)
 <assets/u4/France_in_XXI_Century._School.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1563--1565
+Underfull \hbox (badness 10000) in paragraph at lines 1571--1573
 []
  []
 
 [52] [53] [54]
-Underfull \hbox (badness 10000) in paragraph at lines 1672--1674
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1682
 
  []
 
 [55]
 
 Package tcolorbox Warning: Discard zero height first box part due to break prob
-lems (possible loss of zero height content) on input line 1721.
+lems (possible loss of zero height content) on input line 1729.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1567,12 +1553,12 @@ File: assets/presentations/coaching/plutchik.jpg Graphic file (type bmp)
 [65] [66] [67] [68] [69] [70]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2491--2493
+Underfull \hbox (badness 10000) in paragraph at lines 2499--2501
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2493--2495
+Underfull \hbox (badness 10000) in paragraph at lines 2501--2503
 
  []
 
@@ -1597,37 +1583,37 @@ ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
 [74]
-Underfull \hbox (badness 10000) in paragraph at lines 2588--2590
-
- []
-
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 2590--2592
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2592--2594
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2594--2596
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2596--2598
 
  []
 
-
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 2598--2600
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2600--2602
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2602--2604
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2604--2606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2606--2608
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2610
 
  []
 
@@ -1645,7 +1631,7 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 [79]
-Underfull \hbox (badness 1748) in paragraph at lines 2699--2700
+Underfull \hbox (badness 1748) in paragraph at lines 2707--2708
 []\TU/lmr/m/n/10 Taken together Dewey describes the interplay of his two princi
 ples of
  []
@@ -1653,12 +1639,12 @@ ples of
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2712--2714
+Underfull \hbox (badness 10000) in paragraph at lines 2720--2722
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2714--2716
+Underfull \hbox (badness 10000) in paragraph at lines 2722--2724
 
  []
 
@@ -1669,12 +1655,12 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [80]
-Underfull \hbox (badness 10000) in paragraph at lines 2742--2744
+Underfull \hbox (badness 10000) in paragraph at lines 2750--2752
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2744--2746
+Underfull \hbox (badness 10000) in paragraph at lines 2752--2754
 
  []
 
@@ -1697,12 +1683,12 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [86]
-Underfull \hbox (badness 10000) in paragraph at lines 2818--2820
+Underfull \hbox (badness 10000) in paragraph at lines 2826--2828
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2820--2822
+Underfull \hbox (badness 10000) in paragraph at lines 2828--2830
 
  []
 
@@ -1725,7 +1711,7 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [92] [93]
-Underfull \hbox (badness 10000) in paragraph at lines 2966--2968
+Underfull \hbox (badness 10000) in paragraph at lines 2974--2976
 
  []
 
@@ -1788,7 +1774,7 @@ ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (6.61201pt too wide) in paragraph at lines 3141--3147
+Overfull \hbox (6.61201pt too wide) in paragraph at lines 3149--3155
 \TU/lmr/m/n/10 ✔️ Review your settings, start by changing your Site Title under
  \TU/lmtt/m/n/10 Settings>General\TU/lmr/m/n/10 .
  []
@@ -1809,10 +1795,10 @@ ex-text;!
 No file LDRS663.bbl.
 [106] (./LDRS663.aux) ) 
 Here is how much of TeX's memory you used:
- 28719 strings out of 476919
- 557607 string characters out of 5821841
- 1033108 words of memory out of 5000000
- 48182 multiletter control sequences out of 15000+600000
+ 28722 strings out of 476919
+ 557645 string characters out of 5821841
+ 1033141 words of memory out of 5000000
+ 48185 multiletter control sequences out of 15000+600000
  410234 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,7n,122p,2137b,655s stack positions out of 5000i,500n,10000p,200000b,80000s

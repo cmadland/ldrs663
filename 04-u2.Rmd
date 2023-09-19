@@ -6,8 +6,8 @@
 <span class="blockhead">Things To Do This Week - actually, 2 weeks!</span>
 
 
-- Meet in Zoom <span class='badge-blue'>[Wednesday, September 20, 10:30 am PDT]</span>(https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230920T1030&p1=256&ah=1)  
-- Meet in Zoom <span class='badge-blue'>[Wednesday, September 27, 10:30 am PDT]</span>(https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230927T1030&p1=256&ah=1)  
+- Meet in Zoom <span class='badge-blue'>Wednesday, September 20, 10:30 am PDT</span> [Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230920T1030&p1=256&ah=1) 
+- Meet in Zoom <span class='badge-blue'>Wednesday, September 27, 10:30 am PDT</span>  [Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230927T1030&p1=256&ah=1) 
 - If you haven't already, sign up for a Learning Pod. Link is in Moodle.
 - **Read** [**Facilitating Learning and Change in Groups**](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/)  
 - **Read** [**What is a Group?**](https://infed.org/mobi/what-is-a-group/)  
@@ -22,7 +22,6 @@
 
 
 
-<!--
 
 ```{block2, type='blank'}
 #### ✨ NOTE{-}
@@ -31,7 +30,7 @@ Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/a
 
 
 ```
--->
+
 
 ### Overview {-}
 
