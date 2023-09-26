@@ -12,7 +12,9 @@
 - **Read** [**Facilitating Learning and Change in Groups**](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/)  
 - **Read** [**What is a Group?**](https://infed.org/mobi/what-is-a-group/)  
 - **Read** [**Comfort Zone to Performance Management**](https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management)  
+    - [PDF Download](assets/Performance_Management.pdf)
 - **Read** [**Core Competencies**](https://www.iaf-world.org/site/professional/core-competencies)  
+    - [PDF Download](assets/core-comp.pdf)
 - **Watch** [Liberating Structures](https://player.vimeo.com/video/364868276)  
 - **Visit** [**What, So What, Now What? W³**](http://www.liberatingstructures.com/9-what-so-what-now-what-w/)  
 - **Publish** [Post #2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
@@ -26,7 +28,7 @@
 ```{block2, type='blank'}
 #### ✨ NOTE{-}
 
-Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) is due [<span class='badge-blue'>***Saturday, September 30***</span>. Please begin scheduling your facilitation sessions with your groups this week so you have enough time to complete the sessions and your reflections.
+Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) is due <span class='badge-blue'>***Saturday, September 30***</span>. Please begin scheduling your facilitation sessions with your groups this week so you have enough time to complete the sessions and your reflections.
 
 
 ```
