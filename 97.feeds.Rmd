@@ -2,7 +2,9 @@
 
 ## Current Cohort {-}
 
-<iframe width="90%" height="800" src="https://www.inoreader.com/stream/user/1006369874/tag/LDRS663%20Fall%202023" frameborder="0" tabindex="-1"></iframe>
+
+
+<iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1006369874/tag/LDRS663%20Fall%202023/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
 
 ## Past Cohorts {-}
 
