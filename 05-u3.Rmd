@@ -30,7 +30,7 @@ When you have completed this unit, you should be able to:
 
 Online resources will be provided in the unit.
 
-[Coaching Slide Deck](https://far.twu.ca/ldrs/663-202103/presentations/coaching#/coaching-0)
+[Coaching Notes](https://ma-lead.github.io/ldrs663/coaching-notes.html)
 
 ## Topic 1  {-}
 
@@ -84,7 +84,7 @@ One implication of this is that it is naïve for educators to assume that a sing
 
 
 ```{block2, type='reflect'}
-#### Read and Reflect
+#### Read and Reflect {-}
 
 Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).
 
@@ -103,11 +103,12 @@ After completing the reading above, consider the following questions:
 
 
 ```{block2, type='reflect'}
-#### Read and Reflect
+
+#### Read and Reflect {-}
 
 Below is a resource that summarizes existing research from cognitive science related to how students learn. This research has practical implications for teaching and learning that will be of benefit as we move forward with the content of this unit. Follow the link below:
 
- - [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)
+ - [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf){target="_blank"}
 
 ***Questions to Consider...***
 
@@ -160,7 +161,8 @@ The secondary theme of coaching for learning is increasing learners’ awareness
 
 
 ```{block2, type='reflect'}
-#### Read and Reflect
+
+#### Read and Reflect {-}
 
 Take a few moments to read the article below written by Tim Gallwey. Gallwey works with companies to help them find better ways to implement change. In the article below, he discusses the importance of creating a learning culture - specifically, he discusses why coaches need to understand the learning process and the obstacles a learner experiences:
 
@@ -191,13 +193,13 @@ The basis of this competency is a personal commitment to demonstrating and maint
 ✅ having a clear understanding of the conditions where information will not be kept confidential, and   
 ✅ be aware of and respond sensitively to potential power or status differences.
 
----
+
 
 ### Cultivating Trust & Safety {-}
 
 Seeks to understand the learner and their unique learning context, demonstrates respect for the learner’s identity, values and perspective, showing empathy and concern for their well-being, acknowledges the learner unique abilities, interests, and feelings, demonstrating openness and vulnerability, and supporting the unique needs of the learner’s personality.
 
----
+
 
 ### Holding Space/Presence {-}
 
@@ -206,19 +208,18 @@ Being focused on the moment and giving attention to what is occurring in your co
 ✅ creating a non-judgmental emotional space, and    
 ✅ creating a quiet auditory space.   Holding space, or being present, is an essential way the educator as coach can demonstrate to the learner that the learner’s contribution is valued and their learning is important. It’s also important for the coach to hold space for themselves to reflect and process what is happening.
 
----
+
 
 ### Active Listening {-}
 
 The intent of these particular skills is to help the coach truly understand the learner and their context, and to help the learner feel like they have been understood and supported. Typical skills include, paying attention, holding judgement, reflecting, clarifying, summarizing, and sharing.
 
----
 
 ### Evoking Awareness {-}
 
 Asks questions to clarify the learners’ experiences, way of thinking, feelings, values, needs, wants, and beliefs.  Asking questions to help learners explore beyond their current thinking. Invites learners to share more about their present learning experiences. Notices what is working to enhance the learners progress. Challenges learners to increase their awareness and insight. Helps learners identify their potential for growth, internal/external obstacles, and options to move forward. Shares observations, insights, and encouragements to assist the learner in their learning.
 
----
+
 
 ### Cultivating Growth {-}
 
@@ -231,7 +232,7 @@ Asks questions that helps learners
 
 
 ```{block2, type='reflect'}
-#### Read and Reflect
+#### Read and Reflect {-}
 
 For this activity, you will be reading through the Core Competencies of the International Coaching Federation. The International Coaching Federation is dedicated to advancing the coaching profession by setting high, ethical standards. Read more below:
 
@@ -253,12 +254,12 @@ After completing the activity above, consider the following questions:
 
 
 ```{block2, type='wp'}
-#### WordPress Post
+#### WordPress Post {-}
 
 
-Please complete the assignment under 'Post 4' below. This will be your fourth of five draft posts during the course.
+Please complete the assignment under 'Post 3' below. This will be your third of four draft posts during the course.
 
-[Blog Post 4](https://ma-lead.github.io/ldrs663/assessments.html#post-4)
+[Blog Post 3](https://ma-lead.github.io/ldrs663/assessments.html#post-3)
 
 
 
@@ -268,16 +269,17 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 ```
 
 ```{block2, type='feedback'}
-#### Things To Do This Week
+#### Things To Do This Week {-}
 
 
-✅  Meet in Zoom [Friday, April 29 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220429T0730&p1=1109&ah=1&am=30)       
-✅  **Read** and **Reflect** Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).     
+✅  Meet in Zoom <span class='badge-blue'>Wednesday, October 4 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231004T1030&p1=1109&ah=1)
+✅  Meet in Zoom <span class='badge-blue'>Wednesday, October 11 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231011T1030&p1=1109&ah=1)          
+✅  **Read** and **Reflect** Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783){target="_blank"}.     
 ✅ **Read** and **Reflect** [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)  
 ✅ **Read** and **Reflect** [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)   
 ✅ **Read** and **Reflect** [**Core Competencies**](https://coachfederation.org/core-competencies)  
-✅ **Publish** your [Unit 4 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-4) using the category `ldrs663`.  
-✅  **Meet** with your Learning Pod to complete the [Small Group Facilitation assignment](https://ma-lead.github.io/ldrs663/assessments.html#small-group-facilitation-10), which is worth 10% of your final grade.  
-✅ Please complete these items by [Friday, April 29 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663+Meeting&iso=20220429T0730&p1=1109&ah=1&am=30)  
+✅ **Publish** your [Unit 3 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-3) using the category `ldrs663`.  
+✅  **Meet** with your Learning Pod to complete the [Peer Coaching Session](https://ma-lead.github.io/ldrs663/assessments.html#peer-coaching-session).
+✅  Please complete these items by <span class='badge-blue'>Saturday, October 14 - by sundown</span>, or let me know if you will need a bit more time.
 
 ```

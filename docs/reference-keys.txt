@@ -14,12 +14,6 @@ facilitation-strategies
 learning-activity-8
 wordpress-post
 coaching-for-learning
-read-and-reflect
-read-and-reflect-1
-read-and-reflect-2
-read-and-reflect-3
-wordpress-post-1
-things-to-do-this-week
 building-the-web
 visitors-and-residents
 fippa-privacy-and-consent-resources

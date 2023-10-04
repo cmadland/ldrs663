@@ -64,16 +64,7 @@ Once you have completed this task using one of your own posts, repeat the proces
 
 To submit this post, create a new post on your own WordPress blog and use the category 'ldrs663'.
 
-<!--
-### Post 2{-}
-
-#### Due at the end of Unit 2 {-}
-
-- In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
-
-
-
-### Post 4{-}
+### Post 3{-}
 
 #### Due at the end of Unit 5 {-}
 #### Topic {-}
@@ -85,6 +76,16 @@ In your Discussion Post for this unit, you are being asked to select one core co
 - What set of integrated knowledge, skills, aptitudes and attributes help define, in more detail, how to successfully perform the job to be done?    
 
 To submit this post, create a new post on your own WordPress blog and use the category 'ldrs663'.
+
+<!--
+### Post 2{-}
+
+#### Due at the end of Unit 2 {-}
+
+- In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
+
+
+
 
 ### OPTIONAL Post Topic {-}
 
@@ -204,6 +205,11 @@ In your facilitation session, demonstrate and reflect on the following:
 ## Peer Coaching Session  {-}
 
 Working with another student (in your pod), you will each coach each other through the process of writing your final “showcase” post as part of your learning reflection blog assignment. You will record a video of your session and write critical reflection on your actions as the learning coach.
+
+- Working with another student, use the G.R.O.W. model to coach each other through the process of planning for a particular learning activity within this course (such as, your facilitation resource project).
+- There are two outcomes to assessment:
+  - you will produce a Zoom recording of your coaching session, and
+  - you will write a 1-2 page reflection on your actions coaching your peer’s learning.
 
 
 ## Facilitation Resource Project  {-}
