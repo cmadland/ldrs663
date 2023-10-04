@@ -60,7 +60,7 @@ To submit all of your posts for the course, create a new post on your own WordPr
 
 Scan through the [feed of posts from previous cohorts of this course](https://ma-lead.github.io/ldrs663/past-blog-feeds.html){target="_blank"} and read through a few posts about Anderson's *Interaction Equivalency Theorem*. Then revisit your own post from Unit 1 in this cohort and, in a new post, provide a review of your Unit 1 post. Evaluate your post using the SOLO Taxonomy found on the bottom of this page. In your review, make sure you link to more than one post from a previous cohort.
 
-Once you have completed this task using one of your own posts, repeat the process for one of your colleagues' posts, preferrably, someone who took the opposite view from you (if you defended Anderson's theorem, then evaluate the post of someone who ctiticised it).
+Once you have completed this task using one of your own posts, repeat the process for one of your colleagues' posts, preferrably, someone who took the opposite view from you (if you defended Anderson's theorem, then evaluate the post of someone who criticised it).
 
 To submit this post, create a new post on your own WordPress blog and use the category 'ldrs663'.
 
