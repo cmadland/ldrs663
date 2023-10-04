@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  4 OCT 2023 10:02
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  4 OCT 2023 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1779,7 +1779,7 @@ ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (6.61201pt too wide) in paragraph at lines 3180--3186
+Overfull \hbox (6.61201pt too wide) in paragraph at lines 3188--3194
 \TU/lmr/m/n/10 ✔️ Review your settings, start by changing your Site Title under
  \TU/lmtt/m/n/10 Settings>General\TU/lmr/m/n/10 .
  []
@@ -1800,10 +1800,10 @@ ex-text;!
 No file LDRS663.bbl.
 [108] (./LDRS663.aux) ) 
 Here is how much of TeX's memory you used:
- 28723 strings out of 476919
- 557642 string characters out of 5821841
- 1032972 words of memory out of 5000000
- 48186 multiletter control sequences out of 15000+600000
+ 28727 strings out of 476919
+ 557679 string characters out of 5821841
+ 1034049 words of memory out of 5000000
+ 48190 multiletter control sequences out of 15000+600000
  410234 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,7n,122p,2137b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
