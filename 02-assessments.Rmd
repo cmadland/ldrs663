@@ -66,7 +66,7 @@ To submit this post, create a new post on your own WordPress blog and use the ca
 
 ### Post 3{-}
 
-#### Due at the end of Unit 5 {-}
+#### Due at the end of Unit 3 {-}
 #### Topic {-}
 
 In your Discussion Post for this unit, you are being asked to select one core coaching competencies identified in this unit and reflect on how you might apply it in an educational setting. You can use the following questions to guide your writing:
@@ -77,14 +77,16 @@ In your Discussion Post for this unit, you are being asked to select one core co
 
 To submit this post, create a new post on your own WordPress blog and use the category 'ldrs663'.
 
-<!--
-### Post 2{-}
 
-#### Due at the end of Unit 2 {-}
+### Post 4{-}
+
+#### Due at the end of Unit 4 {-}
 
 - In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
 
+To submit this post, create a new post on your own WordPress blog and use the category 'ldrs663'.
 
+<!--
 
 
 ### OPTIONAL Post Topic {-}

@@ -111,22 +111,21 @@ Learners should ensure that they:
 
 
 
-<!--
+
 
 ```{block2, type='feedback'}
 **Things To Do This Week**  
  
 
-✔️  Meet in Zoom [Friday, March 25 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220325T0730&p1=1109) AND [Friday, April 1 - 7:30 AM PDT (Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220401T0730&p1=1109&ah=1&am=30)   
+✔️  Meet in Zoom <span class='badge-blue'>Wednesday, October 18 - 10:30 AM PDT</span> [Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231018T1030&p1=1109&ah=1)  
 ✔️  **Create** a Visitor/Resident diagram to visualize your online presence.  
-✔️  **Register** for a site at [create.twu.ca](https://create.twu.ca). I suggest you start with a 'General TWU site'.  
-✔️  **Post** your site URL in the 'WordPress URLs' Glossary in Moodle.    
-✔️  Please complete these items by ***Friday April 1***  
+✔️  **Publish** your [Unit 4 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-4) using the category `ldrs663`.   
+✔️  Please complete these items by <span class='badge-blue'>Saturday, October 14 - by sundown</span>, or let me know if you will need a bit more time.  
 
 
 ```
--->
 
-### Unit 1 Assessment
 
-[Please see the details for Post 1](https://ma-lead.github.io/ldrs663/assessments)
+### Unit 4 Assessment {-}
+
+[Please see the details for Post 4](https://ma-lead.github.io/ldrs663/assessments.html#post-4)

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  4 OCT 2023 10:22
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  18 OCT 2023 09:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1236,68 +1236,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 352--354
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 390--392
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 392--394
-
- []
-
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 397.
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 404--406
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 408--410
+
+ []
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 413.
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--426
 
  []
 
 [12]
 File: assets/SOLO-taxonomy.png Graphic file (type bmp)
 <assets/SOLO-taxonomy.png>
-[13]
-Underfull \hbox (badness 1033) in paragraph at lines 500--501
+[13] [14]
+Underfull \hbox (badness 1033) in paragraph at lines 516--517
 \TU/lmr/m/n/10 ulous concern for documented evidence, and obvious capacity
  []
 
-[14] [15] [16
+[15] [16
 
 ]
 Chapter 1.
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--526
+Underfull \hbox (badness 10000) in paragraph at lines 540--542
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--528
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 528--530
+Underfull \hbox (badness 10000) in paragraph at lines 544--546
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--532
+Underfull \hbox (badness 10000) in paragraph at lines 546--548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--534
+Underfull \hbox (badness 10000) in paragraph at lines 548--550
 
  []
 
@@ -1305,22 +1305,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 532--534
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 554--556
+Underfull \hbox (badness 10000) in paragraph at lines 570--572
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--558
+Underfull \hbox (badness 10000) in paragraph at lines 572--574
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--588
+Underfull \hbox (badness 10000) in paragraph at lines 602--604
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--590
+Underfull \hbox (badness 10000) in paragraph at lines 604--606
 
  []
 
@@ -1370,22 +1370,22 @@ ex-text;!
 [29] [30]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 854--856
+Underfull \hbox (badness 10000) in paragraph at lines 870--872
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 856--858
+Underfull \hbox (badness 10000) in paragraph at lines 872--874
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 874--876
+Underfull \hbox (badness 10000) in paragraph at lines 890--892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 876--878
+Underfull \hbox (badness 10000) in paragraph at lines 892--894
 
  []
 
@@ -1467,19 +1467,19 @@ ex-text;!
 File: assets/u4/France_in_XXI_Century._School.jpg Graphic file (type bmp)
 <assets/u4/France_in_XXI_Century._School.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1625--1627
+Underfull \hbox (badness 10000) in paragraph at lines 1641--1643
 []
  []
 
 [54] [55] [56]
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1752--1754
 
  []
 
 [57]
 
 Package tcolorbox Warning: Discard zero height first box part due to break prob
-lems (possible loss of zero height content) on input line 1786.
+lems (possible loss of zero height content) on input line 1802.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1558,12 +1558,12 @@ File: assets/presentations/coaching/plutchik.jpg Graphic file (type bmp)
 [67] [68] [69] [70] [71] [72]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2530--2532
+Underfull \hbox (badness 10000) in paragraph at lines 2546--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2532--2534
+Underfull \hbox (badness 10000) in paragraph at lines 2548--2550
 
  []
 
@@ -1588,40 +1588,56 @@ ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 2627--2629
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2645
 
  []
 
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 2629--2631
+Underfull \hbox (badness 10000) in paragraph at lines 2645--2647
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2631--2633
+Underfull \hbox (badness 10000) in paragraph at lines 2647--2649
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2633--2635
+Underfull \hbox (badness 10000) in paragraph at lines 2649--2651
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2635--2637
+Underfull \hbox (badness 10000) in paragraph at lines 2651--2653
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2637--2639
+Underfull \hbox (badness 10000) in paragraph at lines 2653--2655
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2639--2641
+Underfull \hbox (badness 10000) in paragraph at lines 2655--2657
 
  []
 
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
 [78]
 Chapter 5.
 [79
@@ -1636,7 +1652,7 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 [81]
-Underfull \hbox (badness 1748) in paragraph at lines 2738--2739
+Underfull \hbox (badness 1748) in paragraph at lines 2764--2765
 []\TU/lmr/m/n/10 Taken together Dewey describes the interplay of his two princi
 ples of
  []
@@ -1644,12 +1660,12 @@ ples of
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2751--2753
+Underfull \hbox (badness 10000) in paragraph at lines 2777--2779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2753--2755
+Underfull \hbox (badness 10000) in paragraph at lines 2779--2781
 
  []
 
@@ -1660,12 +1676,12 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [82]
-Underfull \hbox (badness 10000) in paragraph at lines 2781--2783
+Underfull \hbox (badness 10000) in paragraph at lines 2807--2809
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2783--2785
+Underfull \hbox (badness 10000) in paragraph at lines 2809--2811
 
  []
 
@@ -1688,12 +1704,12 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [88]
-Underfull \hbox (badness 10000) in paragraph at lines 2857--2859
+Underfull \hbox (badness 10000) in paragraph at lines 2883--2885
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2859--2861
+Underfull \hbox (badness 10000) in paragraph at lines 2885--2887
 
  []
 
@@ -1716,7 +1732,7 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [94] [95]
-Underfull \hbox (badness 10000) in paragraph at lines 3005--3007
+Underfull \hbox (badness 10000) in paragraph at lines 3031--3033
 
  []
 
@@ -1779,7 +1795,7 @@ ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (6.61201pt too wide) in paragraph at lines 3188--3194
+Overfull \hbox (6.61201pt too wide) in paragraph at lines 3214--3220
 \TU/lmr/m/n/10 ✔️ Review your settings, start by changing your Site Title under
  \TU/lmtt/m/n/10 Settings>General\TU/lmr/m/n/10 .
  []
@@ -1800,10 +1816,10 @@ ex-text;!
 No file LDRS663.bbl.
 [108] (./LDRS663.aux) ) 
 Here is how much of TeX's memory you used:
- 28727 strings out of 476919
- 557679 string characters out of 5821841
- 1034049 words of memory out of 5000000
- 48190 multiletter control sequences out of 15000+600000
+ 28730 strings out of 476919
+ 557729 string characters out of 5821841
+ 1033125 words of memory out of 5000000
+ 48193 multiletter control sequences out of 15000+600000
  410234 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,7n,122p,2137b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
