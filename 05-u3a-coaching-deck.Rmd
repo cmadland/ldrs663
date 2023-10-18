@@ -199,7 +199,7 @@ she finishes communicating, saying things like:
 #### G.R.O.W. Coaching Model {-}
 
 
-#### Goal Setting {-}
+## Goal Setting {-}
 
 - Setting short and long term learning goals.
 - Key questions to ask:
@@ -208,10 +208,10 @@ she finishes communicating, saying things like:
   - How much time do you need to achieve that outcome?
   - How does what you am doing now help you achieve the longer term learning outcomes I really want?
 
-#### Make Your Goals S.M.A.R.T. {-}
+##### Make Your Goals S.M.A.R.T. {-}
 
 
-##### Specific {-}
+###### Specific {-}
 
 - Your goal should be clear and specific.
 - Ask yourself:
@@ -220,7 +220,7 @@ she finishes communicating, saying things like:
   - What is involved in achieving this goal?
 
 
-##### Measurable {-}
+###### Measurable {-}
 
 - You should be able to track your progress.
 - Ask yourself:
@@ -228,7 +228,7 @@ she finishes communicating, saying things like:
   - How will you know when it is accomplished?
 
 
-##### Attainable {-}
+###### Attainable {-}
 
 - Your goal should be realistic and achievable.
 - Ask yourself:
@@ -237,7 +237,7 @@ she finishes communicating, saying things like:
 
 
 
-##### Relevant {-}
+###### Relevant {-}
 
 - Your goal should matter and align with your other
 goals.
@@ -247,7 +247,7 @@ goals.
   - Does it help you achieve what you ultimately want?
 
 
-##### Time-bound {-}
+###### Time-bound {-}
 
 - Your goal should have a deadline to focus on.
 - Ask yourself:
@@ -255,7 +255,7 @@ goals.
   - What can I do now?
 
 
-#### Reality Checking {-}
+## Reality Checking {-}
 
 - Understanding where you really are relative to what
 you really want.
@@ -287,7 +287,7 @@ you really want.
 ~Gallwey, 1997
 
 
-#### Option Exploration {-}
+## Option Exploration {-}
 
 - Key questions to ask:
   - What alternatives do you have?
@@ -304,7 +304,7 @@ you really want.
 - Why is this problem problematic?
 
 
-#### The Way Forward {-}
+## The Way Forward {-}
 
 - Key questions to ask:
   - What commitments am I going to make?
