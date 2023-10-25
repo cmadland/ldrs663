@@ -264,7 +264,7 @@ After taking a moment to consider the questions above, read Chapter 1 of our cor
 
 ***Note:*** *Particularly focus on sections 1.6-1.8.*
 
-[Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev2/part/chapter-1-fundamental-change-in-education/)
+[Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/part/chapter-1-fundamental-change-in-education/)
 
 #### ***Questions to Consider...*** {-}
 
@@ -346,12 +346,21 @@ After taking some time to consider the picture, along with completing the readin
 ## Unit 5 Assessment {-}
 
 
-<!--
+
 
 ```{block2, type='feedback'}
-#### Things To Do This Week
 
+#### Things To Do This Week {-}
 
+✔️  Meet in Zoom <span class='badge-blue'>Wednesday, October 25 - 10:30 AM PDT</span> [Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231025T1030&p1=1109&ah=1)  
+✔️  **Read and Reflect** on the commentary in Unit 5.  
+✔️  **Publish** your [Showcase Post](https://ma-lead.github.io/ldrs663/assessments.html#showcase-post) using the category `ldrs663` and `showcase`.   
+✔️  Complete the [Facilitation Resource Project](https://ma-lead.github.io/ldrs663/assessments.html#facilitation-resource-project). 
+✔️  Please complete these items by <span class='badge-blue'>Wednesday, November 8 - by sundown</span>, or let me know if you will need a bit more time.  
+
+```
+
+<!--
 👥  Meet in Zoom [Friday, May 6 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Class+Meeting&iso=20220506T0730&p1=1109&ah=1&am=30)      
 📖 **Read** and **Reflect** [**Experience and Education: Chapter 2**](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf).   
 📖 **Read** and **Reflect** Topic 2 Learning Activity  
