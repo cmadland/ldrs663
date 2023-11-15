@@ -346,6 +346,7 @@ After taking some time to consider the picture, along with completing the readin
 ## Unit 5 Assessment {-}
 
 
+<!--
 
 
 ```{block2, type='feedback'}
@@ -359,6 +360,7 @@ After taking some time to consider the picture, along with completing the readin
 ✔️  Please complete these items by <span class='badge-blue'>Wednesday, November 8 - by sundown</span>, or let me know if you will need a bit more time.  
 
 ```
+-->
 
 <!--
 👥  Meet in Zoom [Friday, May 6 - 7:30 AM PDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Class+Meeting&iso=20220506T0730&p1=1109&ah=1&am=30)      

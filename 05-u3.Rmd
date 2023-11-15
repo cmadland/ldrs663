@@ -252,6 +252,7 @@ After completing the activity above, consider the following questions:
 ## Unit 4 Assessment {-}
 
 
+<!--
 
 ```{block2, type='wp'}
 #### WordPress Post {-}
@@ -283,3 +284,4 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 ✅  Please complete these items by <span class='badge-blue'>Saturday, October 14 - by sundown</span>, or let me know if you will need a bit more time.
 
 ```
+-->

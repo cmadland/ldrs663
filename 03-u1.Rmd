@@ -2,6 +2,7 @@
 
 
 
+<!--
 
 ```{block2, type='feedback'}
 <span class="blockhead">Things To Do This Week</span>
@@ -18,6 +19,7 @@ You will be directed when to complete the following tasks.
 
 
 ```
+-->
 
 
 ## Overview{-}

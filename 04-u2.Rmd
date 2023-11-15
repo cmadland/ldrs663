@@ -1,6 +1,7 @@
 # Learning Facilitation
 
 
+<!--
 
 ```{block2, type='feedback'}
 <span class="blockhead">Things To Do This Week - actually, 2 weeks!</span>
@@ -21,6 +22,7 @@
 ✅  Please complete these items by <span class='badge-blue'>Saturday, September 30 - by sundown</span>
 
 ```
+-->
 
 
 

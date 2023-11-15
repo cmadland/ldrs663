@@ -112,6 +112,7 @@ Learners should ensure that they:
 
 
 
+<!--
 
 ```{block2, type='feedback'}
 **Things To Do This Week**  
@@ -125,6 +126,7 @@ Learners should ensure that they:
 
 ```
 
+-->
 
 ### Unit 4 Assessment {-}
 
