@@ -1,16 +1,16 @@
 ---
-name: New Course Project
-about: Use this issue to add a new course project to the Master Design Schedule
+name: Course Revision Project
+about: Use this issue to add a course revision project to the Master Design Schedule
 title: "[Course Code]"
 labels: ''
-assignees: cmadland, deannadams, kmarjanovic
+assignees: cmadland, kmarjanovic
 
 ---
 
 #### [Course Title]
 
 #### Design
-- [ ] Blueprint & Syllabus
+- [ ] Planning (Blueprint & Syllabus as needed)
 - [ ] Unit 1
 - [ ] Units 2-5
 - [ ] Units 6-10
