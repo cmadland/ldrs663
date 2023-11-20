@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  14 NOV 2023 20:18
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  20 NOV 2023 12:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1332,32 +1332,27 @@ Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[35] [36
-
-] [37]
+[35]
 File: assets/presentations/facilitation/fac-process.drawio.png Graphic file (ty
 pe bmp)
 <assets/presentations/facilitation/fac-process.drawio.png>
-[38]
+[36]
 File: assets/presentations/facilitation/tuckman.drawio.png Graphic file (type b
 mp)
 <assets/presentations/facilitation/tuckman.drawio.png>
+[37]
 File: assets/presentations/facilitation/tuckman-jensen.drawio.png Graphic file 
 (type bmp)
 <assets/presentations/facilitation/tuckman-jensen.drawio.png>
-[39] [40]
+[38]
 File: assets/presentations/facilitation/pe.drawio.png Graphic file (type bmp)
 <assets/presentations/facilitation/pe.drawio.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[41]
 File: assets/presentations/facilitation/zpd.drawio.png Graphic file (type bmp)
 <assets/presentations/facilitation/zpd.drawio.png>
 File: assets/presentations/facilitation/zpd2.drawio.png Graphic file (type bmp)
 
 <assets/presentations/facilitation/zpd2.drawio.png>
-[42] [43] [44
+[39] [40] [41] [42
 
 ]
 Chapter 3.
@@ -1369,28 +1364,28 @@ Missing character: There is no ❓ (U+2753) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ❓ (U+2753) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[45]
+[43]
 File: assets/u4/France_in_XXI_Century._School.jpg Graphic file (type bmp)
 <assets/u4/France_in_XXI_Century._School.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1317--1319
+Underfull \hbox (badness 10000) in paragraph at lines 1320--1322
 []
  []
 
-[46] [47] [48]
-Underfull \hbox (badness 10000) in paragraph at lines 1428--1430
+[44] [45] [46]
+Underfull \hbox (badness 10000) in paragraph at lines 1431--1433
 
  []
 
-[49]
+[47]
 
 Package tcolorbox Warning: Discard zero height first box part due to break prob
-lems (possible loss of zero height content) on input line 1478.
+lems (possible loss of zero height content) on input line 1481.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[50]
+[48]
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
@@ -1401,7 +1396,7 @@ Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[51]
+[49]
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
@@ -1421,43 +1416,41 @@ ex-text;!
 
 Underfull \vbox (badness 1783) has occurred while \output is active []
 
-[52] [53] [54
-
-]
+[50]
 File: assets/presentations/coaching/mike.jpg Graphic file (type bmp)
 <assets/presentations/coaching/mike.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[55]
+[51]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[56] [57]
+[52] [53]
 File: assets/presentations/coaching/ted.jpg Graphic file (type bmp)
 <assets/presentations/coaching/ted.jpg>
 File: assets/presentations/coaching/active.png Graphic file (type bmp)
 <assets/presentations/coaching/active.png>
-[58]
+[54]
 File: assets/presentations/coaching/plutchik.jpg Graphic file (type bmp)
 <assets/presentations/coaching/plutchik.jpg>
-[59] [60] [61] [62] [63] [64]
+[55] [56] [57] [58] [59] [60]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2194--2196
+Underfull \hbox (badness 10000) in paragraph at lines 2197--2199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2196--2198
+Underfull \hbox (badness 10000) in paragraph at lines 2199--2201
 
  []
 
-[65
+[61
 
-] [66]
+] [62]
 File: assets/u1/vr-diagram-2.png Graphic file (type bmp)
 <assets/u1/vr-diagram-2.png>
-[67]
+[63]
 Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
@@ -1472,56 +1465,56 @@ Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[68]
-Underfull \hbox (badness 10000) in paragraph at lines 2291--2293
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 2294--2296
 
  []
 
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 2293--2295
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2295--2297
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 2296--2298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2297--2299
+Underfull \hbox (badness 10000) in paragraph at lines 2298--2300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2299--2301
+Underfull \hbox (badness 10000) in paragraph at lines 2300--2302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2301--2303
+Underfull \hbox (badness 10000) in paragraph at lines 2302--2304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2303--2305
+Underfull \hbox (badness 10000) in paragraph at lines 2304--2306
 
  []
 
-[70]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2306--2308
+
+ []
+
+[66]
 Chapter 5.
-[71
+[67
 
 ]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 72 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
+\TU/lmr/m/n/10 68 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
-[72]
+[68]
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
-[73]
-Underfull \hbox (badness 1748) in paragraph at lines 2403--2404
+[69]
+Underfull \hbox (badness 1748) in paragraph at lines 2406--2407
 []\TU/lmr/m/n/10 Taken together Dewey describes the interplay of his two princi
 ples of
  []
@@ -1529,38 +1522,60 @@ ples of
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2416--2418
+Underfull \hbox (badness 10000) in paragraph at lines 2419--2421
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2418--2420
+Underfull \hbox (badness 10000) in paragraph at lines 2421--2423
 
  []
 
 
+Overfull \hbox (19.22452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 70 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
+-ACCESS WORLD
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 2450--2452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2452--2454
+
+ []
+
+[71]
+Overfull \hbox (19.22452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 72 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
+-ACCESS WORLD
+ []
+
+[72] [73]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 74 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 2446--2448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2448--2450
-
- []
-
-[75]
+[74] [75]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 76 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
-[76] [77]
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 2526--2528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2528--2530
+
+ []
+
+[77]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 78 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
@@ -1572,23 +1587,18 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 -ACCESS WORLD
  []
 
-[80]
-Underfull \hbox (badness 10000) in paragraph at lines 2522--2524
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2524--2526
-
- []
-
-[81]
+[80] [81]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 82 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
 [82] [83]
+Underfull \hbox (badness 10000) in paragraph at lines 2674--2676
+
+ []
+
+
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 84 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
@@ -1600,48 +1610,31 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 -ACCESS WORLD
  []
 
-[86] [87]
-Underfull \hbox (badness 10000) in paragraph at lines 2670--2672
-
- []
-
-
+[86]
+File: assets/U5/U5LAImage.jpg Graphic file (type bmp)
+<assets/U5/U5LAImage.jpg>
+[87]
 Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 88 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
 -ACCESS WORLD
  []
 
-[88] [89]
-Overfull \hbox (19.22452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 90 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
--ACCESS WORLD
- []
-
-[90]
-File: assets/U5/U5LAImage.jpg Graphic file (type bmp)
-<assets/U5/U5LAImage.jpg>
-[91]
-Overfull \hbox (19.22452pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 92 \TU/lmr/m/sl/10 CHAPTER 5.  EDUCATIONAL EXPERIENCE IN A MULTI
--ACCESS WORLD
- []
-
-[92
+[88
 
 ]
 Chapter 6.
-[93] [94
+[89] [90
 
 ]
 No file LDRS663.bbl.
-[95] (./LDRS663.aux) ) 
+[91] (./LDRS663.aux) ) 
 Here is how much of TeX's memory you used:
  28653 strings out of 476919
- 555835 string characters out of 5821841
- 1031181 words of memory out of 5000000
+ 555842 string characters out of 5821841
+ 1031126 words of memory out of 5000000
  48124 multiletter control sequences out of 15000+600000
  410218 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,7n,122p,2137b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LDRS663.pdf (95 pages).
+Output written on LDRS663.pdf (91 pages).

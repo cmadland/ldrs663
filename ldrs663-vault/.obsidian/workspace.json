@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "670e273a1fc33b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "a186b10ee76adab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c209d8ef013465bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e0055e2916e4389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Notes/changIndividualCollaborativeAutoethnography2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc7167eb5582c151",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a6cd46fb797d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885d4a14e4c4b5fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "575ac60092bf64f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40494bce7900d5db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9943863a3b4ac865",
+    "type": "split",
+    "children": [
+      {
+        "id": "9302965f54217a48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fab0cb7850c890e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Notes/changIndividualCollaborativeAutoethnography2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da14160f6c627d62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Notes/changIndividualCollaborativeAutoethnography2021.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f3318a0c49e329a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52bba01358ab6051",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Notes/changIndividualCollaborativeAutoethnography2021.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "885d4a14e4c4b5fc",
+  "lastOpenFiles": [
+    "1 Notes/changIndividualCollaborativeAutoethnography2021.md",
+    "storage/ULLIJDZ8/images/3",
+    "storage/78RFTS5M/images/2",
+    "storage/78RFTS5M/images/12",
+    "storage/ULLIJDZ8/images/2",
+    "storage/ULLIJDZ8/images/1.ico",
+    "storage/ULLIJDZ8/fonts/9",
+    "storage/ULLIJDZ8/fonts/7",
+    "storage/ULLIJDZ8/fonts/4",
+    "storage/ULLIJDZ8/fonts/12",
+    "storage/78RFTS5M/fonts/9",
+    "storage/ZZLTW6FX/nyu-short.svg",
+    "storage/ZZLTW6FX/nyu-long.svg",
+    "storage/ZZLTW6FX/by-nd.svg",
+    "storage/ZZLTW6FX/ainow-logo-outlines.svg",
+    "storage/ZZLTW6FX/ainow-logo-knockout.svg",
+    "storage/ZT7QPE8Y/suppFiles.png",
+    "storage/ZT7QPE8Y/printArticle.png",
+    "storage/ZT7QPE8Y/metadata.png",
+    "storage/ZT7QPE8Y/logokc.jpg",
+    "storage/ZT7QPE8Y/logocider.jpg",
+    "_templates/tool.md",
+    "_templates/source-note.md"
+  ]
+}

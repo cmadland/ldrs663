@@ -89,7 +89,7 @@ Every learner and group of learners is unique, each bringing different prior exp
 
 
 ```{block2, type='reflect'}
-#### Read and Reflect
+#### Learning Activity {-}
 
 The first Learning Activity for Unit 5 will focus on the work of John Dewey in his writing *Experience and Education.* While the link below will take you to the entire text (*which you are more then welcome to read!*), the focus for this section will be on Chapter 2 titled: ***The Need of a Theory of Experience.***
 
@@ -258,7 +258,7 @@ Online learning, blended learning, flipped classroom, face-to-face, hybrid cours
 
 
 ```{block2, type='reflect'}
-#### Read and Reflect {-}
+#### Learning Activity {-}
 
 After taking a moment to consider the questions above, read Chapter 1 of our core text, *Teaching in a Digital Age* by Tony Bates. It can be found by clicking on the following link:
 

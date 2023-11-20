@@ -1,5 +1,6 @@
 # Assessments {-}
 
+<!--
 | Assessment Task | Due Date | 
 | --- | :---: |
 | Learning Reflection Blogs | Ongoing |
@@ -9,7 +10,7 @@
 | Showcase Post  | Nov 4| 
 | Facilitation Resource Project | Nov 8 | 
 
-<!--
+
 | Assessment Task | Due Date | Approximate weight |
 | --- | :---: | :---: |
 | Learning Reflection Blogs | Ongoing, weekly | Required but not assessed |
@@ -19,11 +20,11 @@
 | Showcase Post (choose one of your learning reflection blog posts to expand and elaborate) | Nov 4| 25% |
 | Facilitation Resource Project | Nov 8 | 40% |
 -->
-<!--
+
 ## Learning Pods {-}
 
 At the beginning of the course everyone will be placed into small groups called learning pods. these groups, of about four people, will be the place where you will practice learning facilitation and coaching principles and skills that you are learning in this course. The pods will also form the working group for doing a curriculum analysis and developing a facilitated learning resource.
--->
+
 
 ## Learning Reflection Blogs  {-}
 
@@ -32,8 +33,8 @@ At the beginning of the course everyone will be placed into small groups called 
 Throughout this course, you will be invited to write five “working” posts about what you are learning in this course. These posts will be published on your own WordPress blog which you will create in Unit 1 (if you don't already have one). You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. At the end of the course you will produce a *Showcase Post*, which will represent your best work. The showcase post will be the only graded post; however, your final grade will also consider how your ideas developed over the process of you writing five working draft posts.
 -->
 
-Throughout this course, you will be invited to write four “working” posts about what you are learning in this course. You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. At the end of the course you will produce a “showcase” post, which will represent your best work. The showcase post will be the only graded post; however, your final grade will also consider how your ideas developed over the process of you writing four working draft posts.
-Each of your draft posts should be 400-500 words.
+Throughout this course, you will be invited to write four “working” posts about what you are learning in this course. You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. Each of your draft posts should be 400-500 words.
+<!--
 
 ### Post 1 {-}
 
@@ -104,8 +105,6 @@ Throughout this unit we have explore the idea of the educational experience. You
 - How might this shift change the learner’s role and responsibilities change?  
 - How can institutions ensure quality and transformational learning outcomes?  
 
--->
-
 ### Showcase Post {-}
 
 #### Due at the end of the course {-}
@@ -116,6 +115,7 @@ Create a new post on your blog in which you outline how you have met each of the
 This post should be polished and professional with proper APA citations (linked) and a reference list (don't worry about hanging indents!).
 
 To submit this discussion post, create a new post on your own WordPress blog and use the categories 'ldrs663' and 'showcase'.
+-->
 
 <!--
 Choose one of the previous 5 posts that you would like to showcase as your best work. Take some time to polish and expand your post (aim for 600-700 words). Ways to expand your post might include:
@@ -125,10 +125,14 @@ Choose one of the previous 5 posts that you would like to showcase as your best 
 -->
 
 
-## Facilitated Curriculum Analysis  {-}
+## Concept Map and Literature Review  {-}
 
-Working together as a learning pod, examine a curricular resource that is, or could be, used with a facilitated learning approach. Emphasis will be placed on courses in higher education, including a selection of TWU’s library of FAR courses (specifically designed to be delivered in a facilitated learning approach). However, a range of other formats are open for investigation, including (but not limited to) community-based programs, professional certification programs, corporate workshops or training programs, and masterclasses. Your pod will be invited to select a specific course of study and asked to assess the curriculum from a facilitation and coaching perspective.
+<!--
+Working individually, find 8-10 peer-reviewed articles that have to do with facilitating learning in your area of employment or expertise. Import the metadata for each article into a collection in Zotero and attach the PDF of the article to the item. Use the Zotero Import tool in Obsidian to import each article into the ‘Notes’ folder in your vault, using the ‘source-note’ template provided. Use the ‘Annotate’ feature in Obsidian to highlight key points in the article, and complete the fields on the template. Make sure you connect the articles using wiki links. Use ‘tags’ in Obsidian to identify key themes in the articles.
+-	Create a new file for each significant theme you identified in your notes
+-	Export the collection as an RIS file and save it in your Obsidian vault.
 
+-->
 <!--
 To begin, follow the steps below:
 
@@ -213,11 +217,15 @@ Working with another student (in your pod), you will each coach each other throu
   - you will produce a Zoom recording of your coaching session, and
   - you will write a 1-2 page reflection on your actions coaching your peer’s learning.
 
+## Rich Description of Coaching and Facilitation {-}
 
+## 
+<!--
 ## Facilitation Resource Project  {-}
 
 Working as a learning pod, you will create a guide to serve as a resource for you and others to facilitate a particular course of study. We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of coaching and facilitation in real-world settings.  As you may be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking and learning processes that will lead to them discovering what they need to know from the expertly prepared course materials in order to help solve their questions.
 
+-->
 <!--
 ## Learning Labs (required but not assessed) {-}
 
