@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  21 NOV 2023 17:00
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  21 NOV 2023 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -820,8 +820,7 @@ File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 \BKM@id=\count334
 )) (/usr/local/texlive/2021/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2020/12/30 v 0.09a modify URL breaks
-)
-No file LDRS663.aux.
+) (./LDRS663.aux)
 \openout1 = `LDRS663.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 180.
@@ -1137,9 +1136,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 180.
 LaTeX Info: Redefining \pageref on input line 180.
 LaTeX Info: Redefining \nameref on input line 180.
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 182.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1181,13 +1177,30 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 ] [2
 
-]
+] (./LDRS663.toc
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 6.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 6.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 6.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 6.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 6.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 6.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 6.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 6.
+[3])
 \tf@toc=\write6
 \openout6 = `LDRS663.toc'.
 
-[3] [4
+[4] [5
 
-] [5] [6
+] [6
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 206--208
@@ -1210,22 +1223,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--253
 
  []
 
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 255.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 255.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 255.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 255.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 255.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 255.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 255.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 255.
 [8]
 Chapter 1.
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
@@ -1246,29 +1243,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 285--287
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--289
+Underfull \hbox (badness 10000) in paragraph at lines 289--291
 
  []
 
 [9
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 309--311
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 311--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 343--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--347
 
  []
 
@@ -1295,18 +1292,24 @@ ex-text;!
 [10]
 File: assets/u2/share.png Graphic file (type bmp)
 <assets/u2/share.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 [11] [12]
 File: assets/u2/CoI-Model.jpg Graphic file (type bmp)
 <assets/u2/CoI-Model.jpg>
 [13] [14] [15] [16]
 File: assets/u2/Modes-Interaction-Anderson.png Graphic file (type bmp)
 <assets/u2/Modes-Interaction-Anderson.png>
+
+Underfull \vbox (badness 4242) has occurred while \output is active []
+
+[17]
 File: assets/u2/Kanuka-Modes-of-Interaction.png Graphic file (type bmp)
 <assets/u2/Kanuka-Modes-of-Interaction.png>
-[17] [18]
 File: assets/u2/Modes-of-Interaction-Madland.png Graphic file (type bmp)
 <assets/u2/Modes-of-Interaction-Madland.png>
-[19] [20]
+[18] [19] [20]
 Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
 ex-text;!
 [21] [22]
@@ -1366,10 +1369,6 @@ mp)
 File: assets/presentations/facilitation/tuckman-jensen.drawio.png Graphic file 
 (type bmp)
 <assets/presentations/facilitation/tuckman-jensen.drawio.png>
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 2.2 on input line 1211.
-
 [38]
 File: assets/presentations/facilitation/pe.drawio.png Graphic file (type bmp)
 <assets/presentations/facilitation/pe.drawio.png>
@@ -1394,19 +1393,19 @@ ex-text;!
 File: assets/u4/France_in_XXI_Century._School.jpg Graphic file (type bmp)
 <assets/u4/France_in_XXI_Century._School.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1342--1344
+Underfull \hbox (badness 10000) in paragraph at lines 1344--1346
 []
  []
 
 [44] [45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 1453--1455
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1457
 
  []
 
 [47]
 
 Package tcolorbox Warning: Discard zero height first box part due to break prob
-lems (possible loss of zero height content) on input line 1503.
+lems (possible loss of zero height content) on input line 1505.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1462,12 +1461,12 @@ File: assets/presentations/coaching/plutchik.jpg Graphic file (type bmp)
 [55] [56] [57] [58] [59] [60]
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2219--2221
+Underfull \hbox (badness 10000) in paragraph at lines 2221--2223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2221--2223
+Underfull \hbox (badness 10000) in paragraph at lines 2223--2225
 
  []
 
@@ -1492,16 +1491,11 @@ ex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
 ex-text;!
 [64]
-Underfull \hbox (badness 10000) in paragraph at lines 2316--2318
-
- []
-
-[65]
 Underfull \hbox (badness 10000) in paragraph at lines 2318--2320
 
  []
 
-
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 2320--2322
 
  []
@@ -1526,6 +1520,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2328--2330
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 2330--2332
+
+ []
+
 [66]
 Chapter 5.
 [67
@@ -1540,7 +1539,7 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 [69]
-Underfull \hbox (badness 1748) in paragraph at lines 2428--2429
+Underfull \hbox (badness 1748) in paragraph at lines 2430--2431
 []\TU/lmr/m/n/10 Taken together Dewey describes the interplay of his two princi
 ples of
  []
@@ -1548,12 +1547,12 @@ ples of
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-
 text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 2441--2443
+Underfull \hbox (badness 10000) in paragraph at lines 2443--2445
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2443--2445
+Underfull \hbox (badness 10000) in paragraph at lines 2445--2447
 
  []
 
@@ -1564,12 +1563,12 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [70]
-Underfull \hbox (badness 10000) in paragraph at lines 2472--2474
+Underfull \hbox (badness 10000) in paragraph at lines 2474--2476
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2474--2476
+Underfull \hbox (badness 10000) in paragraph at lines 2476--2478
 
  []
 
@@ -1592,12 +1591,12 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 2548--2550
+Underfull \hbox (badness 10000) in paragraph at lines 2550--2552
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2550--2552
+Underfull \hbox (badness 10000) in paragraph at lines 2552--2554
 
  []
 
@@ -1620,7 +1619,7 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
  []
 
 [82] [83]
-Underfull \hbox (badness 10000) in paragraph at lines 2696--2698
+Underfull \hbox (badness 10000) in paragraph at lines 2698--2700
 
  []
 
@@ -1651,23 +1650,18 @@ Overfull \hbox (19.22452pt too wide) has occurred while \output is active
 Chapter 6.
 [89] [90
 
-] [91]
+] [91] [92]
+No file LDRS663.bbl.
+[93
 
-! LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2868 \centering
-                  
+] (./LDRS663.aux) ) 
 Here is how much of TeX's memory you used:
- 28474 strings out of 476919
- 551543 string characters out of 5821841
- 1021676 words of memory out of 5000000
- 47948 multiletter control sequences out of 15000+600000
+ 28667 strings out of 476919
+ 556106 string characters out of 5821841
+ 1031313 words of memory out of 5000000
+ 48135 multiletter control sequences out of 15000+600000
  410226 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  98i,7n,122p,2137b,655s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LDRS663.pdf (91 pages).
+Output written on LDRS663.pdf (93 pages).

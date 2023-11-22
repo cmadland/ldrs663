@@ -13,7 +13,8 @@ You will be directed when to complete the following tasks.
 - **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
 - **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)   
-- **Write** your arguments for or against the *Interaction Equivalency Theorem* in Obsidian.  
+- Follow the instructions on the '[Getting Started with Obsidian](https://ma-lead.github.io/ldrs663/getting-started-with-obsidian.html)' page in the course notes in Moodle.
+- **Write** your arguments for or against the *Interaction Equivalency Theorem* in Obsidian by clicking on 'Open today's daily note' in the vertical menu on the left.  
 - Please complete these tasks by <span class='badge-blue'>Sunday, November 26</span> before your regular bedtime. 
 
 
