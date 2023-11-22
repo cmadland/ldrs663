@@ -47,8 +47,6 @@ To give you a head start, we have created a **starter vault** for you to downloa
 6. Choose the `ldrs101` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
 7. Once you are in the vault, feel free to take a look around. You will notice a `HOME` page, a `Tools` folder with some files in it, and a `VR Diagram Canvas`.
 
-
-
 ```
 
 Now that you have a place to record your course notes, let's jump back into the discussion about digital literacy.  Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In the activity below you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
