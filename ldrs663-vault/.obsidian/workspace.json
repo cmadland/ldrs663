@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a186b10ee76adab3",
+        "id": "543b6bf10ca2a46d",
         "type": "tabs",
         "children": [
           {
-            "id": "c209d8ef013465bd",
+            "id": "a8c943088a1d78a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Outcomes/LO-8.md",
+                "file": "2 - Articles/changIndividualCollaborativeAutoethnography2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Outcomes/LO-8.md",
+                "file": "2 - Articles/changIndividualCollaborativeAutoethnography2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Outcomes/LO-8.md",
+                "file": "2 - Articles/changIndividualCollaborativeAutoethnography2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Outcomes/LO-8.md"
+                "file": "2 - Articles/changIndividualCollaborativeAutoethnography2021.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "885d4a14e4c4b5fc",
   "lastOpenFiles": [
-    "Learning Outcomes/LO-7.md",
+    "4 - Synthesis",
+    "3 - Analysis",
+    "1 - Journal",
+    "_templates/tool.md",
+    "2 - Articles/changIndividualCollaborativeAutoethnography2021.md",
     "Learning Outcomes/LO-8.md",
+    "Learning Outcomes/LO-7.md",
     "Learning Outcomes/LO-6.md",
     "Learning Outcomes/LO-5.md",
     "Learning Outcomes/LO-4.md",
@@ -157,8 +162,6 @@
     "Learning Outcomes/LO-2.md",
     "Learning Outcomes/LO-1.md",
     "Learning Outcomes",
-    "1 - Journal",
-    "2 - Articles/changIndividualCollaborativeAutoethnography2021.md",
     "storage/ULLIJDZ8/images/3",
     "storage/78RFTS5M/images/2",
     "storage/78RFTS5M/images/12",
@@ -166,7 +169,6 @@
     "storage/ULLIJDZ8/images/1.ico",
     "storage/ULLIJDZ8/fonts/9",
     "storage/ULLIJDZ8/fonts/7",
-    "storage/ULLIJDZ8/fonts/4",
     "storage/ZZLTW6FX/nyu-short.svg",
     "storage/ZZLTW6FX/nyu-long.svg",
     "storage/ZZLTW6FX/by-nd.svg",
@@ -177,7 +179,6 @@
     "storage/ZT7QPE8Y/metadata.png",
     "storage/ZT7QPE8Y/logokc.jpg",
     "storage/ZT7QPE8Y/logocider.jpg",
-    "_templates/tool.md",
     "_templates/source-note.md"
   ]
 }

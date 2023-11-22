@@ -3,11 +3,11 @@
 One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app.  Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank”}.
 
 
-<div class ="video-container">
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2FNqEDGc8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-</div>
+
 
 
 ### Activity: Getting Started with Obsidian {-}
@@ -35,14 +35,14 @@ Obsidian will become a backbone of this course. One of the advantages of Obsidia
 
 To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
 
-1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip){target="_blank"}
-    - This will download a file called `ldrs101-vault-main.zip` to your computer.
+1. Download the 'Starter Obsidian Vault' from Moodle. 
+    - This will download a file called `ldrs663-vault.zip` to your computer.
 2. Move the file to your `Documents` folder.
 3. Unzip or extract the contents of the file.
-4. Rename the folder to `ldrs101`.
+4. Rename the folder to `ldrs663-[YourName]`.
 5. Open the **Obsidian** app and click the `Open another vault` icon in the bottom left corner.
 
-![screenshot of the 'open another vault' button](assets/digital-literacy/obsidian2.png)
+![screenshot of the 'open another vault' button](assets/u1/obsidian2.png)
 
 6. Choose the `ldrs101` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
 7. Once you are in the vault, feel free to take a look around. You will notice a `HOME` page, a `Tools` folder with some files in it, and a `VR Diagram Canvas`.
