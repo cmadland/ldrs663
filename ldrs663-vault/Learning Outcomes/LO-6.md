@@ -1,0 +1,1 @@
+Design cognitive and social activities to meet learning outcomes

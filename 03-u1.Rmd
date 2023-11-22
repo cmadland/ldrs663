@@ -2,29 +2,28 @@
 
 
 
-<!--
+
 
 ```{block2, type='feedback'}
 <span class="blockhead">Things To Do This Week</span>
 
 You will be directed when to complete the following tasks.
 
--  Meet in Zoom [<span class='badge-blue'>Wednesday, September 13 - 10:00 AM PDT </span>(Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230913T10&p1=256&ah=1)  ✅ 
-- Create a blog site [on the TWU WordPress Network](https://create.twu.ca). [Click here for instructions.](https://ma-lead.github.io/ldrs663/wordpress)   
+-  Meet in Zoom [<span class='badge-blue'>Monday, November 20, 1-3pm </span>(Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663&iso=20231120T13&p1=1109&ah=2)  ✅ 
 - **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
 - **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)   
-- **Publish** your arguments for or against the *Interaction Equivalency Theorem* on your blog..  
-- Please complete these tasks by <span class='badge-blue'>Saturday, September 16</span> before your regular bedtime. The reason for this short week is that we want to start our weeks on Mondays. Don't worry too much if you don't get this one done right on time.
+- **Write** your arguments for or against the *Interaction Equivalency Theorem* in Obsidian.  
+- Please complete these tasks by <span class='badge-blue'>Sunday, November 26</span> before your regular bedtime. 
 
 
 ```
--->
+
 
 
 ## Overview{-}
 
-Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this second unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?); [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229)). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed); [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live)). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
+Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?); [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229)). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed); [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live)). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
 
 ### Topics{-}
 This unit is divided into 3 topics:
