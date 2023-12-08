@@ -1,0 +1,278 @@
+# Assessment {-}
+
+
+| Assessment Task | Due Date | 
+| --- | :---: |
+| Learning Reflection Blogs | Ongoing |
+| Concept Map and Lit Review | December 3 | 
+| Small Group Facilitation | December 10 |
+| Peer Coaching Session | December 22 (Friday) | 
+| Analysis  | January 8 | 
+| Synthesis | January 26 | 
+
+<!--
+| Assessment Task | Due Date | Approximate weight |
+| --- | :---: | :---: |
+| Learning Reflection Blogs | Ongoing, weekly | Required but not assessed |
+| Facilitated Curriculum Analysis | Sept 23 | 10% |
+| Small Group Facilitation | Sept 30 | 10% |
+| Peer Coaching Session | Oct 14 | 15% |
+| Showcase Post (choose one of your learning reflection blog posts to expand and elaborate) | Nov 4| 25% |
+| Facilitation Resource Project | Nov 8 | 40% |
+
+
+## Learning Pods {-}
+
+At the beginning of the course everyone will be placed into small groups called learning pods. these groups, of about four people, will be the place where you will practice learning facilitation and coaching principles and skills that you are learning in this course. The pods will also form the working group for doing a curriculum analysis and developing a facilitated learning resource.
+-->
+
+## Learning Reflection Blogs  {-}
+
+<!--
+Throughout this course, you will be invited to write five “working” posts about what you are learning in this course. These posts will be published on your own WordPress blog which you will create in Unit 1 (if you don't already have one). You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. At the end of the course you will produce a *Showcase Post*, which will represent your best work. The showcase post will be the only graded post; however, your final grade will also consider how your ideas developed over the process of you writing five working draft posts.
+-->
+
+Throughout this course, you will be invited to write four reflections about what you are learning in this course. You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. You will use these posts as data in your analysis and synthesis tasks, so it is in your best interest to be thorough in your reflections (use the W3 process if you’d like a structure, but focus on the ’WHAT?’), and make sure that you demonstrate **evaluative judgement**, or your ability to judge the quality of your own work, in relation to the relevant learning outcomes. Ensure that your post is a reflection of your coaching or facilitation experiences through the lens of the literature you reviewed and your personal coaching and facilitation context. Aim for 300-500 words.
+
+### Post 1 {-}
+
+#### Due at the end of Unit 1 {-}
+
+#### Topic {-}
+ 
+**Read** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
+**Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)  by Heather Kanuka.  
+
+Then, post a reponse on your blog defending or criticizing Anderson's Interaction Equivalency Theorem. Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
+
+If your birthday is between January 1 and June 30, **defend** Anderson's Interaction Equivalency Theorem.
+
+If your birthday is between July 1 and December 31, **criticize** Anderson's Interaction Equivalency Theorem
+
+Feel free to respond to arguments presented by your colleagues for or against the theorem.
+
+To submit all of your posts for the course, create a new journal entry in your Obsidian vault.
+
+### Post 2{-}
+
+#### Due at the end of Unit 2 {-}
+
+Scan through the [feed of posts from previous cohorts of this course](https://ma-lead.github.io/ldrs663/past-blog-feeds.html){target="_blank"} and read through a few posts about Anderson's *Interaction Equivalency Theorem*. Then revisit your own post from Unit 1 in this cohort and, in a new post, provide a review of your Unit 1 post. Evaluate your post using the SOLO Taxonomy found on the bottom of this page. In your review, make sure you link to more than one post from a previous cohort.
+
+Once you have completed this task using one of your own posts, repeat the process for one of your colleagues' posts, preferrably, someone who took the opposite view from you (if you defended Anderson's theorem, then evaluate the post of someone who criticised it).
+
+To submit all of your posts for the course, create a new journal entry in your Obsidian vault.
+
+### Post 3{-}
+
+#### Due at the end of Unit 3 {-}
+#### Topic {-}
+
+In your Discussion Post for this unit, you are being asked to select one core coaching competencies identified in this unit and reflect on how you might apply it in an educational setting. You can use the following questions to guide your writing:
+
+- How would you define the coaching competency?   
+- Why is the competency important?    
+- What set of integrated knowledge, skills, aptitudes and attributes help define, in more detail, how to successfully perform the job to be done?    
+
+To submit all of your posts for the course, create a new journal entry in your Obsidian vault.
+
+<!--
+### Post 4{-}
+
+#### Due at the end of Unit 4 {-}
+
+- In a new post, [complete the Visitors and Residents in online spaces Learning Activity](https://ma-lead.github.io/ldrs663/building-the-web.html#learning-activity). What do you notice about your map? What do you wonder?  
+
+To submit all of your posts for the course, create a new journal entry in your Obsidian vault.
+-->
+
+
+
+### Post 4 {-}
+
+#### Based on Unit 5 {-}
+
+
+
+Throughout this unit we have explore the idea of the educational experience. Your task for the Unit 5 Blog Post, is to reflect on recent trends in higher, and other forms, of adult education in terms of the multitude of new ways institutions are offering access educational experiences. You can use the following questions to guide your writing:
+
+- How can educational institutions give learners more control over their learning experiences?  
+- What benefits and challenges does learner-centred access to education introduce?  
+- Is the recent move towards multi-access education shifting the site of education back to an emphasis on study and away from the focus on instruction that dominated the modern era?  
+- How might this shift change the educator’s role and responsibilities?  
+- How might this shift change the learner’s role and responsibilities change?  
+- How can institutions ensure quality and transformational learning outcomes?  
+
+<!--
+### Showcase Post {-}
+
+#### Due at the end of the course {-}
+##### Topic {-}
+
+Create a new post on your blog in which you outline how you have met each of the 8 learning outcomes in the course. Include links to your previous posts, other learners' posts, resources you have found in the course or on your own, your reflections on the assignments. Make sure you make connections between your work in the course, what you have learned, and how your learning will impact your future work and who you hope to become  (personally, professionally, or both).
+
+This post should be polished and professional with proper APA citations (linked) and a reference list (don't worry about hanging indents!).
+
+To submit this discussion post, create a new post on your own WordPress blog and use the categories 'ldrs663' and 'showcase'.
+-->
+
+
+<!--
+Choose one of the previous 5 posts that you would like to showcase as your best work. Take some time to polish and expand your post (aim for 600-700 words). Ways to expand your post might include:
+- finding more published research about the topic to integrate into your post;   
+- writing about how your views have changed on the topic during the course;
+- writing a counter-argument refuting your previous post.
+-->
+
+
+## Concept Map and Literature Review  {-}
+
+Working individually and in cooperation with your learning pod, use Google Scholar, the TWU library, and AI-powered tools such as LitMaps to find 8-10 peer-reviewed articles on a topic of your choosing, but related to coaching and/or facilitation. Focus on finding at least one systematic or scoping review and several other topical papers. Import the citations and papers into Zotero and then Obsidian. On each file, summarize the associated article, and annotate the PDF. Export the references from Zotero as an .RIS file and include the file in your vault. Create a new Canvas in Obsidian and create a concept map of the relationships between the ideas in the papers. Include on your canvas a new file in which you summarize your concept map (300-500 words).
+<!--
+To begin, follow the steps below:
+
+### Step 1 {-}
+Review the course materials you have been assigned or received approve to analyze.
+
+### Step 2 {-}
+Write a Summary of Understanding. In this second step you will critically reflect on the course materials and write a 3-page summary of understanding from your perspective as a future learning facilitator who is preparing to facilitate this course. In your summary you will compose in your own words your thought on the following:
+
+##### Who is the course for? {-}
+Describe the target learners to whom the course will be offered. The instructors and/or your sponsor organization will provide you with this information. But, you should also add some of your own research.
+
+##### How has COVID-19 impacted the learners in the course? {-}
+Learners and faculty alike have been deeply impacted by coronavirus and COVID-19. How has that impacted learners in the course? Are they quarantined? Do they have access to technology at home? A quiet place to study? Are they looking after their children during the course?
+
+##### What is the course about? {-}
+Consider the course title, description, course learning outcomes, unit and topic titles, and in your own words try to summarize how you would explain to someone what this course of study is about?
+
+##### What do learners need to know? {-}
+Looking for patterns in the course materials and try to identify what you think are the three to five big ideas that the learners are expected to learn in this course?
+
+##### What do learners need to do? {-}
+Look at the learning activities and assessments to identify the performance-based tasks learners need to do. Specifically, focus on the tasks like forum posts and papers the learners need to produce something.
+
+##### How do the learners complete the course? {-}
+Determine if there is a critical path of task throughout the course. That is, are certain tasks contingent on one task being completed for another one can be done? Or is the path open-ended?
+
+##### What challenges do you anticipate? {-}
+Identify the specific challenges that you think learners may face as they work through this particular course of study. Do parts of the course look particularly difficult? Are any resources missing, or underdeveloped, or potentially difficult for certain cultural contexts to understand?
+
+##### What supports do you need to prepare? {-}
+Identify the specific types of support you anticipate will be critical to helping learners successfully complete the learning outcomes of the course you are analyzing.
+
+##### What questions do you have? {-}
+If you could ask the course designer clarifying questions about the course, what would you want to know? What is unclear? What don’t you understand? What are you curious to know more about?
+
+## Grading Rubric for Curriculum Facilitation Analysis {-}
+### Emerging (0-69%) {-}
+
+-  No/Minimal demonstration of independent thought, insight, and creativity (applies course concepts, raises questions, recognises competing perspectives, and evaluates implications)   
+- No/minimal evidence of having reviewed all readings and a lack of comprehensiveness in responses to questions.
+-  No/Minimal demonstration of ability to communicate ideas in writing and to organize responses clearly, thoroughly, and concisely.  	
+
+### Developing (70-89%)	  {-}
+
+- Sufficient demonstration of independent thought, insight, and creativity (applies course concepts, raises questions, recognises competing perspectives, and evaluates implications)
+- Evidence of having reviewed all readings (course related and the curriculum resources being assessed) and a comprehensiveness in responses to questions.
+- Demonstrates ability to communicate ideas in writing and to organize responses clearly, thoroughly, and concisely. 	 	
+
+### Mastering (90-100%) {-}
+
+- Clearly demonstrates independent thought, insight, and creativity (applies course concepts, raises questions, recognises competing perspectives, and evaluates implications)
+- Presence of examples and evidence of understanding of content create a comprehensive response that is accurate and thorough.
+- Organization and use of language is concise and clearly articulates ideas with no confusion.
+
+
+To submit this assignment, scroll to the bottom of the screen on the Unit 5 Tab and select the "Unit 5 - Curriculum Facilitation Analysis Assignment" dropbox.
+-->
+
+## Small Group Facilitation  {-}
+
+~~Working in small groups you will facilitate a short 10-15 min learning activity. In your learning pods each select a topic from LDRS 663 and guide your group through a review discussion of that topic. After your learning activity follow-up with a short *What, So What, Now What?* review of your facilitation sessions to give each other feedback about your facilitation. You will record a video of your session and critically reflect on your actions as the learning facilitator.~~
+
+**Clarified Instructions:**
+
+Working in small groups you will facilitate a short 10-15 min learning activity (even though the syllabus says 20 mins). In your learning pods, each of you should select a topic from LDRS 663 and guide your group through a review discussion of that topic. It is recommended that you use an activity modified from one of the [Liberating Structures activities](https://liberatingstructures.com). Following our meeting, you will have access to the recording of the session and you should re-watch your setion and create a detailed reflection on the experience. Describe as much as you can in response to what happened in your session.
+
+I hope you will push your comfort level in this activity, take some risks, and hopefully mess up. That will be a good thing because it will give you much to reflect on later.
+
+Your reflection should be submitted as a 300-500 word file in your Obsidian vault, named 'facilitation-reflection'.
+
+In your facilitation session, demonstrate and reflect on the following:
+
+-  preparing for the session (as evidenced by your composed materials to support learning in your session).  
+-  creating a supportive environment (referring to participants by name, clarifying expectations, responding in an affirming way to others, and acting in and communicating in a respectful and supportive manner).  
+-  managing the learning process (beginning and ending the session on time, fostering participation by all learners in the group, keeping the learning group on track, facilitating interaction within the learning group, and summarizing learning, calmly and creatively adapting to unexpected events).  
+-  fostering learning (showing interest and enthusiasm, spending more time asking than telling, posing open-ended questions, waiting for learners to respond, seeking clarification, activating learners' prior knowledge effectively, using appropriate forms of engagement to stimulate learner involvement).
+
+
+## Peer Coaching Session  {-}
+
+Working with another student (in your pod), you will each coach each other through the process of writing your final “showcase” post as part of your learning reflection blog assignment or another challenge you have encountered in the course. You will record a video of your session and write critical reflection on your actions as the learning coach.
+
+- Working with another student, use the G.R.O.W. model to coach each other through the process of planning for a particular learning activity within this course (such as, your facilitation resource project).
+- There are two outcomes to assessment:
+  - you will produce a Zoom recording of your coaching session, and
+  - you will write a 1-2 page reflection on your actions coaching your peer’s learning.
+
+<!--
+## Rich Description of Coaching and Facilitation {-}
+
+## 
+
+## Facilitation Resource Project  {-}
+
+Working as a learning pod, you will create a guide to serve as a resource for you and others to facilitate a particular course of study. We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of coaching and facilitation in real-world settings.  As you may be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking and learning processes that will lead to them discovering what they need to know from the expertly prepared course materials in order to help solve their questions.
+
+-->
+<!--
+## Learning Labs (required but not assessed) {-}
+
+Throughout the course, you will have the opportunity to attend learning labs. During lab times, the instructors will be modelling learning facilitation and coaching principles and skills. The instructors will be guiding group discussions, answering any questions you may have about the course, helping you understand your assignments, and giving feedback on your participation. The learning labs are not graded; however, lab learning is connected to the graded activities below.
+
+> Note: Learning labs are scheduled for Thursdays from 11:30AM - 1:00 PM Vancouver time. [Check your local time](https://www.timeanddate.com/worldclock/converter.html?iso=20210903T200000&p1=256&p2=125&p3=136). Learning labs will be accessed synchronously via the Zoom video conferencing system.
+
+-->
+## Grading Standards and the SOLO Taxonomy {-}
+
+An important reality of higher education is that we need to provide a single number between 0 and 100 to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If we are going to be fair about it, we need to consider where you are starting relative to where you end up, we need to understand your individual context, and we need to be able to determine that number by researching your work.
+
+***Assessment is research.*** You need to show us evidence that you have met the outcomes of the course in alignment with the parameters of the assignment, and you need to do so in a way that shows you can think clearly, write persuasively, and extend your learning beyond the boundaries of the course.
+
+This is a very tall order.
+
+One thing that you should consider is that our assessment of your work is not an assessment of you as a person. It is an assessment of what you have shown in relation to the outcomes of the course. One way that you can ensure that you are providing reflections and creating work that is of high academic quality is to use the SOLO Taxonomy.
+
+### SOLO Taxonomy {-}
+
+SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to help you (and me) ensure that you are writing at an appropriate level.
+
+![SOLO Taxonomy (adapted from Biggs & Collis, 1982)](assets/SOLO-taxonomy.png)
+
+#### Pre-Structural  {-}
+A pre-structural response completely ***misses the point*** of the assessment.
+
+#### Uni-Structural  {-}
+A uni-strucutral response displays knowledge or ability in ***one dimension of the construct***.
+
+#### Multi-Structural  {-}
+A multi-structural response displays knowledge or ability in ***multiple dimensions of the construct***, but each dimension is ***disconnected*** from the others.
+
+#### Relational  {-}
+A relational response displays knowledge or ability in ***multiple dimensions of the construct, and how they are related to each other***.
+
+#### Extended Abstract  {-}
+An extended abstract response displays knowledge or ability in ***multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs***.
+
+If you are providing responses at a `pre- or uni-structural` level in a graduate course, you are going to have a bad time. `Multi-structural` responses will lead to grades in the 'C' range. At minimum, your responses should be `unambiguously relational` for a grade in the 'B' range and `extended abstract` for a grade in the 'A' range.
+
+The [TWU Grading Scale](https://www.twu.ca/about/policies-guidelines/university-standard-grading-system), available on the syllabus for this course, describes A-, A, or A+ work as
+
+> **Outstanding, excellent work**; exceptional performance with strong evidence of original thinking, good organization, meticulous concern for documented evidence, and obvious capacity to analyze, synthesize, evaluate, discern, justify, and elaborate; frequent evidence of both verbal eloquence and perceptive insight in written expression; excellent problem-solving ability in scientific or mathematical contexts with virtually no computational errors; demonstrated masterful grasp of subject matter and its implications. Gives evidence of an extensive and detailed knowledge base. (Note: The A+ grade is reserved for very rare students of exceptional intellectual prowess and accomplishment, especially in lower level courses.)
+
+For a grade in the B-, B, or B+ range, here is what you need to do:
+
+> **Good, competent work**; laudable performance with evidence of some original thinking, careful organization; satisfactory critical and analytical capacity; reasonably error-free expository written expression, with clear, focused thesis and well-supported, documented, relevant arguments; good problem-solving ability, with few computational or conceptual errors in scientific subjects; reasonably good grasp of subject matter but an occasional lack of depth of discernment; evidence of reasonable familiarity with course subject matter, both concepts and key issues. Exhibits a serious, responsible engagement with the course content.
+
+We are happy to have a conversation with you if you feel your work has been unfairly assessed and you can provide a justifiable rationale based on the product of your work in relation to the requirements of the assignment and the standards outlined above and in the University Calendar.

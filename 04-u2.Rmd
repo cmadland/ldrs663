@@ -30,7 +30,7 @@
 ```{block2, type='blank'}
 #### ✨ NOTE{-}
 
-Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) is due <span class='badge-blue'>***DATE!!***</span>. Please begin scheduling your facilitation sessions with your groups this week so you have enough time to complete the sessions and your reflections.
+Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) will take place <span class='badge-blue'>***Monday, December 11, during our class meeting***</span>. Your reflection will be due the following Monday, December 18.
 
 
 ```
@@ -339,7 +339,7 @@ Now, consider how could you use this Liberating Structure to guide a group discu
 #### WordPress Post
 
 
-Please complete the assignment under 'Post 2' below. This will be your third of five draft posts during the course.
+Please complete the assignment under 'Post 2' below. This will be your second of four draft posts during the course.
 
 [Blog Post 2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
 
@@ -363,9 +363,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 #### Facilitation Session {-}
 
-Working in small groups you will facilitate a short 10-15 min learning activity. In your learning pods each select a topic from LDRS 663 and guide your group through a review discussion of that topic. After your learning activity follow-up with a short *What, So What, Now What?* review of your facilitation sessions to give each other feedback about your facilitation. You will record a video of your session and critically reflect on your actions as the learning facilitator.
-
-Your reflection should be submitted as a 300-500 word reflection in a new file in your Obsidian vault.
+See the 'Assessment' page for details.
 
 #### Two Similar, but Different "Teaching Presence" Roles {-}
 
