@@ -32,7 +32,7 @@ You can set an entire blog to be private or simply selected posts can be set to 
 
 <!--
 
-```{block2, type='blank'}
+::: {.callout}
 **✨ ProTip**
 
 If you choose to make your blog private, we will not be able to syndicate your posts to the course site. You will still be able to participate in the course, but please contact your instructor if you choose to make your site only visible to registered users of the network or your site.

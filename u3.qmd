@@ -1,0 +1,606 @@
+# Coaching for Learning
+
+## Overview {-}
+
+An enduring principle of educational practice is learners learn in different ways and at different rates. Effective educators recognize the uniqueness of each individual learner. They understand each learner arrives at a new learning situation with different lived experiences, existing knowledge, cognitive processing strengths and weaknesses, learning preferences, values, and goals. At the same time, effective educators also recognize some aspects of the learning process are common to most, if not all, learners. For instance, most educators believe learning is an ongoing, reflective process. We tend to broadly believe human are constantly taking in new information, integrating it into what we already know, and developing ideas based on this merging of past and present. In the midst of educator’s diverse and sometimes contradictory ideas about learning, there seems to be a great deal of mystery, and countless myths about how the learning process actually works. Unit 4 will introduce some important questions about learning, such as:
+
+❓ How can we as educators ensure our students are truly achieving the outcomes we intend?   
+❓ What practises should educators use in order to create an effective learning environment?   
+❓ What role do learners play in generating and sustaining this environment?   
+❓ How can we maximize the likelihood of transformational learning?
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1.	Theories of Learning (or *What do we Really Know About How People Learn*)
+2.	The Practice of Coaching
+3.	Core Coaching Competencies
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe theories about how people learn.
+- Explain how to design learning environments to maximize learning.
+- Explain the coaching for learning model.
+- Identify essential coaching for learning competencies.
+
+### Resources {-}
+
+Online resources will be provided in the unit.
+
+[Coaching Notes](https://ma-lead.github.io/ldrs663/coaching-notes.html)
+
+## Topic 1  {-}
+
+![School in Y2K](assets/u4/France_in_XXI_Century._School.jpg)
+*This image is in the Public Domain.*
+
+The image you see here was created in the early 20th century in France as a part of a series of images predicting what life would be like in 2000. You can see the full collection [**here**](https://publicdomainreview.org/collections/france-in-the-year-2000-1899-1910/).
+
+As you can see, the artist envisioned a process whereby information was fed into a machine of some sort and just automagically downloaded into student minds. Kind of like this scene from the movie the *Matrix*:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6vMO3XmNXe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+These are both examples of how the modern condition of thought (Unit 2), has shaped our thinking about learning. Many modern era educators viewed people as learning “machines” who could be “programmed” with instructions, just like we program computers. The legacy of this thinking still lingers and the educational model of instructors instructing students through instructions is still prevalent.
+
+In these modern visions, learning is something done *to* students, not something done *by* students. The learner is completely passive in the process. The dreams of grade-schoolers to be able to rest a book on their head and learn by osmosis are just as far-fetched as the prognostications from the early 20th century, from the *Matrix,* and from the claims of many edtech companies today. However, we need to recognize that learning is hard work. Consider Erasmus’s (1965) comment in his dialogue *The Art of Learning*, “For my part, I know no other art of learning than hard work, devotion, and perseverance” (p. 461). This statement remains as true today, as it was in 1529.
+
+Take a few minutes to watch this video from Destin Sandlin, creator of the YouTube channel *Smarter Every Day*. The video has a long introduction, but it is entertaining and sets up the problem of learning very well:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MFzDaBzBlL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Destin talks about some important ideas related to pedagogy (the study of how children learn) that are also applicable to andragogy (the study of how adults learn). One of those ideas is that *knowledge != understanding* (and now you know that the '!' negates the '=' in that statement). A little later in this unit, when we talk about deep and surface approaches to learning, we will come back to this idea.
+
+
+:::{.callout}
+#### Reflect {-}
+
+As a way to consolidate your own learning around this concept, take a few minutes to think about a time when you have had knowledge, but not understanding, and how that affected you in some way. You don't have to write anything down, just connect the idea to an experience that you have had.
+
+
+:::
+
+In the video, Destin also talks about cognitive bias and the tremendously powerful effect that our own biases have on what and how well we learn. The challenge that he faced in learning to ride the backwards brain bike wasn't so much the physical skills involved, but *unlearning* his previous 'ride a bike' algorithm. When he encountered new information that didn't match his previous experience, it was extremely difficult to overcome his previous experience and bias. It took him 8 months of dedicated effort to do it. At the end, he discovered that he hadn't *overcome* his bias, he had only transferred it to a new bias, albeit one that was easier to overcome.
+
+This process is also true for people learning new ideas. None of us come to a learning context without preconceived ideas regarding the nature of the topic to be studied, and often, those ideas are incorrect. They are misconceptions. Biases. Then, when new information comes along, our brain actively sabotages us by telling us that we already know this and we don't need to listen, while simultaneously convincing us even more of the truth of our misconceptions.
+
+Below is another video, this time from *Veritasium,* in which Derek Muller shows why misconceptions (biases) can be so difficult to overcome:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eVtCO84MDj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Despite the difficulty, it is important to note that we *can* overcome these biases and misconceptions. In fact, we can overcome some bizarre inputs, as [researchers have discovered and was briefly reported in The Guardian](https://www.theguardian.com/education/2012/nov/12/improbable-research-seeing-upside-down).
+
+Here is a slightly less scientifically rigorous portrayal of what happens when our vision is artificially flipped: (The video is 12 minutes, but you don't need to watch it all).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OJTC_E2Nlgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The point of these experiments, at least for our purposes, is that human brains (and likely other animals as well) demonstrate the characteristic of *plasticity*. The connections in our brain that allow ideas to form and be adjusted can be broken and then reconnected in different configurations.
+
+***This is learning. Learning is hard work.***
+
+One implication of this is that it is naïve for educators to assume that a single exposure to an idea will somehow cause learning. In fact, the opposite is true. It takes repeated exposure, practice, error-correction, and adjustment for learning to become consolidated.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1QSocgE3yFY?si=4HNyE7ltJ9X1jh4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+:::{.callout}
+#### Learning Activity {-}
+
+Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).
+
+Note: We will not be using this entire book, so don't feel obliged to purchase a copy for yourself.
+Click 'Read Online' As you read, please use hypothes.is to both record your thoughts and connections in the article, but also interact with past annotations. These chapters are already heavily annotated, presumably by other students.
+
+***Questions  to Consider...***
+
+After completing the reading above, consider the following questions:
+
+ - *What are the basic types of learning?*
+ - *How does the human brain respond to learning?*
+
+
+:::
+
+
+:::{.callout}
+
+#### Learning Activity {-}
+
+Below is a resource that summarizes existing research from cognitive science related to how students learn. This research has practical implications for teaching and learning that will be of benefit as we move forward with the content of this unit. Follow the link below:
+
+ - [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf){target="_blank"}
+
+***Questions to Consider...***
+
+After completing the reading above, consider the following questions:
+
+ - *How do students understand new ideas?*
+ - *How do students learn and retain new information?*
+ - *How do students solve problems?*
+ - *How does learning transfer to new situations in or outside of the classroom?*
+ - *What motivates students to learn?*
+ - *What are common misconceptions about how students think and learn?*
+
+
+:::
+
+
+
+## Topic 2 {-}
+
+***What is Coaching?*** Coaching is something that you do to help improve someone in some way. Gallway (1997) defines coaching as “a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person.” His conceptualization of the method is analogous to Michelangelo’s approach to sculpture. Michelangelo believed that “every block of stone has a statue inside it and it’s the task of the sculptor to discover it.” Similarly, Gallway (1997) writes:
+
+> *Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to “farm” the potential they are given to nurture.*
+
+***How do Educators Coach Learners for Learning?*** The beginning point of an effective coaching for learning practice as an educator is the coaching relationship. It’s critical, according to Gallway (1997), for coaches to “[create] a safe and challenging environment in which learning can take place.” In the educator’s role as coach, this relationship is a shared learning space where the educator enters the learners’ internal dialogue with their learning experiences. Coaching work involves two aims, 
+
+- helping each learner become aware of their own potential, and,   
+- helping learners remove any interference in realizing this potential. 
+
+In terms of coaching for learning we know that it is a natural aspect of our nature as human beings to learn. That is, it’s something we simply do naturally. But, one thing that makes learning difficult is that our past learning gradually starts to interfere with our present and future learning.
+
+Increasing learners’ awareness of their own internal resistance to new learning is the primary theme of coaching for learning. Common obstacles to learning, according to Gallway (1997), include the learner’s assumption that they already know what is being taught, the fear of being judged, doubt, and trying too hard to appear learned. In broader terms, Scharmer (2016) has identified the learners’ internal ***voice of judgement*** (VoJ), ***voice of cynicism*** (VoC), and ***voice of fear*** (VoF) as universal factors interfering with learning. The role of effective coaching is to help learners overcome these obstacles by opening their mind, emotions, and will to new possibilities. This work involves coaching learners through the transition of change—that is, 
+- letting go of what was, 
+- moving through the transition, and 
+- embracing a new beginning.  
+
+The secondary theme of coaching for learning is increasing learners’ awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallway (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book *Coaching for Performance*. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
+
+
+:::{.callout}
+
+**Goal Setting.** Helping learners clarify **what** they need and more importantly want to learn? **Why** they need and/or truly want to learn it? And **when** they need to, or genuinely want, to learn it? The coach, here, also helps learners see how their personal goals can align with prescribed learning outcomes.
+
+**Reality Checking.** Helping learners identify what they already know? What they can already do? What they have already done? What’s moving them towards their goal? And what’s getting in the way?
+
+**Option Exploring.** Helping learners identify the various options they have to move them toward their goals. Brainstorming what else they can do to achieve their goals? Assessing what are the benefits and weaknesses of the various options that they have identified?
+
+**Will be Doing.** Helping learners choose which options to act on. Determining when to act on an option. Assessing how committed they are to taking action a given option? Committing to acting on an option.
+
+:::
+
+
+:::{.callout}
+
+#### Learning Activity {-}
+
+Take a few moments to read the article below written by Tim Gallwey. Gallwey works with companies to help them find better ways to implement change. In the article below, he discusses the importance of creating a learning culture - specifically, he discusses why coaches need to understand the learning process and the obstacles a learner experiences:
+
+- [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)
+
+***Questions to Consider...***
+
+After completing the activity above, consider the following questions:
+
+- *How can coaching concepts be applied to helping learners learn?*
+- *What key characteristics define effective coaching for learning?*
+- *How can educators coach learners through the transition of making a change?*
+
+
+:::
+
+## Topic 3 {-}
+
+Effective coaching is grounded in an emerging set of coaching competencies. These competencies represent a set of integrated knowledge, skills, aptitudes and attributes that coalesce into behaviors that define, in more detail, what is needed to successfully perform the task of helping learners learn. The following are six essential behaviors the developing educator as coach must demonstrate.
+
+
+### **Practicing Professional Ethics & Standards** {-}
+
+The basis of this competency is a personal commitment to demonstrating and maintaining the highest level of ethical behavior. Emerging professional coaching standards include,   
+✅ making the roles, responsibilities, and rights of everyone involved in the coaching relationship clear,   
+✅  clearly communicating how information will be communicated between everyone involved in the coaching relationship,   
+✅ maintain confidentiality of personal information and communications,   
+✅ having a clear understanding of the conditions where information will not be kept confidential, and   
+✅ be aware of and respond sensitively to potential power or status differences.
+
+
+
+### Cultivating Trust & Safety {-}
+
+Seeks to understand the learner and their unique learning context, demonstrates respect for the learner’s identity, values and perspective, showing empathy and concern for their well-being, acknowledges the learner unique abilities, interests, and feelings, demonstrating openness and vulnerability, and supporting the unique needs of the learner’s personality.
+
+
+
+### Holding Space/Presence {-}
+
+Being focused on the moment and giving attention to what is occurring in your conversation with the learner. Initially, this might feel like simply holding yourself back from talking too much as the coach and giving the learner space (that is, your silence) to reflect and process things. One way to conceptualize this competency as "creating a “space to listen into.” This involves   
+✅  creating comfortable distance in physical space,  
+✅ creating a non-judgmental emotional space, and    
+✅ creating a quiet auditory space.   Holding space, or being present, is an essential way the educator as coach can demonstrate to the learner that the learner’s contribution is valued and their learning is important. It’s also important for the coach to hold space for themselves to reflect and process what is happening.
+
+
+
+### Active Listening {-}
+
+The intent of these particular skills is to help the coach truly understand the learner and their context, and to help the learner feel like they have been understood and supported. Typical skills include, paying attention, holding judgement, reflecting, clarifying, summarizing, and sharing.
+
+
+### Evoking Awareness {-}
+
+Asks questions to clarify the learners’ experiences, way of thinking, feelings, values, needs, wants, and beliefs.  Asking questions to help learners explore beyond their current thinking. Invites learners to share more about their present learning experiences. Notices what is working to enhance the learners progress. Challenges learners to increase their awareness and insight. Helps learners identify their potential for growth, internal/external obstacles, and options to move forward. Shares observations, insights, and encouragements to assist the learner in their learning.
+
+
+
+### Cultivating Growth {-}
+
+Asks questions that helps learners  
+✅ surface their interests,  
+✅ clarify and prioritize their goals,  
+✅ assess their learning experiences,   
+✅ explore options for continued learning, and  
+✅ design learning plans and commit to achieving their learning goals.  
+
+
+:::{.callout}
+#### Learning Activity {-}
+
+For this activity, you will be reading through the Core Competencies of the International Coaching Federation. The International Coaching Federation is dedicated to advancing the coaching profession by setting high, ethical standards. Read more below:
+
+ - [**Core Competencies**](https://coachfederation.org/core-competencies)
+
+***Questions to Consider...***
+
+After completing the activity above, consider the following questions:
+
+ - *What general coaching competencies apply to coaching for learning?*
+ - *What competencies do you feel are strength areas? What areas do you need to develop?*
+ - *How can a coaching approach help you support learner success in an educational setting?*
+
+:::
+
+
+## Unit 4 Assessment {-}
+
+
+<!--
+
+:::{.callout}
+#### WordPress Post {-}
+
+
+Please complete the assignment under 'Post 3' below. This will be your third of four draft posts during the course.
+
+[Blog Post 3](https://ma-lead.github.io/ldrs663/assessments.html#post-3)
+
+
+
+In addition, please begin planning your [Peer Coaching Session](https://ma-lead.github.io/ldrs663/assessments.html#peer-coaching-session-15).
+
+
+:::
+
+
+#### Things To Do This Week {-}
+
+
+✅  Meet in Zoom <span class='badge-blue'>Wednesday, October 4 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231004T1030&p1=1109&ah=1)
+✅  Meet in Zoom <span class='badge-blue'>Wednesday, October 11 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231011T1030&p1=1109&ah=1)          
+✅  **Read** and **Reflect** Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783){target="_blank"}.     
+✅ **Read** and **Reflect** [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)  
+✅ **Read** and **Reflect** [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)   
+✅ **Read** and **Reflect** [**Core Competencies**](https://coachfederation.org/core-competencies)  
+✅ **Publish** your [Unit 3 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-3) using the category `ldrs663`.  
+✅  **Meet** with your Learning Pod to complete the [Peer Coaching Session](https://ma-lead.github.io/ldrs663/assessments.html#peer-coaching-session).
+✅  Please complete these items by <span class='badge-blue'>Saturday, October 14 - by sundown</span>, or let me know if you will need a bit more time.
+
+:::
+-->
+
+## Coaching Notes {-}
+
+
+
+#### What is **coaching**? {-}
+
+
+
+> Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. ~Gallwey, 1997
+
+
+#### Michaelangelo's Principle {-}
+
+> Every block of stone has a statue inside it and it is the task of the sculptor to discover it.”
+
+
+
+![](assets/presentations/coaching/mike.jpg)
+
+
+
+#### Developing Learning Capability {-}
+
+
+- Learning, coaching, and building a learning culture are critical to the multi-access education model.
+- Growing learners’ learning capability is equivalent to increasing an institution’s teaching presence.
+- We don’t really need to learn how to learn; we need to remove our resistance to learning and coaching.
+
+
+#### Aims of coaching for Learning {-}
+
+
+- Increase capacity for learning performance:
+  - by actualizing potential;
+  - or, by decreasing interference;
+  - or, by a combination of both.
+
+
+
+#### Learning Performance = Potential - Interference {-}
+
+~Gallwey, 1997
+
+
+#### Core Coaching Competencies {-}
+
+
+- Practicing Professional Ethics & Standards
+- Cultivating Trust & Safety
+- Holding Space/ Presence
+- Active Listening
+- Asking Questions
+- Creating Awareness
+- Setting (SMART) Goals
+- Designing Action Plans
+- Checking for Results
+
+
+#### Listening {-}
+
+
+The reality is that
+
+> “to [truly] listen is very hard, because it asks of us so much interior stability that we no longer need to prove ourselves by speeches, arguments, statements or declarations. True listeners no longer have an inner need to make their presence known. They are free to receive, welcome, to accept”.
+~Henri Nouwen
+
+
+#### Levels of Listening {-}
+
+
+
+- Avoidance Listening = **Listening Over**
+- Defensive Listening = **Listening At**
+- Problem-Solving Listening = **Listening To**
+- Listening to Learn = **Listening Into**
+~Goulston & Ullmen (2013)
+
+
+
+:::{.callout}
+
+Why is “listening into” the inner world of the learner’s lived-experience so difficult? 
+
+
+:::
+
+#### Reason: We listen autobiographically {-}
+
+
+- We listen with the intent to reply, not to understand what the other person is trying to say.
+- We listen to our own self-talk as we prepare what we are going to say, ask, etc.
+- We filter everything we hear through our life experiences, our own frame of reference.
+- We check what we hear against our own autobiography and see how it measures up.
+
+
+- We decide what the other person means before he/
+she finishes communicating, saying things like:
+  - "I know just how you feel.”
+  - “I felt the same way."
+  - "I had that same thing happen to me."
+  - "Let me tell you what I did in a similar situation."
+
+
+#### Other Common Barriers to Effective Listening {-}
+
+
+- We see silence as agreement
+- We feel the pressure of time (we don’t have time)
+- We are impatient/disinterested
+- We lack of know-how
+- We simply don’t pay close attention
+
+
+#### We Need to Learn to “Listen Into” Learner’s Worlds Consciously {-}
+
+
+#### Julian Treasure (2011) provides us with critical insights into how we can listen consciously. {-}
+
+
+
+![alt-text](assets/presentations/coaching/ted.jpg "TEDTalks splash page")
+
+
+
+#### How can we listen consciously to our learners’ inner world’s to truly understand them? {-}
+
+
+
+#### Our Listening Positions Need to Match the Situation {-}
+
+- Active vs. Passive
+- Reductive vs. Expansive
+- Critical vs. Empathetic
+
+
+
+#### Coaching for learning requires Active Listening {-}
+
+
+![alt-text](assets/presentations/coaching/active.png "Active Listening Model, (Hoppe, 2006)")
+
+
+#### Pay Attention {-}
+
+1. Be present; focus on the moment
+2. Observe body language; your own and the learner’s.
+3. Pre-empt distractions.
+
+#### Hold Judgement {-}
+
+1. Practice empathy; seeking to make the learner “feel” felt and heard.
+2. Try to understand learner’s “lens”.
+3. Be patient.
+
+
+> Silence is a source of great strength.
+~Lao Tzu
+
+
+#### Reflect {-}
+
+1. Paraphrase (“What I am hearing is...”)
+2. Name emotions you observe
+3. Be a “mirror”
+
+
+
+![alt-text](assets/presentations/coaching/plutchik.jpg "Plutchik's wheel of emotions")
+
+
+#### Clarify {-}
+
+1. Use open-ended questions (“What might you do next?).
+2. Use clarifying questions (“Let me see, if I’m clear?”).
+3. Use probing questions (“What tactics have you tried?”).
+
+
+
+#### Summarize {-}
+
+1. Use “So” periodically (“So, what I have heard so far…”).
+2. Use “So” at the end (So, let me summarize what I have heard…”).
+3. Ask the other person to summarize.
+
+
+#### Share {-}
+
+1. Be an active participant in the conversation.
+2. Share thoughts, feelings, and experiences to deepen and/or check for understanding.
+3. Ask the learner about your impact on him or her.
+
+#### G.R.O.W. Coaching Model {-}
+
+
+## Goal Setting {-}
+
+- Setting short and long term learning goals.
+- Key questions to ask:
+  - What can you do with my time that is important?
+  - What learning outcome do you want?
+  - How much time do you need to achieve that outcome?
+  - How does what you am doing now help you achieve the longer term learning outcomes I really want?
+
+##### Make Your Goals S.M.A.R.T. {-}
+
+
+###### Specific {-}
+
+- Your goal should be clear and specific.
+- Ask yourself:
+  - What do I want to accomplish in this course?
+  - Why is this learning goal important to you?
+  - What is involved in achieving this goal?
+
+
+###### Measurable {-}
+
+- You should be able to track your progress.
+- Ask yourself:
+  - How much time is involved?
+  - How will you know when it is accomplished?
+
+
+###### Attainable {-}
+
+- Your goal should be realistic and achievable.
+- Ask yourself:
+  - How can you accomplish this goal?
+  - Do you have the resources to achieve it?
+
+
+
+###### Relevant {-}
+
+- Your goal should matter and align with your other
+goals.
+- Ask yourself:
+  - Is the goal worthwhile?
+  - Is the time right?
+  - Does it help you achieve what you ultimately want?
+
+
+###### Time-bound {-}
+
+- Your goal should have a deadline to focus on.
+- Ask yourself:
+  - When?
+  - What can I do now?
+
+
+## Reality Checking {-}
+
+- Understanding where you really are relative to what
+you really want.
+- Key questions to ask:
+  - What is really going on?
+  - What have you done/tried?
+  - Have you noticed any patterns?
+  - How do you know this is accurate?
+
+
+#### Identifying Obstacles to Achieving Goals {-}
+
+
+- Critical to identify if there’s more than one obstacle.
+- Key questions to ask:
+  - What is preventing you from achieving your goals?
+  - What else is preventing you?
+  - What do you have to change about yourself to achieve your goals?
+  - What is preventing you from changing?
+
+
+#### Common Obstacles to Learning Goals {-}
+
+- Assumption that “I already know”
+- Assumption that learning means remediation
+- Fear of being judged
+- Doubt
+- Trying too hard to learn and to appear learned
+~Gallwey, 1997
+
+
+## Option Exploration {-}
+
+- Key questions to ask:
+  - What alternatives do you have?
+  - Who can support you?
+  - What are the pros and cons of that option?
+  - What is the preferred option you want to act on?
+
+
+#### Reframing Questions {-}
+
+- What are you not seeing?
+- What is a better position to take?
+- Is this problem the root problem or a symptom of it?
+- Why is this problem problematic?
+
+
+## The Way Forward {-}
+
+- Key questions to ask:
+  - What commitments am I going to make?
+  - What are my next steps?
+  - In what timeframe?
+  - What do I think might get in the way?
+  - How will I track my progress?
+  - What support do I need? How will I get it?
+
+
+#### Creating Action Strategies {-}
+
+- Set SMART Goal(s) (the job to be done)
+- Breakdown the Work (into a list of tasks)
+- Define the Critical Path (the order of tasks)
+- Schedule the Work (when you do what)
