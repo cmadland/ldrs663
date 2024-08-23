@@ -1,12 +1,17 @@
+# version 1.6
+
 project:
   type: book
   output-dir: docs
 
+published-title: "Last Modified"
+
 book:
-  title: "Leadership 663"
+  title: "LDRS 663"
   author: "Colin Madland, Mark Halvorson, Scott Macklin"
   date: "last-modified"
   date-format: "MMM D, YYYY"
+  search: true
   chapters:
     - index.qmd
     - u1.qmd
@@ -15,18 +20,53 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd    
-    - assessment.qmd
+    # - assessment.qmd
     - references.qmd
 
-bibliography: references.bib
+# References
+bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
+csl: https://twuonline.github.io/course-materials/quarto/apa.csl
+link-bibliography: true
+link-citations: true
 
+filters:
+  - custom.lua
+
+# Add templete for block
+title-block-banner: true
+# Formats
 format:
+# Format - HTML
   html:
-    theme: cosmo
-    toc: true
+    template-partials:
+      header-assets/title-block.html
+    sidebar:
+      style: "docked"
+      search: true
+    css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
     toc-depth: 4
+    toc: true
+    toc-title: On This Page
+    # theme: cosmo
+    theme: [cosmo, custom.scss]
+    include-in-header:
+    - text: |
+        <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
+        <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
+
+# Format - PDF
   pdf:
     documentclass: scrreprt
+# Format - Doc
+#  docx:
+#    toc: false
+#    number-sections: true
+#    highlight-style: github
+#    cite-method: biblatex
+# Fig captions
+fig-cap-location: top
+lightbox:
+  desc-position: top
 
 
 
