@@ -1,6 +1,6 @@
 # Coaching for Learning
 
-## Overview {-}
+## Overview {.unnumbered}
 
 An enduring principle of educational practice is learners learn in different ways and at different rates. Effective educators recognize the uniqueness of each individual learner. They understand each learner arrives at a new learning situation with different lived experiences, existing knowledge, cognitive processing strengths and weaknesses, learning preferences, values, and goals. At the same time, effective educators also recognize some aspects of the learning process are common to most, if not all, learners. For instance, most educators believe learning is an ongoing, reflective process. We tend to broadly believe human are constantly taking in new information, integrating it into what we already know, and developing ideas based on this merging of past and present. In the midst of educator’s diverse and sometimes contradictory ideas about learning, there seems to be a great deal of mystery, and countless myths about how the learning process actually works. Unit 4 will introduce some important questions about learning, such as:
 
@@ -9,15 +9,15 @@ An enduring principle of educational practice is learners learn in different way
 ❓ What role do learners play in generating and sustaining this environment?   
 ❓ How can we maximize the likelihood of transformational learning?
 
-### Topics {-}
+### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
-1.	Theories of Learning (or *What do we Really Know About How People Learn*)
-2.	The Practice of Coaching
-3.	Core Coaching Competencies
+1. Theories of Learning (or *What do we Really Know About How People Learn*)
+2. The Practice of Coaching
+3. Core Coaching Competencies
 
-### Learning Outcomes {-}
+### Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should be able to:
 
@@ -26,15 +26,16 @@ When you have completed this unit, you should be able to:
 - Explain the coaching for learning model.
 - Identify essential coaching for learning competencies.
 
-### Resources {-}
+### Resources {.unnumbered}
 
 Online resources will be provided in the unit.
 
 [Coaching Notes](https://ma-lead.github.io/ldrs663/coaching-notes.html)
 
-## Topic 1  {-}
+## Theories of Learning {.unnumbered}
 
 ![School in Y2K](assets/u4/France_in_XXI_Century._School.jpg)
+
 *This image is in the Public Domain.*
 
 The image you see here was created in the early 20th century in France as a part of a series of images predicting what life would be like in 2000. You can see the full collection [**here**](https://publicdomainreview.org/collections/france-in-the-year-2000-1899-1910/).
@@ -54,8 +55,9 @@ Take a few minutes to watch this video from Destin Sandlin, creator of the YouTu
 Destin talks about some important ideas related to pedagogy (the study of how children learn) that are also applicable to andragogy (the study of how adults learn). One of those ideas is that *knowledge != understanding* (and now you know that the '!' negates the '=' in that statement). A little later in this unit, when we talk about deep and surface approaches to learning, we will come back to this idea.
 
 
-:::{.callout}
-#### Reflect {-}
+::: {.learning-activity}
+
+#### Reflect {.unnumbered}
 
 As a way to consolidate your own learning around this concept, take a few minutes to think about a time when you have had knowledge, but not understanding, and how that affected you in some way. You don't have to write anything down, just connect the idea to an experience that you have had.
 
@@ -85,8 +87,9 @@ One implication of this is that it is naïve for educators to assume that a sing
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1QSocgE3yFY?si=4HNyE7ltJ9X1jh4F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+
+#### Learning Activity {.unnumbered}
 
 Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).
 
@@ -104,9 +107,9 @@ After completing the reading above, consider the following questions:
 :::
 
 
-:::{.callout}
+::: {.learning-activity}
 
-#### Learning Activity {-}
+#### Learning Activity {.unnumbered}
 
 Below is a resource that summarizes existing research from cognitive science related to how students learn. This research has practical implications for teaching and learning that will be of benefit as we move forward with the content of this unit. Follow the link below:
 
@@ -126,9 +129,7 @@ After completing the reading above, consider the following questions:
 
 :::
 
-
-
-## Topic 2 {-}
+## The Practice of Coaching {.unnumbered}
 
 ***What is Coaching?*** Coaching is something that you do to help improve someone in some way. Gallway (1997) defines coaching as “a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person.” His conceptualization of the method is analogous to Michelangelo’s approach to sculpture. Michelangelo believed that “every block of stone has a statue inside it and it’s the task of the sculptor to discover it.” Similarly, Gallway (1997) writes:
 
@@ -149,7 +150,7 @@ Increasing learners’ awareness of their own internal resistance to new learnin
 The secondary theme of coaching for learning is increasing learners’ awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallway (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book *Coaching for Performance*. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
 
 
-:::{.callout}
+::: {.learning-activity}
 
 **Goal Setting.** Helping learners clarify **what** they need and more importantly want to learn? **Why** they need and/or truly want to learn it? And **when** they need to, or genuinely want, to learn it? The coach, here, also helps learners see how their personal goals can align with prescribed learning outcomes.
 
@@ -162,9 +163,9 @@ The secondary theme of coaching for learning is increasing learners’ awareness
 :::
 
 
-:::{.callout}
+::: {.learning-activity}
 
-#### Learning Activity {-}
+#### Learning Activity {.unnumbered}
 
 Take a few moments to read the article below written by Tim Gallwey. Gallwey works with companies to help them find better ways to implement change. In the article below, he discusses the importance of creating a learning culture - specifically, he discusses why coaches need to understand the learning process and the obstacles a learner experiences:
 
@@ -181,12 +182,12 @@ After completing the activity above, consider the following questions:
 
 :::
 
-## Topic 3 {-}
+## Core Coaching Competencies {.unnumbered}
 
 Effective coaching is grounded in an emerging set of coaching competencies. These competencies represent a set of integrated knowledge, skills, aptitudes and attributes that coalesce into behaviors that define, in more detail, what is needed to successfully perform the task of helping learners learn. The following are six essential behaviors the developing educator as coach must demonstrate.
 
 
-### **Practicing Professional Ethics & Standards** {-}
+### Practicing Professional Ethics & Standards {.unnumbered}
 
 The basis of this competency is a personal commitment to demonstrating and maintaining the highest level of ethical behavior. Emerging professional coaching standards include,   
 ✅ making the roles, responsibilities, and rights of everyone involved in the coaching relationship clear,   
@@ -197,13 +198,13 @@ The basis of this competency is a personal commitment to demonstrating and maint
 
 
 
-### Cultivating Trust & Safety {-}
+### Cultivating Trust & Safety {.unnumbered}
 
 Seeks to understand the learner and their unique learning context, demonstrates respect for the learner’s identity, values and perspective, showing empathy and concern for their well-being, acknowledges the learner unique abilities, interests, and feelings, demonstrating openness and vulnerability, and supporting the unique needs of the learner’s personality.
 
 
 
-### Holding Space/Presence {-}
+### Holding Space/Presence {.unnumbered}
 
 Being focused on the moment and giving attention to what is occurring in your conversation with the learner. Initially, this might feel like simply holding yourself back from talking too much as the coach and giving the learner space (that is, your silence) to reflect and process things. One way to conceptualize this competency as "creating a “space to listen into.” This involves   
 ✅  creating comfortable distance in physical space,  
@@ -212,18 +213,18 @@ Being focused on the moment and giving attention to what is occurring in your co
 
 
 
-### Active Listening {-}
+### Active Listening {.unnumbered}
 
 The intent of these particular skills is to help the coach truly understand the learner and their context, and to help the learner feel like they have been understood and supported. Typical skills include, paying attention, holding judgement, reflecting, clarifying, summarizing, and sharing.
 
 
-### Evoking Awareness {-}
+### Evoking Awareness {.unnumbered}
 
 Asks questions to clarify the learners’ experiences, way of thinking, feelings, values, needs, wants, and beliefs.  Asking questions to help learners explore beyond their current thinking. Invites learners to share more about their present learning experiences. Notices what is working to enhance the learners progress. Challenges learners to increase their awareness and insight. Helps learners identify their potential for growth, internal/external obstacles, and options to move forward. Shares observations, insights, and encouragements to assist the learner in their learning.
 
 
 
-### Cultivating Growth {-}
+### Cultivating Growth {.unnumbered}
 
 Asks questions that helps learners  
 ✅ surface their interests,  
@@ -233,8 +234,8 @@ Asks questions that helps learners
 ✅ design learning plans and commit to achieving their learning goals.  
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 For this activity, you will be reading through the Core Competencies of the International Coaching Federation. The International Coaching Federation is dedicated to advancing the coaching profession by setting high, ethical standards. Read more below:
 
@@ -251,13 +252,13 @@ After completing the activity above, consider the following questions:
 :::
 
 
-## Unit 4 Assessment {-}
+## Unit 4 Assessment {.unnumbered}
 
 
 <!--
 
-:::{.callout}
-#### WordPress Post {-}
+::: {.learning-activity}
+#### WordPress Post {.unnumbered}
 
 
 Please complete the assignment under 'Post 3' below. This will be your third of four draft posts during the course.
@@ -272,7 +273,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 :::
 
 
-#### Things To Do This Week {-}
+#### Things To Do This Week {.unnumbered}
 
 
 ✅  Meet in Zoom <span class='badge-blue'>Wednesday, October 4 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231004T1030&p1=1109&ah=1)
@@ -288,18 +289,18 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 :::
 -->
 
-## Coaching Notes {-}
+## Coaching Notes {.unnumbered}
 
 
 
-#### What is **coaching**? {-}
+#### What is **coaching**? {.unnumbered}
 
 
 
 > Coaching is a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person. ~Gallwey, 1997
 
 
-#### Michaelangelo's Principle {-}
+#### Michaelangelo's Principle {.unnumbered}
 
 > Every block of stone has a statue inside it and it is the task of the sculptor to discover it.”
 
@@ -309,7 +310,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 
 
-#### Developing Learning Capability {-}
+#### Developing Learning Capability {.unnumbered}
 
 
 - Learning, coaching, and building a learning culture are critical to the multi-access education model.
@@ -317,7 +318,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 - We don’t really need to learn how to learn; we need to remove our resistance to learning and coaching.
 
 
-#### Aims of coaching for Learning {-}
+#### Aims of coaching for Learning {.unnumbered}
 
 
 - Increase capacity for learning performance:
@@ -327,12 +328,12 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 
 
-#### Learning Performance = Potential - Interference {-}
+#### Learning Performance = Potential - Interference {.unnumbered}
 
 ~Gallwey, 1997
 
 
-#### Core Coaching Competencies {-}
+#### Core Coaching Competencies {.unnumbered}
 
 
 - Practicing Professional Ethics & Standards
@@ -346,7 +347,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 - Checking for Results
 
 
-#### Listening {-}
+#### Listening {.unnumbered}
 
 
 The reality is that
@@ -355,7 +356,7 @@ The reality is that
 ~Henri Nouwen
 
 
-#### Levels of Listening {-}
+#### Levels of Listening {.unnumbered}
 
 
 
@@ -367,14 +368,14 @@ The reality is that
 
 
 
-:::{.callout}
+::: {.learning-activity}
 
 Why is “listening into” the inner world of the learner’s lived-experience so difficult? 
 
 
 :::
 
-#### Reason: We listen autobiographically {-}
+#### Reason: We listen autobiographically {.unnumbered}
 
 
 - We listen with the intent to reply, not to understand what the other person is trying to say.
@@ -391,7 +392,7 @@ she finishes communicating, saying things like:
   - "Let me tell you what I did in a similar situation."
 
 
-#### Other Common Barriers to Effective Listening {-}
+#### Other Common Barriers to Effective Listening {.unnumbered}
 
 
 - We see silence as agreement
@@ -401,10 +402,10 @@ she finishes communicating, saying things like:
 - We simply don’t pay close attention
 
 
-#### We Need to Learn to “Listen Into” Learner’s Worlds Consciously {-}
+#### We Need to Learn to “Listen Into” Learner’s Worlds Consciously {.unnumbered}
 
 
-#### Julian Treasure (2011) provides us with critical insights into how we can listen consciously. {-}
+#### Julian Treasure (2011) provides us with critical insights into how we can listen consciously. {.unnumbered}
 
 
 
@@ -412,11 +413,11 @@ she finishes communicating, saying things like:
 
 
 
-#### How can we listen consciously to our learners’ inner world’s to truly understand them? {-}
+#### How can we listen consciously to our learners’ inner world’s to truly understand them? {.unnumbered}
 
 
 
-#### Our Listening Positions Need to Match the Situation {-}
+#### Our Listening Positions Need to Match the Situation {.unnumbered}
 
 - Active vs. Passive
 - Reductive vs. Expansive
@@ -424,19 +425,19 @@ she finishes communicating, saying things like:
 
 
 
-#### Coaching for learning requires Active Listening {-}
+#### Coaching for learning requires Active Listening {.unnumbered}
 
 
 ![alt-text](assets/presentations/coaching/active.png "Active Listening Model, (Hoppe, 2006)")
 
 
-#### Pay Attention {-}
+#### Pay Attention {.unnumbered}
 
 1. Be present; focus on the moment
 2. Observe body language; your own and the learner’s.
 3. Pre-empt distractions.
 
-#### Hold Judgement {-}
+#### Hold Judgement {.unnumbered}
 
 1. Practice empathy; seeking to make the learner “feel” felt and heard.
 2. Try to understand learner’s “lens”.
@@ -447,7 +448,7 @@ she finishes communicating, saying things like:
 ~Lao Tzu
 
 
-#### Reflect {-}
+#### Reflect {.unnumbered}
 
 1. Paraphrase (“What I am hearing is...”)
 2. Name emotions you observe
@@ -458,7 +459,7 @@ she finishes communicating, saying things like:
 ![alt-text](assets/presentations/coaching/plutchik.jpg "Plutchik's wheel of emotions")
 
 
-#### Clarify {-}
+#### Clarify {.unnumbered}
 
 1. Use open-ended questions (“What might you do next?).
 2. Use clarifying questions (“Let me see, if I’m clear?”).
@@ -466,23 +467,23 @@ she finishes communicating, saying things like:
 
 
 
-#### Summarize {-}
+#### Summarize {.unnumbered}
 
 1. Use “So” periodically (“So, what I have heard so far…”).
 2. Use “So” at the end (So, let me summarize what I have heard…”).
 3. Ask the other person to summarize.
 
 
-#### Share {-}
+#### Share {.unnumbered}
 
 1. Be an active participant in the conversation.
 2. Share thoughts, feelings, and experiences to deepen and/or check for understanding.
 3. Ask the learner about your impact on him or her.
 
-#### G.R.O.W. Coaching Model {-}
+#### G.R.O.W. Coaching Model {.unnumbered}
 
 
-## Goal Setting {-}
+## Goal Setting {.unnumbered}
 
 - Setting short and long term learning goals.
 - Key questions to ask:
@@ -491,10 +492,10 @@ she finishes communicating, saying things like:
   - How much time do you need to achieve that outcome?
   - How does what you am doing now help you achieve the longer term learning outcomes I really want?
 
-##### Make Your Goals S.M.A.R.T. {-}
+##### Make Your Goals S.M.A.R.T. {.unnumbered}
 
 
-###### Specific {-}
+###### Specific {.unnumbered}
 
 - Your goal should be clear and specific.
 - Ask yourself:
@@ -503,7 +504,7 @@ she finishes communicating, saying things like:
   - What is involved in achieving this goal?
 
 
-###### Measurable {-}
+###### Measurable {.unnumbered}
 
 - You should be able to track your progress.
 - Ask yourself:
@@ -511,7 +512,7 @@ she finishes communicating, saying things like:
   - How will you know when it is accomplished?
 
 
-###### Attainable {-}
+###### Attainable {.unnumbered}
 
 - Your goal should be realistic and achievable.
 - Ask yourself:
@@ -520,7 +521,7 @@ she finishes communicating, saying things like:
 
 
 
-###### Relevant {-}
+###### Relevant {.unnumbered}
 
 - Your goal should matter and align with your other
 goals.
@@ -530,7 +531,7 @@ goals.
   - Does it help you achieve what you ultimately want?
 
 
-###### Time-bound {-}
+###### Time-bound {.unnumbered}
 
 - Your goal should have a deadline to focus on.
 - Ask yourself:
@@ -538,7 +539,7 @@ goals.
   - What can I do now?
 
 
-## Reality Checking {-}
+## Reality Checking {.unnumbered}
 
 - Understanding where you really are relative to what
 you really want.
@@ -549,7 +550,7 @@ you really want.
   - How do you know this is accurate?
 
 
-#### Identifying Obstacles to Achieving Goals {-}
+#### Identifying Obstacles to Achieving Goals {.unnumbered}
 
 
 - Critical to identify if there’s more than one obstacle.
@@ -560,7 +561,7 @@ you really want.
   - What is preventing you from changing?
 
 
-#### Common Obstacles to Learning Goals {-}
+#### Common Obstacles to Learning Goals {.unnumbered}
 
 - Assumption that “I already know”
 - Assumption that learning means remediation
@@ -570,7 +571,7 @@ you really want.
 ~Gallwey, 1997
 
 
-## Option Exploration {-}
+## Option Exploration {.unnumbered}
 
 - Key questions to ask:
   - What alternatives do you have?
@@ -579,7 +580,7 @@ you really want.
   - What is the preferred option you want to act on?
 
 
-#### Reframing Questions {-}
+#### Reframing Questions {.unnumbered}
 
 - What are you not seeing?
 - What is a better position to take?
@@ -587,7 +588,7 @@ you really want.
 - Why is this problem problematic?
 
 
-## The Way Forward {-}
+## The Way Forward {.unnumbered}
 
 - Key questions to ask:
   - What commitments am I going to make?
@@ -598,7 +599,7 @@ you really want.
   - What support do I need? How will I get it?
 
 
-#### Creating Action Strategies {-}
+#### Creating Action Strategies {.unnumbered}
 
 - Set SMART Goal(s) (the job to be done)
 - Breakdown the Work (into a list of tasks)

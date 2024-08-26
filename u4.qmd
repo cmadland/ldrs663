@@ -1,22 +1,22 @@
 # Building the Web
 
-## Overview {-}
+## Overview {.unnumbered}
 
 This week, we will introduce you to some background thinking about educational technologies. There are countless companies vying for attention in the edtech field, and they are not all educationally beneficial. In fact, some are outright harmful. We believe that it is important for you to begin to think about how your data are used when you interact with edtech tools and that it is important for you to develop some skills and competencies in building your own domain on the web. With this knowledge, you will be more prepared to spot the nefarious actors and to take control of how you present yourself online.
 
-## Topics {-}
+## Topics {.unnumbered}
 
 1. Situating yourself online
 2. Data and Privacy
 3. Subverting surveilance capitalism
 
-## Outcomes {-}
+## Outcomes {.unnumbered}
 
 - you will be able to articulate the importance of data and your privacy rights  
 - you will have gained confidence in presenting your whole self online  
 - you will be able to create and manage a single WordPress blog.
 
-## Resources {-}
+## Resources {.unnumbered}
 
 Online resources will be provided.
 
@@ -25,8 +25,9 @@ Online resources will be provided.
 It is likely that you have encountered and may believe that there is a distinction between digital 'natives' and 'immigrants'.
 
 
-:::{.callout-caution}
- **Note**  
+::: {.note}
+
+**Note**  
 [Marc Prensky](https://marcprensky.com/), who proposed this idea, is the one who thought it would be a good idea to refer to people as 'natives'. We recognize that this term should not be used to talk about people.
 
 :::
@@ -46,7 +47,9 @@ At the same time, if we can imagine the visitor <--> resident continuum on a hor
 
 The video below explains a process to help you think about where you reside on the web (7 mins).
 
-[Link to YouTube](https://www.youtube.com/watch?v=sPOG3iThmRI)
+[Watch :*Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/sPOG3iThmRI?si=x_rJ3ACvJdgJv9mE >}}
 
 I've shared my VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there.
 
@@ -56,7 +59,7 @@ It is certainly notable that I am very much a visitor in Moodle! This does not m
 
 For many, or most, of you, Moodle is a perfectly reasonable place to reside and you are able to make learners feel at home there. We encourage that. And just like our physical homes, the quality of the community that lives there isn't determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions.
 
-If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed* by [Bonni Stachowiak](https://twitter.com/bonni208), or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
+If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed* by [Bonni Stachowiak](https://twitter.com/bonni208){target="_blank"}, or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
 
 <a class="embedly-card" data-card-controls="0" href="https://teachinginhighered.com/podcast/digital-visitors-and-residents/">Digital Visitors and Residents, with David White - Teaching in Higher Ed</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -66,17 +69,16 @@ One of the people I look up to as an educator published a blog post which I beli
 <a class="embedly-card" data-card-controls="0" href="https://www.seanmichaelmorris.com/technology-is-not-pedagogy/">Technology is not Pedagogy</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-### Learning Activity {-}
+### Learning Activity {.unnumbered}
 
+::: {.learning-activity}
 
-:::{.callout}
 **Visitor and Resident Diagram**  
 
 I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with learners. Do the tools you use fall on the visitor or the resident end of your continuum? What about the learners in your classes?
 
-
-✔️ **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
-✔️ Complete your own ***Visitor/Resident*** map and share and discuss it with your Learning Pod. You can use the [tool that is provided here (DON'T forget to screenshot it, or you'll lose it!)](https://experimental.worldcat.org/vandrmapping/editMap), or use a different tool like [Canva.com](https://canva.com).  
+✔️ **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"}
+✔️ Complete your own ***Visitor/Resident*** map and share and discuss it with your Learning Pod. You can use the [tool that is provided here (DON'T forget to screenshot it, or you'll lose it!)](https://experimental.worldcat.org/vandrmapping/editMap){target="_blank"}, or use a different tool like [Canva.com](https://canva.com){target="_blank"}.  
 ✔️ Share your Visitor-Resident Diagram in a new post on your WordPress blog. Include a short reflection on what your diagram tells you about your web presence. Feel free to interact with others' diagrams!  
 
 
@@ -84,19 +86,19 @@ I hope this activity will help you think about how the tools we use shape and so
 
 ## FIPPA, Privacy, and Consent Resources
 
-It is second nature to most to take selfies and share them on Instagram, Snapchat, etc., but once you move into the role of an educator in either a public or private context, you must adhere to the laws set out by the [B.C. Office of Information and Privacy Commissioner](https://www.oipc.bc.ca/). Their office has put together guidelines for both public bodies and private bodies. TWU, as a private body is not held to the same standard as public bodies, but we should strive to meet the same standard. The guidelines for public bodies to better understand what the rules are is linked below and how to get consent is detailed on page 4 of the [BC Cloud Computing Guidelines (PDF)](https://esquimalt.public.sd61.bc.ca/wp-content/uploads/sites/34/2013/09/OIPC-Cloud-Computing-Guidelines-for-Public-Bodies.pdf) and you can review the [Freedom of Information and Protection of Privacy Act here.](http://www.bclaws.ca/Recon/document/ID/freeside/96165_00). [TWU also has a privacy policy, available here.](https://www.twu.ca/about/university-privacy-policy)
+It is second nature to most to take selfies and share them on Instagram, Snapchat, etc., but once you move into the role of an educator in either a public or private context, you must adhere to the laws set out by the [B.C. Office of Information and Privacy Commissioner](https://www.oipc.bc.ca/){target="_blank"}. Their office has put together guidelines for both public bodies and private bodies. TWU, as a private body is not held to the same standard as public bodies, but we should strive to meet the same standard. The guidelines for public bodies to better understand what the rules are is linked below and how to get consent is detailed on page 4 of the [BC Cloud Computing Guidelines (PDF)](https://esquimalt.public.sd61.bc.ca/wp-content/uploads/sites/34/2013/09/OIPC-Cloud-Computing-Guidelines-for-Public-Bodies.pdf){target="_blank"} and you can review the [Freedom of Information and Protection of Privacy Act here.](http://www.bclaws.ca/Recon/document/ID/freeside/96165_00){target="_blank"}. [TWU also has a privacy policy, available here.](https://www.twu.ca/about/university-privacy-policy){target="_blank"}
 
-Each public body will have their own process (which may range from not allowing  tools to pressure to integrate networked learning tools from outside of Canada), so it is important to understand your own setting and the law. You may find some administrators or staff breaking these rules or not aware of them. It is important for you to enter your field and uphold the law, regardless of the culture you enter. This does not mean that you do not engage online or outside of Canada. It means that if/when you do so, that you understand the steps, which are not much more complex than the consent you would get normally for going “on the Internet,” as is described in most settings, but you must name the date consent is effective and, if applicable, the date it expires. It is important that you work with your school district on the consent process. You can see an example of how K-12 school districts are addressing access to cloud tools outside of Canada [here (Coquitlam)](http://www.sd43.bc.ca/Resources/DigitalCitizenship/Pages/CloudTools.aspx) and [here](https://www.sd61.bc.ca/programs/digital-learning/sd61-gafe/privacy-and-personal-information/) plus [here (Victoria)](https://techforlearning.sd61.bc.ca/privacy/consent-process/). You must also name each tool individually. It cannot be “blogging.” You must name WordPress.com or Blogger, etc. If you use Flipgrid, you must name Flipgrid. Consent must also be informed, so effort must be taken to ensure that those signing consent understand the implications – that their data may leave Canada, how it may be harvested, and to know about the U.S. Patriot Act. One archived resource by the Canadian Treasury Board provides significant detailed information about the [Patriot Act here](https://www.tbs-sct.gc.ca/pubs_pol/gospubs/TBM_128/usapa/faq-eng.asp). It is helpful to also review [section 4(b) of the B.C. Digital Literacy Framework which is applicable K12 contexts](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf) but helpful for others.
+Each public body will have their own process (which may range from not allowing  tools to pressure to integrate networked learning tools from outside of Canada), so it is important to understand your own setting and the law. You may find some administrators or staff breaking these rules or not aware of them. It is important for you to enter your field and uphold the law, regardless of the culture you enter. This does not mean that you do not engage online or outside of Canada. It means that if/when you do so, that you understand the steps, which are not much more complex than the consent you would get normally for going “on the Internet,” as is described in most settings, but you must name the date consent is effective and, if applicable, the date it expires. It is important that you work with your school district on the consent process. You can see an example of how K-12 school districts are addressing access to cloud tools outside of Canada [here (Coquitlam)](http://www.sd43.bc.ca/Resources/DigitalCitizenship/Pages/CloudTools.aspx){target="_blank"} and [here](https://www.sd61.bc.ca/programs/digital-learning/sd61-gafe/privacy-and-personal-information/){target="_blank"} plus [here (Victoria)](https://techforlearning.sd61.bc.ca/privacy/consent-process/){target="_blank"}. You must also name each tool individually. It cannot be “blogging.” You must name WordPress.com or Blogger, etc. If you use Flipgrid, you must name Flipgrid. Consent must also be informed, so effort must be taken to ensure that those signing consent understand the implications – that their data may leave Canada, how it may be harvested, and to know about the U.S. Patriot Act. One archived resource by the Canadian Treasury Board provides significant detailed information about the [Patriot Act here](https://www.tbs-sct.gc.ca/pubs_pol/gospubs/TBM_128/usapa/faq-eng.asp){target="_blank"}. It is helpful to also review [section 4(b) of the B.C. Digital Literacy Framework which is applicable K12 contexts](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){target="_blank"} but helpful for others.
 
 Additional resources can be found here:
 
-[Privacy, Ethics & Security in Digital Spaces Developing Awareness of Privacy](https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance)  
+[Privacy, Ethics & Security in Digital Spaces Developing Awareness of Privacy](https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance){target="_blank"}  
 
-[Information Security Awareness](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness) by the BC Government
+[Information Security Awareness](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness){target="_blank"} by the BC Government
 
-[MediaSmarts: Canada’s Centre for Digital and Media Literacy](http://mediasmarts.ca/)
+[MediaSmarts: Canada’s Centre for Digital and Media Literacy](http://mediasmarts.ca/){target="_blank"}
 
-### FIPPA, Privacy, and Consent Competencies {-}
+### FIPPA, Privacy, and Consent Competencies {.unnumbered}
 
 Learners should ensure that they:  
 
@@ -128,6 +130,6 @@ Learners should ensure that they:
 
 -->
 
-### Unit 4 Assessment {-}
+### Unit 4 Assessment {.unnumbered}
 
-[Please see the details for Post 4](https://ma-lead.github.io/ldrs663/assessments.html#post-4)
+[Please see the details for Post 4](https://ma-lead.github.io/ldrs663/assessments.html#post-4){target="_blank"}

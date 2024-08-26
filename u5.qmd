@@ -7,7 +7,7 @@ This unit investigates the nature of educational experience, and how to guide it
 
 
 
-### Topics {-}
+### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
@@ -18,7 +18,7 @@ This unit is divided into the following topics:
 5. Emerging Models of Open and Multi-Access Education
 6. Multi-Access Learning Environments
 
-### Learning Outcomes {-}
+### Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should be able to:  
 - Describe the characteristics of educational experience.  
@@ -26,12 +26,12 @@ When you have completed this unit, you should be able to:
 - Identify the ways institutional learning and teaching is changing.  
 - Understand the difference between pedagogy and modality.  
 
-### Resources {-}
+### Resources {.unnumbered}
 
 Online resources will be provided in the unit.
 
 
-## Topic 1 - What is Educational Experience {-}
+## Topic 1 - What is Educational Experience {.unnumbered}
 
 
 In Unit 2 we were introduced to the idea that a learning environment can be understood as overlapping presences: *cognitive presence, social presence,* and *teaching presence.* In this unit, we explore what is experienced within this environment by examining the theoretical ground the CoI model is built upon.
@@ -51,7 +51,7 @@ His point, here, is that the studying of texts is also an “experiential learni
 According to Dewey’s theory of education and experience, one’s learning experience arises from the interaction of two essential principles—continuity and interaction.  Continuity refers to his idea that each experience one has will influence, in some way, one’s future experiences. Building on continuity, interaction expresses the relationship between one’s past experience and present learning situation.
 
 
-::: {.callout}
+::: {.learning-activity}
 #### ✨ Continuity of experience, in Dewey’s (1938) words, 
 
 > *“means that every experience both takes up something from those which have gone before and modifies in some way the quality of those which come after”*(p. 35).
@@ -75,7 +75,7 @@ Dewey describes the mechanics of the interplay of continuity and interaction as 
 The course designer has crafted a course of study and associated active learning experiences in the facilitator’s guide. The course designer’s intent is to lead the student, with the help of your facilitation, through a continuity of interactions leading to positive growth in the learner, as defined by the learning outcomes. As facilitator your role is to help learners navigate this pathway of learning experiences and ensure the intended continuity of learning experiences and the intended learner interactions between the learners and these experiences is achieved.
 
 
-::: {.callout}
+::: {.learning-activity}
 #### ✨ In sum, Dewey’s theory suggests three critical practices for facilitating learning:
 
 - the need to intentionally link new learning experiences with past ones in a logical and progressive way  
@@ -88,8 +88,8 @@ Every learner and group of learners is unique, each bringing different prior exp
 
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 The first Learning Activity for Unit 5 will focus on the work of John Dewey in his writing *Experience and Education.* While the link below will take you to the entire text (*which you are more then welcome to read!*), the focus for this section will be on Chapter 2 titled: ***The Need of a Theory of Experience.***
 
@@ -106,7 +106,7 @@ After completing the reading above, consider the following questions:
 :::
 
 
-## Topic 2: What Makes a Learning Experience Educational? {-}
+## Topic 2: What Makes a Learning Experience Educational? {.unnumbered}
 
 
 As course facilitator you must choose from different activities. You will need to decide which ones will best help each student achieve the course learning outcomes. In some cases, this decision will be based on what activities are most appropriate for a certain group of students, or perhaps even for a particular student. And in other cases, the decision will be necessary because there is not enough time to complete all the activities that have been set out by the course instructor/designer. You will also find yourself in situations that are teachable moments where how you facilitate student learning will have a significant impact on the degree and quality of student transformation. The question this discussion raises is how do you decide what is the best experience to facilitate learning in a given situation? To make good judgements requires a careful understanding of what makes an experience worthwhile.
@@ -154,8 +154,8 @@ The “what” and “how” questions of education take us a step closer to und
 <br>
 
 
-:::{.callout}
-#### Questions to consider... {-}
+::: {.learning-activity}
+#### Questions to consider... {.unnumbered}
 
 After completing the reading above, consider the following questions:
 
@@ -165,13 +165,13 @@ After completing the reading above, consider the following questions:
 
 :::
 
-## Topic 3: Study as the Site of Education {-}
+## Topic 3: Study as the Site of Education {.unnumbered}
 
 
 
 Learning ultimately occurs within the cognitive presence of individual learners, through their personal interactions with their self and the content. Historically, this educational experience has been widely understood as the practice known as study. McClintock (1971/2000) argues, “whether we like it or not, many … educators considered education to consist of neither teaching nor learning; instead, they found the diverse forms of study to be the driving force in education” (p. 167). While instruction in all of its various forms may play a role, the learner is always the one who does the work of learning. Citing Montaigne’s (1877) essay “Of the Education of Children” McClintock (1971/2000) notes, “teaching and learning might impart knowledge, whereas study led to understanding, whereby things known were made one's own and became a part of one's judgment, and ‘education, labor, and study aim only at forming that’” (p. 162). Here, we see how Dewey’s notion of the importance of learners adding their own meaning and application to what they learn connects to a thread of thought with a long history. We also see the educational idea of the normative or ethical element of whole personal transformation.
 
-### What is study? {-} 
+### What is study? {.unnumbered} 
 
 The term comes into English as a shortening of the Old French noun *estudie,* and its verb form *estudier,* both based on the Latin term *studium.* This is also the root of the Latin word student. Cicero provides us with a formative use of the term in De Inventione:
 
@@ -189,7 +189,7 @@ Pleasure, here, is not limited only to a life of leisurely study, as was histori
 
 While the highest goal of study—such as, Plato’s pursuit of the “Good,” or Aristotle’s human “flourishing”—may be the same, or similar, “the path, the course of study, that leads to the goal will differ for each: thus the study appropriate for the quite cleric will not suit the proud prince, the worldly merchant, or the study artisan” (para. 14). Study emerges from the particular and unique lifeworld or lived-experience of those individuals who study—that is, the subjective human interests of students. As educators coaching for transformational learning, part of our role is to help students identify and clarify what interests them. What is more, we can help students connect their interests with their course of study and help them find joy in learning.
 
-### How does one study? {-}
+### How does one study? {.unnumbered}
 
 For McClintock (1971/2000), “study itself is neither a single path nor the final goal; it is the motivating power by which men (sic) form and impose their character upon their role in life” (para. 14). That is, study is an act of transformation and growth. Pinar (2006) helpfully adds that McClintock’s the use of “the verb ‘impose’ is too voluntarist and essentialist” because transformational learning or “reinvention of ourselves is limited, and occurs, yes, through acts of ‘will,’ but, as well, through waiting, withdrawing, dissimulation” (p. 112).  Historically, transformational learning was seen as the outcome of study—that is, learning was the result of study. Similarly, the historic idea of teaching was simply helping a student to study. Underlying this historic view of study as education was the recognition of human individuality, autonomy, and creativity. On this point, McClintock (1971) writes:
 
@@ -204,8 +204,8 @@ As educators coaching students for transformational learning our overarching aim
 Bound by a space and a time, study is a particularity, not a generality. Study is embodied in individual lives, it is a place and situation “saturated by meaning, with culture and history as these are personified in specific people with whom we live as neighbors, fellow citizens, and humanity” (Pinar, 2015, p. 192). The act of study as defined by McClintock and Pinar is not something, which is limited to a formal program of study. Rather, McClintock and Pinar remind us all of culture, and nature, can be educational. Going back to antiquity, Hutchins (1968, p. 133) notes that “education was not a segregated activity,” but rather as was the situation in Greece, “the Athenian was educated by culture, by paideia” (p. 33). The critical insight to emerge, here, is that “study is the site of education” (Pinar, 2006, p. 112). The nature of study is a very personal, often difficult, potentially joyous, dialogue of self-transformation. As educators, our ultimate role is to help others in their personal acts of study and self-transformation.
 
 
-:::{.callout}
-#### Questions to Consider... {-}
+::: {.learning-activity}
+#### Questions to Consider... {.unnumbered}
 
 After completing the reading above, consider the following questions:
 
@@ -215,7 +215,7 @@ After completing the reading above, consider the following questions:
 
 :::
 
-## Topic 4: Institutionalization of Teaching and Learning {-}
+## Topic 4: Institutionalization of Teaching and Learning {.unnumbered}
 
 
 In his essay *“Towards a place for study in a world of instruction”* McClintock (1971/2000) observes how the modern era’s institutionalization of study progressively led to a fundamental shift in practice:
@@ -240,7 +240,7 @@ While Plato’s idea had little affect in his own time, clearly, the shadow that
 
 For Plato, development of the good is made possible through study. Specifically, it is the individual’s upward progress of the mind from the lower world of shadows and opinions towards the upper world of light and knowledge. Beyond what we can know lies the “Good,” which is distinct from knowledge, and yet it is through knowledge that one can come closest to the “Good.” While Plato’s epistemology is clearly more complicated, the important insight for our current discussion is that Plato established the subsequently persistent idea that study is directional, and that it is oriented toward seeking *ends.* That is, study is an educative experience that results in a person becoming *educated.* The way we began to formalize how someone could become educated was through the idea of a “course” of study.
 
-### The Course of Study {-}
+### The Course of Study {.unnumbered}
 
 Within educational institutions a *course* of study, or simply a course, is generally referred to the curriculum. Interestingly, these two education terms, course and curriculum, are closely related. As Egan (1978) explains, the initial Latin meaning of the word curriculum “was ‘a running,’ ‘a race,’ ‘a course,’ with secondary meanings of a ‘race-course,’ ‘a career.’” (p. 66). What is curriculum? Put simply, it is “what is to be taught and how” (Alexander, 2001, p. 549). Framed broadly, “curriculum communicates what we choose to remember about our past, what we believe about the present, what we hope for the future” (Pinar, 2004, p. 20). Dewey provides us with a helpful analogy about the curriculum as both a map and a journey. That is, his map image describes *curriculum as a plan* and his journey image described *curriculum as a lived experience.* Dewey’s main point is to caution us against mistaking the map for the journey; however, he also recognized the crucial role the map plays in this journey.
 
@@ -252,13 +252,13 @@ The learning design and its associated documents that we create as educators con
 
 
 
-## Topic 5: Emerging Models of Open and Multi-Access Education {-}
+## Topic 5: Emerging Models of Open and Multi-Access Education {.unnumbered}
 
 Online learning, blended learning, flipped classroom, face-to-face, hybrid course, multi-access... you may have heard some of these terms tossed around, especially recently with the shifting focus to online. Before we unpack and examine these modalities of learning, consider how learning in Higher Education has changed. *What are the shifts that have happened in the last 20, 10, 5 years? How has technology shaped the way teachers teach and the way students learn?*
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 After taking a moment to consider the questions above, read Chapter 1 of our core text, *Teaching in a Digital Age* by Tony Bates. It can be found by clicking on the following link:
 
@@ -266,7 +266,7 @@ After taking a moment to consider the questions above, read Chapter 1 of our cor
 
 [Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/part/chapter-1-fundamental-change-in-education/)
 
-#### ***Questions to Consider...*** {-}
+#### ***Questions to Consider...*** {.unnumbered}
 
 After completing the reading above, consider the following questions:
 
@@ -276,7 +276,7 @@ After completing the reading above, consider the following questions:
 :::
 
 
-## Topic 6 - Multi-Access Learning Environments {-}
+## Topic 6 - Multi-Access Learning Environments {.unnumbered}
 
 
 One trend that is gaining traction is **Multi-Access Learning.**
@@ -295,7 +295,7 @@ Read the following excerpt from *Realigning Higher Education for the 21st-Centur
 
 With the uncertainty brought on by COVID-19, multi-access learning has great potential for our education system. This modality not only brings more choice to students, but promotes a learner-centred course design and best practices in teaching and learning.
 
-#### Read more about the 4 tiers of multi-access learning: {-}
+#### Read more about the 4 tiers of multi-access learning: {.unnumbered}
 
 <details>
   <summary><b>Tier 1 - Click here to expand</b></summary>
@@ -317,11 +317,11 @@ With the uncertainty brought on by COVID-19, multi-access learning has great pot
     <p>The outermost tier of the model is for open participation from non-credit learners who are choosing to participate for their own interest and edification. It may seem anathema to some faculty to consider opening their course to the world, but the benefits can be significant, particularly in times like the spring of 2020.</p>
 </details>
 
-## Learning Activities {-}
+## Learning Activities {.unnumbered}
 
 
-:::{.callout}
-#### Look, Read, and Reflect {-}
+::: {.learning-activity}
+#### Look, Read, and Reflect {.unnumbered}
 
 This Learning Activity begins by asking you to take a close look and consider the picture below this block.
 
@@ -330,7 +330,7 @@ This Learning Activity begins by asking you to take a close look and consider th
 
 [Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm)
 
-#### ***Questions to Consider...*** {-}
+#### ***Questions to Consider...*** {.unnumbered}
 
 After taking some time to consider the picture, along with completing the reading above, consider the following questions:
 
@@ -343,7 +343,7 @@ After taking some time to consider the picture, along with completing the readin
 ![Beyond Blended Visual notes by giuliaforsythe on Twitter](assets/U5/U5LAImage.jpg)
 
 
-## Unit 5 Assessment {-}
+## Unit 5 Assessment {.unnumbered}
 
 
 <!--
@@ -351,7 +351,7 @@ After taking some time to consider the picture, along with completing the readin
 
 
 
-#### Things To Do This Week {-}
+#### Things To Do This Week {.unnumbered}
 
 ✔️  Meet in Zoom <span class='badge-blue'>Wednesday, October 25 - 10:30 AM PDT</span> [Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231025T1030&p1=1109&ah=1)  
 ✔️  **Read and Reflect** on the commentary in Unit 5.  

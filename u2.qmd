@@ -27,19 +27,20 @@
 
 
 
-::: {.callout}
-#### ✨ NOTE{-}
+::: {.learning-activity}
+
+#### ✨ NOTE{.unnumbered}
 
 Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) will take place <span class='badge-blue'>***Monday, December 11, during our class meeting***</span>. Your reflection will be due the following Monday, December 18.
 :::
 
 
 
-### Overview {-}
+### Overview {.unnumbered}
 
 Facilitation in education refers to the process of helping learners to explore, learn and change. A facilitator is expert on process and group interactions. In education, facilitation is rooted in understanding the nature of the social learning process and how to guide its direction and quality. As a social species, we learn a great deal from each other in both formal and informal contexts. Our earliest learning experiences are profoundly social and intimate interactions between mother and child, and the social aspect of learning never ceases to be important. During this unit, we will examine a short history of social theories of learning from John Dewey and Lev Vygotsky, then, we will experiment with the theory and practices of facilitating learning in group settings.
 
-### Topics{-}
+### Topics{.unnumbered}
 
 This unit is divided into the following topics:
 
@@ -50,7 +51,7 @@ This unit is divided into the following topics:
 5. Core Facilitation Competencies
 6. Strategies for Learning Facilitation
 
-### Learning Outcomes{-}
+### Learning Outcomes{.unnumbered}
 
 When you have completed this unit, you should be able to:
 
@@ -61,10 +62,12 @@ When you have completed this unit, you should be able to:
 - Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities
 - Identify and explain core competencies for facilitating learning.
 
-### Resources{-}
+### Resources{.unnumbered}
+
 Online resources will be provided in the unit.
 
 ## Social Theories of Learning
+
 The idea that learning is a social process can be traced way back in time, but formal descriptions of social constructivism, as it has been called, are often traced to John Dewey, Jean Piaget, and Lev Vygotsky. Albert Bandura also contributed via social learning theory. *What is social constructivism?*
 
 Vygotsky (1978) argues that “every function in the child’s cultural development appears twice: first, on the social level, and later on the individual level; first *between* people (*interpsychologically*), and then inside the child (*intrapsychologically*) (p. 57). That is, humans learn first through social observations and interactions, which they later internalize as their own thinking. The significance of Vygotsky’s insight is that, “instead of focusing on the study of psychological entities such as skills, concepts, information-processing units, reflexes, or mental functions, it assumes that we must begin with a unit of *activity”* (Wertsch, 1985). This idea of *activity,* or to be more precise the active participation of the learner, is central to our emerging understanding of learning as a process of socially constructing knowledge.
@@ -73,21 +76,23 @@ Central to this progress is language, which we first learn in the context of soc
 
 In sum, we may conclude that knowledge is *constructed* first socially, then, personally, by learners as they encounter new information, compare it to old models that they may have, and develop new understandings of how the world works. It is not the case that new knowledge is simply copied intact from one mind to another, rather new information is integrated into old understandings, bringing about a hybrid of the two. This is essentially what we understand as a *constructivist* model of learning.
 
-### Zone of Proximal Development {-}
+### Zone of Proximal Development {.unnumbered}
+
 Social constructivism builds on the constructivist model, adding the idea that this process of integrating new understandings with old understandings is best understood as a *social* process. Vygotsky (1978) introduced the idea that people with a greater capacity to understand the world and cope with its challenges act as supportive structures, which enable others to *construct* and *internalize* the knowledge these people have. This new construction occurs within what Vygotsky refers to as an individual’s ***zone of proximal development,*** which he differentiated from their ***zone of actual development.*** The ZPD is the 'sweet spot' in education where a student is optimally challenged to learn. If the task is too easy for the student, and they have already mastered it, then learning activities will not result in learning. Conversely, if a task is so difficult that the student cannot complete it, even with assistance, learning activities will not result in learning. In the middle are tasks that a student is able to complete, but only with the assistance of a more capable peer or expert. This is the Zone of Proximal Development:
 
 ![Zone of Proximal Development](assets/u3/ZPD_Image.png)
 
 
-### Scaffolding{-}
+### Scaffolding{.unnumbered}
 
 A metaphor that has been used to describe one such supportive mechanism is *scaffolding.* A scaffold is a way for educators to support the construction of new knowledge, beginning from a person’s existing repertoire of knowledge and then preceding into new heights of understanding. The scaffold is the environment an educator creates, the support of learning facilitation, and the processes and language that are lent to the learner in the context of approaching an adaptive task and developing new abilities to meet it (Wilhelm, Baker, & Dube, 2001). Furthermore, scaffolding implies not only a person’s specific relation to the modeled behavior of others; it implies a person’s relation to social communities, and “it implies becoming a full participant, a member, a kind of person” (Lave & Wenger, 1996).
 
 The task of facilitating learning with the ZPD in mind assumes that you, as the facilitator, know what knowledge and skills your students are starting with. It is likely that the competencies your students display fall along a bell curve. While most students will be learning within a similar ZPD, there will be outliers at both ends of the curve. One strategy can be to pair students whose skills and knowledge are below the curve with those above the curve. In doing this, students who are above the curve, who may not be challenged with the content or skill, have to engage in greater levels of cognitive complexity in order to concisely explain to their peer and help them to meet the objective. For example, Madland and Richards (2016) describes a cooperative peer review activity, where the authors asked a group of learners how they thought cooperative learning activities supported learning. In this study, the learners’ responses indicated that the two most important factors were *social cohesion* and *developmentally appropriate challenges,* indicating that learners recognized the importance of the ZPD in learning.
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+
+#### Learning Activity {.unnumbered}
 ***Questions to Consider***  
 After reading the topic above, consider the following question:  
 - How does the idea of the zone of proximal development help you support learning?
@@ -105,33 +110,33 @@ We have all likely experienced less-than-ideal group projects where one or two p
 
 Contrary to this dysfunctional group learning model, cooperative learning is structured in a way that maximizes effort from all students and, ideally, leads to all group members attaining high-level learning outcomes. In order to ensure this, there are five characteristics of learning groups that must be present for cooperative learning to occur: *"positive interdependence, individual accountability, promotive interactions, appropriate use of social skills, and group processing"* (Johnson & Johnson, 2009, p. 366).
 
-#### More about cooperative learning...{-}
-##### Positive Interdependence{-}
+#### More about cooperative learning...{.unnumbered}
+##### Positive Interdependence{.unnumbered}
 Positive interdependence, according to Johnson and Johnson is the idea that individuals in a learning environment are dependent upon each other for success. In other words, I cannot succeed unless you succeed and you cannot succeed unless I succeed. So, collectively, we are interdependent. Positive interdependence is the key that distinguishes cooperative learning from competitive learning, where students are graded on a curve and only the top 2-3% of students can earn 'A' grades.
 
 
-##### Individual and Group Accountability{-}
+##### Individual and Group Accountability{.unnumbered}
 
 In cooperative learning environments, each individual in the group is held accountable for their contributions to the final product, and feedback is provided to both the individual and the group. This helps to ensure that students who need more assistance are identified and can be supported as needed, and it also prevents the 'social loafing' that is common in typical 'group projects.'
 
-##### Promotive Interaction{-}
+##### Promotive Interaction{.unnumbered}
 
 Promotive interaction is the logistics of working and learning together as a cooperative group. The essence is that group members each need to work to promote the learning of each other member of the group. Since each person will be held accountable for their work and the entire group will only succeed if each member succeeds, there is a natural social pressure on more experienced members of the group to assist those with less experience or knowledge.
 
 
-##### Interpersonal Skills{-}
+##### Interpersonal Skills{.unnumbered}
 Not only do members of the group need to learn the content of the lesson or project, but they must also learn the process of working well as a cooperative group. Sometimes, these processes need to be taught directly, other times (like in graduate studies) it is reasonable to presume that group members will already possess and be willing to utilize effective social skills.
 
-##### Group Processing{-}
+##### Group Processing{.unnumbered}
 Finally, the group must be able to monitor their process with the goal of improving their work process and product. This metacognitive task is crucial to the long-term improvement and progress towards learning goals.
 
 
 
 ![Cooperative Learning (Slavin, 2011)](assets/u3/Image3.png)
 
+::: {.learning-activity}
 
-:::{.callout}
-#### Learning Activity {-}
+#### Learning Activity {.unnumbered}
 
 ***Questions to Consider***  
 After reading through the content in Topic 2, please consider the following questions:  
@@ -155,14 +160,14 @@ The rationale for this model is that international students often experience dif
 
 As such, you will need to start thinking about *how* to facilitate your students’ experience of a course of study’s learning activities without the immediate F2F presence of a faculty member. In the activity below, you will read about the concept and practices of facilitating transformation learning.
 
-### Facilitating Group Learning Sessions{-}
+### Facilitating Group Learning Sessions{.unnumbered}
 
 The work of facilitating the learning process within a group setting begins with an effective plan. Smith (2009) proposes a simple model: EFFECT. This model reminds the facilitator to think about the learning **environment,** the **focus** (or purpose) of the session, **feelings** the session is likely to evoke, **experiences** learners will explore, **changes** learners will make as a result of the session, and the **timings** allocated for all the learning experiences and activities. Next, it’s important for the facilitator to plan out the structure of each learning session, which like a story, should have beginnings, middles, and endings. Each stage has a particular task. The beginning encourages learners to explore, the middle engages learners with the subject, and the ending enables learners to move on in their personal learning journey. Drawing upon Evans’ (2007) guidelines for helping conversations, Smith (2009) advises facilitators to think about “the exploration as the first quarter of the session; engaging with the subject and developing understanding as the middle half; and enabling action and development as the final quarter.”
 
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 Read the following article:
 
@@ -203,7 +208,7 @@ An essential requirement for learning in a group is a sufficient level of cohesi
 
 **Social Loafing** - There is a tendency of individuals to put in less effort when working in a group context. As group size grows, this effect becomes larger.
 
-### Group Development{-}
+### Group Development{.unnumbered}
 
 It is important for facilitators to understand that groups change over time. One of the most influential and helpful models of group development was articulated by Bruce W. Tuckman (1965). His research finding was that groups typically move through five critical stages of development:
 
@@ -218,15 +223,15 @@ It is important for facilitators to understand that groups change over time. One
 **Adjourning:** At some point the group ends.
 
 
-::: {.callout}
-#### ✨ ProTip{-}
+::: {.learning-activity}
+#### ✨ ProTip{.unnumbered}
 
 ***Each stage of group development requires the facilitator to employ variations in their approach.***
 
 
 :::
 
-#### Transforming (Me to We) {-}
+#### Transforming (Me to We) {.unnumbered}
 | Development Phase | Facilitation Approach |
 | :---: | --- |
 | Forming <br>(Unwilling and unable) | Clear goals, **directions**, fairness, firmness. <br> *(Why? Overcoming denial of the new reality.)* |
@@ -237,8 +242,8 @@ It is important for facilitators to understand that groups change over time. One
 
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 Take a moment to read the following article:
 
@@ -253,8 +258,8 @@ After reading the article above, consider the following questions:
 :::
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 Take a moment to read the following article:
 
@@ -286,8 +291,8 @@ The professionalization of learning facilitation within educational settings is 
 
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 Take some time to read the following article:
 
@@ -306,14 +311,14 @@ After completing the reading above, consider the following questions:
 
 Strategies for facilitating learning are as numerous and varied as the educators who create them. In the FAR model of professionally facilitated learning we are proposing in this course, each FAR course you may help facilitate in the future has a facilitator’s guide that provides designs for each learning activity. While these designs provide you with the majority of the learning facilitation strategies required in a given course, the needs of learners are not always predictable and emergent strategies may be needed.
 
-### Liberating Structures{-}
+### Liberating Structures{.unnumbered}
 
 It can often be challenging to devise new ways of interacting in F2F learning environments, but there are many resources available to facilitators both online and in print. One of those resources is a book and website called *Liberating Structures* which describes a set of 33 structured activities that you can use in your learning labs to generate conversation without resorting to the same old tired 'brainstorm.'
 
 
 
-:::{.callout}
-#### Learning Activity {-}
+::: {.learning-activity}
+#### Learning Activity {.unnumbered}
 
 
 
@@ -331,10 +336,10 @@ Now, consider how could you use this Liberating Structure to guide a group discu
 :::
 
 
-## Unit 2 Assessment {-}
+## Unit 2 Assessment {.unnumbered}
 
 
-:::{.callout}
+::: {.learning-activity}
 #### WordPress Post
 
 
@@ -345,7 +350,7 @@ Please complete the assignment under 'Post 2' below. This will be your second of
 
 :::
 
-### Checking Your Learning{-}
+### Checking Your Learning{.unnumbered}
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
@@ -356,20 +361,20 @@ Before you move on to the next unit, you may want to check to make sure that you
 ✅  Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.  
 ✅  Identify and explain core competencies for facilitating learning.  
 
-## Facilitation Notes {-}
+## Facilitation Notes {.unnumbered}
 
-#### Facilitating Group Learning {-}
+#### Facilitating Group Learning {.unnumbered}
 
-#### Facilitation Session {-}
+#### Facilitation Session {.unnumbered}
 
 See the 'Assessment' page for details.
 
-#### Two Similar, but Different "Teaching Presence" Roles {-}
+#### Two Similar, but Different "Teaching Presence" Roles {.unnumbered}
 
 - Facilitator: Guiding the coordination of a group's collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.
 - Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.
 
-#### Facilitation Competencies {-}
+#### Facilitation Competencies {.unnumbered}
 - Create cooperative working relationships with the group
 - Determining group needs and designing group sessions
 - Managing group processes
@@ -382,39 +387,39 @@ See the 'Assessment' page for details.
 - Encouraging creativity
 - Guiding group to consensus and desired learning outcome
 
-#### Facilitation Process {-}
+#### Facilitation Process {.unnumbered}
 
 ![Facilitation Process](assets/presentations/facilitation/fac-process.drawio.png)
 
-##### Open {-}
+##### Open {.unnumbered}
 
 * Orient the group
 * Set the stage
 * Develop themes
 
-##### Explore {-}
+##### Explore {.unnumbered}
 
 * Examine
 * Explore
 * Problem-solve
 
-##### Close {-}
+##### Close {.unnumbered}
 
 * Plan
 * Decide
 * Conclude
 
-#### Facilitating the Process of Prescribed Learning {-}
+#### Facilitating the Process of Prescribed Learning {.unnumbered}
 
 $$\text{Current Status}\Longrightarrow \Longrightarrow \Longrightarrow \Longrightarrow \text{Specific Goal}$$ 
 
-#### Facilitating the Process of Inquiry-rich Learning {-}
+#### Facilitating the Process of Inquiry-rich Learning {.unnumbered}
 
 $$\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\looparrowright\Updownarrow\rightrightarrows\text{Fuzzy Goal}$$ 
 
-#### Managing Group Dynamics {-}
+#### Managing Group Dynamics {.unnumbered}
 
-#### Cohesion Factors that Cultivate (Predictable) Trust {-}
+#### Cohesion Factors that Cultivate (Predictable) Trust {.unnumbered}
 
 - Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.
 - Stability. The longer a group stays together, the more cohesive it becomes.
@@ -422,12 +427,12 @@ $$\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\loopar
 - Support. Coaching and encouragement to support other members strengthens the group's identity.
 - Satisfaction. How pleased group members are with each other's performance, behaviour, and conformity to group norms increases cohesion.
 
-#### Social Loafing {-}
+#### Social Loafing {.unnumbered}
 
 - There is a tendency of individuals to put in less effort when working in a group context.
 - As group size grows, this effect becomes larger.
 
-#### How do learning groups develop over time? {-}
+#### How do learning groups develop over time? {.unnumbered}
 
 ![Tuckman's Stages of Group Performance](assets/presentations/facilitation/tuckman.drawio.png)
 
@@ -438,14 +443,14 @@ $$\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\loopar
 - Adjourning: admittedly a strained rhyme, but the idea, which is not in Tuckman's original model, is that the group will eventually disband, and it is important to finish well, gather data on the process, and carry forward lessons learned.  
 
 
-:::{.callout}
+::: {.learning-activity}
 ***The life of learning groups is dynamic and cyclical.***
 
 :::
 
 ![Tuckman and Jensen's Stages of Group Performance](assets/presentations/facilitation/tuckman-jensen.drawio.png)
 
-#### TPR Life-cycle Model (White, 2009) {-}
+#### TPR Life-cycle Model (White, 2009) {.unnumbered}
 
 | Tuckman Model | TPR Model |
 |  ---  |  ---  |
@@ -465,11 +470,11 @@ $$\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\loopar
 |   **Performing** <br> (Willing/able)    |  Clear goal setting, monitoring, strategic preparation, seeking innovative approaches, **empowering team members** <br> (Why: helping make new adaptations)     |
 |  **Reforming** <br> (Disengaging)     |  **Establishing new goals**, solving confusion, managing risks <br> (Why: challenging the new comfort zone)     |
 
-#### Learning Group Experience Punctuated Equilibrium {-}
+#### Learning Group Experience Punctuated Equilibrium {.unnumbered}
 
 ![Learning Group Experience Punctuated Equilibrium](assets/presentations/facilitation/pe.drawio.png)
 
-#### Managing the group learning process {-}
+#### Managing the group learning process {.unnumbered}
 
 Working with Creative Tension in Teams
 
@@ -477,10 +482,10 @@ Working with Creative Tension in Teams
 2. understand the underlying structural dynamics that influence the team's ability to create;
 3. work on changing those underlying structures in order to bring the current reality in line with the desired outcome.
 
-#### Zone of Proximal Development {-}
+#### Zone of Proximal Development {.unnumbered}
 
 ![Zone of Proximal Development](assets/presentations/facilitation/zpd.drawio.png)
 
 ![Zone of Proximal Development](assets/presentations/facilitation/zpd2.drawio.png)
 
-#### Scaffolding {-}
+#### Scaffolding {.unnumbered}

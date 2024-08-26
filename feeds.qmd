@@ -1,12 +1,12 @@
-# Blog Feeds {-}
+# Blog Feeds {.unnumbered}
 
-## Current Cohort {-}
+## Current Cohort {.unnumbered}
 
 
 
 <iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1006369874/tag/LDRS663%20Fall%202023/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
 
-## Past Cohorts {-}
+## Past Cohorts {.unnumbered}
 
 Here is a list of posts from previous cohorts of this course. Keep in mind that we have changed the order of units several times over the years, so the post numbers and unit numbers will not likely align with the current cohort.
 

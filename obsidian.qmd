@@ -1,4 +1,4 @@
-# Getting Started with Obsidian {-}
+# Getting Started with Obsidian {.unnumbered}
 
 One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app.  Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank”}.
 
@@ -10,9 +10,9 @@ One valuable tool we are going to show you is called Obsidian, a free note-takin
 
 
 
-### Activity: Getting Started with Obsidian {-}
+### Activity: Getting Started with Obsidian {.unnumbered}
 
-:::{.callout}
+::: {.learning-activity}
 
 Follow the steps below to install Obsidian on your computer.
 
@@ -29,9 +29,9 @@ If you are having any difficulty in installing Obsidian, feel free to reach out 
 
 Obsidian will become a backbone of this course. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. 
 
-### Activity: Download the Starter Vault {-}
+### Activity: Download the Starter Vault {.unnumbered}
 
-:::{.callout}
+::: {.learning-activity}
 
 To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
 

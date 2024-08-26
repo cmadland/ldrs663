@@ -1,16 +1,13 @@
-# Welcome {-}
+# Welcome {.unnumbered}
 
 Welcome to LDRS 663: Coaching for Transformational Blended Learning
 
-
-
-
-### Program Learning Outcomes {-}
+### Program Learning Outcomes {.unnumbered}
 - Demonstrate effective facilitation and coaching communication skills (eg. active listening, developing rapport, providing feedback)  
 - Identify a variety of facilitation/coaching methods and techniques.
 
 
-### Course Learning Outcomes {-}
+### Course Learning Outcomes {.unnumbered}
 On successful completion of this course, students should be able to:
 
 - analyze the characteristics of the coaching role within theoretical models of blended teaching and learning;
@@ -23,7 +20,7 @@ On successful completion of this course, students should be able to:
 - apply information and media literacies to research, produce, analyse and present information online.
 
 
-### Resources {-}
+### Resources {.unnumbered}
 
 Please note that you are not required to purchase any of the folllowing resources. They are freely available on the web or accessible through the library.
 
@@ -35,7 +32,7 @@ Please note that you are not required to purchase any of the folllowing resource
 
 
 
-:::{.callout-caution}
+::: {.note}
 
 
 
@@ -43,6 +40,6 @@ It will be assumed that you have read, understand, and agree to the information 
 
 :::
 
-## Graduate Level Writing Standards {-}
+## Graduate Level Writing Standards {.unnumbered}
 
 For students in 663, graduate level writing standards following APA 7 are expected. Please consult the [OWL Purdue website](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html){target="_blank"} for guidance and seek assistance from the TWU Writing Center and writing coaches as needed. Assignments have rubrics that attribute some marks to APA formatting and cannot be graded as fully meeting expectations if there are APA errors. That said, your conceptual understanding remains of primary importance. It is your responsibility to ensure polished work to the highest standard of which you are capable. This demands meticulous attention to detail, which will become more 'natural' with practice. Please seek any necessary clarification from your instructor.
