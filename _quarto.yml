@@ -20,7 +20,8 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd    
-    # - assessment.qmd
+    - assessment.qmd
+    - feeds.qmd
     - references.qmd
 
 # References

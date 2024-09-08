@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9b0a44a6da5bc61d",
+        "id": "2676948b9d9a9428",
         "type": "tabs",
         "children": [
           {
-            "id": "6d5c6498f162b657",
+            "id": "fa72874ad891b6e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Articles/changIndividualCollaborativeAutoethnography2021.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Articles/changIndividualCollaborativeAutoethnography2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Articles/changIndividualCollaborativeAutoethnography2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Articles/changIndividualCollaborativeAutoethnography2021.md"
+                "file": "dawsonValidityMattersMore2024.md"
               }
             }
           }
@@ -143,16 +137,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6d5c6498f162b657",
+  "active": "885d4a14e4c4b5fc",
   "lastOpenFiles": [
+    "dawsonValidityMattersMore2024.md",
     "_templates/source-note.md",
+    "Learning Outcomes/LO-3.md",
+    "Learning Outcomes/LO-2.md",
+    "Learning Outcomes/LO-1.md",
+    "_templates/reflections.md",
+    "Learning Reflections",
+    "Article Notes/changIndividualCollaborativeAutoethnography2021.md",
     "02-Articles/garrisonCriticalInquiryTextbased2000.md",
     "02-articles/garrisonCriticalInquiryTextbased2000.md",
     "garrisonCriticalInquiryTextbased2000.md",
-    "02-Articles/changIndividualCollaborativeAutoethnography2021.md",
     "Untitled.canvas",
     "Assignment 1 summary.md",
     "My Library.md",
@@ -166,15 +169,11 @@
     "Learning Outcomes/LO-6.md",
     "Learning Outcomes/LO-5.md",
     "Learning Outcomes/LO-4.md",
-    "Learning Outcomes/LO-3.md",
-    "Learning Outcomes/LO-2.md",
-    "Learning Outcomes/LO-1.md",
     "Learning Outcomes",
     "storage/ULLIJDZ8/images/3",
     "storage/78RFTS5M/images/2",
     "storage/78RFTS5M/images/12",
     "storage/ULLIJDZ8/images/2",
-    "storage/ULLIJDZ8/images/1.ico",
     "storage/ZZLTW6FX/nyu-short.svg",
     "storage/ZZLTW6FX/nyu-long.svg",
     "storage/ZZLTW6FX/by-nd.svg",

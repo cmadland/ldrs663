@@ -1,16 +1,14 @@
 # Blog Feeds {-}
 
-## Current Cohort {-}
+## Interaction 
 
-
-
-<iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1006369874/tag/LDRS663%20Fall%202023/view/html?cs=m" frameborder="0" tabindex="-1"></iframe>
+<iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1006369874/tag/interaction/view/html?t=Post%20Archive&cs=m" frameborder="0" tabindex="-1"></iframe>
 
 ## Past Cohorts {-}
 
 Here is a list of posts from previous cohorts of this course. Keep in mind that we have changed the order of units several times over the years, so the post numbers and unit numbers will not likely align with the current cohort.
 
-The purpose of providing these links is to allow you to see and evaluate the level of writing and reflection required during this course. You are welcome and encouraged to cite these posts by including the URL of the post on its own line in one of your posts.
+The purpose of providing these links is to allow you to see and evaluate the level of writing and reflection required during this course. You are welcome and encouraged to cite these posts by including a link in your post.
 
 <iframe width="90%" height="800" src="https://www.inoreader.com/stream/user/1006369874/tag/LDRS663/view/html?t=LDRS%20663%20Aggregated%20Feed&cs=m&af=r" frameborder="0" tabindex="-1"></iframe>
 

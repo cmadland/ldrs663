@@ -34,6 +34,8 @@ Throughout this course, you will be invited to write five “working” posts ab
 
 Throughout this course, you will be invited to write four reflections about what you are learning in this course. You should consider your posts as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community. You will use these posts as data in your analysis and synthesis tasks, so it is in your best interest to be thorough in your reflections (use the W3 process if you’d like a structure, but focus on the ’WHAT?’), and make sure that you demonstrate **evaluative judgement**, or your ability to judge the quality of your own work, in relation to the relevant learning outcomes. Ensure that your post is a reflection of your coaching or facilitation experiences through the lens of the literature you reviewed and your personal coaching and facilitation context. Aim for 300-500 words.
 
+Compose each post in Obsidian using the 'Daily Note' template, then copy and paste the text into the relevant topic in [Discourse](https://twu.discourse.group/c/leadership-463-663/21). Make sure you use tags in Obsidian and in Discourse to allow you to curate your thoughts.
+
 ### Post 1 {-}
 
 #### Due at the end of Unit 1 {-}
@@ -55,9 +57,9 @@ To submit all of your posts for the course, create a new journal entry in your O
 
 ### Post 2{-}
 
-#### Due at the end of Unit 2 {-}
+#### Due at the end of Unit 3 {-}
 
-Scan through the [feed of posts from previous cohorts of this course](https://ma-lead.github.io/ldrs663/past-blog-feeds.html){target="_blank"} and read through a few posts about Anderson's *Interaction Equivalency Theorem*. Then revisit your own post from Unit 1 in this cohort and, in a new post, provide a review of your Unit 1 post. Evaluate your post using the SOLO Taxonomy found on the bottom of this page. In your review, make sure you link to more than one post from a previous cohort.
+Scan through the [feed of posts from previous cohorts of this course](https://ma-lead.github.io/ldrs663/feeds.html){target="_blank"} and read through a few posts about Anderson's *Interaction Equivalency Theorem*. Then revisit your own post from Unit 1 in this cohort and, in a new post, provide a review of your Unit 1 post. Evaluate your post using the SOLO Taxonomy found on the bottom of this page. In your review, make sure you link to more than one post from a previous cohort.
 
 Once you have completed this task using one of your own posts, repeat the process for one of your colleagues' posts, preferrably, someone who took the opposite view from you (if you defended Anderson's theorem, then evaluate the post of someone who criticised it).
 

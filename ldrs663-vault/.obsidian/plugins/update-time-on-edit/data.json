@@ -1,0 +1,23 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 3,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Article Notes/changIndividualCollaborativeAutoethnography2021.md": "0ddf253ca04e1ce541efb17171a620adc6ace1de7d847dad6fe43d005fa6b798",
+    "_templates/source-note.md": "d69e81ce352cb509bbfc230b37f873ec5966efa2cea72935344d707171aa683c",
+    "Learning Outcomes/LO-8.md": "e0678597ba5434465add5162df9712087d3619b8218505c6e4f8cf9ea7fc51a2",
+    "Learning Outcomes/LO-7.md": "bfaf1eaebe63f6fc8d41c7e6b05d0959890e7e30f4c2b2b48b5e507e7b720b34",
+    "Learning Outcomes/LO-6.md": "314738cf7c5bfe9cfbb39382aad007b1d608eb0f86be9f078c6930ee1581bdfc",
+    "Learning Outcomes/LO-5.md": "c15d773398aede255ee222da93cb04f2e9865b9ed750ca6caf44ec1febd9d5aa",
+    "Learning Outcomes/LO-4.md": "b735021fa4f5d01770c284544169890be4239fc763f5671261f4ac36bd0a4a7d",
+    "Learning Outcomes/LO-3.md": "9afdc091e94dc1d8ef038d98b237d2553b1873603abb1c6b95804ca9d7ae5581",
+    "Learning Outcomes/LO-2.md": "ca2e0810f20a6209c1c746429205e8bf7e023cf412f2913f28085d31a422f1e2",
+    "Learning Outcomes/LO-1.md": "cb0cffba1e2c75675a8e608874f691d28ff517a5b3ec2dada9e8d9a1aefa7dcc",
+    "_templates/reflections.md": "d4cb1ff467c2bb069ba2e4c7dc48d18619d8bdda8ce0e7656fe60219e5d4aa0a"
+  }
+}

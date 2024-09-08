@@ -1,24 +1,24 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "",
+  "noteImportFolder": "Article Notes",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "APA",
-      "format": "formatted-bibliography",
+      "name": "APA 7",
+      "format": "formatted-citation",
       "cslStyle": "apa"
     }
   ],
   "exportFormats": [
     {
-      "name": "Import From Zotero",
-      "outputPathTemplate": "02-articles/{{citekey}}.md",
+      "name": "Import Zotero",
+      "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "cslStyle": "apa",
-      "templatePath": "_templates/source-note.md"
+      "templatePath": "_templates/source-note.md",
+      "cslStyle": "apa"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

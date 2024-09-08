@@ -2,9 +2,6 @@
 
 One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app.  Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank”}.
 
-
-
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2FNqEDGc8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 
