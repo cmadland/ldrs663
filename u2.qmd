@@ -27,12 +27,14 @@
 
 
 
+<!--
 ::: {.learning-activity}
 
 #### ✨ NOTE{.unnumbered}
 
 Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/assignments) will take place <span class='badge-blue'>***Monday, December 11, during our class meeting***</span>. Your reflection will be due the following Monday, December 18.
 :::
+-->
 
 
 
