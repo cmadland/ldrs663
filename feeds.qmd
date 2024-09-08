@@ -1,4 +1,4 @@
-# Blog Feeds {-}
+# Blog Feeds {.unnumbered}
 
 ## Interaction 
 
