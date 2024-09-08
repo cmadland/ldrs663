@@ -4,11 +4,11 @@
 | Assessment Task | Due Date | 
 | --- | :---: |
 | Learning Reflection Blogs | Ongoing |
-| Concept Map and Lit Review | December 3 | 
-| Small Group Facilitation | December 10 |
-| Peer Coaching Session | December 22 (Friday) | 
-| Analysis  | January 8 | 
-| Synthesis | January 26 | 
+| Concept Map and Lit Review | September 22 | 
+| Small Group Facilitation | September 29 |
+| Peer Coaching Session | October 6 | 
+| Analysis  | October  27 | 
+| Synthesis | November 1 | 
 
 <!--
 | Assessment Task | Due Date | Approximate weight |
@@ -63,11 +63,11 @@ Scan through the [feed of posts from previous cohorts of this course](https://ma
 
 Once you have completed this task using one of your own posts, repeat the process for one of your colleagues' posts, preferrably, someone who took the opposite view from you (if you defended Anderson's theorem, then evaluate the post of someone who criticised it).
 
-To submit all of your posts for the course, create a new journal entry in your Obsidian vault.
+To create all of your posts for the course, create a new journal entry in your Obsidian vault, then paste your completed post into the appropriate topic in Discourse.
 
 ### Post 3{.unnumbered}
 
-#### Due at the end of Unit 3 {.unnumbered}
+#### Due at the end of Unit 4 {.unnumbered}
 #### Topic {.unnumbered}
 
 In your Discussion Post for this unit, you are being asked to select one core coaching competencies identified in this unit and reflect on how you might apply it in an educational setting. You can use the following questions to guide your writing:
@@ -92,12 +92,14 @@ To submit all of your posts for the course, create a new journal entry in your O
 
 ### Post 4 {.unnumbered}
 
-#### Based on Unit 5 {.unnumbered}
+#### Based on Unit 4-5 {.unnumbered}
 
 
 
-Throughout this unit we have explore the idea of the educational experience. Your task for the Unit 5 Blog Post, is to reflect on recent trends in higher, and other forms, of adult education in terms of the multitude of new ways institutions are offering access educational experiences. You can use the following questions to guide your writing:
+Throughout this unit we have explore the idea of the educational experience. Your task for this post, is to reflect on recent trends in higher, and other forms, of adult education in terms of the multitude of new ways institutions are offering access educational experiences and how technology and assessment practices influence those experiences. You can use some or all of the following questions to guide your writing:
 
+- How does technology impact the educational experience? Be specific with examples from your own experience.
+- In what ways does assessment need to change to meet the challenges of modern higher education?
 - How can educational institutions give learners more control over their learning experiences?  
 - What benefits and challenges does learner-centred access to education introduce?  
 - Is the recent move towards multi-access education shifting the site of education back to an emphasis on study and away from the focus on instruction that dominated the modern era?  
