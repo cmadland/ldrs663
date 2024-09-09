@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2676948b9d9a9428",
+        "id": "a30068d770d9d4a7",
         "type": "tabs",
         "children": [
           {
-            "id": "fa72874ad891b6e1",
+            "id": "96e907e8d2c7d073",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "changIndividualCollaborativeAutoethnography2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7aacd6b62797b1c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
+                "page": 2,
+                "left": -11,
+                "top": 714,
+                "zoom": 1.3664596848876527
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dawsonValidityMattersMore2024.md"
+                "file": "Articles/changIndividualCollaborativeAutoethnography2021.pdf"
               }
             }
           }
@@ -143,16 +164,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "885d4a14e4c4b5fc",
+  "active": "e7aacd6b62797b1c",
   "lastOpenFiles": [
-    "dawsonValidityMattersMore2024.md",
+    "changIndividualCollaborativeAutoethnography2021.md",
+    "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
+    "Articles",
     "_templates/source-note.md",
+    "Article Notes/changIndividualCollaborativeAutoethnography2021.md",
+    "dawsonValidityMattersMore2024.md",
     "Learning Outcomes/LO-3.md",
     "Learning Outcomes/LO-2.md",
     "Learning Outcomes/LO-1.md",
     "_templates/reflections.md",
     "Learning Reflections",
-    "Article Notes/changIndividualCollaborativeAutoethnography2021.md",
     "02-Articles/garrisonCriticalInquiryTextbased2000.md",
     "02-articles/garrisonCriticalInquiryTextbased2000.md",
     "garrisonCriticalInquiryTextbased2000.md",
@@ -172,8 +196,6 @@
     "Learning Outcomes",
     "storage/ULLIJDZ8/images/3",
     "storage/78RFTS5M/images/2",
-    "storage/78RFTS5M/images/12",
-    "storage/ULLIJDZ8/images/2",
     "storage/ZZLTW6FX/nyu-short.svg",
     "storage/ZZLTW6FX/nyu-long.svg",
     "storage/ZZLTW6FX/by-nd.svg",
