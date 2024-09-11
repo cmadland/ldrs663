@@ -21,67 +21,82 @@ You will be directed when to complete the following tasks.
 
 ## Overview {.unnumbered}
 
-Welcome to LDRS 663 - _Coaching for Transformational Blended Learning_! In this unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?); [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229)). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed); [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live)). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
+Welcome to Unit 1 of LDRS 663: _Coaching for Transformational Blended Learning_! In this unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?){target="_blank"}; [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229){target="_blank"}). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed){target="_blank"}; [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live){target="_blank"}). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
 
 ### Topics {.unnumbered}
-This unit is divided into 3 topics:
+This unit is divided into the following topics:
 
 1. Introduction to the Community of Inquiry Model  
 2. Modes of Interaction  
 3. Interaction Equivalency Theorem  
 
 
-### Learning Outcomes {.unnumbered}
-When you have completed this unit you should be able to:
+### Unit Learning Outcomes {.unnumbered}
+When you have completed this unit, you will be able to:
 
 - Analyze the characteristics of the Community of Inquiry model.
 - Evaluate different modes of interaction.
 - Criticize the Interaction Equivalency Theorem.
 
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+1. Read Critical inquiry in a text-based environment: Computer conferencing in higher education.
+2. Watch the video *You keep using that word* and consider what interaction is.
+3. Read the article by Terry Anderson, *Getting the mix right again: An updated and theoretical rationale for interaction*.
+
+::: {.note icon="true"}
+
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
+
 ### Resources {.unnumbered}
 Here are the resources you will need to complete this unit:
 
-- [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
-- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
-- [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf)
+- [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166){target="_blank"}  
+- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230){target="_blank"}   
+- [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf){target="_blank"}
 
+#### Optional Resource {.unnumbered}
 
-::: {.learning-activity}
-### ✨ ProTip
+- Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press.
+- This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
+
+// TODO #6 
+::: {.callout-tip icon=false title="✨ ProTip"}
+
 Ok...it would seem that the TWU library has lost access to the database that contains the Kanuka article above ('Interaction and the online distance classroom...'). Here is how I go about tracking down articles In this case, I've completed all of the checked items and am waiting to hear back from Dr. Kanuka):
 
 ✅ I see if I have access through another library. As a PhD candidate at UVic, I have access to their library, and it turns out that this article is in their collection, but that doesn't help you.  
 ✅ I use a Firefox extension called 'Unpaywall', which searches for open-access versions of the same articleas researchers are often able to post pre-print versions of their article on their own site. In this case, unpaywall just links to the PDF that I have access to through UVic.  
-✅ I contact the [TWU library](https://libguides.twu.ca/help) for assistance, as librarians are among the most helpful people on the planet. In this case, I was provided an open link, but that link looks fishy as it isn't apparently tied to Kanuka's site, but rather an aggregation site. Often, I also request an inter-library loan, in which the TWU library would contact another library (maybe UVic) and request a copy through them.  
-✅ Search [Google Scholar](https://scholar.google.com) as that will often pick up on preprints on the author's website.  
-✅ Search [ResearchGate](https://www.researchgate.net/) for preprints.  
+✅ I contact the [TWU library](https://libguides.twu.ca/help){target="_blank"} for assistance, as librarians are among the most helpful people on the planet. In this case, I was provided an open link, but that link looks fishy as it isn't apparently tied to Kanuka's site, but rather an aggregation site. Often, I also request an inter-library loan, in which the TWU library would contact another library (maybe UVic) and request a copy through them.  
+✅ Search [Google Scholar](https://scholar.google.com){target="_blank"} as that will often pick up on preprints on the author's website.  
+✅ Search [ResearchGate](https://www.researchgate.net/){target="_blank"} for preprints.  
 ✅ Contact the author of the paper. They often have permission to share preprints (see above) and are usually happy to share their work, especially with grad students.  
 ❌ Here is where we start getting into academic grey areas...so don't do this. It is against publishers policy to use tools like the hashtag #ICanHazPDF on Twitter, where you post the title of the article you are looking for under that hashtag and another researcher might respond by DM'ing you a copy. You shouldn't do this, because it cuts into the ***absurd*** profits of massive multi-national corporations who benefit from the free work of researchers all over the world. This is nothing like walking down a hallway and knocking on your colleague's door to ask if they have a copy of a paper, because that is super illegal too and this is digital...or something.  
 
 And this whole mess of strategies could be avoided if everyone published under an open license and the research that is created, usually with government funding, was freely available to those who need it.
 
-### An update on this link...
+### An update on this link... {.unnumbered}
 ✅ I received a response from the author, who generously provided a PDF copy of the article. This is very common.  
 ✅ Also, I discovered at the bottom of the page when I viewed the article signed into a different library, that there was an option to get a sharing link, so I copied that link and updated the URL above. This seems to provide a read-only link for people who don't have access through a library or other institution.
 
 :::
 
+// TODO #7 
 ![Share this article](assets/u2/share.png)
-
-
-
-#### Optional Resource {.unnumbered}
-- Vaughan, N., Cleveland-Innes, M., & Garrison, D. (2013). _Teaching in blended learning environments: Creating and sustaining communities of inquiry._ Athabasca: AU Press. - This book is available for free at [AUPress](http://www.aupress.ca/index.php/books/120229).
-
-
 
 ## Introduction to the Community of Inquiry Model
 
-
 Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and  be prepared share them in our class meeting. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? 
 
-
-### Social Constructivism {.unnumbered}
+### Social Constructivism
 
 There is a very good chance that your recollection of a memorable learning experience as part of the previous learning activity included a description of some sort of social interaction. This isn't always the case, but the idea that learning is a social process has a long history in education. Many theorists credit John Dewey for bringing this idea to the forefront of educators' minds. In his 1897 treatise *My Pedagogic Creed* he writes:
 
@@ -89,16 +104,16 @@ There is a very good chance that your recollection of a memorable learning exper
 
 The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
 
-Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see [Driscoll, 2005)](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.1254633&site=eds-live) have written about what has now become known as the educational theory of *social constructivism*, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
+Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see [Driscoll, 2005)](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.1254633&site=eds-live){target="_blank"} have written about what has now become known as the educational theory of *social constructivism*, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
 > rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)
 
 This process of seeking meaning is an iterative process whereby the learner experiences some sort of cognitive dissonance, or a disconnect between what they previously knew and some new piece of evidence or experience that disconfirms that knowledge. The learner then seeks to resolve that dissonance by either incorporating the new experience into an older schema, or by disregarding one or the other. Most often, the resulting knowledge is constructed from portions of both the new and old idea.
 
-### Community of Inquiry {.unnumbered}
+### Community of Inquiry
 
 This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
 
-![Community of Inquiry Model (Garrison, et al., (2000)](assets/u2/CoI-Model.jpg)
+![Figure 1.1 Community of Inquiry Model (Garrison, et al., (2000)](assets/u2/CoI-Model.jpg){fig-alt="ommunity of Inquiry Model"}
 
 #### Cognitive Presence {.unnumbered}
 Cognitive presence, possibly the most foundational element, is the
@@ -127,20 +142,18 @@ This final element of the CoI model is the design and facilitation of the learni
 Teaching presence can be a shared function between members of the community. Garrison, et al. point out that the design of the experience is typically performed by the teacher, and the facilitation is more often shared. In a connected course like this one, there is a greater emphasis on shared facilitation in a community of learners compared to what might be experienced in a f2f (face to face) course. It is in this shared discourse in a safe environment that allows learners to engage in the difficult cognitive work of learning.
 
 
-### Learning Activity{.unnumbered}
+### Activity: Exploring the Community of Inquiry
 
+::: {.learning-activity title="Read, Annotate, and Reflect "}
 
-::: {.learning-activity}
+**Read** [*Critical inquiry in a text-based environment: Computer conferencing in higher education*](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166){target="_blank"} (access through the TWU library).
 
-### Read, Annotate, and Reflect
-
-**Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166) (access through the TWU library).
-
-If you haven't done so previously, sign up for and activate hypothes.is and while you are reading the article, leave some annotations that connect what you are reading to your own experience.
+If you haven't done so previously, sign up for and activate [hypothes.is](https://hypothes.is/signup){target="_blank"} and while you are reading the article, leave some annotations that connect what you are reading to your own experience.
 
 Use the tag 'ldrs663' in any annotations you create so that we can all find each other.
 
-[Click here for assistance getting set up with hypothes.is.](http://create.twu.ca/help/other-web-tools/hypothesis)
+// TODO #5 
+[Click here for assistance getting set up with hypothes.is.](http://create.twu.ca/help/other-web-tools/hypothesis){target="_blank"}
 
 As you read, consider a time where you experienced a learning environment where the three presences described in the CoI were apparent. Consider the following questions and optionally, write your responses in a new post on your blog.
   - Were all three presences demonstrated?
@@ -151,9 +164,8 @@ Note that this is an ungraded activity, but is designed to help prepare you for 
 
 :::
 
-
 ## Modes of Interaction
-For this next topic we will look at what we mean by 'interaction', a word which is thrown around a lot in educational technology, but...
+For this next topic, we will look at what we mean by 'interaction', a word which is thrown around a lot in educational technology, but...
 
 [Watch: *You keep using that word.*](https://youtu.be/gpGjexZcJdg){target="_blank"}
 
@@ -167,28 +179,28 @@ Before we get into the the topic of interaction, please take a few minutes to an
 What do you think? Do you agree with the 'correct' and 'incorrect' responses on the quiz?
 
 
-### Interaction {.unnumbered}
+### Interaction
 Anderson (2003) argues that, despite the lack of clarity around definitions of interaction, there seems to be a general understanding that interaction of some sort is a requirement for learning. He settles on the definition from Wagner (1994, p.8)
 
 > Reciprocal events that require at least two objects and two actions. Interactions occur when these objects and events mutually influence one another.
 
-He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1).
+He provides a model of interaction in learning environments that includes three main agents in the process: students, teachers, and content (Figure 1.2).
 
-![Figure 1. Anderson's Modes of Interaction (2003)](assets/u2/Modes-Interaction-Anderson.png "Modes of Interaction from Terry Anderson")
+![Figure 1.2 Anderson's Modes of Interaction (2003)](assets/u2/Modes-Interaction-Anderson.png "Modes of Interaction from Terry Anderson"){fig-alt="Modes of Interaction from Terry Anderson"}
 
 
 At each point of the triangle are the agents in an educative process. The arrows between them indicate the two-way communication described by Wagner, and the recursive arrows above or below the agents are secondary forms of interaction.
 
-### Other Models of Interaction {.unnumbered}
-Kanuka (2011) describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 2.).
+### Other Models of Interaction
+Kanuka (2011) describes a modified model of interaction which presumes that all educational interactions occur in the context of some sort of content (Figure 1.3).
 
-![Figure 2. Kanuka's Model of Interaction (2011)](assets/u2/Kanuka-Modes-of-Interaction.png "Kanuka's Model of Interaction")
+![Figure 1.3 Kanuka's Model of Interaction (2011)](assets/u2/Kanuka-Modes-of-Interaction.png "Kanuka's Model of Interaction"){fig-alt="Kanuka's Model of Interaction"}
 
 In Anderson's model, content is an agent in the process, but in Kanuka's model, content of some sort is assumed to be the foundation of learning environments and that interactions between and among learners and instructors happens in the context of making sense of the content. The content itself does not have agency.
 
-A combination of these two models was described by Madland (2014). Madland's model, shown in figure 3, is a return to Anderson's three-sided model except with the addition of peer interactions, and all interactions between agents occuring in the context of the content that is to be learned. Also added are the three sides of the model representing structured learning activities designed specifically to enhance the educative effects of the interactions.
+A combination of these two models was described by Madland (2014). Madland's model, shown in Figure 1.4, is a return to Anderson's three-sided model except with the addition of peer interactions, and all interactions between agents occuring in the context of the content that is to be learned. Also added are the three sides of the model representing structured learning activities designed specifically to enhance the educative effects of the interactions.
 
-![Figure 3. Madland's Model of Interaction (2014)](assets/u2/Modes-of-Interaction-Madland.png "Madland's model of interaction")
+![Figure 1.4 Madland's Model of Interaction (2014)](assets/u2/Modes-of-Interaction-Madland.png "Madland's model of interaction"){fig-alt="Madland's model of interaction"}
 
 
 It is not enough to simply expect interactions between learners and instructors to be goal-oriented towards learning outcomes. Educators must design specific activities (teaching presence) to create the conditions (social presence) for learning to occur (cognitive presence). An example of this can be seen in the seemingly ubiquitous 'Group Project' assigned in so many undergraduate courses. Sometimes, groups are allowed to form themselves, other times, the instructor assigns groups, or there is some sort of random process to create groups. However they are formed, groups too often fall into a pattern of behaviour where one or two of the students do most of the work and the remaining group members engage in social loafing and benefit from their peers' work.
@@ -198,19 +210,19 @@ An alternative practice is to engage groups in a specific structured process of 
 There are myriad structures that can be used to ensure that interactions are inclined towards producing student learning, and we will introduce you to some of those in unit 5.
 
 
-### Learning Activity{.unnumbered}
+### Activity: Theoretical Rationale for Interaction 
 
-
-::: {.learning-activity}
+::: {.learning-activity title="Read and Reflect"}
 
 Read the following article by Terry Anderson
-- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)
+- [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230){target="_blank"}
 
 As you read, consider what interactions you have experiences in online or f2f courses.
 
 :::
 
 ## Interaction Equivalency Theorem
+
 For our last topic of this unit, we'll explore Anderson's (2003) *Interaction Equivalency Theorem*, stated as
 
 > Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student–teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.
@@ -224,9 +236,7 @@ One problem remains, though, and that is that student-teacher interaction is a s
 
 In an asynchronous, text-based environment, students and teachers do not need to be present in the same place at the same time in order to enjoy rich interactions.
 
-
-
-## Unit 1 Assessment{.unnumbered}
+<!-- ## Unit 1 Assessment{.unnumbered}
 
 
 ::: {.learning-activity}
@@ -234,19 +244,16 @@ In an asynchronous, text-based environment, students and teachers do not need to
 
 Please complete the assignment under 'Post 1' on the 'Assessment' page in the menu.
 
+::: -->
 
-:::
+## Summary {.unnumbered}
 
-## References{.unnumbered}
+In this unit of LDRS 663, you are introduced to the Community of Inquiry (CoI) model, which emphasizes the interconnected roles of cognitive, social, and teaching presences in online learning environments. The unit explores how these presences foster meaningful learning experiences through interaction, informed by the educational theory of social constructivism. Additionally, the unit examines various modes of interaction, including student-teacher, student-student, and student-content dynamics, and introduces Anderson’s Interaction Equivalency Theorem, which explains how deep learning can occur with a focus on one key mode of interaction.
 
-Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. *International Review of Research in Open and Distance Learning,* 4(2), 1–14.
+### Checking Your Learning {.unnumbered}
 
-Dewey, J. (1897). *My pedagogic creed.* In M. S. Dworkin (Ed.), *Dewey on education.* NewYork, NY: Teachers College Press.
+Before you move on to the next unit, you may want to check that you are able to:
 
-Driscoll, M. P. (2005). *Psychology of learning for instruction* (3rd ed.). Boston: Pearson Education.
-
-Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*, 87–105. https://doi.org/10.1016/S1096-7516(00)00016-6
-
-Kanuka, H. (2011). Interaction and the online distance classroom: Do instructional methods effect the quality of interaction? *Journal of Computing in Higher Education,* 23(2), 143–156. https://doi.org/10.1007/s12528-011-9049-4
-
-Madland, C. (2014). *Structured student interactions in online distance learning: Exploring the study buddy activity* (Master’s thesis). Athabasca University. Retrieved from http://hdl.handle.net/10791/47
+- Analyze the characteristics of the Community of Inquiry model.
+- Evaluate different modes of interaction.
+- Criticize the Interaction Equivalency Theorem.

@@ -1,2 +1,13 @@
 # References {.unnumbered}
 
+Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. *International Review of Research in Open and Distance Learning,* 4(2), 1–14.
+
+Dewey, J. (1897). *My pedagogic creed.* In M. S. Dworkin (Ed.), *Dewey on education.* NewYork, NY: Teachers College Press.
+
+Driscoll, M. P. (2005). *Psychology of learning for instruction* (3rd ed.). Boston: Pearson Education.
+
+Garrison, D. R., Anderson, T., & Archer, W. (2000). Critical inquiry in a text-based environment: Computer conferencing in higher education. *The Internet and Higher Education, 2*, 87–105. https://doi.org/10.1016/S1096-7516(00)00016-6
+
+Kanuka, H. (2011). Interaction and the online distance classroom: Do instructional methods effect the quality of interaction? *Journal of Computing in Higher Education,* 23(2), 143–156. https://doi.org/10.1007/s12528-011-9049-4
+
+Madland, C. (2014). *Structured student interactions in online distance learning: Exploring the study buddy activity* (Master’s thesis). Athabasca University. Retrieved from http://hdl.handle.net/10791/47
