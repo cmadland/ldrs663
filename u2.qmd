@@ -53,9 +53,9 @@ This unit is divided into the following topics:
 5. Core Facilitation Competencies
 6. Strategies for Learning Facilitation
 
-### Learning Outcomes{.unnumbered}
+### Unit Learning Outcomes{.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 - Explain how to design learning environments to maximize learning
 - Plan appropriate group learning processes to support transformative learning.
@@ -63,6 +63,22 @@ When you have completed this unit, you should be able to:
 - Design cooperative activities to maximize student-student and student-content interactions
 - Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities
 - Identify and explain core competencies for facilitating learning.
+
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+1. Activity
+
+::: {.note icon="true"}
+
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
 
 ### Resources{.unnumbered}
 
@@ -78,26 +94,30 @@ Central to this progress is language, which we first learn in the context of soc
 
 In sum, we may conclude that knowledge is *constructed* first socially, then, personally, by learners as they encounter new information, compare it to old models that they may have, and develop new understandings of how the world works. It is not the case that new knowledge is simply copied intact from one mind to another, rather new information is integrated into old understandings, bringing about a hybrid of the two. This is essentially what we understand as a *constructivist* model of learning.
 
-### Zone of Proximal Development {.unnumbered}
+### Zone of Proximal Development
 
 Social constructivism builds on the constructivist model, adding the idea that this process of integrating new understandings with old understandings is best understood as a *social* process. Vygotsky (1978) introduced the idea that people with a greater capacity to understand the world and cope with its challenges act as supportive structures, which enable others to *construct* and *internalize* the knowledge these people have. This new construction occurs within what Vygotsky refers to as an individual’s ***zone of proximal development,*** which he differentiated from their ***zone of actual development.*** The ZPD is the 'sweet spot' in education where a student is optimally challenged to learn. If the task is too easy for the student, and they have already mastered it, then learning activities will not result in learning. Conversely, if a task is so difficult that the student cannot complete it, even with assistance, learning activities will not result in learning. In the middle are tasks that a student is able to complete, but only with the assistance of a more capable peer or expert. This is the Zone of Proximal Development:
 
-![Zone of Proximal Development](assets/u3/ZPD_Image.png)
+![2.1 Zone of Proximal Development](assets/u3/ZPD_Image.png)
 
 
-### Scaffolding{.unnumbered}
+### Scaffolding
 
 A metaphor that has been used to describe one such supportive mechanism is *scaffolding.* A scaffold is a way for educators to support the construction of new knowledge, beginning from a person’s existing repertoire of knowledge and then preceding into new heights of understanding. The scaffold is the environment an educator creates, the support of learning facilitation, and the processes and language that are lent to the learner in the context of approaching an adaptive task and developing new abilities to meet it (Wilhelm, Baker, & Dube, 2001). Furthermore, scaffolding implies not only a person’s specific relation to the modeled behavior of others; it implies a person’s relation to social communities, and “it implies becoming a full participant, a member, a kind of person” (Lave & Wenger, 1996).
 
 The task of facilitating learning with the ZPD in mind assumes that you, as the facilitator, know what knowledge and skills your students are starting with. It is likely that the competencies your students display fall along a bell curve. While most students will be learning within a similar ZPD, there will be outliers at both ends of the curve. One strategy can be to pair students whose skills and knowledge are below the curve with those above the curve. In doing this, students who are above the curve, who may not be challenged with the content or skill, have to engage in greater levels of cognitive complexity in order to concisely explain to their peer and help them to meet the objective. For example, Madland and Richards (2016) describes a cooperative peer review activity, where the authors asked a group of learners how they thought cooperative learning activities supported learning. In this study, the learners’ responses indicated that the two most important factors were *social cohesion* and *developmentally appropriate challenges,* indicating that learners recognized the importance of the ZPD in learning.
 
+### Activity: Reflect {.unnumbered}
 
 ::: {.learning-activity}
 
-#### Learning Activity {.unnumbered}
-***Questions to Consider***  
-After reading the topic above, consider the following question:  
-- How does the idea of the zone of proximal development help you support learning?
+**Questions to Consider**  
+<!-- After reading the topic above, consider the following question:
+
+- How does the idea of the zone of proximal development help you support learning? -->
+- How do you think social interactions have influenced your learning experiences in the past? Can you recall an example where learning through observation or collaboration helped you grasp a concept better?
+- Vygotsky emphasizes the role of the Zone of Proximal Development (ZPD) in effective learning. Reflecting on a recent learning challenge, can you identify your ZPD for that task? How did external support (e.g., guidance, resources) help you progress?
+- Scaffolding is described as a process where educators support learners to reach new heights of understanding. Think of a time when you received structured support . How did this scaffold your learning, and how might this approach be applied to your current learning context?
 
 :::
 
@@ -106,7 +126,7 @@ After reading the topic above, consider the following question:
 
 Cooperative learning is a set of learning facilitation strategies that are focused on encouraging educative social interactions between learners. It is important to not conflate *cooperative learning* with *group projects* as you might remember them from your previous experiences as a university student. Group projects are often assigned because faculty seem to have a sense that *working together* is a good thing for students, along with a vague sense that modern jobs all require teamwork. Too often, they amount to repurposing an individual assignment (such as, a research paper) into the same task, but with multiple people handing in one item instead of three to four. When these tasks are not well structured, the process becomes problematic.
 
-![Group Projects](assets/u3/U5_T2_Image.jpg)
+![2.2 Group Projects](assets/u3/U5_T2_Image.jpg)
 
 We have all likely experienced less-than-ideal group projects where one or two people do most of the work, one member is seemingly absent altogether, and another's work is of poor quality. This is not the kind of learning activity that inspires highly engaged learners.
 
@@ -134,7 +154,7 @@ Finally, the group must be able to monitor their process with the goal of improv
 
 
 
-![Cooperative Learning (Slavin, 2011)](assets/u3/Image3.png)
+![2.3 Cooperative Learning (Slavin, 2011)](assets/u3/Image3.png)
 
 ::: {.learning-activity}
 
@@ -150,7 +170,7 @@ After reading through the content in Topic 2, please consider the following ques
 :::
 
 
-## Facilitating Transformational Learning in Group Environments
+## Facilitating Transformational Learning in Group Settings
 
 In Unit One, we examined the CoI model and identified how teaching presence helps to support both the cognitive and social presences within the educational experience of a course of study. An important idea we emphasized was that teaching presence can be a shared function between members of the learning community and that facilitation of the learning process is often shared (Garrison, et al., 2010). Now, we are interested in examining what a division of the teaching presence might look like if we professionalize the function of learning facilitation within a distributed model of teaching presence.
 
@@ -338,7 +358,7 @@ Now, consider how could you use this Liberating Structure to guide a group discu
 :::
 
 
-## Unit 2 Assessment {.unnumbered}
+<!-- ## Unit 2 Assessment {.unnumbered}
 
 
 ::: {.learning-activity}
@@ -350,9 +370,9 @@ Please complete the assignment under 'Post 2' below. This will be your second of
 [Blog Post 2](https://ma-lead.github.io/ldrs663/assessments.html#post-2)
 
 
-:::
+::: -->
 
-### Checking Your Learning{.unnumbered}
+::: check
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
@@ -362,6 +382,8 @@ Before you move on to the next unit, you may want to check to make sure that you
 ✅  Design cooperative activities to maximize student-student and student-content interactions.  
 ✅  Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.  
 ✅  Identify and explain core competencies for facilitating learning.  
+
+:::
 
 ## Facilitation Notes {.unnumbered}
 
