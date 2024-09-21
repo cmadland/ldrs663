@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -71,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
 <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
 <link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
 </head>
@@ -233,16 +207,19 @@ window.Quarto = {
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
   <li><a href="#social-theories-of-learning" id="toc-social-theories-of-learning" class="nav-link" data-scroll-target="#social-theories-of-learning"><span class="header-section-number">2.1</span> Social Theories of Learning</a>
   <ul>
-  <li><a href="#zone-of-proximal-development" id="toc-zone-of-proximal-development" class="nav-link" data-scroll-target="#zone-of-proximal-development">Zone of Proximal Development</a></li>
-  <li><a href="#scaffolding" id="toc-scaffolding" class="nav-link" data-scroll-target="#scaffolding">Scaffolding</a></li>
+  <li><a href="#zone-of-proximal-development" id="toc-zone-of-proximal-development" class="nav-link" data-scroll-target="#zone-of-proximal-development"><span class="header-section-number">2.1.1</span> Zone of Proximal Development</a></li>
+  <li><a href="#scaffolding" id="toc-scaffolding" class="nav-link" data-scroll-target="#scaffolding"><span class="header-section-number">2.1.2</span> Scaffolding</a></li>
+  <li><a href="#activity-learning-through-social-interactions" id="toc-activity-learning-through-social-interactions" class="nav-link" data-scroll-target="#activity-learning-through-social-interactions">Activity: Learning Through Social Interactions</a></li>
   </ul></li>
   <li><a href="#cooperative-learning" id="toc-cooperative-learning" class="nav-link" data-scroll-target="#cooperative-learning"><span class="header-section-number">2.2</span> Cooperative Learning</a>
   <ul>
   <li><a href="#more-about-cooperative-learning" id="toc-more-about-cooperative-learning" class="nav-link" data-scroll-target="#more-about-cooperative-learning">More about cooperative learning…</a></li>
+  <li><a href="#activity-coaching-for-learning" id="toc-activity-coaching-for-learning" class="nav-link" data-scroll-target="#activity-coaching-for-learning">Activity: Coaching for Learning</a></li>
   </ul></li>
-  <li><a href="#facilitating-transformational-learning-in-group-environments" id="toc-facilitating-transformational-learning-in-group-environments" class="nav-link" data-scroll-target="#facilitating-transformational-learning-in-group-environments"><span class="header-section-number">2.3</span> Facilitating Transformational Learning in Group Environments</a>
+  <li><a href="#facilitating-transformational-learning-in-group-settings" id="toc-facilitating-transformational-learning-in-group-settings" class="nav-link" data-scroll-target="#facilitating-transformational-learning-in-group-settings"><span class="header-section-number">2.3</span> Facilitating Transformational Learning in Group Settings</a>
   <ul>
   <li><a href="#facilitating-group-learning-sessions" id="toc-facilitating-group-learning-sessions" class="nav-link" data-scroll-target="#facilitating-group-learning-sessions">Facilitating Group Learning Sessions</a></li>
+  <li><a href="#activity-exploring-the-role-of-the-facilitator" id="toc-activity-exploring-the-role-of-the-facilitator" class="nav-link" data-scroll-target="#activity-exploring-the-role-of-the-facilitator">Activity: Exploring the Role of the Facilitator</a></li>
   </ul></li>
   <li><a href="#navigating-group-dynamics" id="toc-navigating-group-dynamics" class="nav-link" data-scroll-target="#navigating-group-dynamics"><span class="header-section-number">2.4</span> Navigating Group Dynamics</a>
   <ul>
@@ -250,31 +227,19 @@ window.Quarto = {
   <ul class="collapse">
   <li><a href="#transforming-me-to-we" id="toc-transforming-me-to-we" class="nav-link" data-scroll-target="#transforming-me-to-we">Transforming (Me to We)</a></li>
   </ul></li>
+  <li><a href="#activity-understanding-group-dynamics" id="toc-activity-understanding-group-dynamics" class="nav-link" data-scroll-target="#activity-understanding-group-dynamics">Activity: Understanding Group Dynamics</a></li>
+  <li><a href="#activity-from-comfort-zone-to-performance" id="toc-activity-from-comfort-zone-to-performance" class="nav-link" data-scroll-target="#activity-from-comfort-zone-to-performance">Activity: From Comfort Zone to Performance</a></li>
   </ul></li>
-  <li><a href="#core-facilitation-competencies" id="toc-core-facilitation-competencies" class="nav-link" data-scroll-target="#core-facilitation-competencies"><span class="header-section-number">2.5</span> Core Facilitation Competencies</a></li>
-  <li><a href="#facilitation-strategies" id="toc-facilitation-strategies" class="nav-link" data-scroll-target="#facilitation-strategies"><span class="header-section-number">2.6</span> Facilitation Strategies</a>
+  <li><a href="#core-facilitation-competencies" id="toc-core-facilitation-competencies" class="nav-link" data-scroll-target="#core-facilitation-competencies"><span class="header-section-number">2.5</span> Core Facilitation Competencies</a>
+  <ul>
+  <li><a href="#activity-developing-facilitation-competencies" id="toc-activity-developing-facilitation-competencies" class="nav-link" data-scroll-target="#activity-developing-facilitation-competencies">Activity: Developing Facilitation Competencies</a></li>
+  </ul></li>
+  <li><a href="#strategies-for-learning-facilitation" id="toc-strategies-for-learning-facilitation" class="nav-link" data-scroll-target="#strategies-for-learning-facilitation"><span class="header-section-number">2.6</span> Strategies for Learning Facilitation</a>
   <ul>
   <li><a href="#liberating-structures" id="toc-liberating-structures" class="nav-link" data-scroll-target="#liberating-structures">Liberating Structures</a></li>
+  <li><a href="#activity-guiding-group-discussions-with-liberating-structures" id="toc-activity-guiding-group-discussions-with-liberating-structures" class="nav-link" data-scroll-target="#activity-guiding-group-discussions-with-liberating-structures">Activity: Guiding Group Discussions with Liberating Structures</a></li>
   </ul></li>
-  <li><a href="#facilitation-notes" id="toc-facilitation-notes" class="nav-link" data-scroll-target="#facilitation-notes">Facilitation Notes</a>
-  <ul>
-  <li><a href="#facilitating-group-learning" id="toc-facilitating-group-learning" class="nav-link" data-scroll-target="#facilitating-group-learning">Facilitating Group Learning</a></li>
-  <li><a href="#facilitation-session" id="toc-facilitation-session" class="nav-link" data-scroll-target="#facilitation-session">Facilitation Session</a></li>
-  <li><a href="#two-similar-but-different-teaching-presence-roles" id="toc-two-similar-but-different-teaching-presence-roles" class="nav-link" data-scroll-target="#two-similar-but-different-teaching-presence-roles">Two Similar, but Different “Teaching Presence” Roles</a></li>
-  <li><a href="#facilitation-competencies" id="toc-facilitation-competencies" class="nav-link" data-scroll-target="#facilitation-competencies">Facilitation Competencies</a></li>
-  <li><a href="#facilitation-process" id="toc-facilitation-process" class="nav-link" data-scroll-target="#facilitation-process">Facilitation Process</a></li>
-  <li><a href="#facilitating-the-process-of-prescribed-learning" id="toc-facilitating-the-process-of-prescribed-learning" class="nav-link" data-scroll-target="#facilitating-the-process-of-prescribed-learning">Facilitating the Process of Prescribed Learning</a></li>
-  <li><a href="#facilitating-the-process-of-inquiry-rich-learning" id="toc-facilitating-the-process-of-inquiry-rich-learning" class="nav-link" data-scroll-target="#facilitating-the-process-of-inquiry-rich-learning">Facilitating the Process of Inquiry-rich Learning</a></li>
-  <li><a href="#managing-group-dynamics" id="toc-managing-group-dynamics" class="nav-link" data-scroll-target="#managing-group-dynamics">Managing Group Dynamics</a></li>
-  <li><a href="#cohesion-factors-that-cultivate-predictable-trust" id="toc-cohesion-factors-that-cultivate-predictable-trust" class="nav-link" data-scroll-target="#cohesion-factors-that-cultivate-predictable-trust">Cohesion Factors that Cultivate (Predictable) Trust</a></li>
-  <li><a href="#social-loafing" id="toc-social-loafing" class="nav-link" data-scroll-target="#social-loafing">Social Loafing</a></li>
-  <li><a href="#how-do-learning-groups-develop-over-time" id="toc-how-do-learning-groups-develop-over-time" class="nav-link" data-scroll-target="#how-do-learning-groups-develop-over-time">How do learning groups develop over time?</a></li>
-  <li><a href="#tpr-life-cycle-model-white-2009" id="toc-tpr-life-cycle-model-white-2009" class="nav-link" data-scroll-target="#tpr-life-cycle-model-white-2009">TPR Life-cycle Model (White, 2009)</a></li>
-  <li><a href="#learning-group-experience-punctuated-equilibrium" id="toc-learning-group-experience-punctuated-equilibrium" class="nav-link" data-scroll-target="#learning-group-experience-punctuated-equilibrium">Learning Group Experience Punctuated Equilibrium</a></li>
-  <li><a href="#managing-the-group-learning-process" id="toc-managing-the-group-learning-process" class="nav-link" data-scroll-target="#managing-the-group-learning-process">Managing the group learning process</a></li>
-  <li><a href="#zone-of-proximal-development-1" id="toc-zone-of-proximal-development-1" class="nav-link" data-scroll-target="#zone-of-proximal-development-1">Zone of Proximal Development</a></li>
-  <li><a href="#scaffolding-1" id="toc-scaffolding-1" class="nav-link" data-scroll-target="#scaffolding-1">Scaffolding</a></li>
-  </ul></li>
+  <li><a href="#unit-summary" id="toc-unit-summary" class="nav-link" data-scroll-target="#unit-summary">Unit Summary</a></li>
   </ul>
 </nav>
     </div>
@@ -346,7 +311,13 @@ Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/a
 <h3 class="unnumbered anchored" data-anchor-id="learning-activities">Learning Activities</h3>
 <p>Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.</p>
 <ol type="1">
-<li>Activity</li>
+<li><a href="#activity-learning-through-social-interactions">Learning Through Social Interactions</a>: Reflect on Vygotsky’s Theories in Practice.</li>
+<li><a href="#activity-coaching-for-learning">Coaching for Learning</a>: Refect on Strategies for Supporting Educational Growth and Change.</li>
+<li><a href="#activity-exploring-the-role-of-the-facilitator">Exploring the Role of the Facilitator</a>: Reflect on Key Concepts and Strategies for Effective Group Learning.</li>
+<li><a href="#activity-understanding-group-dynamics">Understanding Group Dynamics</a>: Reflect on Benefits, Challenges, and Stages of Development in Group Learning.</li>
+<li><a href="#activity-from-comfort-zone-to-performance">From Comfort Zone to Performance</a>: Relfect on Applying White’s Model and Vygotsky’s ZPD in Facilitation.</li>
+<li><a href="#activity-developing-facilitation-competencies">Developing Facilitation Competencies</a>: Reflect on Strengthening Skills to Enhance Learner Success.</li>
+<li><a href="#activity-guiding-group-discussions-with-liberating-structures">Guiding Group Discussions with Liberating Structures</a>: Watch <em>Liberating Structures</em> and Visit <em>What, So What, Now What? W³</em>.</li>
 </ol>
 <div class="callout callout-style-simple callout-note">
 <div class="callout-body d-flex">
@@ -373,35 +344,40 @@ Your [**Small Group Facilitation Session**](https://far.twu.ca/ldrs/663-202109/a
 <p>Vygotsky (1978) argues that “every function in the child’s cultural development appears twice: first, on the social level, and later on the individual level; first <em>between</em> people (<em>interpsychologically</em>), and then inside the child (<em>intrapsychologically</em>) (p.&nbsp;57). That is, humans learn first through social observations and interactions, which they later internalize as their own thinking. The significance of Vygotsky’s insight is that, “instead of focusing on the study of psychological entities such as skills, concepts, information-processing units, reflexes, or mental functions, it assumes that we must begin with a unit of <em>activity”</em> (Wertsch, 1985). This idea of <em>activity,</em> or to be more precise the active participation of the learner, is central to our emerging understanding of learning as a process of socially constructing knowledge.</p>
 <p>Central to this progress is language, which we first learn in the context of social interactions, then, we adopt as self-talk for self-direction and self-regulation, and ultimately internalized as our own inner speech (Vygotsky &amp; Kozulin, 1986, p.&nbsp;228). Similarly, Bandura (1977) argues social role modeling is central to how most behaviors are learned, “from observing others one forms an idea of how new behaviors are performed, and on later occasions this coded information serves as a guide for action”.</p>
 <p>In sum, we may conclude that knowledge is <em>constructed</em> first socially, then, personally, by learners as they encounter new information, compare it to old models that they may have, and develop new understandings of how the world works. It is not the case that new knowledge is simply copied intact from one mind to another, rather new information is integrated into old understandings, bringing about a hybrid of the two. This is essentially what we understand as a <em>constructivist</em> model of learning.</p>
-<section id="zone-of-proximal-development" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="zone-of-proximal-development">Zone of Proximal Development</h3>
+<section id="zone-of-proximal-development" class="level3" data-number="2.1.1">
+<h3 data-number="2.1.1" class="anchored" data-anchor-id="zone-of-proximal-development"><span class="header-section-number">2.1.1</span> Zone of Proximal Development</h3>
 <p>Social constructivism builds on the constructivist model, adding the idea that this process of integrating new understandings with old understandings is best understood as a <em>social</em> process. Vygotsky (1978) introduced the idea that people with a greater capacity to understand the world and cope with its challenges act as supportive structures, which enable others to <em>construct</em> and <em>internalize</em> the knowledge these people have. This new construction occurs within what Vygotsky refers to as an individual’s <strong><em>zone of proximal development,</em></strong> which he differentiated from their <strong><em>zone of actual development.</em></strong> The ZPD is the ‘sweet spot’ in education where a student is optimally challenged to learn. If the task is too easy for the student, and they have already mastered it, then learning activities will not result in learning. Conversely, if a task is so difficult that the student cannot complete it, even with assistance, learning activities will not result in learning. In the middle are tasks that a student is able to complete, but only with the assistance of a more capable peer or expert. This is the Zone of Proximal Development:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<figcaption>Zone of Proximal Development</figcaption>
-<p><img src="assets/u3/ZPD_Image.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 2.1 Zone of Proximal Development</figcaption>
+<p><a href="assets/u3/ZPD_Image_new.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure 2.1 Zone of Proximal Development"><img src="assets/u3/ZPD_Image_new.png" class="img-fluid figure-img" alt="Zone of Proximal Development" width="400"></a></p>
 </figure>
 </div>
 </section>
-<section id="scaffolding" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="scaffolding">Scaffolding</h3>
+<section id="scaffolding" class="level3" data-number="2.1.2">
+<h3 data-number="2.1.2" class="anchored" data-anchor-id="scaffolding"><span class="header-section-number">2.1.2</span> Scaffolding</h3>
 <p>A metaphor that has been used to describe one such supportive mechanism is <em>scaffolding.</em> A scaffold is a way for educators to support the construction of new knowledge, beginning from a person’s existing repertoire of knowledge and then preceding into new heights of understanding. The scaffold is the environment an educator creates, the support of learning facilitation, and the processes and language that are lent to the learner in the context of approaching an adaptive task and developing new abilities to meet it (Wilhelm, Baker, &amp; Dube, 2001). Furthermore, scaffolding implies not only a person’s specific relation to the modeled behavior of others; it implies a person’s relation to social communities, and “it implies becoming a full participant, a member, a kind of person” (Lave &amp; Wenger, 1996).</p>
 <p>The task of facilitating learning with the ZPD in mind assumes that you, as the facilitator, know what knowledge and skills your students are starting with. It is likely that the competencies your students display fall along a bell curve. While most students will be learning within a similar ZPD, there will be outliers at both ends of the curve. One strategy can be to pair students whose skills and knowledge are below the curve with those above the curve. In doing this, students who are above the curve, who may not be challenged with the content or skill, have to engage in greater levels of cognitive complexity in order to concisely explain to their peer and help them to meet the objective. For example, Madland and Richards (2016) describes a cooperative peer review activity, where the authors asked a group of learners how they thought cooperative learning activities supported learning. In this study, the learners’ responses indicated that the two most important factors were <em>social cohesion</em> and <em>developmentally appropriate challenges,</em> indicating that learners recognized the importance of the ZPD in learning.</p>
+</section>
+<section id="activity-learning-through-social-interactions" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-learning-through-social-interactions">Activity: Learning Through Social Interactions</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Learning Activity
+Learning Activity: Read and Reflect
 </div>
 </div>
-<section id="learning-activity" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="learning-activity">Learning Activity</h4>
-<p><strong><em>Questions to Consider</em></strong><br>
-After reading the topic above, consider the following question:<br>
-- How does the idea of the zone of proximal development help you support learning?</p>
-</section>
+<div class="callout-body-container callout-body">
+<ul>
+<li>How does the idea of the zone of proximal development help you support learning?</li>
+<li>How do you think social interactions have influenced your learning experiences in the past? Can you recall an example where learning through observation or collaboration helped you grasp a concept better?</li>
+<li>Vygotsky emphasizes the role of the Zone of Proximal Development (ZPD) in effective learning. Reflecting on a recent learning challenge, can you identify your ZPD for that task? How did external support (e.g., guidance, resources) help you progress?</li>
+<li>Scaffolding is described as a process where educators support learners to reach new heights of understanding. Think of a time when you received structured support . How did this scaffold your learning, and how might this approach be applied to your current learning context?</li>
+</ul>
+</div>
 </div>
 </section>
 </section>
@@ -410,8 +386,8 @@ After reading the topic above, consider the following question:<br>
 <p>Cooperative learning is a set of learning facilitation strategies that are focused on encouraging educative social interactions between learners. It is important to not conflate <em>cooperative learning</em> with <em>group projects</em> as you might remember them from your previous experiences as a university student. Group projects are often assigned because faculty seem to have a sense that <em>working together</em> is a good thing for students, along with a vague sense that modern jobs all require teamwork. Too often, they amount to repurposing an individual assignment (such as, a research paper) into the same task, but with multiple people handing in one item instead of three to four. When these tasks are not well structured, the process becomes problematic.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<figcaption>Group Projects</figcaption>
-<p><img src="assets/u3/U5_T2_Image.jpg" class="img-fluid figure-img"></p>
+<figcaption>Figure 2.2 Group Projects</figcaption>
+<p><a href="assets/u3/U5_T2_Image.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure 2.2 Group Projects"><img src="assets/u3/U5_T2_Image.jpg" class="img-fluid figure-img" alt="Diagrams of What group projects are supposed to teach you and What groupd project taught me" width="350"></a></p>
 </figure>
 </div>
 <p>We have all likely experienced less-than-ideal group projects where one or two people do most of the work, one member is seemingly absent altogether, and another’s work is of poor quality. This is not the kind of learning activity that inspires highly engaged learners.</p>
@@ -435,37 +411,42 @@ After reading the topic above, consider the following question:<br>
 <p>Not only do members of the group need to learn the content of the lesson or project, but they must also learn the process of working well as a cooperative group. Sometimes, these processes need to be taught directly, other times (like in graduate studies) it is reasonable to presume that group members will already possess and be willing to utilize effective social skills.</p>
 </section>
 <section id="group-processing" class="level5 unnumbered">
-<h5 class="unnumbered anchored">Group Processing</h5>
+<h5 class="unnumbered anchored" data-anchor-id="group-processing">Group Processing</h5>
 <p>Finally, the group must be able to monitor their process with the goal of improving their work process and product. This metacognitive task is crucial to the long-term improvement and progress towards learning goals.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<figcaption>Cooperative Learning (Slavin, 2011)</figcaption>
-<p><img src="assets/u3/Image3.png" class="img-fluid figure-img"></p>
+<figcaption>2.3 Integration of theoretical perspectives on cooperative learning effects on learning (Slavin, 2011)</figcaption>
+<p><a href="assets/u3/Image_cooperative_learning.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="2.3 Integration of theoretical perspectives on cooperative learning effects on learning (Slavin, 2011)"><img src="assets/u3/Image_cooperative_learning.png" class="img-fluid figure-img" alt="Cooperative Learning" width="600"></a></p>
 </figure>
 </div>
+</section>
+</section>
+<section id="activity-coaching-for-learning" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-coaching-for-learning">Activity: Coaching for Learning</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Learning Activity
+Learning Activity: Read and Reflect
 </div>
 </div>
-<section id="learning-activity-1" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="learning-activity-1">Learning Activity</h4>
-<p><strong><em>Questions to Consider</em></strong><br>
-After reading through the content in Topic 2, please consider the following questions:<br>
-- How can coaching concepts be applied to helping learners learn?<br>
-- What key characteristics define effective coaching for learning?<br>
-- How can educators coach learners through the transition of making a change?</p>
-</section>
+<div class="callout-body-container callout-body">
+<p>After reading through the content in Topic 2, please consider the following questions:</p>
+<ul>
+<li>How can coaching concepts be applied to helping learners learn?<br>
+</li>
+<li>What key characteristics define effective coaching for learning?<br>
+</li>
+<li>How can educators coach learners through the transition of making a change?</li>
+</ul>
+</div>
 </div>
 </section>
 </section>
-</section>
-<section id="facilitating-transformational-learning-in-group-environments" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="facilitating-transformational-learning-in-group-environments"><span class="header-section-number">2.3</span> Facilitating Transformational Learning in Group Environments</h2>
+<section id="facilitating-transformational-learning-in-group-settings" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="facilitating-transformational-learning-in-group-settings"><span class="header-section-number">2.3</span> Facilitating Transformational Learning in Group Settings</h2>
 <p>In Unit One, we examined the CoI model and identified how teaching presence helps to support both the cognitive and social presences within the educational experience of a course of study. An important idea we emphasized was that teaching presence can be a shared function between members of the learning community and that facilitation of the learning process is often shared (Garrison, et al., 2010). Now, we are interested in examining what a division of the teaching presence might look like if we professionalize the function of learning facilitation within a distributed model of teaching presence.</p>
 <p>Our prototype for exploring this model is TWU’s own Facilitated Academic Resource (FAR) centre. The facilitation of courses in the TWU FAR Centre model is unique, as you know. From the perspective of a traditional, campus-based faculty member in Langley, a FAR Centre course is an <em>online</em> course. The faculty member has worked in the role subject matter expert with an instructional designer to <em>structure</em> a course which integrates everything required to create an online community of inquiry with allowances for all three presences: social, cognitive, and teaching. The courses are deployed through online technology and materials are accessed digitally in remote locations. Furthermore, students submit their work to the faculty member who then assesses their work and provides both formative and summative feedback as appropriate.</p>
 <p>From the perspective of the remote student, however, the course is much more like a typical F2F course where they are meeting with a group of their fellow students in regularly scheduled learning labs in a central location and are guided through the learning materials by an experienced facilitator.</p>
@@ -474,6 +455,9 @@ After reading through the content in Topic 2, please consider the following ques
 <section id="facilitating-group-learning-sessions" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="facilitating-group-learning-sessions">Facilitating Group Learning Sessions</h3>
 <p>The work of facilitating the learning process within a group setting begins with an effective plan. Smith (2009) proposes a simple model: EFFECT. This model reminds the facilitator to think about the learning <strong>environment,</strong> the <strong>focus</strong> (or purpose) of the session, <strong>feelings</strong> the session is likely to evoke, <strong>experiences</strong> learners will explore, <strong>changes</strong> learners will make as a result of the session, and the <strong>timings</strong> allocated for all the learning experiences and activities. Next, it’s important for the facilitator to plan out the structure of each learning session, which like a story, should have beginnings, middles, and endings. Each stage has a particular task. The beginning encourages learners to explore, the middle engages learners with the subject, and the ending enables learners to move on in their personal learning journey. Drawing upon Evans’ (2007) guidelines for helping conversations, Smith (2009) advises facilitators to think about “the exploration as the first quarter of the session; engaging with the subject and developing understanding as the middle half; and enabling action and development as the final quarter.”</p>
+</section>
+<section id="activity-exploring-the-role-of-the-facilitator" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-exploring-the-role-of-the-facilitator">Activity: Exploring the Role of the Facilitator</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -483,19 +467,23 @@ After reading through the content in Topic 2, please consider the following ques
 Learning Activity
 </div>
 </div>
-<section id="learning-activity-2" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="learning-activity-2">Learning Activity</h4>
-<p>Read the following article:</p>
-<p><a href="https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/"><strong>Facilitating Learning and Change in Groups</strong></a></p>
-<p><em>Questions to Consider</em><br>
-After completing the reading above, consider the following questions:<br>
-- According to Roger Schwarz what is a facilitator’s main task?<br>
-- According to Carl Rogers what are the core conditions for facilitating learning?<br>
-- What are the three foci of the facilitator role?<br>
-- What are the core values informing facilitation?<br>
-- How can the EFFECT model help you to plan a facilitated learning session?<br>
-- How does a facilitator effectively structure a facilitated learning session?</p>
-</section>
+<div class="callout-body-container callout-body">
+<p>Read the following article <a href="https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/"><em>Facilitating Learning and Change in Groups and Group Sessions</em></a> (<em>Infed.Org</em>, n.d.).</p>
+<p>After completing the reading above, consider the following questions:</p>
+<ul>
+<li>According to Roger Schwarz what is a facilitator’s main task?<br>
+</li>
+<li>According to Carl Rogers what are the core conditions for facilitating learning?<br>
+</li>
+<li>What are the three foci of the facilitator role?<br>
+</li>
+<li>What are the core values informing facilitation?<br>
+</li>
+<li>How can the EFFECT model help you to plan a facilitated learning session?<br>
+</li>
+<li>How does a facilitator effectively structure a facilitated learning session?</li>
+</ul>
+</div>
 </div>
 </section>
 </section>
@@ -504,41 +492,44 @@ After completing the reading above, consider the following questions:<br>
 <p>In this Unit we have examined how individual learning may be understood as a social process, however, it is also important for facilitators to understand that the group as a whole also learns and develops.</p>
 <p>Forsyth (2017) defines a social group as <em>“two or more individuals who are connected to one another by and within social relationship”</em> (p.&nbsp;3). The number of group members, the presence of links between members, and the nature of those links all shape the group and the quality of learning it supports.</p>
 <p>An essential requirement for learning in a group is a sufficient level of cohesion and trust between members. Some of the group characteristics that tend to cultivate trust within a group include:</p>
-<p><strong>Similarity</strong> - The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.</p>
-<p><strong>Stability</strong> - The longer a group stays together, the more cohesive it becomes.</p>
-<p><strong>Size</strong> - Smaller groups tend to have higher cohesion.</p>
-<p><strong>Support</strong> - Coaching and encouragement to support other members strengthens the group’s identity.</p>
-<p><strong>Satisfaction</strong> - How pleased group members are with each other’s performance, behaviour, and conformity to group norms increases cohesion.</p>
-<p><em>One factor that tends to erode trust within a group is:</em></p>
-<p><strong>Social Loafing</strong> - There is a tendency of individuals to put in less effort when working in a group context. As group size grows, this effect becomes larger.</p>
+<ul>
+<li><strong>Similarity</strong>: The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.</li>
+<li><strong>Stability</strong>: The longer a group stays together, the more cohesive it becomes.</li>
+<li><strong>Size</strong>: Smaller groups tend to have higher cohesion.</li>
+<li><strong>Support</strong>: Coaching and encouragement to support other members strengthens the group’s identity.</li>
+<li><strong>Satisfaction</strong>: How pleased group members are with each other’s performance, behaviour, and conformity to group norms increases cohesion.</li>
+</ul>
+<p>One factor that tends to erode trust within a group is:</p>
+<ul>
+<li><strong>Social Loafing</strong>: There is a tendency of individuals to put in less effort when working in a group context. As group size grows, this effect becomes larger.</li>
+</ul>
 <section id="group-development" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="group-development">Group Development</h3>
 <p>It is important for facilitators to understand that groups change over time. One of the most influential and helpful models of group development was articulated by Bruce W. Tuckman (1965). His research finding was that groups typically move through five critical stages of development:</p>
-<p><strong>Forming:</strong> Members get to know one another, exchange personal information, and establish new relationships.</p>
-<p><strong>Storming:</strong> Members open up to each other and confront each other’s ideas and perspectives.</p>
-<p><strong>Norming:</strong> Members achieve a consensus about goals, definition of roles, and clear coordination of effort.</p>
-<p><strong>Performing:</strong> The group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external facilitation.</p>
-<p><strong>Adjourning:</strong> At some point the group ends.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
+<ul>
+<li><strong>Forming</strong>: Members get to know one another, exchange personal information, and establish new relationships.</li>
+<li><strong>Storming</strong>: Members open up to each other and confront each other’s ideas and perspectives.</li>
+<li><strong>Norming</strong>: Members achieve a consensus about goals, definition of roles, and clear coordination of effort.</li>
+<li><strong>Performing</strong>: The group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external facilitation.</li>
+<li><strong>Adjourning</strong>: At some point the group ends.</li>
+</ul>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
 <div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
+<i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
-Learning Activity
+<div class="callout-body-container">
+<p>Each stage of group development requires the facilitator to employ variations in their approach.</p>
 </div>
 </div>
-<section id="protip" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="protip">✨ ProTip</h4>
-<p><strong><em>Each stage of group development requires the facilitator to employ variations in their approach.</em></strong></p>
-</section>
 </div>
 <section id="transforming-me-to-we" class="level4 unnumbered">
 <h4 class="unnumbered anchored" data-anchor-id="transforming-me-to-we">Transforming (Me to We)</h4>
 <table class="caption-top table">
+<caption>Table 2.1 Facilitation Approaches for Different Phases of Group Development</caption>
 <colgroup>
-<col style="width: 62%">
-<col style="width: 37%">
+<col style="width: 30%">
+<col style="width: 70%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -557,7 +548,7 @@ Learning Activity
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Norming<br> (Unwilling and able)</td>
-<td>Encouraging, <strong>confidence building</strong>, clear goals, holding accountable) <br> <em>(Why? Helping discard the old reality.)</em></td>
+<td>Encouraging, <strong>confidence building</strong>, clear goals, holding accountable. <br> <em>(Why? Helping discard the old reality.)</em></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">Performing<br> (Willing and able)</td>
@@ -569,47 +560,55 @@ Learning Activity
 </tr>
 </tbody>
 </table>
+</section>
+</section>
+<section id="activity-understanding-group-dynamics" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-understanding-group-dynamics">Activity: Understanding Group Dynamics</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Learning Activity
+Learning Activity: Read and Reflect
 </div>
 </div>
-<section id="learning-activity-3" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="learning-activity-3">Learning Activity</h4>
-<p>Take a moment to read the following article:</p>
-<p><a href="https://infed.org/mobi/what-is-a-group/"><strong>What is a Group?</strong></a></p>
-<p><em>Questions to Consider</em><br>
-After reading the article above, consider the following questions:<br>
-- What are some of the key benefits and dangers of learning in group settings?<br>
-- What are some key dimensions of groups?<br>
-- What are the stages of group development?</p>
+<div class="callout-body-container callout-body">
+<p>Take a moment to read the following article <a href="https://infed.org/mobi/what-is-a-group/"><em>What is a Group?</em></a> (<em>Infed.Org</em>, n.d.).</p>
+<p>After reading the article above, consider the following questions:</p>
+<ul>
+<li>What are some of the key benefits and dangers of learning in group settings?<br>
+</li>
+<li>What are some key dimensions of groups?<br>
+</li>
+<li>What are the stages of group development?</li>
+</ul>
+</div>
+</div>
 </section>
-</div>
+<section id="activity-from-comfort-zone-to-performance" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-from-comfort-zone-to-performance">Activity: From Comfort Zone to Performance</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Learning Activity
+Learning Activity: Read and Reflect
 </div>
 </div>
-<section id="learning-activity-4" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="learning-activity-4">Learning Activity</h4>
-<p>Take a moment to read the following article:</p>
-<p><a href="https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management"><strong>Comfort Zone to Performance Management</strong></a></p>
-<p><em>Questions to Consider</em><br>
-After completing the reading above, consider the following questions:<br>
-- How is White’s Optimal Performance Zone similar Vygotsky’s ZPD?<br>
-- How does White’s model help a facilitator determine how to adjust their facilitation strategies?<br>
-- What insight does White’s model provide about how to sustain learning performance?</p>
-</section>
+<div class="callout-body-container callout-body">
+<p>Take a moment to read the following article <a href="https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management"><em>From Comfort Zone to Performance Management</em></a> (White, 2009).</p>
+<p>After completing the reading above, consider the following questions:</p>
+<ul>
+<li>How is White’s Optimal Performance Zone similar Vygotsky’s ZPD?<br>
+</li>
+<li>How does White’s model help a facilitator determine how to adjust their facilitation strategies?<br>
+</li>
+<li>What insight does White’s model provide about how to sustain learning performance?</li>
+</ul>
 </div>
-</section>
+</div>
 </section>
 </section>
 <section id="core-facilitation-competencies" class="level2" data-number="2.5">
@@ -625,52 +624,59 @@ After completing the reading above, consider the following questions:<br>
 <li>Providing learners with formative feedback</li>
 <li>Mediating exchange of coursework and feedback between students &amp; instructor</li>
 </ul>
-<hr>
+<section id="activity-developing-facilitation-competencies" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-developing-facilitation-competencies">Activity: Developing Facilitation Competencies</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Learning Activity
+Learning Activity: Read and Reflect
 </div>
 </div>
-<section id="learning-activity-5" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="learning-activity-5">Learning Activity</h4>
-<p>Take some time to read the following article:</p>
-<p><a href="https://www.iaf-world.org/site/professional/core-competencies"><strong>Core Competencies</strong></a></p>
-<p><strong><em>Questions to Consider</em></strong><br>
-After completing the reading above, consider the following questions:<br>
-- What general facilitation competencies apply to facilitating learning?<br>
-- What competencies do you feel are strength areas? What areas do you need to develop?<br>
-- How can facilitation skills help you support learner success in an educational setting?</p>
+<div class="callout-body-container callout-body">
+<p>Take some time to read the following article <a href="https://www.iaf-world.org/site/professional/core-competencies"><em>Core Competencies</em></a> (<em>IAF Core Competencies</em>, 2021).</p>
+<p>After completing the reading above, consider the following questions:</p>
+<ul>
+<li>What general facilitation competencies apply to facilitating learning?<br>
+</li>
+<li>What competencies do you feel are strength areas? What areas do you need to develop?<br>
+</li>
+<li>How can facilitation skills help you support learner success in an educational setting?</li>
+</ul>
+</div>
+</div>
 </section>
-</div>
 </section>
-<section id="facilitation-strategies" class="level2" data-number="2.6">
-<h2 data-number="2.6" class="anchored" data-anchor-id="facilitation-strategies"><span class="header-section-number">2.6</span> Facilitation Strategies</h2>
+<section id="strategies-for-learning-facilitation" class="level2" data-number="2.6">
+<h2 data-number="2.6" class="anchored" data-anchor-id="strategies-for-learning-facilitation"><span class="header-section-number">2.6</span> Strategies for Learning Facilitation</h2>
 <p>Strategies for facilitating learning are as numerous and varied as the educators who create them. In the FAR model of professionally facilitated learning we are proposing in this course, each FAR course you may help facilitate in the future has a facilitator’s guide that provides designs for each learning activity. While these designs provide you with the majority of the learning facilitation strategies required in a given course, the needs of learners are not always predictable and emergent strategies may be needed.</p>
 <section id="liberating-structures" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="liberating-structures">Liberating Structures</h3>
 <p>It can often be challenging to devise new ways of interacting in F2F learning environments, but there are many resources available to facilitators both online and in print. One of those resources is a book and website called <em>Liberating Structures</em> which describes a set of 33 structured activities that you can use in your learning labs to generate conversation without resorting to the same old tired ‘brainstorm.’</p>
+</section>
+<section id="activity-guiding-group-discussions-with-liberating-structures" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-guiding-group-discussions-with-liberating-structures">Activity: Guiding Group Discussions with Liberating Structures</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Learning Activity
+Learning Activity: Watch, Read and Reflect
 </div>
 </div>
-<section id="learning-activity-6" class="level4 unnumbered callout-body-container callout-body">
-<h4 class="unnumbered anchored" data-anchor-id="learning-activity-6">Learning Activity</h4>
+<div class="callout-body-container callout-body">
 <p>Watch the video below for a quick introduction to <em>Liberating Structures:</em></p>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/364868276" width="465" height="262" frameborder="0" allowfullscreen="">
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe src="https://player.vimeo.com/video/364868276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Liberating Structures: Simple, Subtle, Powerful">
 </iframe>
-<p>Next, visit the <em>Liberating Structures</em> website and take a look at the following activity:</p>
-<p><a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/"><strong>What, So What, Now What? W³</strong></a></p>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<p>Next, visit the <a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/"><em>Liberating Structures</em> website: <em>What, So What, Now What? W³</em></a> (Lipmanowicz, n.d.)</p>
 <p>Now, consider how could you use this Liberating Structure to guide a group discussion that would help learners learn a Unit?</p>
-</section>
+</div>
 </div>
 <!-- ## Unit 2 Assessment {.unnumbered}
 
@@ -685,254 +691,156 @@ Please complete the assignment under 'Post 2' below. This will be your second of
 
 
 ::: -->
+</section>
+</section>
+<section id="unit-summary" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="unit-summary">Unit Summary</h2>
+<p>This unit explored the principles and practices of Learning Facilitation, emphasizing the importance of social interaction in education through theories by John Dewey and Lev Vygotsky. Key topics included cooperative learning, strategies for transformational learning, and essential facilitation competencies. Participants engaged in practical applications to design effective learning environments and plan group processes, utilizing the Community of Inquiry model and liberating structures to enhance interactions. By the end of the unit, participants will be equipped to create supportive learning experiences and understand the core competencies necessary for successful facilitation, highlighting the critical role of collaboration in learning.</p>
 <div class="check">
 <p>Before you move on to the next unit, you may want to check to make sure that you are able to:</p>
-<p>✅ Explain how to design learning environments to maximize learning.<br>
-✅ Plan appropriate group learning processes to support transformative learning.<br>
-✅ Demonstrate how to facilitate a course of study.<br>
-✅ Design cooperative activities to maximize student-student and student-content interactions.<br>
-✅ Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.<br>
-✅ Identify and explain core competencies for facilitating learning.</p>
-</div>
-</section>
-</section>
-<section id="facilitation-notes" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="facilitation-notes">Facilitation Notes</h2>
-<section id="facilitating-group-learning" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="facilitating-group-learning">Facilitating Group Learning</h4>
-</section>
-<section id="facilitation-session" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="facilitation-session">Facilitation Session</h4>
-<p>See the ‘Assessment’ page for details.</p>
-</section>
-<section id="two-similar-but-different-teaching-presence-roles" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="two-similar-but-different-teaching-presence-roles">Two Similar, but Different “Teaching Presence” Roles</h4>
 <ul>
-<li>Facilitator: Guiding the coordination of a group’s collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.</li>
-<li>Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.</li>
+<li>Explain how to design learning environments to maximize learning.<br>
+</li>
+<li>Plan appropriate group learning processes to support transformative learning.<br>
+</li>
+<li>Demonstrate how to facilitate a course of study.<br>
+</li>
+<li>Design cooperative activities to maximize student-student and student-content interactions.<br>
+</li>
+<li>Apply knowledge of the Community of Inquiry model and liberating structures to the facilitation of cooperative learning activities.</li>
+<li>Identify and explain core competencies for facilitating learning.</li>
 </ul>
-</section>
-<section id="facilitation-competencies" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="facilitation-competencies">Facilitation Competencies</h4>
-<ul>
-<li>Create cooperative working relationships with the group</li>
-<li>Determining group needs and designing group sessions</li>
-<li>Managing group processes</li>
-<li>Selecting appropriate group learning methods and learning processes</li>
-<li>Preparing time and space to support group learning</li>
-<li>Creating and sustaining a supportive and participatory group learning environment</li>
-<li>Demonstrating effective communication</li>
-<li>Insuring inclusiveness</li>
-<li>Managing conflict</li>
-<li>Encouraging creativity</li>
-<li>Guiding group to consensus and desired learning outcome</li>
-</ul>
-</section>
-<section id="facilitation-process" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="facilitation-process">Facilitation Process</h4>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Facilitation Process</figcaption>
-<p><img src="assets/presentations/facilitation/fac-process.drawio.png" class="img-fluid figure-img"></p>
-</figure>
 </div>
-<section id="open" class="level5 unnumbered">
-<h5 class="unnumbered anchored" data-anchor-id="open">Open</h5>
-<ul>
-<li>Orient the group</li>
-<li>Set the stage</li>
-<li>Develop themes</li>
-</ul>
-</section>
-<section id="explore" class="level5 unnumbered">
-<h5 class="unnumbered anchored" data-anchor-id="explore">Explore</h5>
-<ul>
-<li>Examine</li>
-<li>Explore</li>
-<li>Problem-solve</li>
-</ul>
-</section>
-<section id="close" class="level5 unnumbered">
-<h5 class="unnumbered anchored" data-anchor-id="close">Close</h5>
-<ul>
-<li>Plan</li>
-<li>Decide</li>
-<li>Conclude</li>
-</ul>
-</section>
-</section>
-<section id="facilitating-the-process-of-prescribed-learning" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="facilitating-the-process-of-prescribed-learning">Facilitating the Process of Prescribed Learning</h4>
-<p><span class="math display">\[\text{Current Status}\Longrightarrow \Longrightarrow \Longrightarrow \Longrightarrow \text{Specific Goal}\]</span></p>
-</section>
-<section id="facilitating-the-process-of-inquiry-rich-learning" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="facilitating-the-process-of-inquiry-rich-learning">Facilitating the Process of Inquiry-rich Learning</h4>
-<p><span class="math display">\[\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\looparrowright\Updownarrow\rightrightarrows\text{Fuzzy Goal}\]</span></p>
-</section>
-<section id="managing-group-dynamics" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="managing-group-dynamics">Managing Group Dynamics</h4>
-</section>
-<section id="cohesion-factors-that-cultivate-predictable-trust" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="cohesion-factors-that-cultivate-predictable-trust">Cohesion Factors that Cultivate (Predictable) Trust</h4>
-<ul>
-<li>Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.</li>
-<li>Stability. The longer a group stays together, the more cohesive it becomes.</li>
-<li>Size. Smaller groups tend to have higher cohesion.</li>
-<li>Support. Coaching and encouragement to support other members strengthens the group’s identity.</li>
-<li>Satisfaction. How pleased group members are with each other’s performance, behaviour, and conformity to group norms increases cohesion.</li>
-</ul>
-</section>
-<section id="social-loafing" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="social-loafing">Social Loafing</h4>
-<ul>
-<li>There is a tendency of individuals to put in less effort when working in a group context.</li>
-<li>As group size grows, this effect becomes larger.</li>
-</ul>
-</section>
-<section id="how-do-learning-groups-develop-over-time" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="how-do-learning-groups-develop-over-time">How do learning groups develop over time?</h4>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Tuckman’s Stages of Group Performance</figcaption>
-<p><img src="assets/presentations/facilitation/tuckman.drawio.png" class="img-fluid figure-img"></p>
-</figure>
-</div>
-<ul>
-<li>Forming: Learning group members get to know one another, exchange personal information, and establish new relationships.</li>
-<li>Storming: Learning group members open up to each other and confront each other’s ideas and perspectives.</li>
-<li>Norming: Learning group members achieve a consensus about goals, definition of roles, and clear coordination of effort.</li>
-<li>Performing: The learning group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external supervision.</li>
-<li>Adjourning: admittedly a strained rhyme, but the idea, which is not in Tuckman’s original model, is that the group will eventually disband, and it is important to finish well, gather data on the process, and carry forward lessons learned.</li>
-</ul>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Learning Activity
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong><em>The life of learning groups is dynamic and cyclical.</em></strong></p>
-</div>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Tuckman and Jensen’s Stages of Group Performance</figcaption>
-<p><img src="assets/presentations/facilitation/tuckman-jensen.drawio.png" class="img-fluid figure-img"></p>
-</figure>
-</div>
-</section>
-<section id="tpr-life-cycle-model-white-2009" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="tpr-life-cycle-model-white-2009">TPR Life-cycle Model (White, 2009)</h4>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Tuckman Model</th>
-<th>TPR Model</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Forming</td>
-<td>Transforming</td>
-</tr>
-<tr class="even">
-<td>Storming</td>
-<td>-</td>
-</tr>
-<tr class="odd">
-<td>Norming</td>
-<td>-</td>
-</tr>
-<tr class="even">
-<td>Performing</td>
-<td>Performing</td>
-</tr>
-<tr class="odd">
-<td>Adjourning</td>
-<td>Reforming</td>
-</tr>
-</tbody>
-</table>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 62%">
-<col style="width: 37%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Developmental Phase (White, 2009)</th>
-<th>Coaching and Facilitation Guidelines</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><strong>Transforming</strong> (Me to We)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><em>Forming</em> <br> (Unwilling/unable)</td>
-<td>Clear goals, <strong>directions</strong>, fairness, firmness <br> (Why: overcoming denial of the new reality)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><em>Storming</em> <br> (Willing/unable)</td>
-<td>As above, plus <strong>encouraging participation</strong>, calmness, recognition of concerns <br> (Why: overcoming defence of the old reality)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><em>Norming</em> <br> (Unwilling/able)</td>
-<td>Encouraging, <strong>confidence building</strong>, clear goals, holding accountable <br> (Why: helping discard the old reality)</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><strong>Performing</strong> <br> (Willing/able)</td>
-<td>Clear goal setting, monitoring, strategic preparation, seeking innovative approaches, <strong>empowering team members</strong> <br> (Why: helping make new adaptations)</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>Reforming</strong> <br> (Disengaging)</td>
-<td><strong>Establishing new goals</strong>, solving confusion, managing risks <br> (Why: challenging the new comfort zone)</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="learning-group-experience-punctuated-equilibrium" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="learning-group-experience-punctuated-equilibrium">Learning Group Experience Punctuated Equilibrium</h4>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Learning Group Experience Punctuated Equilibrium</figcaption>
-<p><img src="assets/presentations/facilitation/pe.drawio.png" class="img-fluid figure-img"></p>
-</figure>
-</div>
-</section>
-<section id="managing-the-group-learning-process" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="managing-the-group-learning-process">Managing the group learning process</h4>
-<p>Working with Creative Tension in Teams</p>
-<ol type="1">
-<li>be clear about the results the team wants to create (vision as important as group dynamics reality);</li>
-<li>understand the underlying structural dynamics that influence the team’s ability to create;</li>
-<li>work on changing those underlying structures in order to bring the current reality in line with the desired outcome.</li>
-</ol>
-</section>
-<section id="zone-of-proximal-development-1" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="zone-of-proximal-development-1">Zone of Proximal Development</h4>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Zone of Proximal Development</figcaption>
-<p><img src="assets/presentations/facilitation/zpd.drawio.png" class="img-fluid figure-img"></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<figcaption>Zone of Proximal Development</figcaption>
-<p><img src="assets/presentations/facilitation/zpd2.drawio.png" class="img-fluid figure-img"></p>
-</figure>
-</div>
-</section>
-<section id="scaffolding-1" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="scaffolding-1">Scaffolding</h4>
+<!-- ## Facilitation Notes {.unnumbered}
+
+#### Facilitating Group Learning {.unnumbered}
+
+#### Facilitation Session {.unnumbered}
+
+See the 'Assessment' page for details.
+
+#### Two Similar, but Different "Teaching Presence" Roles {.unnumbered}
+
+- Facilitator: Guiding the coordination of a group's collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.
+- Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.
+
+#### Facilitation Competencies {.unnumbered}
+- Create cooperative working relationships with the group
+- Determining group needs and designing group sessions
+- Managing group processes
+- Selecting appropriate group learning methods and learning processes
+- Preparing time and space to support group learning
+- Creating and sustaining a supportive and participatory group learning environment
+- Demonstrating effective communication
+- Insuring inclusiveness
+- Managing conflict
+- Encouraging creativity
+- Guiding group to consensus and desired learning outcome
+
+#### Facilitation Process {.unnumbered}
+
+![Facilitation Process](assets/presentations/facilitation/fac-process.drawio.png)
+
+##### Open {.unnumbered}
+
+* Orient the group
+* Set the stage
+* Develop themes
+
+##### Explore {.unnumbered}
+
+* Examine
+* Explore
+* Problem-solve
+
+##### Close {.unnumbered}
+
+* Plan
+* Decide
+* Conclude
+
+#### Facilitating the Process of Prescribed Learning {.unnumbered}
+
+$$\text{Current Status}\Longrightarrow \Longrightarrow \Longrightarrow \Longrightarrow \text{Specific Goal}$$ 
+
+#### Facilitating the Process of Inquiry-rich Learning {.unnumbered}
+
+$$\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\looparrowright\Updownarrow\rightrightarrows\text{Fuzzy Goal}$$ 
+
+#### Managing Group Dynamics {.unnumbered}
+
+#### Cohesion Factors that Cultivate (Predictable) Trust {.unnumbered}
+
+- Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.
+- Stability. The longer a group stays together, the more cohesive it becomes.
+- Size. Smaller groups tend to have higher cohesion.
+- Support. Coaching and encouragement to support other members strengthens the group's identity.
+- Satisfaction. How pleased group members are with each other's performance, behaviour, and conformity to group norms increases cohesion.
+
+#### Social Loafing {.unnumbered}
+
+- There is a tendency of individuals to put in less effort when working in a group context.
+- As group size grows, this effect becomes larger.
+
+#### How do learning groups develop over time? {.unnumbered}
+
+![Tuckman's Stages of Group Performance](assets/presentations/facilitation/tuckman.drawio.png)
+
+- Forming: Learning group members get to know one another, exchange personal information, and establish new relationships.
+- Storming: Learning group members open up to each other and confront each other's ideas and perspectives.
+- Norming: Learning group members achieve a consensus about goals, definition of roles, and clear coordination of effort.
+- Performing: The learning group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external supervision.
+- Adjourning: admittedly a strained rhyme, but the idea, which is not in Tuckman's original model, is that the group will eventually disband, and it is important to finish well, gather data on the process, and carry forward lessons learned.  
 
 
-</section>
+::: {.learning-activity}
+***The life of learning groups is dynamic and cyclical.***
+
+:::
+
+![Tuckman and Jensen's Stages of Group Performance](assets/presentations/facilitation/tuckman-jensen.drawio.png)
+
+#### TPR Life-cycle Model (White, 2009) {.unnumbered}
+
+| Tuckman Model | TPR Model |
+|  ---  |  ---  |
+|Forming|    Transforming   |
+|  Storming     |   -    |
+|    Norming   |    -   |
+|   Performing    |  Performing     |
+|    Adjourning   |  Reforming     |
+
+
+|  Developmental Phase  (White, 2009)   |  Coaching and Facilitation Guidelines     |
+|  :---:  |  ---  |
+|  **Transforming** (Me to We)     |       |
+|    *Forming* <br> (Unwilling/unable)   |  Clear goals, **directions**, fairness, firmness <br> (Why: overcoming denial of the new reality)     |
+|  *Storming* <br> (Willing/unable)     |   As above, plus **encouraging participation**, calmness, recognition of concerns <br> (Why: overcoming defence of the old reality)    |
+|  *Norming* <br> (Unwilling/able)     |  Encouraging, **confidence building**, clear goals, holding accountable <br> (Why: helping discard the old reality)     |
+|   **Performing** <br> (Willing/able)    |  Clear goal setting, monitoring, strategic preparation, seeking innovative approaches, **empowering team members** <br> (Why: helping make new adaptations)     |
+|  **Reforming** <br> (Disengaging)     |  **Establishing new goals**, solving confusion, managing risks <br> (Why: challenging the new comfort zone)     |
+
+#### Learning Group Experience Punctuated Equilibrium {.unnumbered}
+
+![Learning Group Experience Punctuated Equilibrium](assets/presentations/facilitation/pe.drawio.png)
+
+#### Managing the group learning process {.unnumbered}
+
+Working with Creative Tension in Teams
+
+1. be clear about the results the team wants to create (vision as important as group dynamics reality);
+2. understand the underlying structural dynamics that influence the team's ability to create;
+3. work on changing those underlying structures in order to bring the current reality in line with the desired outcome.
+
+#### Zone of Proximal Development {.unnumbered}
+
+![Zone of Proximal Development](assets/presentations/facilitation/zpd.drawio.png)
+
+![Zone of Proximal Development](assets/presentations/facilitation/zpd2.drawio.png)
+
+#### Scaffolding {.unnumbered} -->
+
+
 </section>
 
 </main> <!-- /main -->
@@ -1369,6 +1277,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","closeEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"top"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

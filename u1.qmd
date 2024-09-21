@@ -110,7 +110,7 @@ This process of seeking meaning is an iterative process whereby the learner expe
 
 This brings us to the idea of a 'Community of Inquiry' (CoI), which was first described by Garrison, Anderson, and Archer in their 2000 article "Critical Inquiry in a text-based environment". Garrison, et al. theorize that there are three critical components, or "presences" that compose an interactive, online learning environment: Cognitive presence, social presence, and teaching presence. The intersection of these three presences is the heart of an educational experience.
 
-![Figure 1.1 Community of Inquiry Model (Garrison, et al., (2000)](assets/u2/CoI-Model.png){.lightbox fig-alt="ommunity of Inquiry Model" width=400}
+![Figure 1.1 Community of Inquiry Model (Garrison, et al., (2000)](assets/u2/CoI-Model.png){.lightbox fig-alt="Community of Inquiry Model" width=400}
 
 #### Cognitive Presence {.unnumbered}
 Cognitive presence, possibly the most foundational element, is the
@@ -250,7 +250,7 @@ Please complete the assignment under 'Post 1' on the 'Assessment' page in the me
 
 ::: -->
 
-## Summary {.unnumbered}
+## Unit Summary {.unnumbered}
 
 In this unit of LDRS 663, you are introduced to the Community of Inquiry (CoI) model, which emphasizes the interconnected roles of cognitive, social, and teaching presences in online learning environments. The unit explores how these presences foster meaningful learning experiences through interaction, informed by the educational theory of social constructivism. Additionally, the unit examines various modes of interaction, including student-teacher, student-student, and student-content dynamics, and introduces Anderson’s Interaction Equivalency Theorem, which explains how deep learning can occur with a focus on one key mode of interaction.
 
