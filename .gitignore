@@ -6,3 +6,5 @@ _bookdown_files
 rsconnect
 
 /.quarto/
+
+/.luarc.json
