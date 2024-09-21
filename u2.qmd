@@ -104,7 +104,7 @@ In sum, we may conclude that knowledge is *constructed* first socially, then, pe
 
 Social constructivism builds on the constructivist model, adding the idea that this process of integrating new understandings with old understandings is best understood as a *social* process. Vygotsky (1978) introduced the idea that people with a greater capacity to understand the world and cope with its challenges act as supportive structures, which enable others to *construct* and *internalize* the knowledge these people have. This new construction occurs within what Vygotsky refers to as an individual’s ***zone of proximal development,*** which he differentiated from their ***zone of actual development.*** The ZPD is the 'sweet spot' in education where a student is optimally challenged to learn. If the task is too easy for the student, and they have already mastered it, then learning activities will not result in learning. Conversely, if a task is so difficult that the student cannot complete it, even with assistance, learning activities will not result in learning. In the middle are tasks that a student is able to complete, but only with the assistance of a more capable peer or expert. This is the Zone of Proximal Development:
 
-![Figure 2.1 Zone of Proximal Development](assets/u3/ZPD_Image_new.png){.lightbox fig-alt="Zone of Proximal Development" width=400}
+![Figure 2.1 Vygotsky's Zone of Proximal Development](assets/u3/ZPD_Image_1.png){.lightbox fig-alt="A diagram of Vygotsky's Zone of Proximal Development" width=663}
 
 ### Scaffolding
 
