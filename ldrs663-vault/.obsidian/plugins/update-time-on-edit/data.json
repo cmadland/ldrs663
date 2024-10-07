@@ -8,18 +8,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "_templates/source-note.md": "847a95abc3b93eba8926ccb3e629d940bd5f9a87ed128364b1c01227d48e37df",
-    "Learning Outcomes/LO-8.md": "2985cb79d8a9a420efdefa380cc908ed58165ab6ca902fae193b388cfd0414e3",
-    "Learning Outcomes/LO-7.md": "28abdbc996086c2bc3f9e505109401525bef8ceb9316b0e969be8dd687f1da38",
-    "Learning Outcomes/LO-6.md": "51652bbda1fdaddbe8d86cfeab8ac67533e09530fc96a954dd330bdd99e17713",
-    "Learning Outcomes/LO-5.md": "e69a0b62eb8b1046ec996d543c1327a5241ce82208622850023079731393363d",
-    "Learning Outcomes/LO-4.md": "6e4df5bb4954eb47cdbf0ffd69d6643f0cc0ca47240d8b0b722fb3793a0305e4",
-    "Learning Outcomes/LO-3.md": "8b30c12d2d04ef2c163b9e0421dea71457457d72a8b5eab2ee2c8b82c3d544e8",
-    "Learning Outcomes/LO-2.md": "dc7230a00e62af0745cf49d784afe57e887db72e44631b1065d01bf55b39664b",
-    "Learning Outcomes/LO-1.md": "d3de6f6509d98d1d4a8bc5835098f0dd5132b95820cb8107114fbfb7294f4ea8",
-    "_templates/reflections.md": "d1defbcbb09fe6d5c26545ca489640e5ede593e46b5407d699417a5ab5ad7c4e",
     "adamsHandbookAutoethnography2021.md": "ce1d7d8fca312ec80ca46301954f442599e8724c2969a8b201bcb009e5104682",
-    "mansourStudentsFacilitatorsExperiences2024.md": "8c7ec97795f68f66a00206b680200d8c193d089814fba2e85a827655407d094c",
-    "changIndividualCollaborativeAutoethnography2021.md": "74d52c9edbedc428fd3134264270b87004300cba2efedfe284385de20e660769"
+    "mansourStudentsFacilitatorsExperiences2024.md": "8c7ec97795f68f66a00206b680200d8c193d089814fba2e85a827655407d094c"
   }
 }

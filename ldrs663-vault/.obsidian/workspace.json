@@ -11,30 +11,11 @@
             "id": "96e907e8d2c7d073",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "changIndividualCollaborativeAutoethnography2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7aacd6b62797b1c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
-                "page": 2,
-                "left": -11,
-                "top": 714,
-                "zoom": 1.3664596848876527
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,10 +143,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7aacd6b62797b1c",
+  "active": "885d4a14e4c4b5fc",
   "lastOpenFiles": [
-    "changIndividualCollaborativeAutoethnography2021.md",
+    "Untitled.canvas",
     "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
+    "changIndividualCollaborativeAutoethnography2021.md",
     "Articles",
     "_templates/source-note.md",
     "Article Notes/changIndividualCollaborativeAutoethnography2021.md",
@@ -180,7 +160,6 @@
     "02-Articles/garrisonCriticalInquiryTextbased2000.md",
     "02-articles/garrisonCriticalInquiryTextbased2000.md",
     "garrisonCriticalInquiryTextbased2000.md",
-    "Untitled.canvas",
     "Assignment 1 summary.md",
     "My Library.md",
     "My Library.ris",
