@@ -1,10 +1,12 @@
-# version 1.6
+# version 2.3
 
 project:
   type: book
   output-dir: docs
 
+# Changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
 published-title: "Last Modified"
+#author-title: "Authors"
 
 book:
   title: "LDRS 663"
@@ -24,6 +26,8 @@ book:
     - feeds.qmd
     - obsidian.qmd
     - references.qmd
+# Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
+#    - references.qmd
 
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
@@ -32,7 +36,7 @@ link-bibliography: true
 link-citations: true
 
 filters:
-  - custom.lua
+   - yml-assets/custom.lua
 
 # Add templete for block
 title-block-banner: true
@@ -41,7 +45,8 @@ format:
 # Format - HTML
   html:
     template-partials:
-      header-assets/title-block.html
+      yml-assets/title-block.html
+      
     sidebar:
       style: "docked"
       search: true
@@ -50,25 +55,23 @@ format:
     toc: true
     toc-title: On This Page
     # theme: cosmo
-    theme: [cosmo, custom.scss]
+    theme: [cosmo, yml-assets/custom.scss]
     include-in-header:
     - text: |
         <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
         <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
-
+        
 # Format - PDF
   pdf:
     documentclass: scrreprt
 # Format - Doc
-#  docx:
-#    toc: false
-#    number-sections: true
-#    highlight-style: github
-#    cite-method: biblatex
+  docx:
+    toc: false
+    number-sections: true
+    highlight-style: github
+  #   cite-method: biblatex
 # Fig captions
 fig-cap-location: top
 lightbox:
   desc-position: top
-
-
 
