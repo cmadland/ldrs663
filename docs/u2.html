@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
 <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
 <link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
 </head>
@@ -239,7 +268,25 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#liberating-structures" id="toc-liberating-structures" class="nav-link" data-scroll-target="#liberating-structures">Liberating Structures</a></li>
   <li><a href="#activity-guiding-group-discussions-with-liberating-structures" id="toc-activity-guiding-group-discussions-with-liberating-structures" class="nav-link" data-scroll-target="#activity-guiding-group-discussions-with-liberating-structures">Activity: Guiding Group Discussions with Liberating Structures</a></li>
   </ul></li>
-  <li><a href="#unit-summary" id="toc-unit-summary" class="nav-link" data-scroll-target="#unit-summary">Unit Summary</a></li>
+  <li><a href="#unit-summary" id="toc-unit-summary" class="nav-link" data-scroll-target="#unit-summary">Unit Summary</a>
+  <ul>
+  <li><a href="#facilitating-group-learning" id="toc-facilitating-group-learning" class="nav-link" data-scroll-target="#facilitating-group-learning">Facilitating Group Learning</a></li>
+  <li><a href="#facilitation-session" id="toc-facilitation-session" class="nav-link" data-scroll-target="#facilitation-session">Facilitation Session</a></li>
+  <li><a href="#two-similar-but-different-teaching-presence-roles" id="toc-two-similar-but-different-teaching-presence-roles" class="nav-link" data-scroll-target="#two-similar-but-different-teaching-presence-roles">Two Similar, but Different “Teaching Presence” Roles</a></li>
+  <li><a href="#facilitation-competencies" id="toc-facilitation-competencies" class="nav-link" data-scroll-target="#facilitation-competencies">Facilitation Competencies</a></li>
+  <li><a href="#facilitation-process" id="toc-facilitation-process" class="nav-link" data-scroll-target="#facilitation-process">Facilitation Process</a></li>
+  <li><a href="#facilitating-the-process-of-prescribed-learning" id="toc-facilitating-the-process-of-prescribed-learning" class="nav-link" data-scroll-target="#facilitating-the-process-of-prescribed-learning">Facilitating the Process of Prescribed Learning</a></li>
+  <li><a href="#facilitating-the-process-of-inquiry-rich-learning" id="toc-facilitating-the-process-of-inquiry-rich-learning" class="nav-link" data-scroll-target="#facilitating-the-process-of-inquiry-rich-learning">Facilitating the Process of Inquiry-rich Learning</a></li>
+  <li><a href="#managing-group-dynamics" id="toc-managing-group-dynamics" class="nav-link" data-scroll-target="#managing-group-dynamics">Managing Group Dynamics</a></li>
+  <li><a href="#cohesion-factors-that-cultivate-predictable-trust" id="toc-cohesion-factors-that-cultivate-predictable-trust" class="nav-link" data-scroll-target="#cohesion-factors-that-cultivate-predictable-trust">Cohesion Factors that Cultivate (Predictable) Trust</a></li>
+  <li><a href="#social-loafing" id="toc-social-loafing" class="nav-link" data-scroll-target="#social-loafing">Social Loafing</a></li>
+  <li><a href="#how-do-learning-groups-develop-over-time" id="toc-how-do-learning-groups-develop-over-time" class="nav-link" data-scroll-target="#how-do-learning-groups-develop-over-time">How do learning groups develop over time?</a></li>
+  <li><a href="#tpr-life-cycle-model-white-2009" id="toc-tpr-life-cycle-model-white-2009" class="nav-link" data-scroll-target="#tpr-life-cycle-model-white-2009">TPR Life-cycle Model (White, 2009)</a></li>
+  <li><a href="#learning-group-experience-punctuated-equilibrium" id="toc-learning-group-experience-punctuated-equilibrium" class="nav-link" data-scroll-target="#learning-group-experience-punctuated-equilibrium">Learning Group Experience Punctuated Equilibrium</a></li>
+  <li><a href="#managing-the-group-learning-process" id="toc-managing-the-group-learning-process" class="nav-link" data-scroll-target="#managing-the-group-learning-process">Managing the group learning process</a></li>
+  <li><a href="#zone-of-proximal-development-1" id="toc-zone-of-proximal-development-1" class="nav-link" data-scroll-target="#zone-of-proximal-development-1">Zone of Proximal Development</a></li>
+  <li><a href="#scaffolding-1" id="toc-scaffolding-1" class="nav-link" data-scroll-target="#scaffolding-1">Scaffolding</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -464,7 +511,7 @@ Learning Activity: Read and Reflect
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Learning Activity
+Learning Activity: Read and Reflect
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -721,136 +768,242 @@ Checking Your Learning
 </ul>
 </div>
 </div>
-<!-- ## Facilitation Notes {.unnumbered}
+<p>## Facilitation Notes {.unnumbered}</p>
+<section id="facilitating-group-learning" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="facilitating-group-learning">Facilitating Group Learning</h4>
+</section>
+<section id="facilitation-session" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="facilitation-session">Facilitation Session</h4>
+<p>See the ‘Assessment’ page for details.</p>
+</section>
+<section id="two-similar-but-different-teaching-presence-roles" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="two-similar-but-different-teaching-presence-roles">Two Similar, but Different “Teaching Presence” Roles</h4>
+<ul>
+<li>Facilitator: Guiding the coordination of a group’s collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.</li>
+<li>Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.</li>
+</ul>
+</section>
+<section id="facilitation-competencies" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="facilitation-competencies">Facilitation Competencies</h4>
+<ul>
+<li>Create cooperative working relationships with the group</li>
+<li>Determining group needs and designing group sessions</li>
+<li>Managing group processes</li>
+<li>Selecting appropriate group learning methods and learning processes</li>
+<li>Preparing time and space to support group learning</li>
+<li>Creating and sustaining a supportive and participatory group learning environment</li>
+<li>Demonstrating effective communication</li>
+<li>Insuring inclusiveness</li>
+<li>Managing conflict</li>
+<li>Encouraging creativity</li>
+<li>Guiding group to consensus and desired learning outcome</li>
+</ul>
+</section>
+<section id="facilitation-process" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="facilitation-process">Facilitation Process</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figcaption>Facilitation Process</figcaption>
+<p><img src="assets/presentations/facilitation/fac-process.drawio.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<section id="open" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="open">Open</h5>
+<ul>
+<li>Orient the group</li>
+<li>Set the stage</li>
+<li>Develop themes</li>
+</ul>
+</section>
+<section id="explore" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="explore">Explore</h5>
+<ul>
+<li>Examine</li>
+<li>Explore</li>
+<li>Problem-solve</li>
+</ul>
+</section>
+<section id="close" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="close">Close</h5>
+<ul>
+<li>Plan</li>
+<li>Decide</li>
+<li>Conclude</li>
+</ul>
+</section>
+</section>
+<section id="facilitating-the-process-of-prescribed-learning" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="facilitating-the-process-of-prescribed-learning">Facilitating the Process of Prescribed Learning</h4>
+<p><span class="math display">\[\text{Current Status}\Longrightarrow \Longrightarrow \Longrightarrow \Longrightarrow \text{Specific Goal}\]</span></p>
+</section>
+<section id="facilitating-the-process-of-inquiry-rich-learning" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="facilitating-the-process-of-inquiry-rich-learning">Facilitating the Process of Inquiry-rich Learning</h4>
+<p><span class="math display">\[\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\looparrowright\Updownarrow\rightrightarrows\text{Fuzzy Goal}\]</span></p>
+</section>
+<section id="managing-group-dynamics" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="managing-group-dynamics">Managing Group Dynamics</h4>
+</section>
+<section id="cohesion-factors-that-cultivate-predictable-trust" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="cohesion-factors-that-cultivate-predictable-trust">Cohesion Factors that Cultivate (Predictable) Trust</h4>
+<ul>
+<li>Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.</li>
+<li>Stability. The longer a group stays together, the more cohesive it becomes.</li>
+<li>Size. Smaller groups tend to have higher cohesion.</li>
+<li>Support. Coaching and encouragement to support other members strengthens the group’s identity.</li>
+<li>Satisfaction. How pleased group members are with each other’s performance, behaviour, and conformity to group norms increases cohesion.</li>
+</ul>
+</section>
+<section id="social-loafing" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="social-loafing">Social Loafing</h4>
+<ul>
+<li>There is a tendency of individuals to put in less effort when working in a group context.</li>
+<li>As group size grows, this effect becomes larger.</li>
+</ul>
+</section>
+<section id="how-do-learning-groups-develop-over-time" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="how-do-learning-groups-develop-over-time">How do learning groups develop over time?</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figcaption>Tuckman’s Stages of Group Performance</figcaption>
+<p><img src="assets/presentations/facilitation/tuckman.drawio.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<ul>
+<li>Forming: Learning group members get to know one another, exchange personal information, and establish new relationships.</li>
+<li>Storming: Learning group members open up to each other and confront each other’s ideas and perspectives.</li>
+<li>Norming: Learning group members achieve a consensus about goals, definition of roles, and clear coordination of effort.</li>
+<li>Performing: The learning group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external supervision.</li>
+<li>Adjourning: admittedly a strained rhyme, but the idea, which is not in Tuckman’s original model, is that the group will eventually disband, and it is important to finish well, gather data on the process, and carry forward lessons learned.</li>
+</ul>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Learning Activity
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong><em>The life of learning groups is dynamic and cyclical.</em></strong></p>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figcaption>Tuckman and Jensen’s Stages of Group Performance</figcaption>
+<p><img src="assets/presentations/facilitation/tuckman-jensen.drawio.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="tpr-life-cycle-model-white-2009" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="tpr-life-cycle-model-white-2009">TPR Life-cycle Model (White, 2009)</h4>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Tuckman Model</th>
+<th>TPR Model</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Forming</td>
+<td>Transforming</td>
+</tr>
+<tr class="even">
+<td>Storming</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Norming</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Performing</td>
+<td>Performing</td>
+</tr>
+<tr class="odd">
+<td>Adjourning</td>
+<td>Reforming</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 62%">
+<col style="width: 37%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Developmental Phase (White, 2009)</th>
+<th>Coaching and Facilitation Guidelines</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><strong>Transforming</strong> (Me to We)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><em>Forming</em> <br> (Unwilling/unable)</td>
+<td>Clear goals, <strong>directions</strong>, fairness, firmness <br> (Why: overcoming denial of the new reality)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><em>Storming</em> <br> (Willing/unable)</td>
+<td>As above, plus <strong>encouraging participation</strong>, calmness, recognition of concerns <br> (Why: overcoming defence of the old reality)</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><em>Norming</em> <br> (Unwilling/able)</td>
+<td>Encouraging, <strong>confidence building</strong>, clear goals, holding accountable <br> (Why: helping discard the old reality)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>Performing</strong> <br> (Willing/able)</td>
+<td>Clear goal setting, monitoring, strategic preparation, seeking innovative approaches, <strong>empowering team members</strong> <br> (Why: helping make new adaptations)</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>Reforming</strong> <br> (Disengaging)</td>
+<td><strong>Establishing new goals</strong>, solving confusion, managing risks <br> (Why: challenging the new comfort zone)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="learning-group-experience-punctuated-equilibrium" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="learning-group-experience-punctuated-equilibrium">Learning Group Experience Punctuated Equilibrium</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figcaption>Learning Group Experience Punctuated Equilibrium</figcaption>
+<p><img src="assets/presentations/facilitation/pe.drawio.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="managing-the-group-learning-process" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="managing-the-group-learning-process">Managing the group learning process</h4>
+<p>Working with Creative Tension in Teams</p>
+<ol type="1">
+<li>be clear about the results the team wants to create (vision as important as group dynamics reality);</li>
+<li>understand the underlying structural dynamics that influence the team’s ability to create;</li>
+<li>work on changing those underlying structures in order to bring the current reality in line with the desired outcome.</li>
+</ol>
+</section>
+<section id="zone-of-proximal-development-1" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="zone-of-proximal-development-1">Zone of Proximal Development</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figcaption>Zone of Proximal Development</figcaption>
+<p><img src="assets/presentations/facilitation/zpd.drawio.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figcaption>Zone of Proximal Development</figcaption>
+<p><img src="assets/presentations/facilitation/zpd2.drawio.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="scaffolding-1" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="scaffolding-1">Scaffolding</h4>
 
-#### Facilitating Group Learning {.unnumbered}
 
-#### Facilitation Session {.unnumbered}
-
-See the 'Assessment' page for details.
-
-#### Two Similar, but Different "Teaching Presence" Roles {.unnumbered}
-
-- Facilitator: Guiding the coordination of a group's collaboration and managing its learning process. The focus of this role is on directly helping the group to improve its functioning in achieving a set outcome.
-- Coach: Helping individual learners to take responsibility to grow as individuals and also as a learning community, increase their awareness, and establish their own individual and cooperative goals, norms, and learning processes. The focus of this role is on helping learners to learn how to learn, individually and also as a group.
-
-#### Facilitation Competencies {.unnumbered}
-- Create cooperative working relationships with the group
-- Determining group needs and designing group sessions
-- Managing group processes
-- Selecting appropriate group learning methods and learning processes
-- Preparing time and space to support group learning
-- Creating and sustaining a supportive and participatory group learning environment
-- Demonstrating effective communication
-- Insuring inclusiveness
-- Managing conflict
-- Encouraging creativity
-- Guiding group to consensus and desired learning outcome
-
-#### Facilitation Process {.unnumbered}
-
-![Facilitation Process](assets/presentations/facilitation/fac-process.drawio.png)
-
-##### Open {.unnumbered}
-
-* Orient the group
-* Set the stage
-* Develop themes
-
-##### Explore {.unnumbered}
-
-* Examine
-* Explore
-* Problem-solve
-
-##### Close {.unnumbered}
-
-* Plan
-* Decide
-* Conclude
-
-#### Facilitating the Process of Prescribed Learning {.unnumbered}
-
-$$\text{Current Status}\Longrightarrow \Longrightarrow \Longrightarrow \Longrightarrow \text{Specific Goal}$$ 
-
-#### Facilitating the Process of Inquiry-rich Learning {.unnumbered}
-
-$$\text{Current Status} \curvearrowright \rightsquigarrow\nearrow\searrow\looparrowright\Updownarrow\rightrightarrows\text{Fuzzy Goal}$$ 
-
-#### Managing Group Dynamics {.unnumbered}
-
-#### Cohesion Factors that Cultivate (Predictable) Trust {.unnumbered}
-
-- Similarity. The more similar members are in terms of age, sex, education, skills, attitudes, values, and beliefs, the more likely the group will bond.
-- Stability. The longer a group stays together, the more cohesive it becomes.
-- Size. Smaller groups tend to have higher cohesion.
-- Support. Coaching and encouragement to support other members strengthens the group's identity.
-- Satisfaction. How pleased group members are with each other's performance, behaviour, and conformity to group norms increases cohesion.
-
-#### Social Loafing {.unnumbered}
-
-- There is a tendency of individuals to put in less effort when working in a group context.
-- As group size grows, this effect becomes larger.
-
-#### How do learning groups develop over time? {.unnumbered}
-
-![Tuckman's Stages of Group Performance](assets/presentations/facilitation/tuckman.drawio.png)
-
-- Forming: Learning group members get to know one another, exchange personal information, and establish new relationships.
-- Storming: Learning group members open up to each other and confront each other's ideas and perspectives.
-- Norming: Learning group members achieve a consensus about goals, definition of roles, and clear coordination of effort.
-- Performing: The learning group is able to function as a unit as they find ways to get the job done smoothly and effectively without inappropriate conflict or the need for external supervision.
-- Adjourning: admittedly a strained rhyme, but the idea, which is not in Tuckman's original model, is that the group will eventually disband, and it is important to finish well, gather data on the process, and carry forward lessons learned.  
-
-
-::: {.learning-activity}
-***The life of learning groups is dynamic and cyclical.***
-
-:::
-
-![Tuckman and Jensen's Stages of Group Performance](assets/presentations/facilitation/tuckman-jensen.drawio.png)
-
-#### TPR Life-cycle Model (White, 2009) {.unnumbered}
-
-| Tuckman Model | TPR Model |
-|  ---  |  ---  |
-|Forming|    Transforming   |
-|  Storming     |   -    |
-|    Norming   |    -   |
-|   Performing    |  Performing     |
-|    Adjourning   |  Reforming     |
-
-
-|  Developmental Phase  (White, 2009)   |  Coaching and Facilitation Guidelines     |
-|  :---:  |  ---  |
-|  **Transforming** (Me to We)     |       |
-|    *Forming* <br> (Unwilling/unable)   |  Clear goals, **directions**, fairness, firmness <br> (Why: overcoming denial of the new reality)     |
-|  *Storming* <br> (Willing/unable)     |   As above, plus **encouraging participation**, calmness, recognition of concerns <br> (Why: overcoming defence of the old reality)    |
-|  *Norming* <br> (Unwilling/able)     |  Encouraging, **confidence building**, clear goals, holding accountable <br> (Why: helping discard the old reality)     |
-|   **Performing** <br> (Willing/able)    |  Clear goal setting, monitoring, strategic preparation, seeking innovative approaches, **empowering team members** <br> (Why: helping make new adaptations)     |
-|  **Reforming** <br> (Disengaging)     |  **Establishing new goals**, solving confusion, managing risks <br> (Why: challenging the new comfort zone)     |
-
-#### Learning Group Experience Punctuated Equilibrium {.unnumbered}
-
-![Learning Group Experience Punctuated Equilibrium](assets/presentations/facilitation/pe.drawio.png)
-
-#### Managing the group learning process {.unnumbered}
-
-Working with Creative Tension in Teams
-
-1. be clear about the results the team wants to create (vision as important as group dynamics reality);
-2. understand the underlying structural dynamics that influence the team's ability to create;
-3. work on changing those underlying structures in order to bring the current reality in line with the desired outcome.
-
-#### Zone of Proximal Development {.unnumbered}
-
-![Zone of Proximal Development](assets/presentations/facilitation/zpd.drawio.png)
-
-![Zone of Proximal Development](assets/presentations/facilitation/zpd2.drawio.png)
-
-#### Scaffolding {.unnumbered} -->
-
-
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -1287,7 +1440,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","descPosition":"top","openEffect":"zoom","loop":false});
+<script>var lightboxQuarto = GLightbox({"loop":false,"openEffect":"zoom","closeEffect":"zoom","selector":".lightbox","descPosition":"top"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
