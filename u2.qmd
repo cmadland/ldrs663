@@ -187,7 +187,7 @@ The work of facilitating the learning process within a group setting begins with
 
 ### Activity: Exploring the Role of the Facilitator {.unnumbered}
 
-::: {.learning-activity}
+::: {.learning-activity title="Read and Reflect"}
 
 Read the following article [_Facilitating Learning and Change in Groups and Group Sessions_](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/) (_Infed.Org_, n.d.).
 
@@ -362,7 +362,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 :::
 
-<!-- ## Facilitation Notes {.unnumbered}
+ ## Facilitation Notes {.unnumbered}
 
 #### Facilitating Group Learning {.unnumbered}
 
@@ -489,4 +489,4 @@ Working with Creative Tension in Teams
 
 ![Zone of Proximal Development](assets/presentations/facilitation/zpd2.drawio.png)
 
-#### Scaffolding {.unnumbered} -->
+#### Scaffolding {.unnumbered} 
