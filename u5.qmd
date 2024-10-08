@@ -1,3 +1,51 @@
 # Technology-Integrated Assessment
 
-Stay Tuned...
+## Overview {.unnumbered}
+
+In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner's knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency.
+
+### Topics {.unnumbered}
+This unit is divided into the following topics:
+1. What is educational assessment?
+3. What is a grade?
+4. How does technology impact assessment?
+
+
+
+
+### Unit Learning Outcomes {.unnumbered}
+When you have completed this unit, you will be able to:
+- Evaluate the quality of feedback in light of evidence-based research
+- Evaluate interactions in a learning environment and develop strategies for high quality educative interactions
+
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+- Read, annotate, and tag Bower, M. (2019). Technology‐mediated learning theory. British Journal of Educational Technology, 50(3), 1035–1048. https://doi.org/10.1111/bjet.12771
+
+
+::: {.note icon="true"}
+
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
+
+:::
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
+
+### Resources {.unnumbered}
+Here are the resources you will need to complete this unit:
+
+## Unit Summary {.unnumbered}
+
+
+::: check
+
+Before you move on to the next unit, you may want to check that you are able to:
+
+- Analyze the characteristics of the Community of Inquiry model.
+- Evaluate different modes of interaction.
+- Criticize the Interaction Equivalency Theorem.
+
+:::

@@ -246,7 +246,6 @@ Each stage of group development requires the facilitator to employ variations in
 | Norming<br> (Unwilling and able) | Encouraging, **confidence building**, clear goals, holding accountable. <br> *(Why? Helping discard the old reality.)*
 | Performing<br> (Willing and able) | Clear goal setting, monitoring, sptrategic preparation, seeking innovative approaches, **empowering team members**. <br> *(Why? Helping make new adaptations.)* |
 | Reforming <br>(Disengaging) | **Establishing new goals**, solving confusion, managing risks. <br> *(Why? Challenging the new comfort zone.)* |
-
 : Table 2.1 Facilitation Approaches for Different Phases of Group Development  {tbl-colwidths="[30,70]"}
 
 
