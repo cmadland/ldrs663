@@ -219,9 +219,16 @@ Working with another student (in your pod), you will each coach each other throu
 
 <!--
 ## Rich Description of Coaching and Facilitation {.unnumbered}
+-->
+## Data Analysis
 
-## 
+Using your learning reflections, your experiences as coaches and facilitators in this course or outside of it, your concept map and literature review as your foundation, answer the ‘SO WHAT?’ portion of the W3 process. You might want to use a general qualitative coding procedure to help understand your data. I also encourage you to assist your peers by coding their posts. This phase of your project should result in a clear and rich picture of your coaching and facilitation experiences. Quote liberally from your learning reflections. It is critical in this phase to be clear about what sense you make from your data. You are answering the question ‘What does this all mean for me?’  
 
+## Synthesis and Conclusions 
+
+In this final phase, you will work closely with your learning pod to answer the ‘NOW WHAT?’ question. Looking forward to your life and career or vocation, how will your new knowledge impact your way of being in the world? How could your new knowledge impact others’ ways of being in the world in relation to coaching and facilitation? What are the implications of your analysis. Be sure to express that your conclusions are not generalizable. The result of this phase will be a cohesive paper following the tradition of Collaborative Autoethnography. 
+
+<!--
 ## Facilitation Resource Project  {.unnumbered}
 
 Working as a learning pod, you will create a guide to serve as a resource for you and others to facilitate a particular course of study. We can't emphasize enough how important it will be for you to have analyzed, critiqued, and integrated into your practice the model of coaching and facilitation in real-world settings.  As you may be facilitating learning experiences in subjects where you may not have significant domain knowledge, it will be critical for you to be able to lead students through thinking and learning processes that will lead to them discovering what they need to know from the expertly prepared course materials in order to help solve their questions.

@@ -5,7 +5,9 @@
 In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner's knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when inforamtion about how to close that gap is identified and the learner has the opportunity to improve their performance.
 
 ### Topics {.unnumbered}
+
 This unit is divided into the following topics:
+
 1. How does technology impact assessment?
 2. Feedback Loops and Spirals
 
@@ -13,15 +15,18 @@ This unit is divided into the following topics:
 
 
 ### Unit Learning Outcomes {.unnumbered}
+
 When you have completed this unit, you will be able to:
+
 - Evaluate the quality of feedback in light of evidence-based research
 - Evaluate interactions in a learning environment and develop strategies for high quality educative interactions
 
 ### Learning Activities {.unnumbered}
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
-- Read, annotate, and tag 
-  - Bower, M. (2019). Technology‐mediated learning theory. *British Journal of Educational Technology, 50*(3), 1035–1048. https://doi.org/10.1111/bjet.12771
-  - Carless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. *Assessment & Evaluation in Higher Education, 44*(5), 705–714. https://doi.org/10.1080/02602938.2018.1531108
+
+- Read, annotate, and tag   
+  - Bower, M. (2019). [Technology‐mediated learning theory.](https://doi.org/10.1111/bjet.12771) *British Journal of Educational Technology, 50*(3), 1035–1048. 
+  - Carless, D. (2019). [Feedback loops and the longer-term: Towards feedback spirals.](https://doi.org/10.1080/02602938.2018.1531108) *Assessment & Evaluation in Higher Education, 44*(5), 705–714.   
 
 
